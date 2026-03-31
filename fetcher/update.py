@@ -29,32 +29,75 @@ OUTPUT = ROOT / "data.json"
 
 # ── Feed Sources ──────────────────────────────────────────────────────────────
 # (id, display_name, rss_url, layer_hint)
+#
+# Layer guide:
+#   l0 = 领袖观点  — industry leader opinions, prominent researcher essays
+#   l1 = 算力硬件  — chips, hardware, compute infrastructure
+#   l2 = 基础模型  — foundation model releases, training, benchmarks, papers
+#   l3 = 推理工程  — inference, serving, MLOps, deployment engineering
+#   l4 = 交互Agent — consumer AI products, agents, user-facing apps
+#   l5 = 生态商业  — funding, enterprise, policy, business strategy
+
 FEEDS = [
-    # Company Blogs
-    ("openai",        "OpenAI Blog",          "https://openai.com/blog/rss.xml",                                           "l2"),
-    ("anthropic",     "Anthropic",            "https://www.anthropic.com/rss.xml",                                         "l2"),
-    ("google_ai",     "Google AI Blog",       "https://blog.google/rss/",                                                  "l2"),
-    ("deepmind",      "Google DeepMind",      "https://deepmind.google/feed.xml",                                          "l2"),
-    ("meta_ai",       "Meta Engineering",     "https://engineering.fb.com/feed/",                                          "l2"),
-    ("nvidia",        "NVIDIA Blog",          "https://blogs.nvidia.com/feed/",                                            "l1"),
-    # Tech Media
-    ("mit_review",    "MIT Tech Review",      "https://www.technologyreview.com/topic/artificial-intelligence/feed/",      "l5"),
-    ("verge_ai",      "The Verge",            "https://www.theverge.com/rss/index.xml",                                    "l4"),
-    ("techcrunch_ai", "TechCrunch",           "https://techcrunch.com/category/artificial-intelligence/feed/",             "l5"),
-    ("ars_technica",  "Ars Technica",         "https://feeds.arstechnica.com/arstechnica/technology-lab",                  "l1"),
-    ("wired_ai",      "Wired",                "https://www.wired.com/feed/tag/ai/latest/rss",                              "l5"),
-    ("404_media",     "404 Media",            "https://www.404media.co/rss/",                                              "l5"),
-    # Papers & Research
-    ("hf_papers",     "HuggingFace Papers",   "https://huggingface.co/papers/rss.xml",                                     "l2"),
-    # Industry Newsletters (all Substack)
-    ("import_ai",     "Import AI",            "https://importai.substack.com/feed",                                        "l0"),
-    ("bens_bites",    "Ben's Bites",          "https://www.bensbites.com/feed",                                            "l5"),
-    ("latent_space",  "Latent Space",         "https://www.latent.space/feed",                                             "l3"),
-    ("interconnects", "Interconnects",        "https://www.interconnects.ai/feed",                                         "l3"),
-    ("ai_snake_oil",  "AI Snake Oil",         "https://aisnakeoil.substack.com/feed",                                      "l0"),
-    ("one_useful",    "One Useful Thing",     "https://www.oneusefulthing.org/feed",                                       "l0"),
-    # Independent Blogs
-    ("simon_willison","Simon Willison",       "https://simonwillison.net/atom/everything/",                                 "l3"),
+    # ── L0 领袖观点: 行业领袖 + 独立研究者 ─────────────────────────────────────
+    # Original: Jack Clark, Ethan Mollick, Arvind Narayanan
+    ("import_ai",     "Import AI",            "https://importai.substack.com/feed",                "l0"),
+    ("one_useful",    "One Useful Thing",     "https://www.oneusefulthing.org/feed",               "l0"),
+    ("ai_snake_oil",  "AI Snake Oil",         "https://aisnakeoil.substack.com/feed",              "l0"),
+    # Extended: same tier — researchers/practitioners with independent platforms
+    ("gary_marcus",   "Gary Marcus",          "https://garymarcus.substack.com/feed",              "l0"),
+    ("chollet",       "François Chollet",     "https://fchollet.substack.com/feed",                "l0"),
+    ("karpathy",      "Andrej Karpathy",      "https://karpathy.bearblog.dev/feed/",               "l0"),
+    ("lilian_weng",   "Lilian Weng",          "https://lilianweng.github.io/index.xml",            "l0"),
+    ("the_gradient",  "The Gradient",         "https://thegradient.pub/rss/",                      "l0"),
+
+    # ── L1 算力硬件: 芯片 + 算力基础设施 ─────────────────────────────────────
+    # Original: NVIDIA Blog, Ars Technica
+    ("nvidia",        "NVIDIA Blog",          "https://blogs.nvidia.com/feed/",                    "l1"),
+    ("ars_technica",  "Ars Technica",         "https://feeds.arstechnica.com/arstechnica/technology-lab", "l1"),
+    # Extended: specialized chip/hardware analysis
+    ("semianalysis",  "SemiAnalysis",         "https://www.semianalysis.com/feed",                 "l1"),
+    ("chip_letter",   "The Chip Letter",      "https://thechipletter.substack.com/feed",           "l1"),
+    ("ieee_spectrum", "IEEE Spectrum",        "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss", "l1"),
+    ("toms_hardware", "Tom's Hardware",       "https://www.tomshardware.com/feeds/all",            "l1"),
+
+    # ── L2 基础模型: 模型公司 + 论文 ─────────────────────────────────────────
+    # Original: OpenAI, Google AI, Meta Engineering, HuggingFace Papers
+    ("openai",        "OpenAI Blog",          "https://openai.com/blog/rss.xml",                   "l2"),
+    ("anthropic",     "Anthropic",            "https://www.anthropic.com/rss.xml",                 "l2"),
+    ("google_ai",     "Google AI Blog",       "https://blog.google/rss/",                          "l2"),
+    ("deepmind",      "Google DeepMind",      "https://deepmind.google/feed.xml",                  "l2"),
+    ("meta_ai",       "Meta Engineering",     "https://engineering.fb.com/feed/",                  "l2"),
+    ("hf_papers",     "HuggingFace Papers",   "https://huggingface.co/papers/rss.xml",             "l2"),
+    # Extended: other frontier model labs + research paper streams
+    ("cohere",        "Cohere Blog",          "https://cohere.com/blog/rss",                       "l2"),
+    ("arxiv_lg",      "arXiv cs.LG",          "https://arxiv.org/rss/cs.LG",                      "l2"),
+    ("arxiv_ai",      "arXiv cs.AI",          "https://arxiv.org/rss/cs.AI",                      "l2"),
+
+    # ── L3 推理工程: 推理 + MLOps + 部署工程 ─────────────────────────────────
+    # Original: Latent Space, Interconnects, Simon Willison
+    ("latent_space",  "Latent Space",         "https://www.latent.space/feed",                     "l3"),
+    ("interconnects", "Interconnects",        "https://www.interconnects.ai/feed",                 "l3"),
+    ("simon_willison","Simon Willison",       "https://simonwillison.net/atom/everything/",        "l3"),
+    # Extended: ML engineering depth — deployment, optimization, systems
+    ("chip_huyen",    "Chip Huyen",           "https://huyenchip.com/feed.xml",                   "l3"),
+    ("ahead_of_ai",   "Ahead of AI",          "https://magazine.sebastianraschka.com/feed",       "l3"),
+
+    # ── L4 交互Agent: 产品 + Agent + 消费级应用 ──────────────────────────────
+    # Original: The Verge, TechCrunch, 404 Media
+    ("verge_ai",      "The Verge",            "https://www.theverge.com/rss/index.xml",            "l4"),
+    ("techcrunch_ai", "TechCrunch AI",        "https://techcrunch.com/category/artificial-intelligence/feed/", "l4"),
+    ("404_media",     "404 Media",            "https://www.404media.co/rss/",                      "l4"),
+    # Extended: VC product perspective + broader tech product coverage
+    ("venturebeat",   "VentureBeat AI",       "https://venturebeat.com/category/ai/feed/",         "l4"),
+
+    # ── L5 生态商业: 融资 + 企业 + 政策 + 市场 ──────────────────────────────
+    # Original: Ben's Bites, MIT Tech Review
+    ("bens_bites",    "Ben's Bites",          "https://www.bensbites.com/feed",                    "l5"),
+    ("mit_review",    "MIT Tech Review",      "https://www.technologyreview.com/topic/artificial-intelligence/feed/", "l5"),
+    # Extended: business strategy, VC, policy, enterprise AI
+    ("a16z",          "a16z",                 "https://a16z.com/tag/ai/feed/",                     "l5"),
+    ("wired_ai",      "Wired",                "https://www.wired.com/feed/tag/ai/latest/rss",      "l5"),
 ]
 
 # ── AI Relevance Keywords ─────────────────────────────────────────────────────
@@ -75,18 +118,28 @@ AI_KEYWORDS = [
 # ── Layer Classification Keywords ─────────────────────────────────────────────
 LAYER_KEYWORDS = {
     "l0": [
-        "ceo", "founder", "keynote", "opinion", "interview", "vision",
-        "jensen huang", "sam altman", "demis hassabis", "karpathy",
-        "yann lecun", "geoffrey hinton", "prediction", "future of ai",
-        "agi", "philosophy", "essay", "thoughts on", "letter to",
-        "jack clark", "nathan lambert", "ethan mollick",
+        # Named leaders (original)
+        "jensen huang", "sam altman", "demis hassabis", "karpathy", "andrej karpathy",
+        "yann lecun", "geoffrey hinton", "jack clark", "nathan lambert", "ethan mollick",
+        "arvind narayanan", "gary marcus", "francois chollet", "lilian weng",
+        "dario amodei", "ilya sutskever", "greg brockman", "fei-fei li",
+        # Content signals
+        "ceo", "founder", "keynote", "opinion", "interview", "vision", "perspective",
+        "prediction", "future of ai", "agi", "philosophy", "essay", "thoughts on",
+        "i believe", "my take", "open letter", "manifesto", "reflection",
+        "what i learned", "lessons from", "why i", "the real reason",
     ],
     "l1": [
+        # Named companies/products (original + extended)
+        "nvidia", "amd", "intel", "qualcomm", "apple silicon", "tsmc", "samsung",
+        "blackwell", "hopper", "grace", "hbm3", "hbm4", "mi300", "mi350",
+        "tpu v5", "trainium", "gaudi", "groq", "cerebras",
+        # Content signals
         "gpu", "chip", "hardware", "tpu", "silicon", "semiconductor",
-        "nvidia", "amd", "intel", "qualcomm", "apple silicon", "m4",
-        "blackwell", "hopper", "hbm", "memory bandwidth", "flops",
-        "datacenter", "server", "power consumption", "cooling",
-        "wafer", "fab", "tsmc", "samsung foundry", "cluster",
+        "flops", "petaflops", "memory bandwidth", "interconnect", "nvlink",
+        "datacenter", "power consumption", "cooling", "liquid cooling",
+        "wafer", "fab", "3nm", "2nm", "packaging", "hbm",
+        "compute cluster", "ai factory", "inference chip",
     ],
     "l2": [
         "model release", "gpt-", "claude ", "gemini ", "llama ",
