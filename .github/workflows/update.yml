@@ -1,0 +1,35 @@
+name: Update AI Feed Data
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours: 00:00, 06:00, 12:00, 18:00 UTC
+  workflow_dispatch:          # manual trigger from GitHub Actions tab
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python dependencies
+        run: pip install -r fetcher/requirements.txt
+
+      - name: Fetch feeds and generate data.json
+        run: python fetcher/update.py
+
+      - name: Install Surge CLI
+        run: npm install -g surge
+
+      - name: Deploy to Surge
+        env:
+          SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
+          SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
+        run: |
+          surge . signal-ai-pulse.surge.sh

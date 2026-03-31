@@ -1,0 +1,1031 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SIGNAL.AI — AI技术全景情报站</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=Space+Mono:wght@400;700&family=Manrope:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg:    #05070f;
+      --bg-2:  #0a0e1a;
+      --bg-3:  #101624;
+      --bg-4:  #141c2e;
+      --bd:    #182033;
+      --bd-b:  #243450;
+      --text:  #dde8f5;
+      --t2:    #6a88a8;
+      --t3:    #2e4460;
+      /* layer palette */
+      --l0: #ffd700;  --l0a: rgba(255,215,0,.1);
+      --l1: #38bdf8;  --l1a: rgba(56,189,248,.1);
+      --l2: #3dffa8;  --l2a: rgba(61,255,168,.1);
+      --l3: #c084fc;  --l3a: rgba(192,132,252,.1);
+      --l4: #fb7185;  --l4a: rgba(251,113,133,.1);
+      --l5: #fb923c;  --l5a: rgba(251,146,60,.1);
+      --red:#ff4455;
+    }
+    *,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+    html{scroll-behavior:smooth}
+    body{background:var(--bg);color:var(--text);font-family:'Manrope',sans-serif;min-height:100vh;overflow-x:hidden}
+    body::before{content:'';position:fixed;inset:0;background-image:linear-gradient(rgba(61,255,168,.02) 1px,transparent 1px),linear-gradient(90deg,rgba(61,255,168,.02) 1px,transparent 1px);background-size:48px 48px;pointer-events:none;z-index:0}
+    body>*{position:relative;z-index:1}
+
+    /* ── HEADER ── */
+    header{position:sticky;top:0;z-index:200;height:56px;background:rgba(5,7,15,.95);backdrop-filter:blur(20px);border-bottom:1px solid var(--bd);padding:0 32px;display:flex;align-items:center;gap:0}
+    .logo{font-family:'Syne',sans-serif;font-size:17px;font-weight:800;color:var(--text);display:flex;align-items:center;gap:8px;margin-right:32px;text-decoration:none;flex-shrink:0}
+    .logo-mark{width:26px;height:26px;border-radius:6px;background:var(--l2);display:flex;align-items:center;justify-content:center}
+    .logo-inner{width:9px;height:9px;border-radius:50%;background:#05070f;animation:lpulse 2.4s ease-in-out infinite}
+    @keyframes lpulse{0%,100%{transform:scale(1)}50%{transform:scale(.8)}}
+    nav{display:flex;flex:1;overflow-x:auto;scrollbar-width:none}
+    nav::-webkit-scrollbar{display:none}
+    nav a{font-family:'Space Mono',monospace;font-size:9.5px;font-weight:700;text-transform:uppercase;letter-spacing:1.2px;color:var(--t2);text-decoration:none;padding:0 14px;height:56px;display:flex;align-items:center;border-bottom:2px solid transparent;transition:color .2s,border-color .2s;white-space:nowrap;flex-shrink:0}
+    nav a:hover{color:var(--text)}
+    nav a.active{border-bottom-color:currentColor}
+    nav a.nl0.active{color:var(--l0)}
+    nav a.nl1.active{color:var(--l1)}
+    nav a.nl2.active{color:var(--l2)}
+    nav a.nl3.active{color:var(--l3)}
+    nav a.nl4.active{color:var(--l4)}
+    nav a.nl5.active{color:var(--l5)}
+    nav a.nl-all.active{color:var(--l2)}
+    .header-end{display:flex;align-items:center;gap:16px;flex-shrink:0;margin-left:12px}
+    .live-chip{display:flex;align-items:center;gap:6px;border:1px solid rgba(255,68,85,.3);border-radius:4px;padding:4px 10px}
+    .live-dot{width:5px;height:5px;border-radius:50%;background:var(--red);animation:blink 1.2s infinite}
+    @keyframes blink{0%,100%{opacity:1}50%{opacity:.3}}
+    .live-label{font-family:'Space Mono',monospace;font-size:9px;font-weight:700;color:var(--red);text-transform:uppercase;letter-spacing:1.5px}
+    .hdate{font-family:'Space Mono',monospace;font-size:10px;color:var(--t3)}
+
+    /* ── TICKER ── */
+    .ticker-bar{height:36px;background:var(--bg-2);border-bottom:1px solid var(--bd);display:flex;overflow:hidden}
+    .ticker-badge{flex-shrink:0;height:100%;background:var(--l2);color:#05070f;font-family:'Space Mono',monospace;font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:2px;padding:0 16px;display:flex;align-items:center;gap:5px}
+    .ticker-wrap{flex:1;overflow:hidden}
+    .ticker-scroll{display:flex;animation:scroll-x 60s linear infinite;white-space:nowrap}
+    .ticker-scroll:hover{animation-play-state:paused}
+    @keyframes scroll-x{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
+    .ticker-item{display:inline-flex;align-items:center;gap:7px;padding:0 24px;height:36px;font-size:12px;color:var(--t2);border-right:1px solid var(--bd);flex-shrink:0}
+    .t-tag{font-family:'Space Mono',monospace;font-size:8px;letter-spacing:1px;padding:2px 6px;border-radius:2px;font-weight:700}
+
+    /* ── MAIN ── */
+    main{max-width:1400px;margin:0 auto;padding:36px 32px 100px}
+
+    /* Page intro */
+    .page-intro{display:flex;align-items:flex-end;justify-content:space-between;margin-bottom:40px}
+    .page-title{font-family:'Syne',sans-serif;font-size:48px;font-weight:800;line-height:1;letter-spacing:-2px}
+    .page-title em{font-style:normal;color:var(--l2)}
+    .page-tag{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);text-transform:uppercase;letter-spacing:3px;margin-top:8px}
+    .page-stat{text-align:right}
+    .stat-val{font-family:'Space Mono',monospace;font-size:34px;font-weight:700;color:var(--l2);line-height:1}
+    .stat-lbl{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);letter-spacing:2px;text-transform:uppercase;margin-top:5px}
+
+    /* ── LAYER STACK ── */
+    .stack-wrap{margin-bottom:40px}
+    .stack-title-row{display:flex;align-items:center;gap:12px;margin-bottom:14px}
+    .stack-title-row h2{font-family:'Space Mono',monospace;font-size:10px;font-weight:700;color:var(--t2);text-transform:uppercase;letter-spacing:3px}
+    .stack-line{flex:1;height:1px;background:var(--bd)}
+
+    .layer-stack{display:flex;flex-direction:column;gap:2px;background:var(--bd)}
+    .layer-row{display:grid;grid-template-columns:120px 1fr 36px;align-items:center;gap:0;background:var(--bg-2);padding:0;cursor:pointer;transition:background .2s;border-left:3px solid transparent;text-decoration:none}
+    .layer-row:hover{background:var(--bg-3)}
+    .layer-row.l0{border-left-color:var(--l0)}
+    .layer-row.l1{border-left-color:var(--l1)}
+    .layer-row.l2{border-left-color:var(--l2)}
+    .layer-row.l3{border-left-color:var(--l3)}
+    .layer-row.l4{border-left-color:var(--l4)}
+    .layer-row.l5{border-left-color:var(--l5)}
+
+    .lr-label{padding:12px 16px;border-right:1px solid var(--bd)}
+    .lr-num{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);letter-spacing:1px;text-transform:uppercase;margin-bottom:2px}
+    .lr-name{font-family:'Syne',sans-serif;font-size:13px;font-weight:700;white-space:nowrap}
+    .layer-row.l0 .lr-name{color:var(--l0)}
+    .layer-row.l1 .lr-name{color:var(--l1)}
+    .layer-row.l2 .lr-name{color:var(--l2)}
+    .layer-row.l3 .lr-name{color:var(--l3)}
+    .layer-row.l4 .lr-name{color:var(--l4)}
+    .layer-row.l5 .lr-name{color:var(--l5)}
+
+    .lr-chips{padding:12px 16px;display:flex;flex-wrap:wrap;gap:6px}
+    .lr-chip{font-family:'Space Mono',monospace;font-size:9px;letter-spacing:.5px;padding:3px 8px;border-radius:3px;border:1px solid;white-space:nowrap}
+    .layer-row.l0 .lr-chip{color:var(--l0);border-color:rgba(255,215,0,.25);background:var(--l0a)}
+    .layer-row.l1 .lr-chip{color:var(--l1);border-color:rgba(56,189,248,.25);background:var(--l1a)}
+    .layer-row.l2 .lr-chip{color:var(--l2);border-color:rgba(61,255,168,.25);background:var(--l2a)}
+    .layer-row.l3 .lr-chip{color:var(--l3);border-color:rgba(192,132,252,.25);background:var(--l3a)}
+    .layer-row.l4 .lr-chip{color:var(--l4);border-color:rgba(251,113,133,.25);background:var(--l4a)}
+    .layer-row.l5 .lr-chip{color:var(--l5);border-color:rgba(251,146,60,.25);background:var(--l5a)}
+
+    .lr-arrow{font-size:14px;color:var(--t3);text-align:center;transition:transform .2s,color .2s}
+    .layer-row:hover .lr-arrow{transform:translateX(3px);color:var(--text)}
+
+    /* ── SECTION HEADER ── */
+    .sec-head{position:relative;margin-top:72px;margin-bottom:20px;padding:24px 28px 20px;background:var(--bg-2);border-top:3px solid var(--bd);overflow:hidden}
+    .sec-head::before{content:attr(data-ghost);position:absolute;right:20px;top:50%;transform:translateY(-50%);font-family:'Syne',sans-serif;font-size:96px;font-weight:800;line-height:1;opacity:.04;pointer-events:none;user-select:none}
+    /* layer color modifiers */
+    .sl0{border-top-color:var(--l0)}.sl0::before{color:var(--l0)}
+    .sl1{border-top-color:var(--l1)}.sl1::before{color:var(--l1)}
+    .sl2{border-top-color:var(--l2)}.sl2::before{color:var(--l2)}
+    .sl3{border-top-color:var(--l3)}.sl3::before{color:var(--l3)}
+    .sl4{border-top-color:var(--l4)}.sl4::before{color:var(--l4)}
+    .sl5{border-top-color:var(--l5)}.sl5::before{color:var(--l5)}
+    .sec-kicker{display:flex;align-items:center;gap:12px;margin-bottom:10px}
+    .sec-lnum{font-family:'Space Mono',monospace;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:3px;flex-shrink:0}
+    .sl0 .sec-lnum{color:var(--l0)}.sl1 .sec-lnum{color:var(--l1)}.sl2 .sec-lnum{color:var(--l2)}.sl3 .sec-lnum{color:var(--l3)}.sl4 .sec-lnum{color:var(--l4)}.sl5 .sec-lnum{color:var(--l5)}
+    .sec-kline{flex:1;height:1px;background:var(--bd)}
+    .sec-head h2{font-family:'Syne',sans-serif;font-size:34px;font-weight:800;letter-spacing:-1.5px;color:var(--text);margin-bottom:6px;line-height:1.1}
+    .sec-en{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);text-transform:uppercase;letter-spacing:1.8px}
+    .sec-more{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);text-decoration:none;text-transform:uppercase;letter-spacing:1px;transition:color .2s;flex-shrink:0}
+    .sec-more:hover{color:var(--l2)}
+    /* Sub-section headers */
+    .sec-head-sub{display:flex;align-items:center;gap:12px;margin-top:36px;margin-bottom:16px}
+    .sec-badge{font-family:'Space Mono',monospace;font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:1.5px;padding:3px 9px;border-radius:3px;flex-shrink:0}
+    .sec-head-sub h3{font-family:'Syne',sans-serif;font-size:16px;font-weight:700;color:var(--text)}
+    .sec-head-sub .sec-sub{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);text-transform:uppercase;letter-spacing:1.5px}
+    .sec-head-sub .sec-kline{flex:1;height:1px;background:var(--bd)}
+
+    /* layer badge colors */
+    .bl0{color:var(--l0);background:var(--l0a);border:1px solid rgba(255,215,0,.2)}
+    .bl1{color:var(--l1);background:var(--l1a);border:1px solid rgba(56,189,248,.2)}
+    .bl2{color:var(--l2);background:var(--l2a);border:1px solid rgba(61,255,168,.2)}
+    .bl3{color:var(--l3);background:var(--l3a);border:1px solid rgba(192,132,252,.2)}
+    .bl4{color:var(--l4);background:var(--l4a);border:1px solid rgba(251,113,133,.2)}
+    .bl5{color:var(--l5);background:var(--l5a);border:1px solid rgba(251,146,60,.2)}
+
+    /* ── HERO GRID ── */
+    .hero-grid{display:grid;grid-template-columns:1fr 360px;background:var(--bd);gap:1px;margin-bottom:1px}
+    .hero-main{background:var(--bg-2);padding:40px 40px 32px;cursor:pointer;transition:background .25s;position:relative;overflow:hidden;min-height:420px;display:flex;flex-direction:column}
+    .hero-main:hover{background:var(--bg-3)}
+    .hero-main::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,var(--l2),var(--l1),var(--l3))}
+    .ghost-txt{position:absolute;bottom:-20px;right:-12px;font-family:'Syne',sans-serif;font-size:160px;font-weight:800;color:rgba(255,255,255,.015);line-height:1;pointer-events:none;user-select:none}
+    .hero-cat{font-family:'Space Mono',monospace;font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:2.5px;color:var(--l2);display:flex;align-items:center;gap:10px;margin-bottom:20px}
+    .hero-cat::before{content:'';width:20px;height:1.5px;background:currentColor}
+    .hero-title{font-family:'Syne',sans-serif;font-size:30px;font-weight:800;line-height:1.2;letter-spacing:-.8px;color:var(--text);flex:1;margin-bottom:16px}
+    .hero-excerpt{font-size:13.5px;color:var(--t2);line-height:1.75;margin-bottom:24px}
+    .hero-meta{display:flex;align-items:center;gap:16px;border-top:1px solid var(--bd);padding-top:16px}
+    .meta-src{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);text-transform:uppercase;letter-spacing:.8px}
+    .meta-time{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3)}
+    .meta-heat{margin-left:auto;font-family:'Space Mono',monospace;font-size:11px;font-weight:700}
+    .hero-aside{background:var(--bd);display:flex;flex-direction:column;gap:1px}
+    .aside-card{background:var(--bg-2);padding:22px 24px;flex:1;cursor:pointer;transition:background .25s;border-left:2px solid transparent}
+    .aside-card:hover{background:var(--bg-3)}
+    .aside-num{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);letter-spacing:1px;margin-bottom:9px}
+    .aside-title{font-family:'Syne',sans-serif;font-size:14px;font-weight:700;line-height:1.35;color:var(--text);margin-bottom:12px}
+    .aside-foot{display:flex;align-items:center;justify-content:space-between}
+    .aside-src{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);text-transform:uppercase;letter-spacing:.5px}
+    .tag{font-family:'Space Mono',monospace;font-size:8px;font-weight:700;text-transform:uppercase;letter-spacing:1px;padding:2px 7px;border-radius:3px}
+
+    /* ── NEWS GRID ── */
+    .news-grid{display:grid;grid-template-columns:repeat(3,1fr);background:var(--bd);gap:1px;margin-bottom:1px}
+    .news-grid.g2{grid-template-columns:repeat(2,1fr)}
+    .news-grid.g4{grid-template-columns:repeat(4,1fr)}
+    .news-card{background:var(--bg-2);padding:24px 26px;cursor:pointer;transition:background .25s;display:flex;flex-direction:column;border-top:2px solid transparent}
+    .news-card:hover{background:var(--bg-3)}
+    .nc-layer{font-family:'Space Mono',monospace;font-size:8px;font-weight:700;letter-spacing:1px;text-transform:uppercase;padding:2px 6px;border-radius:2px;display:inline-flex;width:fit-content;margin-bottom:10px}
+    .nc-title{font-family:'Syne',sans-serif;font-size:15px;font-weight:700;line-height:1.4;color:var(--text);margin-bottom:10px;flex:1}
+    .nc-excerpt{font-size:12px;color:var(--t2);line-height:1.65;margin-bottom:14px}
+    .nc-foot{display:flex;align-items:center;gap:8px;border-top:1px solid var(--bd);padding-top:10px}
+    .nc-src{font-family:'Space Mono',monospace;font-size:8px;color:var(--t3);text-transform:uppercase;letter-spacing:.8px}
+    .nc-time{font-family:'Space Mono',monospace;font-size:8px;color:var(--t3)}
+    .nc-views{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);margin-left:auto}
+
+    /* ── LEADER CARDS ── */
+    .leader-grid{display:grid;grid-template-columns:repeat(3,1fr);background:var(--bd);gap:1px}
+    .leader-card{background:var(--bg-2);padding:24px;cursor:pointer;transition:background .25s;border-top:2px solid var(--l0)}
+    .leader-card:hover{background:var(--bg-3)}
+    .lc-who{display:flex;align-items:center;gap:10px;margin-bottom:14px}
+    .lc-avatar{width:36px;height:36px;border-radius:8px;background:var(--l0a);border:1px solid rgba(255,215,0,.3);display:flex;align-items:center;justify-content:center;font-size:15px;flex-shrink:0}
+    .lc-name{font-family:'Syne',sans-serif;font-size:14px;font-weight:700;color:var(--text)}
+    .lc-role{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);text-transform:uppercase;letter-spacing:.5px;margin-top:1px}
+    .lc-quote{font-size:13px;color:var(--t2);line-height:1.7;font-style:italic;margin-bottom:14px;border-left:2px solid var(--l0);padding-left:12px}
+    .lc-foot{display:flex;align-items:center;justify-content:space-between}
+    .lc-src{font-family:'Space Mono',monospace;font-size:8px;color:var(--t3);text-transform:uppercase;letter-spacing:.5px}
+    .lc-time{font-family:'Space Mono',monospace;font-size:8px;color:var(--t3)}
+
+    /* ── LEADERBOARD ── */
+    .lb-section{background:var(--bg-2);border:1px solid var(--bd);padding:32px 36px}
+    .lb-grid{display:grid;grid-template-columns:1fr 1fr;gap:52px}
+    .lb-head{margin-bottom:24px}
+    .lb-title{font-family:'Syne',sans-serif;font-size:18px;font-weight:800;color:var(--text);margin-bottom:4px}
+    .lb-sub{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);text-transform:uppercase;letter-spacing:2px}
+    .lb-cols{display:grid;grid-template-columns:26px 1fr 110px 68px 52px;gap:10px;align-items:center;padding:0 0 7px;border-bottom:1px solid var(--bd);margin-bottom:2px}
+    .lb-col{font-family:'Space Mono',monospace;font-size:8px;color:var(--t3);text-transform:uppercase;letter-spacing:1px}
+    .lb-row{display:grid;grid-template-columns:26px 1fr 110px 68px 52px;gap:10px;align-items:center;padding:11px 0;border-bottom:1px solid var(--bd);cursor:pointer}
+    .lb-row:last-child{border-bottom:none}
+    .lb-rank{font-family:'Space Mono',monospace;font-size:13px;font-weight:700;color:var(--t3);text-align:center}
+    .lb-rank.r1{color:var(--l0)}
+    .lb-rank.r2{color:#c8d0d8}
+    .lb-rank.r3{color:#c87941}
+    .lb-info{display:flex;flex-direction:column;gap:2px}
+    .lb-name{font-family:'Syne',sans-serif;font-size:13px;font-weight:700;color:var(--text)}
+    .lb-org{font-family:'Space Mono',monospace;font-size:8px;color:var(--t3);text-transform:uppercase;letter-spacing:.5px}
+    .lb-bar-track{height:3px;background:var(--bg-4);border-radius:2px;overflow:hidden}
+    .lb-bar-fill{height:100%;border-radius:2px;width:0;transition:width 1.6s cubic-bezier(.4,0,.2,1)}
+    .lb-score{font-family:'Space Mono',monospace;font-size:12px;font-weight:700;color:var(--text);text-align:right}
+    .lb-delta{font-family:'Space Mono',monospace;font-size:9px;text-align:right}
+    .up{color:var(--l2)}.down{color:var(--red)}.flat{color:var(--t3)}
+
+    /* ── HARDWARE CARDS ── */
+    .hw-grid{display:grid;grid-template-columns:repeat(4,1fr);background:var(--bd);gap:1px}
+    .hw-card{background:var(--bg-2);padding:22px;cursor:pointer;transition:background .25s;border-top:2px solid var(--l1)}
+    .hw-card:hover{background:var(--bg-3)}
+    .hw-icon{font-size:22px;margin-bottom:10px}
+    .hw-name{font-family:'Syne',sans-serif;font-size:15px;font-weight:700;color:var(--text);margin-bottom:4px}
+    .hw-spec{font-family:'Space Mono',monospace;font-size:10px;color:var(--l1);margin-bottom:8px}
+    .hw-desc{font-size:12px;color:var(--t2);line-height:1.6}
+
+    /* ── TOOLS ── */
+    .tools-grid{display:grid;grid-template-columns:1fr 1fr;background:var(--bd);gap:1px}
+    .tool-row{background:var(--bg-2);display:flex;align-items:center;gap:14px;padding:16px 22px;cursor:pointer;transition:background .2s;border-left:2px solid var(--l4)}
+    .tool-row:hover{background:var(--bg-3)}
+    .tool-ico{width:40px;height:40px;border-radius:9px;display:flex;align-items:center;justify-content:center;font-size:18px;flex-shrink:0}
+    .tool-body{flex:1}
+    .tool-name{font-family:'Syne',sans-serif;font-size:14px;font-weight:700;color:var(--text);margin-bottom:2px}
+    .tool-desc{font-size:11.5px;color:var(--t2)}
+    .tool-stat{text-align:right}
+    .tool-stars{font-family:'Space Mono',monospace;font-size:11px;font-weight:700;color:var(--l0);display:block}
+    .tool-growth{font-family:'Space Mono',monospace;font-size:9px;color:var(--l2)}
+
+    /* ── COMMUNITY ── */
+    .comm-grid{display:grid;grid-template-columns:1fr 1fr;background:var(--bd);gap:1px}
+    .disc-card{background:var(--bg-2);padding:20px 22px;cursor:pointer;transition:background .2s}
+    .disc-card:hover{background:var(--bg-3)}
+    .disc-plat{display:flex;align-items:center;gap:7px;margin-bottom:7px}
+    .plat-badge{font-family:'Space Mono',monospace;font-size:8px;font-weight:700;text-transform:uppercase;letter-spacing:1px;padding:2px 7px;border-radius:3px}
+    .pb-reddit{color:#ff6314;background:rgba(255,99,20,.1)}
+    .pb-hn{color:#ff6600;background:rgba(255,102,0,.1)}
+    .pb-twitter{color:var(--l1);background:var(--l1a)}
+    .pb-github{color:#a0b0c0;background:rgba(160,176,192,.1)}
+    .disc-title{font-family:'Syne',sans-serif;font-size:13px;font-weight:600;color:var(--text);line-height:1.4;margin-bottom:8px}
+    .disc-stats{display:flex;gap:12px}
+    .d-stat{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3)}
+    .d-stat b{color:var(--t2);font-weight:700}
+
+    /* ── DRAWER ── */
+    #overlay{position:fixed;inset:0;background:rgba(5,7,15,.75);backdrop-filter:blur(6px);z-index:300;opacity:0;pointer-events:none;transition:opacity .3s ease}
+    #overlay.open{opacity:1;pointer-events:all}
+    #drawer{position:fixed;top:0;right:0;bottom:0;width:min(580px,100vw);background:var(--bg-2);border-left:1px solid var(--bd-b);z-index:400;overflow-y:auto;transform:translateX(100%);transition:transform .38s cubic-bezier(.32,0,.15,1);display:flex;flex-direction:column}
+    #drawer.open{transform:translateX(0)}
+    .dr-top{position:sticky;top:0;z-index:10;background:rgba(10,14,26,.96);backdrop-filter:blur(16px);border-bottom:1px solid var(--bd);padding:14px 24px;display:flex;align-items:center;gap:12px}
+    .dr-close{width:30px;height:30px;border-radius:7px;border:1px solid var(--bd-b);background:var(--bg-3);color:var(--t2);display:flex;align-items:center;justify-content:center;cursor:pointer;font-size:15px;transition:border-color .2s,color .2s;flex-shrink:0}
+    .dr-close:hover{border-color:var(--l2);color:var(--l2)}
+    .dr-crumb{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);text-transform:uppercase;letter-spacing:1.5px}
+    .dr-crumb span{color:var(--t2)}
+    .dr-body{padding:28px 24px 60px}
+    .dr-cat{font-family:'Space Mono',monospace;font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:2.5px;display:flex;align-items:center;gap:10px;margin-bottom:16px}
+    .dr-cat::before{content:'';width:18px;height:1.5px;background:currentColor}
+    .dr-title{font-family:'Syne',sans-serif;font-size:24px;font-weight:800;line-height:1.25;letter-spacing:-.6px;color:var(--text);margin-bottom:18px}
+    .dr-meta{display:flex;align-items:center;gap:0;padding:14px 0;border-top:1px solid var(--bd);border-bottom:1px solid var(--bd);margin-bottom:24px;flex-wrap:wrap;gap:4px}
+    .dr-mi{display:flex;flex-direction:column;gap:3px;padding:0 16px}
+    .dr-mi:first-child{padding-left:0}
+    .dr-divl{width:1px;height:32px;background:var(--bd);flex-shrink:0}
+    .dr-mlbl{font-family:'Space Mono',monospace;font-size:8px;color:var(--t3);text-transform:uppercase;letter-spacing:1.5px}
+    .dr-mval{font-family:'Space Mono',monospace;font-size:11px;font-weight:700;color:var(--t2)}
+    .dr-heat{color:var(--l4) !important}
+    .dr-content{font-size:14px;color:var(--t2);line-height:1.85}
+    .dr-content p{margin-bottom:16px}
+    .dr-content h3{font-family:'Syne',sans-serif;font-size:15px;font-weight:700;color:var(--text);margin:24px 0 10px}
+    .dr-content blockquote{border-left:3px solid var(--l2);padding:10px 16px;background:var(--l2a);border-radius:0 5px 5px 0;margin:18px 0;font-style:italic;color:var(--text)}
+    .dr-content ul{padding-left:20px;margin-bottom:16px}
+    .dr-content li{margin-bottom:5px}
+    .dr-tags{display:flex;flex-wrap:wrap;gap:7px;margin-top:32px;padding-top:20px;border-top:1px solid var(--bd)}
+    .dr-tag{font-family:'Space Mono',monospace;font-size:8px;letter-spacing:1px;text-transform:uppercase;padding:3px 9px;border-radius:3px;border:1px solid var(--bd-b);color:var(--t2)}
+    .dr-ext{display:inline-flex;align-items:center;gap:6px;margin-top:20px;font-family:'Space Mono',monospace;font-size:9px;color:var(--l2);text-decoration:none;border:1px solid rgba(61,255,168,.3);padding:7px 14px;border-radius:5px;transition:background .2s}
+    .dr-ext:hover{background:var(--l2a)}
+    [data-article]{cursor:pointer}
+
+    /* ── HEATMAP ── */
+    .hm-wrap { margin-bottom: 36px; }
+    .hm-box { background: var(--bg-2); border: 1px solid var(--bd); overflow: hidden; }
+    .hm-head { display: grid; grid-template-columns: 138px repeat(6,1fr) 108px 72px; gap: 2px; padding: 10px 14px 8px; border-bottom: 1px solid var(--bd); align-items: end; }
+    .hm-hl { font-family: 'Space Mono',monospace; font-size: 8px; color: var(--t3); text-transform: uppercase; letter-spacing: 1px; text-align: center; padding-bottom: 2px; }
+    .hm-hl.left { text-align: left; }
+    .hm-row { display: grid; grid-template-columns: 138px repeat(6,1fr) 108px 72px; gap: 2px; padding: 4px 14px; border-bottom: 1px solid var(--bd); align-items: center; }
+    .hm-row:last-child { border-bottom: none; }
+    .hm-lbl { display: flex; flex-direction: column; gap: 2px; padding-right: 10px; }
+    .hm-lnum { font-family: 'Space Mono',monospace; font-size: 8px; color: var(--t3); letter-spacing: 1px; }
+    .hm-lname { font-family: 'Syne',sans-serif; font-size: 13px; font-weight: 700; }
+    .hm-cell { height: 48px; border-radius: 5px; display: flex; flex-direction: column; align-items: center; justify-content: center; cursor: pointer; transition: transform .15s, filter .15s; position: relative; overflow: hidden; }
+    .hm-cell:hover { transform: scale(1.06); filter: brightness(1.25); z-index: 5; }
+    .hm-cell::after { content: ''; position: absolute; inset: 0; background: linear-gradient(135deg, rgba(255,255,255,.06) 0%, transparent 60%); pointer-events: none; }
+    .hm-val { font-family: 'Space Mono',monospace; font-size: 16px; font-weight: 700; line-height: 1; }
+    .hm-sublbl { font-family: 'Space Mono',monospace; font-size: 7px; letter-spacing: .5px; margin-top: 3px; opacity: .65; }
+    .hm-spark { padding: 0 4px; }
+    .hm-spark svg { display: block; }
+    .hm-score { text-align: right; }
+    .hm-score-val { font-family: 'Space Mono',monospace; font-size: 22px; font-weight: 700; line-height: 1; }
+    .hm-score-bar { height: 3px; border-radius: 2px; margin-top: 5px; transition: width 1.4s cubic-bezier(.4,0,.2,1); }
+    /* ── FOOTER ── */
+    footer{border-top:1px solid var(--bd);padding:20px 32px;display:flex;align-items:center;justify-content:space-between}
+    .foot-brand{font-family:'Syne',sans-serif;font-size:14px;font-weight:800;color:var(--t3);display:flex;align-items:center;gap:7px}
+    .foot-dot{width:6px;height:6px;border-radius:50%;background:var(--l2);box-shadow:0 0 7px var(--l2)}
+    .foot-copy{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);letter-spacing:.5px}
+    .foot-links{display:flex;gap:18px}
+    .foot-links a{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);text-transform:uppercase;letter-spacing:1px;text-decoration:none;transition:color .2s}
+    .foot-links a:hover{color:var(--l2)}
+
+    /* ── ANIMATIONS ── */
+    @keyframes fade-up{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
+    .fade{opacity:0;animation:fade-up .5s ease forwards}
+    .d1{animation-delay:.05s}.d2{animation-delay:.12s}.d3{animation-delay:.2s}
+    .d4{animation-delay:.28s}.d5{animation-delay:.36s}
+
+    ::-webkit-scrollbar{width:3px;height:3px}
+    ::-webkit-scrollbar-track{background:var(--bg)}
+    ::-webkit-scrollbar-thumb{background:var(--bd-b);border-radius:2px}
+
+    @media(max-width:1100px){.hero-grid{grid-template-columns:1fr}.hero-aside{display:none}.lb-grid{grid-template-columns:1fr;gap:36px}}
+    @media(max-width:900px){.news-grid{grid-template-columns:1fr 1fr}.hw-grid{grid-template-columns:1fr 1fr}.leader-grid{grid-template-columns:1fr 1fr}.tools-grid{grid-template-columns:1fr}.comm-grid{grid-template-columns:1fr}.page-title{font-size:36px}main{padding:24px 18px 80px}header{padding:0 18px}.layer-stack .lr-chips{display:none}}
+    @media(max-width:600px){.news-grid{grid-template-columns:1fr}.leader-grid{grid-template-columns:1fr}.hw-grid{grid-template-columns:1fr}.news-grid.g4{grid-template-columns:1fr 1fr}nav a:not(.active){display:none}}
+  </style>
+</head>
+<body>
+
+<!-- ════ HEADER ════ -->
+<header>
+  <a class="logo" href="#">
+    <div class="logo-mark"><div class="logo-inner"></div></div>
+    SIGNAL.AI
+  </a>
+  <nav id="main-nav">
+    <a href="#featured" class="nl-all active" data-layer="all">全部热点</a>
+    <a href="#sec-l0"   class="nl0" data-layer="l0">L0 · 领袖观点</a>
+    <a href="#sec-l1"   class="nl1" data-layer="l1">L1 · 算力硬件</a>
+    <a href="#sec-l2"   class="nl2" data-layer="l2">L2 · 基础模型</a>
+    <a href="#sec-l3"   class="nl3" data-layer="l3">L3 · 推理工程</a>
+    <a href="#sec-l4"   class="nl4" data-layer="l4">L4 · 交互Agent</a>
+    <a href="#sec-l5"   class="nl5" data-layer="l5">L5 · 生态商业</a>
+  </nav>
+  <div class="header-end">
+    <div class="live-chip"><div class="live-dot"></div><span class="live-label">LIVE</span></div>
+    <span class="hdate" id="hdate"></span>
+  </div>
+</header>
+
+<!-- ════ TICKER ════ -->
+<div class="ticker-bar">
+  <div class="ticker-badge">⚡ Breaking</div>
+  <div class="ticker-wrap"><div class="ticker-scroll" id="ticker"></div></div>
+</div>
+
+<!-- ════ MAIN ════ -->
+<main>
+
+  <!-- Page intro -->
+  <div class="page-intro fade d1">
+    <div>
+      <div class="page-title">AI<em>全景</em>情报站</div>
+      <div class="page-tag">AI Technology Panorama · Real-time Intelligence · Hourly Update</div>
+    </div>
+    <div class="page-stat">
+      <div class="stat-val" id="counter">0</div>
+      <div class="stat-lbl">今日 AI 动态</div>
+    </div>
+  </div>
+
+  <!-- Heatmap -->
+  <div class="hm-wrap fade d2">
+    <div class="stack-title-row" style="margin-bottom:12px">
+      <h2>层级活跃度热力图</h2>
+      <div class="stack-line"></div>
+      <span style="font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);white-space:nowrap">今日动态分布 · 6 Dimensions · Real-time</span>
+    </div>
+    <div class="hm-box">
+      <div class="hm-head">
+        <div class="hm-hl left">层级</div>
+        <div class="hm-hl">资讯热度</div>
+        <div class="hm-hl">社区讨论</div>
+        <div class="hm-hl">模型动态</div>
+        <div class="hm-hl">工具趋势</div>
+        <div class="hm-hl">技术突破</div>
+        <div class="hm-hl">商业动态</div>
+        <div class="hm-hl">近7日趋势</div>
+        <div class="hm-hl">综合指数</div>
+      </div>
+      <div id="hm-rows"></div>
+    </div>
+  </div>
+
+  <!-- Layer Architecture Stack -->
+  <div class="stack-wrap fade d2">
+    <div class="stack-title-row">
+      <h2>AI技术全景框架</h2>
+      <div class="stack-line"></div>
+      <span style="font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);white-space:nowrap">AI Technology Panorama Framework · 6 Layers</span>
+    </div>
+    <div class="layer-stack">
+      <a class="layer-row l0" href="#sec-l0">
+        <div class="lr-label"><div class="lr-num">LAYER 0</div><div class="lr-name">领袖观点</div></div>
+        <div class="lr-chips">
+          <span class="lr-chip">黄仁勋</span><span class="lr-chip">苏姿丰</span><span class="lr-chip">李飞飞</span><span class="lr-chip">Demis Hassabis</span><span class="lr-chip">Andrej Karpathy</span><span class="lr-chip">Peter Steinberger</span>
+        </div>
+        <div class="lr-arrow">→</div>
+      </a>
+      <a class="layer-row l5" href="#sec-l5">
+        <div class="lr-label"><div class="lr-num">LAYER 5</div><div class="lr-name">生态商业</div></div>
+        <div class="lr-chips">
+          <span class="lr-chip">OpenAI</span><span class="lr-chip">Google</span><span class="lr-chip">Microsoft</span><span class="lr-chip">AWS</span><span class="lr-chip">阿里云</span><span class="lr-chip">火山引擎</span><span class="lr-chip">腾讯</span><span class="lr-chip">Apple</span><span class="lr-chip">HONOR</span><span class="lr-chip">小米</span><span class="lr-chip">OPPO</span>
+        </div>
+        <div class="lr-arrow">→</div>
+      </a>
+      <a class="layer-row l4" href="#sec-l4">
+        <div class="lr-label"><div class="lr-num">LAYER 4</div><div class="lr-name">交互Agent</div></div>
+        <div class="lr-chips">
+          <span class="lr-chip">ChatGPT Agent</span><span class="lr-chip">Gemini</span><span class="lr-chip">Perplexity</span><span class="lr-chip">元宝</span><span class="lr-chip">豆包</span><span class="lr-chip">千问</span><span class="lr-chip">Kimi</span><span class="lr-chip">OpenClaw</span><span class="lr-chip">Manus</span><span class="lr-chip">YOYO</span><span class="lr-chip">HyperAI</span><span class="lr-chip">小布</span>
+        </div>
+        <div class="lr-arrow">→</div>
+      </a>
+      <a class="layer-row l3" href="#sec-l3">
+        <div class="lr-label"><div class="lr-num">LAYER 3</div><div class="lr-name">推理工程</div></div>
+        <div class="lr-chips">
+          <span class="lr-chip">NVIDIA AI</span><span class="lr-chip">AMD Instinct</span><span class="lr-chip">OpenAI API</span><span class="lr-chip">火山方舟</span><span class="lr-chip">Moonshot</span><span class="lr-chip">Qwen API</span>
+        </div>
+        <div class="lr-arrow">→</div>
+      </a>
+      <a class="layer-row l2" href="#sec-l2">
+        <div class="lr-label"><div class="lr-num">LAYER 2</div><div class="lr-name">基础模型</div></div>
+        <div class="lr-chips">
+          <span class="lr-chip">OpenAI</span><span class="lr-chip">Google DeepMind</span><span class="lr-chip">MiniMax</span><span class="lr-chip">Kimi</span><span class="lr-chip">Qwen</span><span class="lr-chip">豆包</span><span class="lr-chip">元宝</span>
+        </div>
+        <div class="lr-arrow">→</div>
+      </a>
+      <a class="layer-row l1" href="#sec-l1">
+        <div class="lr-label"><div class="lr-num">LAYER 1</div><div class="lr-name">算力硬件</div></div>
+        <div class="lr-chips">
+          <span class="lr-chip">NVIDIA</span><span class="lr-chip">AMD</span><span class="lr-chip">Google Cloud</span><span class="lr-chip">Apple Silicon</span><span class="lr-chip">HONOR</span><span class="lr-chip">Xiaomi</span><span class="lr-chip">OPPO</span>
+        </div>
+        <div class="lr-arrow">→</div>
+      </a>
+    </div>
+  </div>
+
+  <!-- ── TODAY FEATURED ── -->
+  <div id="featured">
+    <div class="sec-head fade d3" data-ghost="TOP">
+      <div class="sec-kicker">
+        <span class="sec-lnum" style="color:var(--l2)">今日精选</span>
+        <div class="sec-kline"></div>
+        <a class="sec-more" href="#">查看全部 →</a>
+      </div>
+      <h2>今日头条</h2>
+      <span class="sec-en">Today's Featured · Real-time AI Intelligence · Hourly Update</span>
+    </div>
+    <div class="hero-grid fade d3">
+      <div class="hero-main" data-article="n01">
+        <div class="ghost-txt">AI</div>
+        <div class="hero-cat" style="color:var(--l2)">L2 · 基础模型 · OpenAI</div>
+        <div class="hero-title">OpenAI发布GPT-5：多模态推理全面突破，编码与数学测试历史最高分</div>
+        <p class="hero-excerpt">GPT-5在MMLU、HumanEval、MATH等主流基准上全面刷新纪录，原生支持图像、音频、视频多模态输入，上下文窗口扩展至200K tokens，同时引入全新「深度思考」推理模式，在复杂逻辑推理任务上较前代提升41%…</p>
+        <div class="hero-meta">
+          <span class="meta-src">OpenAI Blog</span>
+          <span class="meta-time">2小时前</span>
+          <div class="meta-heat" style="color:var(--l4)">🔥 48.2K 热度</div>
+        </div>
+      </div>
+      <div class="hero-aside">
+        <div class="aside-card" style="border-left-color:var(--l2)" data-article="n02">
+          <div class="aside-num">#02 · L2 基础模型</div>
+          <div class="aside-title">Anthropic Claude 4 Opus 发布，1M上下文窗口创纪录</div>
+          <div class="aside-foot"><span class="aside-src">Anthropic</span><span class="tag" style="color:var(--l2);background:var(--l2a)">NEW</span></div>
+        </div>
+        <div class="aside-card" style="border-left-color:var(--l1)" data-article="n-hw1">
+          <div class="aside-num">#03 · L1 算力硬件</div>
+          <div class="aside-title">NVIDIA Blackwell Ultra 发布，推理吞吐量较H100提升5倍</div>
+          <div class="aside-foot"><span class="aside-src">NVIDIA</span><span class="tag" style="color:var(--l1);background:var(--l1a)">硬件</span></div>
+        </div>
+        <div class="aside-card" style="border-left-color:var(--l4)" data-article="n-ag1">
+          <div class="aside-num">#04 · L4 交互Agent</div>
+          <div class="aside-title">Manus AI Agent正式开放：首个真正自主完成复杂任务的通用AI</div>
+          <div class="aside-foot"><span class="aside-src">Manus.im</span><span class="tag" style="color:var(--l4);background:var(--l4a)">🔥 HOT</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── L0: INDUSTRY LEADERS ── -->
+  <section id="sec-l0">
+    <div class="sec-head sl0" data-ghost="L0">
+      <div class="sec-kicker">
+        <span class="sec-lnum">LAYER 0</span>
+        <div class="sec-kline"></div>
+        <a class="sec-more" href="#">更多观点 →</a>
+      </div>
+      <h2>领袖观点</h2>
+      <span class="sec-en">Industry Leaders & Frontline Views</span>
+    </div>
+    <div class="leader-grid" id="leader-grid"></div>
+  </section>
+
+  <!-- ── L2: FOUNDATION MODELS ── -->
+  <section id="sec-l2">
+    <div class="sec-head sl2" data-ghost="L2">
+      <div class="sec-kicker">
+        <span class="sec-lnum">LAYER 2</span>
+        <div class="sec-kline"></div>
+      </div>
+      <h2>基础模型动态</h2>
+      <span class="sec-en">Foundation Models · OpenAI · Google · MiniMax · Kimi · Qwen · 豆包 · 元宝</span>
+    </div>
+    <div class="news-grid" id="news-l2"></div>
+
+    <!-- Leaderboard -->
+    <div class="sec-head-sub">
+      <span class="sec-badge bl2">排行榜</span>
+      <h3>模型能力排名</h3>
+      <span class="sec-sub">Chatbot Arena · HumanEval · SWE-Bench · 2026 Q1</span>
+      <div class="sec-kline"></div>
+    </div>
+    <div class="lb-section">
+      <div class="lb-grid">
+        <div>
+          <div class="lb-head"><div class="lb-title">综合能力排名</div><div class="lb-sub">Chatbot Arena · LMSYS · 2026 Q1</div></div>
+          <div class="lb-cols"><span class="lb-col">#</span><span class="lb-col">模型</span><span class="lb-col">能力指数</span><span class="lb-col" style="text-align:right">得分</span><span class="lb-col" style="text-align:right">变化</span></div>
+          <div id="lb-main"></div>
+        </div>
+        <div>
+          <div class="lb-head"><div class="lb-title">代码能力排名</div><div class="lb-sub">HumanEval · SWE-Bench · 2026 Q1</div></div>
+          <div class="lb-cols"><span class="lb-col">#</span><span class="lb-col">模型</span><span class="lb-col">能力指数</span><span class="lb-col" style="text-align:right">得分</span><span class="lb-col" style="text-align:right">变化</span></div>
+          <div id="lb-code"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── L1: HARDWARE ── -->
+  <section id="sec-l1">
+    <div class="sec-head sl1" data-ghost="L1">
+      <div class="sec-kicker">
+        <span class="sec-lnum">LAYER 1</span>
+        <div class="sec-kline"></div>
+      </div>
+      <h2>算力硬件</h2>
+      <span class="sec-en">Computing & Hardware · NVIDIA · AMD · Google Cloud · Apple Silicon · 终端设备</span>
+    </div>
+    <div class="hw-grid" id="hw-grid"></div>
+    <div class="news-grid g2" id="news-l1" style="margin-top:1px"></div>
+  </section>
+
+  <!-- ── L3: INFERENCE ── -->
+  <section id="sec-l3">
+    <div class="sec-head sl3" data-ghost="L3">
+      <div class="sec-kicker">
+        <span class="sec-lnum">LAYER 3</span>
+        <div class="sec-kline"></div>
+      </div>
+      <h2>推理工程</h2>
+      <span class="sec-en">Inference & Engineering · NVIDIA AI · AMD · 火山方舟 · Moonshot · Qwen API</span>
+    </div>
+    <div class="news-grid" id="news-l3"></div>
+  </section>
+
+  <!-- ── L4: AGENTS ── -->
+  <section id="sec-l4">
+    <div class="sec-head sl4" data-ghost="L4">
+      <div class="sec-kicker">
+        <span class="sec-lnum">LAYER 4</span>
+        <div class="sec-kline"></div>
+      </div>
+      <h2>交互 Agent</h2>
+      <span class="sec-en">Interaction & Agent · ChatGPT · Gemini · Kimi · Manus · 豆包 · 千问 · YOYO · 小布</span>
+    </div>
+    <div class="news-grid g4" id="news-l4" style="margin-bottom:1px"></div>
+    <!-- Tools trending -->
+    <div class="sec-head-sub">
+      <span class="sec-badge bl4">趋势工具</span>
+      <h3>热门 AI 工具</h3>
+      <span class="sec-sub">GitHub Trending · Product Hunt</span>
+      <div class="sec-kline"></div>
+    </div>
+    <div class="tools-grid" id="tools-grid"></div>
+  </section>
+
+  <!-- ── L5: ECOSYSTEM ── -->
+  <section id="sec-l5">
+    <div class="sec-head sl5" data-ghost="L5">
+      <div class="sec-kicker">
+        <span class="sec-lnum">LAYER 5</span>
+        <div class="sec-kline"></div>
+      </div>
+      <h2>生态商业</h2>
+      <span class="sec-en">Ecosystem & Commercial · OpenAI · Google · Microsoft · AWS · 阿里云 · 火山引擎 · 腾讯 · Apple</span>
+    </div>
+    <div class="news-grid" id="news-l5"></div>
+  </section>
+
+  <!-- ── COMMUNITY ── -->
+  <section id="sec-comm">
+    <div class="sec-head" data-ghost="CMT" style="border-top-color:var(--bd-b)">
+      <div class="sec-kicker">
+        <span class="sec-lnum" style="color:var(--t2)">COMMUNITY</span>
+        <div class="sec-kline"></div>
+      </div>
+      <h2>社区热议</h2>
+      <span class="sec-en">Reddit · Hacker News · Twitter/X · GitHub</span>
+    </div>
+    <div class="comm-grid" id="comm-grid"></div>
+  </section>
+
+</main>
+
+<!-- ════ FOOTER ════ -->
+<footer>
+  <div class="foot-brand"><div class="foot-dot"></div>SIGNAL.AI</div>
+  <div class="foot-copy">© 2026 · 数据来源：OpenAI · Anthropic · Google · NVIDIA · AMD · MiniMax · Kimi · Qwen · 豆包 · 元宝 · 火山方舟 · Manus · Reddit · HN · GitHub</div>
+  <div class="foot-links"><a href="#">关于</a><a href="#">API</a><a href="#">隐私</a></div>
+</footer>
+
+<!-- ════ DRAWER ════ -->
+<div id="overlay"></div>
+<aside id="drawer">
+  <div class="dr-top">
+    <button class="dr-close" id="dr-close">✕</button>
+    <div class="dr-crumb">SIGNAL.AI · <span id="dr-crumb-lbl">详情</span></div>
+  </div>
+  <div class="dr-body" id="dr-body"></div>
+</aside>
+
+<script>
+// ── Helpers ───────────────────────────────────
+const $ = id => document.getElementById(id);
+const now = new Date();
+$('hdate').textContent = now.getFullYear()+'.'+String(now.getMonth()+1).padStart(2,'0')+'.'+String(now.getDate()).padStart(2,'0');
+
+// Counter animation
+(()=>{
+  const el=$('counter'),target=312,dur=1400;let s=null;
+  const step=ts=>{if(!s)s=ts;const p=Math.min((ts-s)/dur,1);el.textContent=Math.floor(p*target);if(p<1)requestAnimationFrame(step);else el.textContent=target};
+  requestAnimationFrame(step);
+})();
+
+// ── Heatmap ───────────────────────────────────
+(()=>{
+  const HEX={l0:'#ffd700',l1:'#38bdf8',l2:'#3dffa8',l3:'#c084fc',l4:'#fb7185',l5:'#fb923c'};
+  function hexRgb(h){const r=parseInt(h.slice(1,3),16),g=parseInt(h.slice(3,5),16),b=parseInt(h.slice(5,7),16);return[r,g,b]}
+  function cellBg(id,v){const[r,g,b]=hexRgb(HEX[id]);const a=0.06+(v/100)*0.68;return`rgba(${r},${g},${b},${a})`}
+
+  const METRICS=['资讯热度','社区讨论','模型动态','工具趋势','技术突破','商业动态'];
+  // vals order matches METRICS
+  const LAYERS=[
+    {id:'l2',num:'LAYER 2',name:'基础模型', vals:[100,96,100,28,90,70], trend:[82,85,88,90,94,97,100]},
+    {id:'l4',num:'LAYER 4',name:'交互Agent',vals:[90,92,88,98,68,65],  trend:[72,75,78,80,84,87,90]},
+    {id:'l0',num:'LAYER 0',name:'领袖观点', vals:[86,94,12,8,58,35],   trend:[65,68,72,74,78,82,86]},
+    {id:'l5',num:'LAYER 5',name:'生态商业', vals:[74,70,38,48,42,96],  trend:[60,63,65,67,69,71,74]},
+    {id:'l1',num:'LAYER 1',name:'算力硬件', vals:[68,52,55,38,92,62],  trend:[55,58,60,63,65,66,68]},
+    {id:'l3',num:'LAYER 3',name:'推理工程', vals:[60,44,42,72,76,82],  trend:[48,50,52,54,56,58,60]},
+  ];
+
+  function score(l){
+    const w=[.3,.25,.2,.1,.1,.05];
+    return Math.round(l.vals.reduce((s,v,i)=>s+v*w[i],0));
+  }
+
+  function spark(data,color){
+    const W=100,H=30,mn=Math.min(...data)-4,mx=Math.max(...data)+2;
+    const pts=data.map((v,i)=>{
+      const x=(i/(data.length-1))*W;
+      const y=H-((v-mn)/(mx-mn))*(H-4)-2;
+      return`${x.toFixed(1)},${y.toFixed(1)}`;
+    }).join(' ');
+    const lx=((data.length-1)/(data.length-1))*W;
+    const ly=H-((data[data.length-1]-mn)/(mx-mn))*(H-4)-2;
+    return`<svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" style="overflow:visible">
+      <polyline points="${pts}" fill="none" stroke="${color}" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity=".8"/>
+      <circle cx="${lx.toFixed(1)}" cy="${ly.toFixed(1)}" r="3" fill="${color}"/>
+    </svg>`;
+  }
+
+  const LABELS=['资讯','讨论','模型','工具','突破','商业'];
+  const container=$('hm-rows');
+  container.innerHTML=LAYERS.map(l=>{
+    const color=HEX[l.id];
+    const sc=score(l);
+    const cells=l.vals.map((v,i)=>`
+      <div class="hm-cell" style="background:${cellBg(l.id,v)}" title="${METRICS[i]}: ${v}">
+        <span class="hm-val" style="color:${color}">${v}</span>
+        <span class="hm-sublbl" style="color:${color}">${LABELS[i]}</span>
+      </div>
+    `).join('');
+    return`<div class="hm-row">
+      <div class="hm-lbl">
+        <span class="hm-lnum">${l.num}</span>
+        <span class="hm-lname" style="color:${color}">${l.name}</span>
+      </div>
+      ${cells}
+      <div class="hm-spark">${spark(l.trend,color)}</div>
+      <div class="hm-score">
+        <div class="hm-score-val" style="color:${color}">${sc}</div>
+        <div class="hm-score-bar" data-w="${sc}" style="background:${color};width:0"></div>
+      </div>
+    </div>`;
+  }).join('');
+
+  // animate score bars
+  setTimeout(()=>{
+    document.querySelectorAll('.hm-score-bar').forEach(b=>{
+      b.style.width=b.dataset.w+'%';
+    });
+  },300);
+})();
+
+// Nav active on scroll
+const navLinks=[...document.querySelectorAll('#main-nav a')];
+window.addEventListener('scroll',()=>{
+  const sections=['featured','sec-l0','sec-l2','sec-l1','sec-l3','sec-l4','sec-l5','sec-comm'];
+  let active='all';
+  for(const id of sections){
+    const el=document.getElementById(id);
+    if(el&&el.getBoundingClientRect().top<120){
+      active=id==='featured'?'all':id.replace('sec-','');
+    }
+  }
+  navLinks.forEach(a=>{
+    a.classList.toggle('active',a.dataset.layer===active||(a.dataset.layer==='all'&&active==='all'));
+  });
+},{ passive:true });
+
+// ── Ticker ────────────────────────────────────
+(()=>{
+  const items=[
+    {tag:'GPT-5',    col:'var(--l2)', text:'OpenAI GPT-5正式发布，综合评分超越所有现有模型'},
+    {tag:'CLAUDE',   col:'var(--l2)', text:'Anthropic Claude 4 Opus — 1M上下文创纪录'},
+    {tag:'NVIDIA',   col:'var(--l1)', text:'Blackwell Ultra发布，推理吞吐量较H100提升5倍'},
+    {tag:'MANUS',    col:'var(--l4)', text:'Manus AI Agent开放，首个真正自主完成复杂任务的AI'},
+    {tag:'DEEPSEEK', col:'var(--l2)', text:'DeepSeek R3推理模型API定价仅为竞品1/10'},
+    {tag:'火山方舟',  col:'var(--l3)', text:'字节跳动火山方舟推出企业级推理加速服务'},
+    {tag:'GEMINI',   col:'var(--l2)', text:'Google Gemini 2.5 Ultra多模态全面升级'},
+    {tag:'阿里云',    col:'var(--l5)', text:'阿里云通义系列全线降价50%，开放商用授权'},
+    {tag:'LLAMA',    col:'var(--l2)', text:'Meta Llama 4 405B开源，推理性能提升3×'},
+    {tag:'KIMI',     col:'var(--l4)', text:'Kimi发布多模态Agent，支持浏览器全自动操作'},
+    {tag:'AMD',      col:'var(--l1)', text:'AMD MI350X加速卡开始量产，正面挑战H100'},
+    {tag:'SORA',     col:'var(--l5)', text:'Sora企业API开放，视频生成进入商业化快车道'},
+  ];
+  const el=$('ticker');
+  el.innerHTML=[...items,...items].map(i=>
+    `<div class="ticker-item"><span class="t-tag" style="color:${i.col};background:${i.col}22">${i.tag}</span>${i.text}</div>`
+  ).join('');
+})();
+
+// ── Article Data ──────────────────────────────
+const LAYER_COLOR={l0:'var(--l0)',l1:'var(--l1)',l2:'var(--l2)',l3:'var(--l3)',l4:'var(--l4)',l5:'var(--l5)'};
+
+const ARTICLES={
+  n01:{layer:'l2',cat:'L2 · 基础模型',title:'OpenAI发布GPT-5：多模态推理全面突破，编码与数学测试历史最高分',src:'OpenAI Blog',time:'2小时前',heat:'48.2K',views:'102.4K',url:'https://openai.com/blog',tags:['GPT-5','多模态','OpenAI','大模型','推理'],body:`<p>北京时间今日凌晨，OpenAI正式发布旗舰模型 <strong>GPT-5</strong>，在MMLU上达到 <strong>92.4分</strong>，较GPT-4o提升约11个百分点。</p><h3>多模态能力全面升级</h3><p>GPT-5原生支持图像、音频、视频三种模态混合输入，无需切换专用模型。发布会演示了GPT-5实时分析会议视频并生成完整纪要，整个流程耗时不足30秒。</p><blockquote>「这是我们有史以来能力最强的模型，但也是迄今为止最安全的。」——Sam Altman</blockquote><h3>深度思考模式</h3><p>GPT-5引入全新「深度思考」推理模式，在复杂数学证明和多步逻辑推理上较前代提升 <strong>41%</strong>。上下文窗口扩展至 <strong>200K tokens</strong>。</p><ul><li>HumanEval：<strong>94.2%</strong>（行业首个超90%的通用模型）</li><li>MATH：<strong>88.7%</strong></li><li>SWE-Bench：<strong>56.1%</strong></li><li>Chatbot Arena Elo：<strong>1387</strong></li></ul>`},
+  n02:{layer:'l2',cat:'L2 · 基础模型',title:'Anthropic Claude 4 Opus 发布，1M上下文窗口与Constitutional AI 2.0',src:'Anthropic',time:'3小时前',heat:'31.7K',views:'67.2K',url:'https://www.anthropic.com/news',tags:['Claude','Anthropic','长文本','安全AI'],body:`<p>Anthropic发布 <strong>Claude 4 Opus</strong>，上下文窗口扩展至 <strong>1M tokens</strong>（约75万汉字），是目前商用模型中最长的。</p><h3>长文档处理能力</h3><p>在内部测试中，Claude 4 Opus可在2分钟内完整阅读并分析300页法律合同，准确率超过99%。</p><blockquote>我们相信，真正安全的AI不是限制更多，而是理解更深。——Dario Amodei</blockquote><h3>Constitutional AI 2.0</h3><p>采用全新宪法AI 2.0训练框架，红队测试中拒绝率和理由质量均大幅优于前代，同时减少了"过度谨慎"问题。</p>`},
+  'n-hw1':{layer:'l1',cat:'L1 · 算力硬件',title:'NVIDIA Blackwell Ultra 发布，推理吞吐量较H100提升5倍',src:'NVIDIA Blog',time:'1小时前',heat:'22.8K',views:'48.1K',url:'https://blogs.nvidia.com/',tags:['NVIDIA','Blackwell','GPU','AI芯片','算力'],body:`<p>NVIDIA在年度GPU技术大会上发布 <strong>Blackwell Ultra</strong> 架构，搭载新一代Transformer引擎，推理吞吐量较H100提升 <strong>5倍</strong>，内存带宽达到 <strong>8TB/s</strong>。</p><h3>规格亮点</h3><ul><li>显存：192GB HBM3e</li><li>显存带宽：8TB/s</li><li>FP8推理：20 PetaFLOPS</li><li>互联带宽：1.8TB/s NVLink 5.0</li></ul><h3>面向推理优化</h3><p>Blackwell Ultra专门针对LLM推理场景设计，引入了「推理加速引擎」，可在不损失精度的情况下将主流大模型的推理速度提升3-5倍，大幅降低每token成本。</p><blockquote>「AI的下一波浪潮是推理，Blackwell Ultra正是为此而生。」——Jensen Huang</blockquote>`},
+  'n-ag1':{layer:'l4',cat:'L4 · 交互Agent',title:'Manus AI Agent正式开放：首个真正自主完成复杂任务的通用AI',src:'Manus.im',time:'6小时前',heat:'35.4K',views:'78.2K',url:'https://manus.im',tags:['Manus','AI Agent','自主AI','任务执行','L4'],body:`<p><strong>Manus</strong> 正式向公众开放，这是全球首个可以真正自主完成端到端复杂任务的AI Agent，无需人工监督即可独立完成从需求理解到最终交付的全流程工作。</p><h3>核心能力</h3><ul><li>自主浏览网络、检索资料、综合分析</li><li>编写、运行、调试代码</li><li>操控文件与应用程序</li><li>多步骤规划与执行，支持任务持久化</li></ul><h3>测试结果</h3><p>在GAIA Agent基准测试上，Manus以 <strong>86.5分</strong> 刷新纪录，远超此前最佳成绩（GPT-4o+工具：67.2分）。</p><blockquote>「我们正在见证AI从语言工具向行动主体的根本性跨越。」</blockquote>`},
+  'n-l2-1':{layer:'l2',cat:'L2 · 基础模型',title:'DeepSeek R3 推理模型发布，API仅需¥0.5/M tokens',src:'36Kr',time:'4小时前',heat:'23.1K',views:'41.7K',url:'https://36kr.com/information/AI/',tags:['DeepSeek','推理','国产AI','API'],body:`<p>深度求索发布 <strong>DeepSeek R3</strong>，AIME数学竞赛测试集达到 <strong>89.4分</strong>，API定价仅 <strong>¥0.5/M tokens</strong>，约为同等能力竞品的1/10。</p><h3>性能 vs 成本</h3><ul><li>输入：¥0.5/M tokens</li><li>输出：¥2/M tokens</li><li>HumanEval：87.3%</li><li>上下文窗口：128K tokens</li></ul><blockquote>「我们正在做的是AI基础设施的民主化。」——DeepSeek创始人</blockquote>`},
+  'n-l2-2':{layer:'l2',cat:'L2 · 基础模型',title:'MiniMax 发布新一代视频+文本基础模型，多模态推理全面升级',src:'MiniMax Blog',time:'8小时前',heat:'12.4K',views:'24.8K',url:'https://www.minimaxi.com/',tags:['MiniMax','视频模型','多模态','基础模型'],body:`<p>MiniMax发布新一代基础模型，原生支持视频理解和生成，在视频问答基准Video-MME上达到 <strong>79.4%</strong>，超越同规模所有开源模型。</p><h3>视频理解能力</h3><p>模型可处理最长60分钟的连续视频，支持细粒度时序理解，在体育分析、影视剪辑、教育场景中展现了强大能力。</p>`},
+  'n-l2-3':{layer:'l2',cat:'L2 · 基础模型',title:'Kimi k2 登顶国内推理榜单，长文本理解与数学能力双突破',src:'Moonshot AI',time:'10小时前',heat:'10.1K',views:'19.3K',url:'https://kimi.moonshot.cn/',tags:['Kimi','Moonshot','推理','长文本','国产模型'],body:`<p>月之暗面发布 <strong>Kimi k2</strong>，在C-Eval和CMATH中文评测中均登顶榜首，长文本处理支持 <strong>256K tokens</strong>，在法律合同分析和学术论文摘要等任务上表现卓越。</p>`},
+  'n-l1-1':{layer:'l1',cat:'L1 · 算力硬件',title:'AMD MI350X 加速卡开始量产，正面挑战 NVIDIA H100',src:'AMD Blog',time:'5小时前',heat:'14.2K',views:'28.6K',url:'https://www.amd.com/en/newsroom.html',tags:['AMD','MI350X','GPU','芯片','算力竞争'],body:`<p>AMD宣布 <strong>MI350X</strong> 加速卡正式进入量产阶段，每卡配备 <strong>288GB HBM3</strong> 显存，AI推理性能在多项测试中与H100持平甚至超越。</p><h3>性价比优势</h3><p>MI350X在LLM推理基准上的每美元性能比H100高出约 <strong>35%</strong>，已获得包括微软Azure、Oracle Cloud在内的多家云厂商的大规模采购合同。</p>`},
+  'n-l1-2':{layer:'l1',cat:'L1 · 算力硬件',title:'Apple M4 Ultra 实测：端侧LLM推理速度创新高，可运行700亿参数模型',src:'Apple Newsroom',time:'9小时前',heat:'11.3K',views:'22.4K',url:'https://www.apple.com/newsroom/',tags:['Apple Silicon','M4 Ultra','端侧AI','iPhone','本地推理'],body:`<p>苹果 M4 Ultra 芯片在端侧LLM推理测试中刷新纪录，可以在不连接互联网的情况下运行 <strong>700亿参数</strong> 的大语言模型，推理速度达到 <strong>55 tokens/秒</strong>。</p><h3>统一内存架构优势</h3><p>M4 Ultra配备192GB统一内存，带宽高达800GB/s，使得端侧运行大规模模型成为可能，同时功耗仅为同等性能GPU服务器的1/20。</p>`},
+  'n-l3-1':{layer:'l3',cat:'L3 · 推理工程',title:'火山方舟推出企业级推理加速服务，响应速度提升10倍',src:'字节跳动技术',time:'3小时前',heat:'8.7K',views:'17.4K',url:'https://www.volcengine.com/',tags:['火山方舟','推理加速','字节跳动','企业AI','L3'],body:`<p>字节跳动旗下云服务平台火山引擎发布新一代AI推理加速服务「<strong>火山方舟</strong>」企业版，基于自研FlashMoE技术，主流开源模型（Llama、Qwen、DeepSeek等）推理速度提升 <strong>10倍</strong>，成本降低 <strong>70%</strong>。</p><h3>技术亮点</h3><ul><li>FlashMoE：混合专家模型零开销推理</li><li>连续批处理：GPU利用率从35%提升至92%</li><li>动态量化：精度损失<0.5%，速度提升3×</li><li>支持模型：Llama 4、Qwen 2.5、DeepSeek R3等</li></ul>`},
+  'n-l3-2':{layer:'l3',cat:'L3 · 推理工程',title:'NVIDIA TensorRT-LLM 9.0 发布，支持所有主流开源模型',src:'NVIDIA Dev Blog',time:'7小时前',heat:'7.2K',views:'14.8K',url:'https://developer.nvidia.com/blog',tags:['NVIDIA','TensorRT','LLM','推理优化','开发者'],body:`<p>NVIDIA发布 <strong>TensorRT-LLM 9.0</strong>，新增对 Llama 4、DeepSeek R3、Qwen 2.5 等主流模型的原生支持，推理延迟在Blackwell GPU上平均降低 <strong>42%</strong>。</p>`},
+  'n-l3-3':{layer:'l3',cat:'L3 · 推理工程',title:'Moonshot 开放高并发推理 API，1亿tokens/分钟峰值支持',src:'Moonshot AI',time:'11小时前',heat:'6.1K',views:'12.2K',url:'https://platform.moonshot.cn/',tags:['Moonshot','API','推理','并发','Kimi'],body:`<p>月之暗面宣布Kimi API峰值吞吐量突破 <strong>1亿tokens/分钟</strong>，支持多区域自动负载均衡，SLA可用性达99.99%，已成为国内推理API市场份额第二的服务商。</p>`},
+  'n-l4-1':{layer:'l4',cat:'L4 · 交互Agent',title:'ChatGPT Agent 模式全面升级，可自主操控电脑完成工作',src:'OpenAI Blog',time:'2小时前',heat:'28.4K',views:'56.8K',url:'https://openai.com/blog',tags:['ChatGPT','Agent','OpenAI','自动化','L4'],body:`<p>OpenAI发布全新ChatGPT <strong>Operator模式</strong>，可以在用户授权下自主操控浏览器和桌面应用，完成订机票、填表格、管理文件等日常任务，准确率在测试集上达到 <strong>87.3%</strong>。</p>`},
+  'n-l4-2':{layer:'l4',cat:'L4 · 交互Agent',title:'豆包 AI 助手月活突破3亿，成国内最大个人AI助手',src:'字节跳动',time:'6小时前',heat:'16.2K',views:'32.4K',url:'https://www.doubao.com/',tags:['豆包','字节跳动','AI助手','月活','国产'],body:`<p>字节跳动旗下AI助手 <strong>豆包</strong> 月活跃用户突破 <strong>3亿</strong>，成为国内规模最大的个人AI助手产品。新版支持实时语音对话、图片创作和智能文件处理。</p>`},
+  'n-l4-3':{layer:'l4',cat:'L4 · 交互Agent',title:'Perplexity AI Pro 升级：实时搜索+推理融合，答案质量大幅提升',src:'Perplexity Blog',time:'8小时前',heat:'9.8K',views:'19.6K',url:'https://www.perplexity.ai/',tags:['Perplexity','AI搜索','推理','Pro','L4'],body:`<p>Perplexity发布Pro 2.0，将实时搜索与推理模型深度融合，在答案准确性测试中较GPT-4 with Browse高出 <strong>23%</strong>，响应时间缩短至2.1秒。</p>`},
+  'n-l4-4':{layer:'l4',cat:'L4 · 交互Agent',title:'千问 Qwen-Agent 开源框架发布，快速构建企业级 AI Agent',src:'Alibaba DAMO',time:'10小时前',heat:'7.4K',views:'14.8K',url:'https://qwen.readthedocs.io/',tags:['千问','Qwen','开源','Agent框架','阿里巴巴'],body:`<p>阿里巴巴达摩院开源 <strong>Qwen-Agent</strong> 框架，提供工具调用、多Agent协作、记忆管理等完整能力，开发者可在30分钟内部署企业级AI Agent应用。</p>`},
+  'n-l5-1':{layer:'l5',cat:'L5 · 生态商业',title:'微软 Copilot 全面升级，深度集成 Office 365 效率革命来临',src:'Microsoft Blog',time:'6小时前',heat:'15.3K',views:'29.8K',url:'https://blogs.microsoft.com/blog/',tags:['Microsoft','Copilot','Office 365','企业AI','L5'],body:`<p>微软对Microsoft 365 Copilot进行最大规模功能升级，跨应用上下文理解能力全面提升。新版Copilot可同时理解Outlook邮件、Teams会议记录、Excel数据和PPT内容，自动生成跨应用综合摘要，企业用户订阅量环比增长 <strong>340%</strong>。</p>`},
+  'n-l5-2':{layer:'l5',cat:'L5 · 生态商业',title:'阿里云通义系列全线降价50%，开放无限制商业授权',src:'阿里云',time:'4小时前',heat:'13.7K',views:'27.4K',url:'https://www.aliyun.com/',tags:['阿里云','通义','降价','商业授权','L5'],body:`<p>阿里云宣布通义千问系列API全线降价 <strong>50%</strong>，Qwen-Max输入价格降至 <strong>¥0.8/M tokens</strong>，同时开放所有模型的无限制商业授权，企业可免费使用基础版本。</p>`},
+  'n-l5-3':{layer:'l5',cat:'L5 · 生态商业',title:'腾讯混元大模型开放商业授权，全面进军企业AI市场',src:'腾讯新闻',time:'8小时前',heat:'10.4K',views:'20.8K',url:'https://hunyuan.tencent.com/',tags:['腾讯','混元','商业授权','企业AI','L5'],body:`<p>腾讯宣布混元大模型开放企业级商业授权，支持私有化部署，并发布专为金融、医疗、法律行业定制的垂直版本，与腾讯云全系产品深度集成。</p>`},
+};
+
+// Layer colors for badge
+const LC={l0:'bl0',l1:'bl1',l2:'bl2',l3:'bl3',l4:'bl4',l5:'bl5'};
+
+// ── Render helpers ────────────────────────────
+function newsCard(id){
+  const a=ARTICLES[id];if(!a)return'';
+  const lc=a.layer;
+  const col=LAYER_COLOR[lc]||'var(--t2)';
+  return`<div class="news-card" data-article="${id}" style="border-top-color:${col}">
+    <span class="nc-layer ${LC[lc]}">${a.cat}</span>
+    <div class="nc-title">${a.title}</div>
+    <div class="nc-foot">
+      <span class="nc-src">${a.src}</span>
+      <span class="nc-time">${a.time}</span>
+      <span class="nc-views">🔥 ${a.heat}</span>
+    </div>
+  </div>`;
+}
+
+$('news-l2').innerHTML=['n-l2-1','n-l2-2','n-l2-3'].map(newsCard).join('');
+$('news-l1').innerHTML=['n-l1-1','n-l1-2'].map(newsCard).join('');
+$('news-l3').innerHTML=['n-l3-1','n-l3-2','n-l3-3'].map(newsCard).join('');
+$('news-l4').innerHTML=['n-l4-1','n-l4-2','n-l4-3','n-l4-4'].map(newsCard).join('');
+$('news-l5').innerHTML=['n-l5-1','n-l5-2','n-l5-3'].map(newsCard).join('');
+
+// ── L0 Leaders ────────────────────────────────
+const LEADERS=[
+  {avatar:'⚡',name:'黄仁勋',role:'NVIDIA CEO',src:'CES主题演讲',time:'1天前',url:'https://nvidianews.nvidia.com/',quote:'AI工厂将成为未来十年最重要的基础设施。每一个数据中心都将成为AI工厂——消耗数据、产出智能。'},
+  {avatar:'🔴',name:'苏姿丰',role:'AMD CEO',src:'AMD Tech Day',time:'2天前',url:'https://www.amd.com/en/newsroom.html',quote:'AI芯片不是赢家通吃的市场。客户需要多元化选择，而AMD正在提供真正有竞争力的替代方案。'},
+  {avatar:'🌊',name:'李飞飞',role:'Stanford·世界实验室',src:'Nature论文',time:'3天前',url:'https://hai.stanford.edu/',quote:'空间智能是通往AGI的关键路径。机器需要理解物理世界的三维结构，才能真正具备与人类相当的理解能力。'},
+  {avatar:'🧬',name:'Demis Hassabis',role:'Google DeepMind CEO',src:'Science采访',time:'4天前',url:'https://deepmind.google/',quote:'我们距离能够进行科学发现的AI不再遥远。AlphaFold只是开始——下一个十年，AI将重新定义生命科学的边界。'},
+  {avatar:'🤖',name:'Andrej Karpathy',role:'前OpenAI·独立研究员',src:'Twitter/X',time:'5小时前',url:'https://twitter.com/karpathy',quote:'2026年AI领域最被低估的进展是端侧推理。当模型可以在手机上完整运行，AI的普及才真正开始。'},
+  {avatar:'📊',name:'Peter Steinberger',role:'PSPDFKit CEO',src:'Substack',time:'2天前',url:'https://pspdfkit.com/',quote:'AI正在从开发者工具转变为基础设施。未来的软件公司不会"集成AI"——它们本身就将是AI原生的。'},
+];
+$('leader-grid').innerHTML=LEADERS.map(l=>`
+  <a class="leader-card" href="${l.url}" target="_blank" rel="noopener noreferrer">
+    <div class="lc-who">
+      <div class="lc-avatar">${l.avatar}</div>
+      <div><div class="lc-name">${l.name}</div><div class="lc-role">${l.role}</div></div>
+    </div>
+    <div class="lc-quote">「${l.quote}」</div>
+    <div class="lc-foot"><span class="lc-src">${l.src}</span><span class="lc-time">${l.time}</span></div>
+  </a>
+`).join('');
+
+// ── Hardware cards ────────────────────────────
+const HW=[
+  {ico:'⚡',name:'NVIDIA Blackwell Ultra',spec:'192GB HBM3e · 8TB/s · 20 PF FP8',desc:'AI推理旗舰GPU，较H100推理吞吐提升5倍',url:'https://www.nvidia.com/'},
+  {ico:'🔴',name:'AMD MI350X',spec:'288GB HBM3 · 5.3TB/s · ROCm 6.2',desc:'性价比最强AI加速卡，量产进入云厂商',url:'https://www.amd.com/'},
+  {ico:'☁️',name:'Google TPU v6',spec:'460 TFLOPs · 4096 Pods 可扩展',desc:'面向超大规模训练的云端AI算力服务',url:'https://cloud.google.com/tpu'},
+  {ico:'🍎',name:'Apple M4 Ultra',spec:'192GB统一内存 · 800GB/s · Neural Engine',desc:'端侧运行700亿参数模型，55 tokens/秒',url:'https://www.apple.com/newsroom/'},
+];
+$('hw-grid').innerHTML=HW.map(h=>`
+  <a class="hw-card" href="${h.url}" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+    <div class="hw-icon">${h.ico}</div>
+    <div class="hw-name">${h.name}</div>
+    <div class="hw-spec">${h.spec}</div>
+    <div class="hw-desc">${h.desc}</div>
+  </a>
+`).join('');
+
+// ── Leaderboard ───────────────────────────────
+const BAR_COLORS=['var(--l2)','var(--l1)','var(--l3)','var(--l0)','#fb923c','#f472b6'];
+function renderLB(id,rows,scoreKey){
+  $(id).innerHTML=rows.map((m,i)=>`
+    <div class="lb-row">
+      <div class="lb-rank ${i===0?'r1':i===1?'r2':i===2?'r3':''}">${String(i+1).padStart(2,'0')}</div>
+      <div class="lb-info"><div class="lb-name">${m.name}</div><div class="lb-org">${m.org}</div></div>
+      <div class="lb-bar-track"><div class="lb-bar-fill" data-pct="${m.pct}" style="background:${BAR_COLORS[i]}"></div></div>
+      <div class="lb-score">${m[scoreKey]}</div>
+      <div class="lb-delta ${m.d.startsWith('+')?'up':m.d==='-'?'flat':'down'}">${m.d}</div>
+    </div>
+  `).join('');
+}
+renderLB('lb-main',[
+  {name:'GPT-5',         org:'OpenAI',    pct:98,score:1387,d:'+12'},
+  {name:'Claude 4 Opus', org:'Anthropic', pct:95,score:1352,d:'+8'},
+  {name:'Gemini 2.5 Ultra',org:'Google',  pct:92,score:1318,d:'+5'},
+  {name:'DeepSeek R3',   org:'DeepSeek',  pct:90,score:1295,d:'+18'},
+  {name:'Llama 4 405B',  org:'Meta',      pct:87,score:1268,d:'+3'},
+  {name:'Kimi k2',       org:'Moonshot',  pct:84,score:1241,d:'+9'},
+],'score');
+renderLB('lb-code',[
+  {name:'GPT-5',            org:'OpenAI',   pct:98,score:'94.2%',d:'+3.1%'},
+  {name:'Claude 4 Sonnet',  org:'Anthropic',pct:95,score:'91.8%',d:'+5.2%'},
+  {name:'DeepSeek Coder V3',org:'DeepSeek', pct:92,score:'89.4%',d:'+7.8%'},
+  {name:'Gemini 2.5 Pro',   org:'Google',   pct:89,score:'87.1%',d:'+2.3%'},
+  {name:'Qwen 2.5 Coder',   org:'Alibaba',  pct:85,score:'84.6%',d:'+6.5%'},
+  {name:'Kimi k2',          org:'Moonshot', pct:82,score:'82.3%',d:'+4.1%'},
+],'score');
+setTimeout(()=>{document.querySelectorAll('.lb-bar-fill').forEach(b=>{b.style.width=b.dataset.pct+'%'})},200);
+
+// ── Tools ─────────────────────────────────────
+const TOOLS=[
+  {ico:'⚡',name:'Cursor',    desc:'AI代码编辑器 · 智能补全与重构',stars:'48.2K',growth:'+1.2K 本周',bg:'var(--l2a)',url:'https://cursor.com/'},
+  {ico:'🔍',name:'Perplexity',desc:'AI搜索引擎 · 实时问答',         stars:'32.7K',growth:'+890 本周', bg:'var(--l1a)',url:'https://perplexity.ai/'},
+  {ico:'🤖',name:'Manus',     desc:'通用AI Agent · 自主任务执行',   stars:'61.4K',growth:'+8.2K 本周',bg:'var(--l4a)',url:'https://manus.im/'},
+  {ico:'🎵',name:'Suno AI',   desc:'AI音乐生成 · 一句话作曲',       stars:'28.4K',growth:'+2.1K 本周',bg:'var(--l3a)',url:'https://suno.ai/'},
+  {ico:'🎬',name:'Kling AI',  desc:'AI视频生成 · 高清长视频',        stars:'21.9K',growth:'+1.5K 本周',bg:'var(--l0a)',url:'https://klingai.com/'},
+  {ico:'🔗',name:'Dify',      desc:'AI应用开发平台 · 开源可部署',   stars:'45.1K',growth:'+3.2K 本周',bg:'var(--l5a)',url:'https://dify.ai/'},
+];
+$('tools-grid').innerHTML=TOOLS.map(t=>`
+  <a class="tool-row" href="${t.url}" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+    <div class="tool-ico" style="background:${t.bg}">${t.ico}</div>
+    <div class="tool-body"><div class="tool-name">${t.name}</div><div class="tool-desc">${t.desc}</div></div>
+    <div class="tool-stat"><span class="tool-stars">⭐ ${t.stars}</span><span class="tool-growth">▲ ${t.growth}</span></div>
+  </a>
+`).join('');
+
+// ── Community ─────────────────────────────────
+const COMM=[
+  {plat:'Reddit', badge:'pb-reddit', title:'[讨论] GPT-5 vs Claude 4 Opus，谁才是2026最强模型？附详细横评', votes:'4.2K',comments:'892',time:'2h前',url:'https://reddit.com/r/MachineLearning'},
+  {plat:'HN',     badge:'pb-hn',     title:'Ask HN: How will GPT-5 reshape software engineering in 2026?',   votes:'2.8K',comments:'634',time:'3h前',url:'https://news.ycombinator.com'},
+  {plat:'Twitter',badge:'pb-twitter',title:'Andrej Karpathy：2026年AI最被低估的进展是端侧推理突破',         votes:'18.9K',comments:'2.1K',time:'4h前',url:'https://twitter.com/karpathy'},
+  {plat:'GitHub', badge:'pb-github', title:'open-llm-leaderboard: 开源模型综合评测榜单 v12 重磅更新',        votes:'6.7K',comments:'312',time:'5h前',url:'https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard'},
+  {plat:'Reddit', badge:'pb-reddit', title:'Manus vs ChatGPT Operator - 深度对比体验（2026最新版）',         votes:'3.4K',comments:'567',time:'6h前',url:'https://reddit.com/r/artificial'},
+  {plat:'HN',     badge:'pb-hn',     title:'Show HN: I built a local AI assistant using Llama 4 on iPhone',  votes:'1.9K',comments:'428',time:'8h前',url:'https://news.ycombinator.com'},
+  {plat:'Twitter',badge:'pb-twitter',title:'黄仁勋在CES演讲：AI工厂将成为未来十年最重要的基础设施',         votes:'22.4K',comments:'3.1K',time:'1天前',url:'https://twitter.com/NvidiaAI'},
+  {plat:'GitHub', badge:'pb-github', title:'deepseek-ai/DeepSeek-R3: Technical report & model weights released',votes:'29.3K',comments:'1.2K',time:'1天前',url:'https://github.com/deepseek-ai'},
+];
+$('comm-grid').innerHTML=COMM.map(d=>`
+  <a class="disc-card" href="${d.url}" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+    <div class="disc-plat"><span class="plat-badge ${d.badge}">${d.plat}</span></div>
+    <div class="disc-title">${d.title}</div>
+    <div class="disc-stats">
+      <span class="d-stat">▲ <b>${d.votes}</b></span>
+      <span class="d-stat">💬 <b>${d.comments}</b></span>
+      <span class="d-stat">${d.time}</span>
+    </div>
+  </a>
+`).join('');
+
+// ── Drawer ────────────────────────────────────
+const overlay=$('overlay'),drawer=$('drawer'),drBody=$('dr-body'),drCrumb=$('dr-crumb-lbl');
+$('dr-close').addEventListener('click',closeArticle);
+overlay.addEventListener('click',closeArticle);
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closeArticle()});
+
+function openArticle(id){
+  const a=ARTICLES[id];if(!a)return;
+  const col=LAYER_COLOR[a.layer]||'var(--l2)';
+  drCrumb.textContent=a.cat;
+  drBody.innerHTML=`
+    <div class="dr-cat" style="color:${col}">${a.cat}</div>
+    <div class="dr-title">${a.title}</div>
+    <div class="dr-meta">
+      <div class="dr-mi"><span class="dr-mlbl">来源</span><span class="dr-mval">${a.src}</span></div>
+      <div class="dr-divl"></div>
+      <div class="dr-mi"><span class="dr-mlbl">时间</span><span class="dr-mval">${a.time}</span></div>
+      <div class="dr-divl"></div>
+      <div class="dr-mi"><span class="dr-mlbl">热度</span><span class="dr-mval dr-heat">🔥 ${a.heat}</span></div>
+      <div class="dr-divl"></div>
+      <div class="dr-mi"><span class="dr-mlbl">阅读</span><span class="dr-mval">👁 ${a.views}</span></div>
+    </div>
+    <div class="dr-content">${a.body}</div>
+    <div class="dr-tags">${a.tags.map(t=>`<span class="dr-tag">${t}</span>`).join('')}</div>
+    <a class="dr-ext" href="${a.url}" target="_blank" rel="noopener noreferrer">↗ 查看原文</a>
+  `;
+  drawer.scrollTop=0;
+  overlay.classList.add('open');
+  drawer.classList.add('open');
+  document.body.style.overflow='hidden';
+}
+function closeArticle(){
+  overlay.classList.remove('open');
+  drawer.classList.remove('open');
+  document.body.style.overflow='';
+}
+document.addEventListener('click',e=>{
+  const c=e.target.closest('[data-article]');
+  if(c)openArticle(c.dataset.article);
+});
+
+// ── Live Data Loader ──────────────────────────────
+(async()=>{
+  try{
+    const res=await fetch('./data.json?t='+Date.now());
+    if(!res.ok)return;
+    const d=await res.json();
+
+    // Merge articles into global ARTICLES object
+    if(d.articles&&Object.keys(d.articles).length){
+      Object.assign(ARTICLES,d.articles);
+    }
+
+    // Re-render layer news sections
+    if(d.by_layer){
+      const slices={l2:3,l1:2,l3:3,l4:4,l5:3};
+      Object.entries(slices).forEach(([layer,n])=>{
+        const ids=(d.by_layer[layer]||[]).slice(0,n);
+        if(ids.length){
+          const el=document.getElementById('news-'+layer);
+          if(el)el.innerHTML=ids.map(newsCard).join('');
+        }
+      });
+      // Update total article counter
+      const total=Object.values(d.by_layer).reduce((s,a)=>s+a.length,0);
+      if(total>0){
+        const el=$('counter');
+        let cur=0;const step=()=>{cur=Math.min(cur+Math.ceil(total/30),total);el.textContent=cur;if(cur<total)requestAnimationFrame(step);};
+        requestAnimationFrame(step);
+      }
+    }
+
+    // Update ticker
+    if(d.ticker&&d.ticker.length){
+      $('ticker').innerHTML=[...d.ticker,...d.ticker].map(i=>
+        `<div class="ticker-item"><span class="t-tag" style="color:${i.col};background:${i.col}22">${i.tag}</span>${i.text}</div>`
+      ).join('');
+    }
+
+    // Update community grid
+    if(d.community&&d.community.length){
+      $('comm-grid').innerHTML=d.community.slice(0,8).map(c=>`
+        <a class="disc-card" href="${c.url}" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+          <div class="disc-plat"><span class="plat-badge ${c.badge||'pb-hn'}">${c.platform}</span></div>
+          <div class="disc-title">${c.title}</div>
+          <div class="disc-stats">
+            <span class="d-stat">▲ <b>${c.votes}</b></span>
+            <span class="d-stat">💬 <b>${c.comments}</b></span>
+            <span class="d-stat">${c.time}</span>
+          </div>
+        </a>
+      `).join('');
+    }
+
+    // Update date display with last-fetched time
+    if(d.updated_at){
+      const dt=new Date(d.updated_at);
+      $('hdate').textContent=dt.getFullYear()+'.'+String(dt.getMonth()+1).padStart(2,'0')+'.'+String(dt.getDate()).padStart(2,'0');
+    }
+
+    console.log('✅ Live data loaded:',d.updated_at,'|',d.article_count,'articles');
+  }catch(e){
+    console.log('ℹ Using embedded demo data');
+  }
+})();
+</script>
+</body>
+</html>
