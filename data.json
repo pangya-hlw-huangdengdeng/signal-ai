@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-01T01:28:19.522743+00:00",
-  "article_count": 157,
+  "updated_at": "2026-04-01T01:45:54.103542+00:00",
+  "article_count": 135,
   "articles": {
     "a57298c83": {
       "layer": "l2",
@@ -8,19 +8,32 @@
       "title": "Improve coding agents’ performance with Gemini API Docs MCP and Agent Skills.",
       "src": "Google AI Blog",
       "time": "刚刚",
-      "published_ts": 1775006846,
+      "published_ts": 1775007946,
       "heat": "34.5K",
       "views": "34.5K",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-docsmcp-agent-skills/",
       "tags": [],
       "body": "<p>Gemini API Skills</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
+    "ab7dd9188": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+      "src": "TechCrunch AI",
+      "time": "2分钟前",
+      "published_ts": 1775007779,
+      "heat": "27.0K",
+      "views": "27.0K",
+      "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+      "tags": [],
+      "body": "<p>The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a3d21a748": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "The best deals to shop during the last few hours of Amazon’s Big Spring Sale",
       "src": "The Verge",
-      "time": "13分钟前",
+      "time": "31分钟前",
       "published_ts": 1775006070,
       "heat": "24.0K",
       "views": "24.0K",
@@ -33,26 +46,13 @@
       "cat": "L4 · 交互Agent",
       "title": "Amazon&#8217;s Big Spring Sale 2026: all of the latest deals",
       "src": "The Verge",
-      "time": "42分钟前",
+      "time": "1小时前",
       "published_ts": 1775004300,
       "heat": "21.1K",
       "views": "24.0K",
       "url": "https://www.theverge.com/gadgets/897580/amazon-big-spring-sale-2026-deals-news",
       "tags": [],
       "body": "<p>If you&#8217;re looking for the best time to get a deal this spring, it might very well be during Amazon&#8217;s Big Spring Sale, which runs through 11:59PM PT tonight. We’re still highlighting the best that the sale has to offer, including the many so-called “doorbuster” deals that will appear throughout the remainder of the seasonal [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a6d61b163": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Arm Makes Chips!",
-      "src": "The Chip Letter",
-      "time": "1小时前",
-      "published_ts": 1775001694,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://thechipletter.substack.com/p/arm-makes-chips",
-      "tags": [],
-      "body": "<p>Is Arm getting its hands on its customers' business?</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "aa377abfc": {
       "layer": "l4",
@@ -61,7 +61,7 @@
       "src": "TechCrunch AI",
       "time": "1小时前",
       "published_ts": 1775001506,
-      "heat": "27.0K",
+      "heat": "23.8K",
       "views": "27.0K",
       "url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
       "tags": [],
@@ -85,7 +85,7 @@
       "cat": "L3 · 推理工程",
       "title": "Supply Chain Attack on Axios Pulls Malicious Dependency from npm",
       "src": "Simon Willison",
-      "time": "1小时前",
+      "time": "2小时前",
       "published_ts": 1774999720,
       "heat": "15.0K",
       "views": "15.0K",
@@ -100,8 +100,8 @@
       "src": "TechCrunch AI",
       "time": "2小时前",
       "published_ts": 1774997185,
-      "heat": "23.8K",
-      "views": "27.0K",
+      "heat": "20.5K",
+      "views": "23.8K",
       "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
       "tags": [],
       "body": "<p>Slack just got a whole lot more useful.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -111,7 +111,7 @@
       "cat": "L2 · 基础模型",
       "title": "Claude Dispatch and the Power of Interfaces",
       "src": "One Useful Thing",
-      "time": "2小时前",
+      "time": "3小时前",
       "published_ts": 1774996477,
       "heat": "15.0K",
       "views": "15.0K",
@@ -139,8 +139,8 @@
       "src": "TechCrunch AI",
       "time": "4小时前",
       "published_ts": 1774992304,
-      "heat": "20.5K",
-      "views": "23.8K",
+      "heat": "17.3K",
+      "views": "20.5K",
       "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
       "tags": [],
       "body": "<p>OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -176,7 +176,7 @@
       "cat": "L2 · 基础模型",
       "title": "llm 0.30",
       "src": "Simon Willison",
-      "time": "4小时前",
+      "time": "5小时前",
       "published_ts": 1774989351,
       "heat": "9.6K",
       "views": "11.4K",
@@ -191,8 +191,8 @@
       "src": "TechCrunch AI",
       "time": "5小时前",
       "published_ts": 1774987267,
-      "heat": "17.3K",
-      "views": "20.5K",
+      "heat": "14.0K",
+      "views": "17.3K",
       "url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
       "tags": [],
       "body": "<p>Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -228,10 +228,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
       "src": "TechCrunch AI",
-      "time": "7小时前",
+      "time": "8小时前",
       "published_ts": 1774978895,
-      "heat": "14.0K",
-      "views": "17.3K",
+      "heat": "10.8K",
+      "views": "14.0K",
       "url": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/",
       "tags": [],
       "body": "<p>You can now order from Uber Eats and Grubhub using Alexa+, an experience Amazon says will be similar to chatting with a waiter at a restaurant or placing an order at a drive-thru.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -280,7 +280,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Nvidia DLSS 4.5 Dynamic MFG plus 5X and 6X framegen modes enter beta for RTX 50-series users — update offers greater control over generated frame rates and more headroom for high-refresh-rate displays",
       "src": "Tom's Hardware",
-      "time": "8小时前",
+      "time": "9小时前",
       "published_ts": 1774974595,
       "heat": "9.6K",
       "views": "11.4K",
@@ -332,7 +332,7 @@
       "cat": "L3 · 推理工程",
       "title": "llm-echo 0.3",
       "src": "Simon Willison",
-      "time": "9小时前",
+      "time": "10小时前",
       "published_ts": 1774971806,
       "heat": "6.0K",
       "views": "7.8K",
@@ -352,19 +352,6 @@
       "url": "https://blogs.nvidia.com/blog/energy-efficiency-ai-factories-grid/",
       "tags": [],
       "body": "<p>CERAWeek — dubbed the Davos of energy — is where policymakers, producers, technologists and financiers gather to discuss how the world powers itself next. NVIDIA and Emerald AI unveiled at the conference last week a new way forward — treating AI factories not as static power loads but as flexible, intelligent grid assets. This collaboration [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a4ca6f891": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
-      "src": "TechCrunch AI",
-      "time": "10小时前",
-      "published_ts": 1774969200,
-      "heat": "10.8K",
-      "views": "14.0K",
-      "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
-      "tags": [],
-      "body": "<p>The company turns footage from robots into structured, searchable datasets with a deep learning model.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a480a6787": {
       "layer": "l1",
@@ -665,19 +652,6 @@
       "tags": [],
       "body": "<p>Mistral is one of the world's leading frontier model labs, and has just launched Voxtral TTS, their latest step in their strategy to offer open frontier intelligence for every modality.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "ae8f8c2f5": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "“CEO said a thing!”",
-      "src": "Gary Marcus",
-      "time": "1天前",
-      "published_ts": 1774896795,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://garymarcus.substack.com/p/ceo-said-a-thing",
-      "tags": [],
-      "body": "<p>A blistering guide to what lazy journalism too often looks like</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "af10fe1ec": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
@@ -743,19 +717,6 @@
       "tags": [],
       "body": "<p>A traditional data center protects the expensive hardware inside it with a “shell” constructed from steel and concrete. Constructing a data center’s shell is inexpensive compared to the cost of the hardware and infrastructure inside it, but it’s not trivial. It takes time for engineers to consider potential sites, apply for permits, and coordinate with construction contractors. That’s a problem fo</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a4f9338ea": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Import AI 451: Political superintelligence; Google's society of minds, and a robot drummer",
-      "src": "Import AI",
-      "time": "1天前",
-      "published_ts": 1774873693,
-      "heat": "19.5K",
-      "views": "19.5K",
-      "url": "https://importai.substack.com/p/import-ai-451-political-superintelligence",
-      "tags": [],
-      "body": "<p>Are there any genies that can be put back in the bottle?</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a6d1da5e0": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
@@ -768,19 +729,6 @@
       "url": "https://openai.com/index/helping-disaster-response-teams-asia",
       "tags": [],
       "body": "<p>AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a54c52688": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "The mirage of visual understanding in current frontier models",
-      "src": "Gary Marcus",
-      "time": "2天前",
-      "published_ts": 1774794756,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://garymarcus.substack.com/p/the-mirage-of-visual-understanding",
-      "tags": [],
-      "body": "<p>When a model achieves a &#8220;top rank on a standard chest X-ray question-answering benchmark without access to any images&#8221; you know something is deeply wrong.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "aaa768fa4": {
       "layer": "l2",
@@ -878,7 +826,7 @@
       "cat": "L4 · 交互Agent",
       "title": "[AINews] Everything is CLI",
       "src": "Latent Space",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1774575346,
       "heat": "12.5K",
       "views": "14.8K",
@@ -989,19 +937,6 @@
       "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
       "tags": [],
       "body": "<p>Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing one called PatternBoost that François Charton, now a research scientist at Axiom, co-developed in 2024&#8230;</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ac708eb26": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "War and AI, the death of Sora, and 3 ways you can catch me live today",
-      "src": "Gary Marcus",
-      "time": "6天前",
-      "published_ts": 1774445800,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://garymarcus.substack.com/p/war-and-ai-the-death-of-sora-and",
-      "tags": [],
-      "body": "<p>With apologies for the short notice, a few quick announcements:</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a16c89108": {
       "layer": "l0",
@@ -1120,19 +1055,6 @@
       "tags": [],
       "body": "<p>Artificial intelligence has rapidly emerged as one of the most critical workloads in modern computing. For the vast majority of enterprises, this workload runs on Kubernetes, an open source platform that automates the deployment, scaling and management of containerized applications. To help the global developer community manage high-performance AI infrastructure with greater transparency and effic</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a062d4c6a": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Import AI 450: China's electronic warfare model; traumatized LLMs; and a scaling law for cyberattacks",
-      "src": "Import AI",
-      "time": "8天前",
-      "published_ts": 1774269105,
-      "heat": "17.2K",
-      "views": "19.5K",
-      "url": "https://importai.substack.com/p/import-ai-450-chinas-electronic-warfare",
-      "tags": [],
-      "body": "<p>How will timeless minds value time?</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a774f3120": {
       "layer": "l3",
       "cat": "L3 · 推理工程",
@@ -1224,19 +1146,6 @@
       "tags": [],
       "body": "<p>the era of vibe-coding is over</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "aebf76b0a": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "F Cancer",
-      "src": "Gary Marcus",
-      "time": "15天前",
-      "published_ts": 1773688237,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://garymarcus.substack.com/p/f-cancer",
-      "tags": [],
-      "body": "<p>The real test of AI</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a3881275e": {
       "layer": "l3",
       "cat": "L3 · 推理工程",
@@ -1249,32 +1158,6 @@
       "url": "https://www.interconnects.ai/p/the-next-phase-of-open-models",
       "tags": [],
       "body": "<p>Markets, capabilities, cope, and bewilderment in the industrialization of language models.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "afa730dd9": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "ImportAI 449: LLMs training other LLMs; 72B distributed training run; computer vision is harder than generative text",
-      "src": "Import AI",
-      "time": "15天前",
-      "published_ts": 1773664250,
-      "heat": "14.8K",
-      "views": "17.2K",
-      "url": "https://importai.substack.com/p/importai-449-llms-training-other",
-      "tags": [],
-      "body": "<p>Will AI cause a political interregnum</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a5ba33dff": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "BREAKING: Expensive new evidence that scaling is not all you need",
-      "src": "Gary Marcus",
-      "time": "17天前",
-      "published_ts": 1773512598,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://garymarcus.substack.com/p/breaking-expensive-new-evidence-that",
-      "tags": [],
-      "body": "<p>Two more colossally expensive experiments have failed</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a84142089": {
       "layer": "l2",
@@ -1289,19 +1172,6 @@
       "tags": [],
       "body": "<p>Even seemingly simple engineering tasks — like updating an API — can become monumental undertakings when you&#8217;re dealing with millions of lines of code and thousands of engineers, especially if the changes are security-related. Nowhere is this more apparent than in mobile security, where a single class of vulnerability can be replicated across hundreds of [...] Read More... The post Patch Me </p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "abc094d22": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Compatibility and Fragmentation in the AI Era",
-      "src": "The Chip Letter",
-      "time": "21天前",
-      "published_ts": 1773190875,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://thechipletter.substack.com/p/compatibility-and-fragmentation-in",
-      "tags": [],
-      "body": "<p>New architectures pose new challenges but AI may help to provide solutions and break down barriers</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a2afbf12d": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
@@ -1314,19 +1184,6 @@
       "url": "https://engineering.fb.com/2026/03/09/security/how-advanced-browsing-protection-works-in-messenger/",
       "tags": [],
       "body": "<p>We’re sharing the technical details behind how Advanced Browsing Protection (ABP) in Messenger protects the privacy of the links clicked on within chats while still warning people about malicious links. We hope that this post has helped to illuminate some of the engineering challenges and infrastructure components involved for providing this feature for our users. [...] Read More... The post How A</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "afa0ca6d4": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Import AI 448: AI R&D; Bytedance's CUDA-writing agent; on-device satellite AI",
-      "src": "Import AI",
-      "time": "22天前",
-      "published_ts": 1773060354,
-      "heat": "12.5K",
-      "views": "14.8K",
-      "url": "https://importai.substack.com/p/import-ai-448-ai-r-and-d-bytedances",
-      "tags": [],
-      "body": "<p>If Ukraine is the first major drone war, when will there be the first major AI war?</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a74239e42": {
       "layer": "l3",
@@ -1354,32 +1211,6 @@
       "tags": [],
       "body": "<p>The latest Olmo model and discussions at the frontier of open-source post training tools.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a1bd39f54": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Nvidia's Groq Plot Thickens",
-      "src": "The Chip Letter",
-      "time": "27天前",
-      "published_ts": 1772634669,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://thechipletter.substack.com/p/nvidias-groq-plot-thickens",
-      "tags": [],
-      "body": "<p>Jonathan Ross 'Builds Fast'</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a48ae2f55": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Import AI 447: The AGI economy; testing AIs with generated games; and agent ecologies",
-      "src": "Import AI",
-      "time": "29天前",
-      "published_ts": 1772459127,
-      "heat": "10.1K",
-      "views": "12.5K",
-      "url": "https://importai.substack.com/p/import-ai-447-the-agi-economy-testing",
-      "tags": [],
-      "body": "<p>What might a superintelligence arcology be like?</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a23fdeba7": {
       "layer": "l3",
       "cat": "L3 · 推理工程",
@@ -1392,32 +1223,6 @@
       "url": "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
       "tags": [],
       "body": "<p>A Round Up And Comparison of 10 Open-Weight LLM Releases in Spring 2026</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ac21f83a4": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "New Paper: Towards a science of AI agent reliability",
-      "src": "AI Snake Oil",
-      "time": "35天前",
-      "published_ts": 1771938439,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
-      "tags": [],
-      "body": "<p>Quantifying the capability-reliability gap</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a8d042f67": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Import AI 446: Nuclear LLMs; China's big AI benchmark; measurement and AI policy",
-      "src": "Import AI",
-      "time": "36天前",
-      "published_ts": 1771853478,
-      "heat": "7.8K",
-      "views": "10.1K",
-      "url": "https://importai.substack.com/p/import-ai-446-nuclear-llms-chinas",
-      "tags": [],
-      "body": "<p>Will AIs be jealous of one another?</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a0a86adb8": {
       "layer": "l0",
@@ -1444,32 +1249,6 @@
       "url": "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
       "tags": [],
       "body": "<p>It's not just chatbots anymore</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a851001d8": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "AI Won’t Automatically Make Legal Services Cheaper",
-      "src": "AI Snake Oil",
-      "time": "47天前",
-      "published_ts": 1770924365,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
-      "tags": [],
-      "body": "<p>Applying the AI as Normal Technology framework to legal services</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a4ef3ec91": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "The Origins and Limitations of AMD's Historic Revival",
-      "src": "The Chip Letter",
-      "time": "47天前",
-      "published_ts": 1770885452,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://thechipletter.substack.com/p/the-origins-and-limitations-of-amds",
-      "tags": [],
-      "body": "<p>Hector Ruiz almost oversaw AMD's end in the 2000s but the risks paid off - eventually!</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a9560485f": {
       "layer": "l4",
@@ -1718,19 +1497,6 @@
       "tags": [],
       "body": "<p>Nvidia announced the Rubin CPX, a solution that is specifically designed to be optimized for the prefill phase, with the single-die Rubin CPX heavily emphasizing compute FLOPS over memory bandwidth. This is a game changer for inference, and its significance is surpassed only by the March 2024 announcement of the GB200 NVL72 Oberon rack-scale form [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a0ad845ec": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "A guide to understanding AI as normal technology",
-      "src": "AI Snake Oil",
-      "time": "203天前",
-      "published_ts": 1757422840,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
-      "tags": [],
-      "body": "<p>And a big change for this newsletter</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a472cb971": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
@@ -1782,19 +1548,6 @@
       "url": "https://semianalysis.com/2025/08/13/gpt-5-ad-monetization-and-the-superapp/",
       "tags": [],
       "body": "<p>To many power users (Pro and Plus), GPT5 was a disappointing release. But with closer inspection, the real release is focused on the vast majority of ChatGPT’s users, which is the 700m+ free userbase that is growing rapidly. Power users should be disappointed; this release wasn’t for them. The real consumer opportunity for OpenAI lies [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a075bc999": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Could AI slow science?",
-      "src": "AI Snake Oil",
-      "time": "258天前",
-      "published_ts": 1752701756,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://www.normaltech.ai/p/could-ai-slow-science",
-      "tags": [],
-      "body": "<p>Confronting the production-progress paradox</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a040f39c9": {
       "layer": "l0",
@@ -2003,45 +1756,6 @@
       "url": "https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/",
       "tags": [],
       "body": "<p>The use of large language models in the real world has strongly accelerated by the launch of ChatGPT. We (including my team at OpenAI, shoutout to them) have invested a lot of effort to build default safe behavior into the model during the alignment process (e.g. via RLHF ). However, adversarial attacks or jailbreak prompts could potentially trigger the model to output something undesired. A large</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ac4047dd9": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "How I think about LLM prompt engineering",
-      "src": "François Chollet",
-      "time": "904天前",
-      "published_ts": 1696846683,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://fchollet.substack.com/p/how-i-think-about-llm-prompt-engineering",
-      "tags": [],
-      "body": "<p>Prompting as searching through a space of vector programs</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ace7145b5": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "AI is cognitive automation, not cognitive autonomy",
-      "src": "François Chollet",
-      "time": "1219天前",
-      "published_ts": 1669656738,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://fchollet.substack.com/p/ai-is-cognitive-automation-not-cognitive",
-      "tags": [],
-      "body": "<p>Like the rest of computer science, AI is about making computers do more, not replacing humans.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a52684830": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Education as civilization-building",
-      "src": "François Chollet",
-      "time": "1234天前",
-      "published_ts": 1668376598,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://fchollet.substack.com/p/education-as-civilization-building",
-      "tags": [],
-      "body": "<p>Today, there is too much focus on education as job training. Here's a better framework: education as a process of civilization-building &#8212; as a tool to maximize human potential.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     }
   },
   "by_layer": {
@@ -2064,7 +1778,6 @@
       "a12c0bda3",
       "af10fe1ec",
       "a6d1da5e0",
-      "a54c52688",
       "aaa768fa4",
       "a0e3364e8",
       "a980395cd",
@@ -2076,7 +1789,6 @@
       "a84142089",
       "a2afbf12d",
       "a0a523c9e",
-      "a8d042f67",
       "a06dfbaf7",
       "a7e4991c9",
       "a94c96601",
@@ -2086,12 +1798,21 @@
       "a0b43a2bc",
       "ab3119897",
       "af0f189d1",
-      "a38ad1236",
-      "a52684830"
+      "a38ad1236"
+    ],
+    "l5": [
+      "ab7dd9188",
+      "a647a4594",
+      "adacfd039",
+      "a184f6958",
+      "af2b76745",
+      "a87cee5df",
+      "aabc32226",
+      "a845518ec",
+      "a475feb08"
     ],
     "l1": [
       "a3d21a748",
-      "a6d61b163",
       "a2c474a05",
       "a612d4a9a",
       "ab90ecaa8",
@@ -2108,7 +1829,6 @@
       "aa7d4a0f0",
       "a88e4d0c6",
       "a82fd009b",
-      "a4f9338ea",
       "a7ac997d1",
       "ab019a7c6",
       "a43203d10",
@@ -2117,9 +1837,6 @@
       "a5ffa92b8",
       "a38dc4cce",
       "a8855690f",
-      "abc094d22",
-      "a1bd39f54",
-      "a4ef3ec91",
       "aa916162d",
       "a59c2fbb4",
       "a6bee3694",
@@ -2136,7 +1853,6 @@
       "ad7db63ec",
       "aa2d846a4",
       "a98fd3521",
-      "a4ca6f891",
       "af9855755",
       "a42efc8b4",
       "a8e5da7e6",
@@ -2146,8 +1862,6 @@
       "a5c8dba25",
       "ada6572c3",
       "afa7f7e2e",
-      "afa0ca6d4",
-      "ac21f83a4",
       "af25d02a4",
       "a9560485f",
       "a61a8adff",
@@ -2167,34 +1881,16 @@
       "a0ffb5278",
       "a28f84720"
     ],
-    "l5": [
-      "a647a4594",
-      "adacfd039",
-      "a184f6958",
-      "af2b76745",
-      "a87cee5df",
-      "aabc32226",
-      "a845518ec",
-      "a475feb08"
-    ],
     "l0": [
       "a3c1cafcd",
       "ab9ddb630",
-      "ae8f8c2f5",
       "aebb8d789",
       "a6e469469",
       "a92b8dddf",
-      "ac708eb26",
       "a16c89108",
       "af38549e7",
-      "a062d4c6a",
       "a3318c6a1",
-      "aebf76b0a",
-      "afa730dd9",
-      "a5ba33dff",
-      "a48ae2f55",
       "a0a86adb8",
-      "a851001d8",
       "a6eadb995",
       "a2f2fbafa",
       "a7124d2ed",
@@ -2202,24 +1898,20 @@
       "a57fda39f",
       "a187a50d6",
       "a2fdfcb21",
-      "a0ad845ec",
-      "a075bc999",
       "a040f39c9",
       "a0ab4dd7d",
       "a375099f0",
       "a6a5b4a81",
       "a253e0446",
       "a9173515c",
-      "abcb7b0c4",
-      "ac4047dd9",
-      "ace7145b5"
+      "abcb7b0c4"
     ]
   },
   "top5": [
     "a57298c83",
+    "ab7dd9188",
     "a3d21a748",
     "af2d7cba5",
-    "a6d61b163",
     "aa377abfc"
   ],
   "layers": [
@@ -2229,11 +1921,11 @@
       "name": "基础模型",
       "vals": [
         24,
-        25,
-        7,
-        8,
-        38,
-        23
+        21,
+        32,
+        9,
+        24,
+        24
       ],
       "trend": [
         20,
@@ -2250,11 +1942,11 @@
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        16,
-        27,
+        21,
+        23,
         12,
         8,
-        35,
+        20,
         22
       ],
       "trend": [
@@ -2268,25 +1960,47 @@
       ]
     },
     {
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
+      "vals": [
+        17,
+        10,
+        12,
+        12,
+        19,
+        14
+      ],
+      "trend": [
+        20,
+        19,
+        18,
+        17,
+        16,
+        15,
+        14
+      ]
+    },
+    {
       "id": "l0",
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        23,
-        18,
-        11,
-        7,
-        35,
-        21
+        14,
+        10,
+        8,
+        5,
+        30,
+        18
       ],
       "trend": [
         20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
       ]
     },
     {
@@ -2294,11 +2008,11 @@
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        18,
-        15,
+        10,
+        10,
         6,
         5,
-        18,
+        23,
         16
       ],
       "trend": [
@@ -2312,28 +2026,6 @@
       ]
     },
     {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
-      "vals": [
-        14,
-        10,
-        5,
-        6,
-        11,
-        13
-      ],
-      "trend": [
-        20,
-        18,
-        16,
-        14,
-        12,
-        10,
-        8
-      ]
-    },
-    {
       "id": "l5",
       "num": "LAYER 5",
       "name": "生态商业",
@@ -2342,8 +2034,8 @@
         10,
         5,
         5,
-        10,
-        10
+        13,
+        12
       ],
       "trend": [
         20,
@@ -2363,6 +2055,11 @@
       "text": "Improve coding agents’ performance with Gemini API Docs MCP and A…"
     },
     {
+      "tag": "TECHCRUNC",
+      "col": "var(--l5)",
+      "text": "Mercor says it was hit by cyberattack tied to compromise of open-…"
+    },
+    {
       "tag": "THE VERGE",
       "col": "var(--l1)",
       "text": "The best deals to shop during the last few hours of Amazon’s Big …"
@@ -2371,11 +2068,6 @@
       "tag": "THE VERGE",
       "col": "var(--l4)",
       "text": "Amazon&#8217;s Big Spring Sale 2026: all of the latest deals"
-    },
-    {
-      "tag": "THE CHIP ",
-      "col": "var(--l1)",
-      "text": "Arm Makes Chips!"
     },
     {
       "tag": "TECHCRUNC",
@@ -2434,8 +2126,8 @@
       "badge": "pb-hn",
       "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
       "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-      "votes": "749",
-      "comments": "319",
+      "votes": "780",
+      "comments": "325",
       "time": "近期"
     },
     {
@@ -2443,8 +2135,8 @@
       "badge": "pb-hn",
       "title": "OpenAI closes funding round at an $852B valuation",
       "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-      "votes": "317",
-      "comments": "285",
+      "votes": "327",
+      "comments": "290",
       "time": "近期"
     },
     {
@@ -2452,8 +2144,8 @@
       "badge": "pb-hn",
       "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
       "url": "https://prismml.com/",
-      "votes": "81",
-      "comments": "35",
+      "votes": "89",
+      "comments": "37",
       "time": "近期"
     },
     {
@@ -2461,7 +2153,7 @@
       "badge": "pb-hn",
       "title": "Back to FreeBSD – Part 2 – Jails",
       "url": "https://hypha.pub/back-to-freebsd-part-2",
-      "votes": "41",
+      "votes": "42",
       "comments": "7",
       "time": "近期"
     },
@@ -2470,7 +2162,7 @@
       "badge": "pb-hn",
       "title": "I Traced My Traffic Through a Home Tailscale Exit Node",
       "url": "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/",
-      "votes": "69",
+      "votes": "70",
       "comments": "35",
       "time": "近期"
     },
@@ -2479,7 +2171,7 @@
       "badge": "pb-hn",
       "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
       "url": "https://news.future-shock.ai/the-weight-of-remembering/",
-      "votes": "83",
+      "votes": "85",
       "comments": "5",
       "time": "近期"
     }
