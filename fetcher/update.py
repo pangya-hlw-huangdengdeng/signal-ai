@@ -222,6 +222,8 @@ def time_ago(published_parsed) -> str:
         pub = datetime(*published_parsed[:6], tzinfo=timezone.utc)
         diff = datetime.now(timezone.utc) - pub
         total_mins = int(diff.total_seconds() / 60)
+        if total_mins < 0:
+            return "刚刚"
         if total_mins < 60:
             return f"{total_mins}分钟前"
         if total_mins < 1440:
@@ -229,6 +231,21 @@ def time_ago(published_parsed) -> str:
         return f"{total_mins // 1440}天前"
     except Exception:
         return "近期"
+
+
+def get_published_ts(published_parsed) -> int:
+    """Return Unix timestamp for sorting; cap future dates at now."""
+    if not published_parsed:
+        return 0
+    try:
+        pub = datetime(*published_parsed[:6], tzinfo=timezone.utc)
+        now = datetime.now(timezone.utc)
+        # Cap future-dated articles at current time
+        if pub > now:
+            pub = now
+        return int(pub.timestamp())
+    except Exception:
+        return 0
 
 
 def article_id(title: str) -> str:
@@ -265,13 +282,15 @@ def fetch_rss(feed_id: str, name: str, url: str, hint: str) -> list:
                 continue
 
             layer = classify_layer(title, summary, hint)
+            pp = entry.get("published_parsed")
             articles.append({
                 "id": article_id(title),
                 "layer": layer,
                 "cat": LAYER_CATS[layer],
                 "title": title,
                 "src": name,
-                "time": time_ago(entry.get("published_parsed")),
+                "time": time_ago(pp),
+                "published_ts": get_published_ts(pp),
                 "heat": heat_value(feed_id, i),
                 "views": heat_value(feed_id, i - 1 if i > 0 else 0),
                 "url": link,
@@ -388,19 +407,25 @@ def main():
 
     print(f"\n✅ {len(all_articles)} unique AI articles from RSS feeds")
 
-    # Layer distribution
+    # Sort all articles by published_ts descending (newest first)
+    all_articles.sort(key=lambda a: a.get("published_ts", 0), reverse=True)
+
+    # Layer distribution (preserve time-sorted order within each layer)
     by_layer: dict[str, list[str]] = {}
     for a in all_articles:
         by_layer.setdefault(a["layer"], []).append(a["id"])
     for lid, ids in by_layer.items():
         print(f"   {LAYER_NAMES[lid]}: {len(ids)} articles")
 
+    # Top 5 most recent articles across all layers (for featured section)
+    top5_ids = [a["id"] for a in all_articles[:5]]
+
     # Hacker News
     print("\n  → Hacker News API")
     hn_items = fetch_hn()
     print(f"  ✅ {len(hn_items)} AI discussions from HN")
 
-    # Ticker: top 12 articles sorted by recency
+    # Ticker: top 14 articles sorted by recency
     ticker = []
     col_map = {"l0": "var(--l0)", "l1": "var(--l1)", "l2": "var(--l2)",
                "l3": "var(--l3)", "l4": "var(--l4)", "l5": "var(--l5)"}
@@ -434,6 +459,7 @@ def main():
         "article_count": len(all_articles),
         "articles": articles_dict,
         "by_layer": by_layer,
+        "top5": top5_ids,
         "layers": compute_heatmap(all_articles),
         "ticker": ticker,
         "community": community[:8],

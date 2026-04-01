@@ -58,6 +58,44 @@
     html[data-theme="light"] #drawer { background:var(--bg-2); }
     html[data-theme="light"] .dr-top { background:rgba(255,255,255,.97); }
     html[data-theme="light"] .ticker-bar { background:var(--bg-3); }
+    /* ── WCAG fix: heatmap cells use neon text by default, force dark in light mode ── */
+    html[data-theme="light"] .hm-val { color: rgba(15,24,41,.88) !important; font-weight:800; }
+    html[data-theme="light"] .hm-sublbl { color: rgba(15,24,41,.60) !important; }
+    html[data-theme="light"] .hm-score-val { color: var(--text) !important; }
+    html[data-theme="light"] .hm-lname { color: var(--text); }
+    /* ── Light mode: per-layer section gradient washes ── */
+    html[data-theme="light"] #sec-l0 {
+      background: linear-gradient(160deg, rgba(160,114,0,.06) 0%, rgba(243,245,251,0) 55%);
+      border-radius: 16px; padding: 0 12px 20px; margin: 0 -12px;
+    }
+    html[data-theme="light"] #sec-l1 {
+      background: linear-gradient(160deg, rgba(2,113,168,.06) 0%, rgba(243,245,251,0) 55%);
+      border-radius: 16px; padding: 0 12px 20px; margin: 0 -12px;
+    }
+    html[data-theme="light"] #sec-l2 {
+      background: linear-gradient(160deg, rgba(0,122,82,.06) 0%, rgba(243,245,251,0) 55%);
+      border-radius: 16px; padding: 0 12px 20px; margin: 0 -12px;
+    }
+    html[data-theme="light"] #sec-l3 {
+      background: linear-gradient(160deg, rgba(112,48,192,.06) 0%, rgba(243,245,251,0) 55%);
+      border-radius: 16px; padding: 0 12px 20px; margin: 0 -12px;
+    }
+    html[data-theme="light"] #sec-l4 {
+      background: linear-gradient(160deg, rgba(200,20,58,.06) 0%, rgba(243,245,251,0) 55%);
+      border-radius: 16px; padding: 0 12px 20px; margin: 0 -12px;
+    }
+    html[data-theme="light"] #sec-l5 {
+      background: linear-gradient(160deg, rgba(200,88,0,.06) 0%, rgba(243,245,251,0) 55%);
+      border-radius: 16px; padding: 0 12px 20px; margin: 0 -12px;
+    }
+    html[data-theme="light"] #featured {
+      background: linear-gradient(160deg, rgba(0,122,82,.05) 0%, rgba(243,245,251,0) 60%);
+      border-radius: 16px; padding: 0 12px 20px; margin: 0 -12px;
+    }
+    html[data-theme="light"] #sec-comm {
+      background: linear-gradient(160deg, rgba(66,99,160,.05) 0%, rgba(243,245,251,0) 55%);
+      border-radius: 16px; padding: 0 12px 20px; margin: 0 -12px;
+    }
 
     /* ── THEME TOGGLE ── */
     .theme-toggle{width:32px;height:32px;border-radius:8px;border:1px solid var(--bd-b);background:var(--bg-3);color:var(--t2);display:flex;align-items:center;justify-content:center;cursor:pointer;font-size:14px;flex-shrink:0;padding:0;line-height:1;transition:border-color .2s,color .2s,background .2s}
@@ -500,10 +538,10 @@
         <a class="sec-more" href="#">查看全部 →</a>
       </div>
       <h2>今日头条</h2>
-      <span class="sec-en">Today's Featured · Real-time AI Intelligence · Hourly Update</span>
+      <span class="sec-en">Today's Featured · Real-time AI Intelligence · Sorted by Time</span>
     </div>
-    <div class="hero-grid fade d3">
-      <div class="hero-main" data-article="n01">
+    <div class="hero-grid fade d3" id="featured-grid">
+      <div class="hero-main" data-article="n01" id="featured-hero">
         <div class="ghost-txt">AI</div>
         <div class="hero-cat" style="color:var(--l2)">L2 · 基础模型 · OpenAI</div>
         <div class="hero-title">OpenAI发布GPT-5：多模态推理全面突破，编码与数学测试历史最高分</div>
@@ -514,7 +552,7 @@
           <div class="meta-heat" style="color:var(--l4)">🔥 48.2K 热度</div>
         </div>
       </div>
-      <div class="hero-aside">
+      <div class="hero-aside" id="featured-aside">
         <div class="aside-card" style="border-left-color:var(--l2)" data-article="n02">
           <div class="aside-num">#02 · L2 基础模型</div>
           <div class="aside-title">Anthropic Claude 4 Opus 发布，1M上下文窗口创纪录</div>
@@ -529,6 +567,11 @@
           <div class="aside-num">#04 · L4 交互Agent</div>
           <div class="aside-title">Manus AI Agent正式开放：首个真正自主完成复杂任务的通用AI</div>
           <div class="aside-foot"><span class="aside-src">Manus.im</span><span class="tag" style="color:var(--l4);background:var(--l4a)">🔥 HOT</span></div>
+        </div>
+        <div class="aside-card" style="border-left-color:var(--l3)" data-article="n-l3-1">
+          <div class="aside-num">#05 · L3 推理工程</div>
+          <div class="aside-title">火山方舟推出企业级推理加速服务，响应速度提升10倍</div>
+          <div class="aside-foot"><span class="aside-src">字节跳动技术</span><span class="tag" style="color:var(--l3);background:var(--l3a)">推理</span></div>
         </div>
       </div>
     </div>
@@ -1023,9 +1066,46 @@ document.addEventListener('click',e=>{
       Object.assign(ARTICLES,d.articles);
     }
 
+    // ── Update featured / 今日头条 (top5, newest first) ──────────────────────
+    if(d.top5&&d.top5.length){
+      const top=d.top5.slice(0,5);
+      const hero=top[0]&&ARTICLES[top[0]];
+      if(hero){
+        const col=LAYER_COLOR[hero.layer]||'var(--l2)';
+        const heroEl=$('featured-hero');
+        if(heroEl){
+          heroEl.dataset.article=top[0];
+          heroEl.innerHTML=`
+            <div class="ghost-txt">AI</div>
+            <div class="hero-cat" style="color:${col}">${hero.cat}</div>
+            <div class="hero-title">${hero.title}</div>
+            <p class="hero-excerpt">${hero.body.replace(/<[^>]+>/g,' ').slice(0,160)}…</p>
+            <div class="hero-meta">
+              <span class="meta-src">${hero.src}</span>
+              <span class="meta-time">${hero.time}</span>
+              <div class="meta-heat" style="color:var(--l4)">🔥 ${hero.heat} 热度</div>
+            </div>`;
+        }
+      }
+      // Aside: articles #2–5
+      const asideEl=$('featured-aside');
+      if(asideEl&&top.length>1){
+        const LCOLOR={'l0':'var(--l0)','l1':'var(--l1)','l2':'var(--l2)','l3':'var(--l3)','l4':'var(--l4)','l5':'var(--l5)'};
+        asideEl.innerHTML=top.slice(1).map((id,i)=>{
+          const a=ARTICLES[id];if(!a)return'';
+          const col=LCOLOR[a.layer]||'var(--l2)';
+          return`<div class="aside-card" style="border-left-color:${col}" data-article="${id}">
+            <div class="aside-num">#0${i+2} · ${a.cat}</div>
+            <div class="aside-title">${a.title}</div>
+            <div class="aside-foot"><span class="aside-src">${a.src}</span><span class="aside-src" style="margin-left:auto">${a.time}</span></div>
+          </div>`;
+        }).join('');
+      }
+    }
+
     // Re-render layer news sections
     if(d.by_layer){
-      const slices={l2:3,l1:2,l3:3,l4:4,l5:3};
+      const slices={l0:6,l2:3,l1:2,l3:3,l4:4,l5:3};
       Object.entries(slices).forEach(([layer,n])=>{
         const ids=(d.by_layer[layer]||[]).slice(0,n);
         if(ids.length){

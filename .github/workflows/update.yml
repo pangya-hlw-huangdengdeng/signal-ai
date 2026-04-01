@@ -8,6 +8,8 @@ on:
 jobs:
   update-and-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -24,6 +26,21 @@ jobs:
       - name: Fetch feeds and generate data.json
         run: python fetcher/update.py
 
+      - name: Commit updated data.json
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add data.json
+          git diff --staged --quiet || git commit -m "chore: auto-update feed data [skip ci]"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+
+      - name: Prepare deploy folder
+        run: |
+          mkdir -p /tmp/signal-deploy
+          cp ai-pulse.html /tmp/signal-deploy/
+          cp index.html    /tmp/signal-deploy/
+          cp data.json     /tmp/signal-deploy/
+
       - name: Install Surge CLI
         run: npm install -g surge
 
@@ -31,5 +48,4 @@ jobs:
         env:
           SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
           SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
-        run: |
-          surge . signal-ai-pulse.surge.sh
+        run: surge /tmp/signal-deploy signal-ai-pulse.surge.sh
