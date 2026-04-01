@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01T01:45:54.103542+00:00",
+  "updated_at": "2026-04-01T01:49:51.077809+00:00",
   "article_count": 135,
   "articles": {
     "a57298c83": {
@@ -8,7 +8,7 @@
       "title": "Improve coding agents’ performance with Gemini API Docs MCP and Agent Skills.",
       "src": "Google AI Blog",
       "time": "刚刚",
-      "published_ts": 1775007946,
+      "published_ts": 1775008179,
       "heat": "34.5K",
       "views": "34.5K",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-docsmcp-agent-skills/",
@@ -20,7 +20,7 @@
       "cat": "L5 · 生态商业",
       "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
       "src": "TechCrunch AI",
-      "time": "2分钟前",
+      "time": "6分钟前",
       "published_ts": 1775007779,
       "heat": "27.0K",
       "views": "27.0K",
@@ -33,7 +33,7 @@
       "cat": "L1 · 算力硬件",
       "title": "The best deals to shop during the last few hours of Amazon’s Big Spring Sale",
       "src": "The Verge",
-      "time": "31分钟前",
+      "time": "35分钟前",
       "published_ts": 1775006070,
       "heat": "24.0K",
       "views": "24.0K",
@@ -98,7 +98,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
       "src": "TechCrunch AI",
-      "time": "2小时前",
+      "time": "3小时前",
       "published_ts": 1774997185,
       "heat": "20.5K",
       "views": "23.8K",
@@ -267,7 +267,7 @@
       "cat": "L1 · 算力硬件",
       "title": "llm-echo 0.4",
       "src": "Simon Willison",
-      "time": "8小时前",
+      "time": "9小时前",
       "published_ts": 1774975739,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1242,7 +1242,7 @@
       "cat": "L4 · 交互Agent",
       "title": "A Guide to Which AI to Use in the Agentic Era",
       "src": "One Useful Thing",
-      "time": "41天前",
+      "time": "42天前",
       "published_ts": 1771379141,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1916,37 +1916,15 @@
   ],
   "layers": [
     {
-      "id": "l2",
-      "num": "LAYER 2",
-      "name": "基础模型",
-      "vals": [
-        24,
-        21,
-        32,
-        9,
-        24,
-        24
-      ],
-      "trend": [
-        20,
-        22,
-        24,
-        26,
-        28,
-        30,
-        32
-      ]
-    },
-    {
       "id": "l1",
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        21,
-        23,
+        30,
+        37,
         12,
         8,
-        20,
+        21,
         22
       ],
       "trend": [
@@ -1960,15 +1938,59 @@
       ]
     },
     {
+      "id": "l2",
+      "num": "LAYER 2",
+      "name": "基础模型",
+      "vals": [
+        26,
+        24,
+        10,
+        9,
+        30,
+        24
+      ],
+      "trend": [
+        20,
+        22,
+        24,
+        26,
+        28,
+        30,
+        32
+      ]
+    },
+    {
+      "id": "l4",
+      "num": "LAYER 4",
+      "name": "交互Agent",
+      "vals": [
+        22,
+        23,
+        6,
+        15,
+        23,
+        16
+      ],
+      "trend": [
+        20,
+        19,
+        18,
+        17,
+        16,
+        15,
+        14
+      ]
+    },
+    {
       "id": "l3",
       "num": "LAYER 3",
       "name": "推理工程",
       "vals": [
-        17,
-        10,
-        12,
-        12,
-        19,
+        15,
+        13,
+        13,
+        5,
+        22,
         14
       ],
       "trend": [
@@ -1986,11 +2008,11 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        14,
-        10,
+        12,
+        15,
         8,
         5,
-        30,
+        26,
         18
       ],
       "trend": [
@@ -2004,38 +2026,16 @@
       ]
     },
     {
-      "id": "l4",
-      "num": "LAYER 4",
-      "name": "交互Agent",
-      "vals": [
-        10,
-        10,
-        6,
-        5,
-        23,
-        16
-      ],
-      "trend": [
-        20,
-        19,
-        18,
-        17,
-        16,
-        15,
-        14
-      ]
-    },
-    {
       "id": "l5",
       "num": "LAYER 5",
       "name": "生态商业",
       "vals": [
-        10,
+        11,
         10,
         5,
         5,
         13,
-        12
+        10
       ],
       "trend": [
         20,
@@ -2126,8 +2126,8 @@
       "badge": "pb-hn",
       "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
       "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-      "votes": "780",
-      "comments": "325",
+      "votes": "781",
+      "comments": "326",
       "time": "近期"
     },
     {
@@ -2135,8 +2135,8 @@
       "badge": "pb-hn",
       "title": "OpenAI closes funding round at an $852B valuation",
       "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-      "votes": "327",
-      "comments": "290",
+      "votes": "328",
+      "comments": "291",
       "time": "近期"
     },
     {
@@ -2153,7 +2153,7 @@
       "badge": "pb-hn",
       "title": "Back to FreeBSD – Part 2 – Jails",
       "url": "https://hypha.pub/back-to-freebsd-part-2",
-      "votes": "42",
+      "votes": "43",
       "comments": "7",
       "time": "近期"
     },
@@ -2162,7 +2162,7 @@
       "badge": "pb-hn",
       "title": "I Traced My Traffic Through a Home Tailscale Exit Node",
       "url": "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/",
-      "votes": "70",
+      "votes": "71",
       "comments": "35",
       "time": "近期"
     },
@@ -2171,8 +2171,8 @@
       "badge": "pb-hn",
       "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
       "url": "https://news.future-shock.ai/the-weight-of-remembering/",
-      "votes": "85",
-      "comments": "5",
+      "votes": "86",
+      "comments": "6",
       "time": "近期"
     }
   ]
