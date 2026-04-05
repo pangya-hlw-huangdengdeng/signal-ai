@@ -1,16 +1,42 @@
 {
-  "updated_at": "2026-04-05T02:47:06.627526+00:00",
-  "article_count": 118,
+  "updated_at": "2026-04-05T07:12:21.206751+00:00",
+  "article_count": 117,
   "articles": {
+    "a63c760e2": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "scan-for-secrets 0.2",
+      "src": "Simon Willison",
+      "time": "3小时前",
+      "published_ts": 1775362033,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://simonwillison.net/2026/Apr/5/scan-for-secrets/#atom-everything",
+      "tags": [],
+      "body": "<p>Release: scan-for-secrets 0.2 CLI tool now streams results as they are found rather than waiting until the end, which is better for large directories. -d/--directory option can now be used multiple times to scan multiple directories. New -f/--file option for specifying one or more individual files to scan. New scan_directory_iter() , scan_file() and scan_file_iter() Python API functions. New -v/--</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a4edefc93": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "scan-for-secrets 0.1",
+      "src": "Simon Willison",
+      "time": "3小时前",
+      "published_ts": 1775359633,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://simonwillison.net/2026/Apr/5/scan-for-secrets-3/#atom-everything",
+      "tags": [],
+      "body": "<p>Release: scan-for-secrets 0.1 I like publishing transcripts of local Claude Code sessions using my claude-code-transcripts tool but I'm often paranoid that one of my API keys or similar secrets might inadvertently be revealed in the detailed log files. I built this new Python scanning tool to help reassure me. You can feed it secrets and have it scan for them in a specified directory: uvx scan-for</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a47a772b3": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "research-llm-apis 2026-04-04",
       "src": "Simon Willison",
-      "time": "2小时前",
+      "time": "6小时前",
       "published_ts": 1775349131,
-      "heat": "15.0K",
-      "views": "15.0K",
+      "heat": "9.6K",
+      "views": "11.4K",
       "url": "https://simonwillison.net/2026/Apr/5/research-llm-apis/#atom-everything",
       "tags": [],
       "body": "<p>Release: research-llm-apis 2026-04-04 I'm working on a major change to my LLM Python library and CLI tool. LLM provides an abstraction layer over hundreds of different LLMs from dozens of different vendors thanks to its plugin system, and some of those vendors have grown new features over the past year which LLM's abstraction layer can't handle, such as server-side tool execution. To help design t</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -20,7 +46,7 @@
       "cat": "L5 · 生态商业",
       "title": "A folk musician became a target for AI fakes and a copyright troll",
       "src": "The Verge",
-      "time": "8小时前",
+      "time": "13小时前",
       "published_ts": 1775325130,
       "heat": "24.0K",
       "views": "24.0K",
@@ -33,7 +59,7 @@
       "cat": "L2 · 基础模型",
       "title": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
       "src": "NVIDIA Blog",
-      "time": "9小时前",
+      "time": "14小时前",
       "published_ts": 1775322059,
       "heat": "37.5K",
       "views": "37.5K",
@@ -46,7 +72,7 @@
       "cat": "L1 · 算力硬件",
       "title": "LinkedIn is spying on you, according to a new 'BrowserGate' security report — scripts stealthily scan visitors' browsers for over 6,000 Chrome extensions and harvest hardware data",
       "src": "Tom's Hardware",
-      "time": "10小时前",
+      "time": "14小时前",
       "published_ts": 1775321192,
       "heat": "15.0K",
       "views": "15.0K",
@@ -59,7 +85,7 @@
       "cat": "L2 · 基础模型",
       "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
       "src": "TechCrunch AI",
-      "time": "10小时前",
+      "time": "14小时前",
       "published_ts": 1775320342,
       "heat": "27.0K",
       "views": "27.0K",
@@ -72,7 +98,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Nvidia AI tech claims to slash gaming GPU memory usage by 85% with zero quality loss — Neural Texture Compression demo reveals stunning visual parity between 6.5GB of VRAM and 970MB",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "15小时前",
       "published_ts": 1775316811,
       "heat": "11.4K",
       "views": "13.2K",
@@ -85,7 +111,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Unprecedented $450 price slash brings 27-inch 1440p 280 Hz OLED gaming monitor down to $399 — LG UltraGear OLED 27GX700A-B now at an unbeatable Price",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1775314203,
       "heat": "9.6K",
       "views": "11.4K",
@@ -98,7 +124,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Iranian missile blitz takes down AWS data centers in Bahrain and Dubai — Amazon reportedly declares “hard down” status for multiple zones",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1775314092,
       "heat": "7.8K",
       "views": "9.6K",
@@ -111,7 +137,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Sharge Disk Pro 2TB review: Great sustained writes, active cooling, and a built-in hub",
       "src": "Tom's Hardware",
-      "time": "12小时前",
+      "time": "16小时前",
       "published_ts": 1775312219,
       "heat": "6.0K",
       "views": "7.8K",
@@ -124,7 +150,7 @@
       "cat": "L4 · 交互Agent",
       "title": "My dream pair of AR gaming glasses needs to have these nine features",
       "src": "The Verge",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1775311200,
       "heat": "18.2K",
       "views": "21.1K",
@@ -137,7 +163,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Really, you made this without AI? Prove it",
       "src": "The Verge",
-      "time": "13小时前",
+      "time": "18小时前",
       "published_ts": 1775307600,
       "heat": "15.4K",
       "views": "18.2K",
@@ -150,7 +176,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Components of A Coding Agent",
       "src": "Ahead of AI",
-      "time": "15小时前",
+      "time": "19小时前",
       "published_ts": 1775303137,
       "heat": "15.0K",
       "views": "15.0K",
@@ -163,7 +189,7 @@
       "cat": "L2 · 基础模型",
       "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
       "src": "Wired",
-      "time": "16小时前",
+      "time": "20小时前",
       "published_ts": 1775298600,
       "heat": "16.5K",
       "views": "16.5K",
@@ -178,8 +204,8 @@
       "src": "Simon Willison",
       "time": "1天前",
       "published_ts": 1775269217,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "7.8K",
+      "views": "9.6K",
       "url": "https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything",
       "tags": [],
       "body": "<p>[GitHub] platform activity is surging. There were 1 billion commits in 2025. Now, it's 275 million per week, on pace for 14 billion this year if growth remains linear (spoiler: it won't.) GitHub Actions has grown from 500M minutes/week in 2023 to 1B minutes/week in 2025, and now 2.1B minutes so far this week. &mdash; Kyle Daigle , COO, GitHub Tags: github , github-actions</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -204,24 +230,11 @@
       "src": "Simon Willison",
       "time": "1天前",
       "published_ts": 1775260748,
-      "heat": "11.4K",
-      "views": "13.2K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/#atom-everything",
       "tags": [],
       "body": "<p>Vulnerability Research Is Cooked Thomas Ptacek's take on the sudden and enormous impact the latest frontier models are having on the field of vulnerability research. Within the next few months, coding agents will drastically alter both the practice and the economics of exploit development. Frontier model improvement won’t be a slow burn, but rather a step function. Substantial amounts of high-impa</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a804d4ff8": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "The cognitive impact of coding agents",
-      "src": "Simon Willison",
-      "time": "1天前",
-      "published_ts": 1775260624,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://simonwillison.net/2026/Apr/3/cognitive-cost/#atom-everything",
-      "tags": [],
-      "body": "<p>A fun thing about recording a podcast with a professional like Lenny Rachitsky is that his team know how to slice the resulting video up into TikTok-sized short form vertical videos. Here's one he shared on Twitter today which ended up attracting over 1.1m views! That was 48 seconds. Our full conversation lasted 1 hour 40 minutes. Tags: ai-ethics , coding-agents , agentic-engineering , generative-</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "af4f4f3b8": {
       "layer": "l3",
@@ -235,32 +248,6 @@
       "url": "https://www.latent.space/p/ainews-good-friday",
       "tags": [],
       "body": "<p>a quiet day.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "acbcdac5e": {
-      "layer": "l3",
-      "cat": "L3 · 推理工程",
-      "title": "Quoting Willy Tarreau",
-      "src": "Simon Willison",
-      "time": "1天前",
-      "published_ts": 1775252902,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://simonwillison.net/2026/Apr/3/willy-tarreau/#atom-everything",
-      "tags": [],
-      "body": "<p>On the kernel security list we've seen a huge bump of reports. We were between 2 and 3 per week maybe two years ago, then reached probably 10 a week over the last year with the only difference being only AI slop, and now since the beginning of the year we're around 5-10 per day depending on the days (fridays and tuesdays seem the worst). Now most of these reports are correct, to the point that we </p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ab24d8bb4": {
-      "layer": "l3",
-      "cat": "L3 · 推理工程",
-      "title": "Quoting Daniel Stenberg",
-      "src": "Simon Willison",
-      "time": "1天前",
-      "published_ts": 1775252767,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://simonwillison.net/2026/Apr/3/daniel-stenberg/#atom-everything",
-      "tags": [],
-      "body": "<p>The challenge with AI in open source security has transitioned from an AI slop tsunami into more of a ... plain security report tsunami. Less slop but lots of reports. Many of them really good. I'm spending hours per day on this now. It's intense. &mdash; Daniel Stenberg , lead developer of cURL Tags: daniel-stenberg , security , curl , generative-ai , ai , llms , ai-security-research</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a7157e993": {
       "layer": "l5",
@@ -397,7 +384,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] Gemma 4: The best small Multimodal Open Models, dramatically better than Gemma 3 in every way",
       "src": "Latent Space",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1775199768,
       "heat": "14.8K",
       "views": "17.2K",
@@ -540,7 +527,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] A quiet April Fools",
       "src": "Latent Space",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1775113458,
       "heat": "10.1K",
       "views": "12.5K",
@@ -566,7 +553,7 @@
       "cat": "L2 · 基础模型",
       "title": "[AINews] The Claude Code Source Leak",
       "src": "Latent Space",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1775024661,
       "heat": "7.8K",
       "views": "10.1K",
@@ -1307,7 +1294,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "227天前",
+      "time": "228天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1538,42 +1525,23 @@
     }
   },
   "by_layer": {
-    "l4": [
-      "a47a772b3",
-      "a0561c4ca",
-      "a19b68579",
-      "ab59fe080",
-      "a697112d7",
-      "a804d4ff8",
-      "aa5226a97",
-      "a1a07611b",
-      "ad780e7a1",
-      "a191dd8ef",
-      "a65d10fa8",
-      "ad102c3ce",
-      "a88750c9b",
-      "a42efc8b4",
-      "a8e5da7e6",
-      "adf302d45",
-      "a467130c9",
-      "af25d02a4",
-      "a9560485f",
-      "a61a8adff",
-      "ad01feb8a"
-    ],
-    "l5": [
-      "acdd2401e",
-      "abb9dbf4f",
-      "a7157e993",
-      "a1fbb623a",
-      "aaaac921a",
-      "a97ba94b8",
-      "ad9665095",
-      "af2b76745",
-      "a845518ec",
-      "a475feb08"
+    "l3": [
+      "a63c760e2",
+      "ab2794f05",
+      "af4f4f3b8",
+      "a5acf490f",
+      "ab84a1312",
+      "a18156c06",
+      "a774f3120",
+      "a3881275e",
+      "a74239e42",
+      "a23fdeba7",
+      "a1b552f8f",
+      "a0ffb5278",
+      "a28f84720"
     ],
     "l2": [
+      "a4edefc93",
       "a99b5100a",
       "ac1a598df",
       "a81be9030",
@@ -1601,6 +1569,40 @@
       "ab3119897",
       "af0f189d1",
       "a38ad1236"
+    ],
+    "l4": [
+      "a47a772b3",
+      "a0561c4ca",
+      "a19b68579",
+      "ab59fe080",
+      "a697112d7",
+      "aa5226a97",
+      "a1a07611b",
+      "ad780e7a1",
+      "a191dd8ef",
+      "a65d10fa8",
+      "ad102c3ce",
+      "a88750c9b",
+      "a42efc8b4",
+      "a8e5da7e6",
+      "adf302d45",
+      "a467130c9",
+      "af25d02a4",
+      "a9560485f",
+      "a61a8adff",
+      "ad01feb8a"
+    ],
+    "l5": [
+      "acdd2401e",
+      "abb9dbf4f",
+      "a7157e993",
+      "a1fbb623a",
+      "aaaac921a",
+      "a97ba94b8",
+      "ad9665095",
+      "af2b76745",
+      "a845518ec",
+      "a475feb08"
     ],
     "l1": [
       "a18e3505b",
@@ -1630,22 +1632,6 @@
       "a2ae2603b",
       "afeb62ce7"
     ],
-    "l3": [
-      "ab2794f05",
-      "af4f4f3b8",
-      "acbcdac5e",
-      "ab24d8bb4",
-      "a5acf490f",
-      "ab84a1312",
-      "a18156c06",
-      "a774f3120",
-      "a3881275e",
-      "a74239e42",
-      "a23fdeba7",
-      "a1b552f8f",
-      "a0ffb5278",
-      "a28f84720"
-    ],
     "l0": [
       "ac13280c5",
       "a3c1cafcd",
@@ -1670,23 +1656,23 @@
     ]
   },
   "top5": [
+    "a63c760e2",
+    "a4edefc93",
     "a47a772b3",
     "acdd2401e",
-    "a99b5100a",
-    "a18e3505b",
-    "ac1a598df"
+    "a99b5100a"
   ],
   "layers": [
     {
-      "id": "l2",
-      "num": "LAYER 2",
-      "name": "基础模型",
+      "id": "l1",
+      "num": "LAYER 1",
+      "name": "算力硬件",
       "vals": [
-        31,
-        17,
-        17,
+        21,
+        26,
+        11,
         7,
-        22,
+        36,
         21
       ],
       "trend": [
@@ -1700,15 +1686,81 @@
       ]
     },
     {
+      "id": "l2",
+      "num": "LAYER 2",
+      "name": "基础模型",
+      "vals": [
+        15,
+        26,
+        9,
+        7,
+        27,
+        21
+      ],
+      "trend": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "id": "l4",
+      "num": "LAYER 4",
+      "name": "交互Agent",
+      "vals": [
+        20,
+        10,
+        8,
+        25,
+        29,
+        18
+      ],
+      "trend": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "id": "l0",
+      "num": "LAYER 0",
+      "name": "领袖观点",
+      "vals": [
+        11,
+        15,
+        8,
+        5,
+        23,
+        18
+      ],
+      "trend": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ]
+    },
+    {
       "id": "l3",
       "num": "LAYER 3",
       "name": "推理工程",
       "vals": [
+        10,
+        12,
+        5,
         15,
-        18,
-        14,
-        8,
-        14,
+        11,
         15
       ],
       "trend": [
@@ -1722,82 +1774,16 @@
       ]
     },
     {
-      "id": "l1",
-      "num": "LAYER 1",
-      "name": "算力硬件",
-      "vals": [
-        13,
-        15,
-        11,
-        7,
-        23,
-        21
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
-    {
-      "id": "l0",
-      "num": "LAYER 0",
-      "name": "领袖观点",
-      "vals": [
-        10,
-        24,
-        8,
-        5,
-        17,
-        18
-      ],
-      "trend": [
-        20,
-        20,
-        20,
-        20,
-        20,
-        20,
-        20
-      ]
-    },
-    {
-      "id": "l4",
-      "num": "LAYER 4",
-      "name": "交互Agent",
-      "vals": [
-        11,
-        10,
-        8,
-        20,
-        24,
-        18
-      ],
-      "trend": [
-        20,
-        20,
-        20,
-        20,
-        20,
-        20,
-        20
-      ]
-    },
-    {
       "id": "l5",
       "num": "LAYER 5",
       "name": "生态商业",
       "vals": [
         10,
+        14,
+        5,
+        5,
         10,
-        5,
-        5,
-        18,
-        14
+        10
       ],
       "trend": [
         20,
@@ -1811,6 +1797,16 @@
     }
   ],
   "ticker": [
+    {
+      "tag": "SIMON WIL",
+      "col": "var(--l3)",
+      "text": "scan-for-secrets 0.2"
+    },
+    {
+      "tag": "SIMON WIL",
+      "col": "var(--l2)",
+      "text": "scan-for-secrets 0.1"
+    },
     {
       "tag": "SIMON WIL",
       "col": "var(--l4)",
@@ -1870,26 +1866,16 @@
       "tag": "AHEAD OF ",
       "col": "var(--l4)",
       "text": "Components of A Coding Agent"
-    },
-    {
-      "tag": "WIRED",
-      "col": "var(--l2)",
-      "text": "Hackers Are Posting the Claude Code Leak With Bonus Malware"
-    },
-    {
-      "tag": "SIMON WIL",
-      "col": "var(--l3)",
-      "text": "Quoting Kyle Daigle"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Introduction to Computer Music [pdf]",
+      "title": "Introduction to Computer Music (2009) [pdf]",
       "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
-      "votes": "24",
-      "comments": "2",
+      "votes": "122",
+      "comments": "33",
       "time": "近期"
     },
     {
@@ -1897,8 +1883,8 @@
       "badge": "pb-hn",
       "title": "Show HN: A game where you build a GPU",
       "url": "https://jaso1024.com/mvidia/",
-      "votes": "526",
-      "comments": "138",
+      "votes": "639",
+      "comments": "147",
       "time": "近期"
     },
     {
@@ -1906,8 +1892,17 @@
       "badge": "pb-hn",
       "title": "LLM Wiki – example of an \"idea file\"",
       "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-      "votes": "84",
-      "comments": "20",
+      "votes": "149",
+      "comments": "40",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs",
+      "url": "https://zml.ai/posts/zml-smi/",
+      "votes": "19",
+      "comments": "3",
       "time": "近期"
     },
     {
@@ -1915,17 +1910,8 @@
       "badge": "pb-hn",
       "title": "How many products does Microsoft have named 'Copilot'?",
       "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-      "votes": "439",
-      "comments": "224",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "A case study in testing with 100+ Claude agents in parallel",
-      "url": "https://imbue.com/product/mngr_part_2/",
-      "votes": "11",
-      "comments": "2",
+      "votes": "559",
+      "comments": "274",
       "time": "近期"
     },
     {
@@ -1933,8 +1919,8 @@
       "badge": "pb-hn",
       "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
       "url": "https://sllm.cloud",
-      "votes": "129",
-      "comments": "65",
+      "votes": "147",
+      "comments": "74",
       "time": "近期"
     }
   ]
