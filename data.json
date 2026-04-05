@@ -1,13 +1,91 @@
 {
-  "updated_at": "2026-04-05T07:12:21.206751+00:00",
+  "updated_at": "2026-04-05T13:04:44.907989+00:00",
   "article_count": 117,
   "articles": {
+    "a83661b9f": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "How the Amazon Echo learned to talk — and listen",
+      "src": "The Verge",
+      "time": "39分钟前",
+      "published_ts": 1775391885,
+      "heat": "21.1K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history",
+      "tags": [],
+      "body": "<p>Jeff Bezos badly wanted a voice computer. He had been saying so publicly since the very early days of Amazon, telling anyone who would listen about why voice might make it easier and more natural to interact with technology. (And to buy stuff from Jeff Bezos.) But when a team at Amazon set out to [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aaa148856": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Autonomous ErgoChair Core Review: You get what you pay for",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1775390400,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/peripherals/gaming-chairs/autonomous-ergochair-core-review",
+      "tags": [],
+      "body": "<p>The Autonomous EroChair Core is an entry-level office chair that offers a few comfort features but is limited by its overall dimensions.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a698eeff1": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Nvidia Pascal GPUs debuted 10 years ago today, best known for the GTX 1060 and GTX 1080 Ti — architecture kicked off with the Tesla P100",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1775390400,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-pascal-gpus-debuted-10-years-ago-today-best-known-for-the-gtx-1060-and-gtx-1080-ti-architecture-kicked-off-with-the-tesla-p100",
+      "tags": [],
+      "body": "<p>Nvidia delivered 'five architectural breakthroughs' with the launch of the Tesla P100 accelerator 10 years ago today.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a3de459c3": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Grammarly’s sloppelganger saga",
+      "src": "The Verge",
+      "time": "1小时前",
+      "published_ts": 1775390400,
+      "heat": "18.2K",
+      "views": "21.1K",
+      "url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
+      "tags": [],
+      "body": "<p>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the ups and downs of AI, follow Stevie Bonifield. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Most people probably know Grammarly for its browser [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a120e31ae": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Hobbyist builds a homebrew Intel 8086 ISA accelerator card — maker’s project improves integer multiplication on these retro systems by 250%",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1775389200,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://www.tomshardware.com/pc-components/cpus/hobbyist-builds-a-homebrew-intel-8086-isa-accelerator-card-makers-project-improves-integer-multiplication-on-these-retro-systems-by-250-percent",
+      "tags": [],
+      "body": "<p>Computer scientist showcases their hardware multiplication ISA card accelerator for Intel 8086 and Intel 8088 PC systems.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a0e841674": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Intel's upcoming 42-core Nova Lake SKU allegedly upgraded to 44 cores — New config frees up 6P+12E tiles that could trickle down as locked bLLC variants",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1775388000,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intels-upcoming-42-core-nova-lake-sku-allegedly-upgraded-to-44-cores-new-config-frees-up-6p-12e-tiles-that-could-trickle-down-as-locked-bllc-variants",
+      "tags": [],
+      "body": "<p>A 42-core SKU from the upcoming Nova Lake-S CPU family has reportedly been upgraded to 44 cores by swapping the 6P+12E tile with an 8P+12E tile, allowing the chip to achieve symmetry across its dual-tile config. Those leftover 6P+12E tiles could now become locked variants with 144 MB of bLLC as a new 22-core SKU (6P+12E+4LPE).</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a63c760e2": {
       "layer": "l3",
       "cat": "L3 · 推理工程",
       "title": "scan-for-secrets 0.2",
       "src": "Simon Willison",
-      "time": "3小时前",
+      "time": "8小时前",
       "published_ts": 1775362033,
       "heat": "15.0K",
       "views": "15.0K",
@@ -20,7 +98,7 @@
       "cat": "L2 · 基础模型",
       "title": "scan-for-secrets 0.1",
       "src": "Simon Willison",
-      "time": "3小时前",
+      "time": "9小时前",
       "published_ts": 1775359633,
       "heat": "11.4K",
       "views": "13.2K",
@@ -33,7 +111,7 @@
       "cat": "L4 · 交互Agent",
       "title": "research-llm-apis 2026-04-04",
       "src": "Simon Willison",
-      "time": "6小时前",
+      "time": "12小时前",
       "published_ts": 1775349131,
       "heat": "9.6K",
       "views": "11.4K",
@@ -46,10 +124,10 @@
       "cat": "L5 · 生态商业",
       "title": "A folk musician became a target for AI fakes and a copyright troll",
       "src": "The Verge",
-      "time": "13小时前",
+      "time": "19小时前",
       "published_ts": 1775325130,
-      "heat": "24.0K",
-      "views": "24.0K",
+      "heat": "15.4K",
+      "views": "18.2K",
       "url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
       "tags": [],
       "body": "<p>In January, folk artist Murphy Campbell discovered several songs on her Spotify profile that did not belong there. They were songs that she had recorded, but she'd never uploaded them to Spotify, and something was off about the vocals. She quickly surmised that someone had pulled performances of the songs she posted to YouTube, created [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -59,7 +137,7 @@
       "cat": "L2 · 基础模型",
       "title": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
       "src": "NVIDIA Blog",
-      "time": "14小时前",
+      "time": "20小时前",
       "published_ts": 1775322059,
       "heat": "37.5K",
       "views": "37.5K",
@@ -67,25 +145,12 @@
       "tags": [],
       "body": "<p>This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world — as well as the growing wave of robots transforming industries, from agricultural and manufacturing to energy and beyond. Advancements in robot learning, simulation and foundation models are accelerating development, enabling robots to move from training in virtual [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a18e3505b": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "LinkedIn is spying on you, according to a new 'BrowserGate' security report — scripts stealthily scan visitors' browsers for over 6,000 Chrome extensions and harvest hardware data",
-      "src": "Tom's Hardware",
-      "time": "14小时前",
-      "published_ts": 1775321192,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://www.tomshardware.com/software/browsers/linkedin-scans-visitors-browsers-for-over-6000-chrome-extensions-and-collects-device-data",
-      "tags": [],
-      "body": "<p>LinkedIn is understood to inject a JavaScript fingerprinting script on every page load that probes visitors' browsers for 6,236 installed Chrome extensions and collects detailed device telemetry.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "ac1a598df": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
       "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
       "src": "TechCrunch AI",
-      "time": "14小时前",
+      "time": "20小时前",
       "published_ts": 1775320342,
       "heat": "27.0K",
       "views": "27.0K",
@@ -93,90 +158,25 @@
       "tags": [],
       "body": "<p>It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "adedf5194": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Nvidia AI tech claims to slash gaming GPU memory usage by 85% with zero quality loss — Neural Texture Compression demo reveals stunning visual parity between 6.5GB of VRAM and 970MB",
-      "src": "Tom's Hardware",
-      "time": "15小时前",
-      "published_ts": 1775316811,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-ai-tech-claims-to-slash-vram-usage-by-85-percent-with-zero-quality-loss-neural-texture-compression-demo-reveals-stunning-visual-parity-between-6-5gb-of-memory-and-970mb",
-      "tags": [],
-      "body": "<p>Nvidia has just demoed its Neural Texture Compression technique again at a GTC talk, where it showed VRAM usage dropping from 6.5 GB to just 970 MB in a scene. NTC uses a neural network to decompress textures instead of standard block-based compression, reducing texture size and VRAM usage while also improving final image quality.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aae3ade1b": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Unprecedented $450 price slash brings 27-inch 1440p 280 Hz OLED gaming monitor down to $399 — LG UltraGear OLED 27GX700A-B now at an unbeatable Price",
-      "src": "Tom's Hardware",
-      "time": "16小时前",
-      "published_ts": 1775314203,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://www.tomshardware.com/monitors/gaming-monitors/unprecedented-usd450-price-slash-brings-27-inch-1440p-280-hz-oled-gaming-monitor-down-to-usd399-lg-ultragear-oled-27gx700a-b-now-at-an-unbeatable-price",
-      "tags": [],
-      "body": "<p>LG’s 27-inch 280 Hz OLED gaming monitor sees a massive price drop, with a promo code bringing it down to $399.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a77f05877": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Iranian missile blitz takes down AWS data centers in Bahrain and Dubai — Amazon reportedly declares “hard down” status for multiple zones",
-      "src": "Tom's Hardware",
-      "time": "16小时前",
-      "published_ts": 1775314092,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones",
-      "tags": [],
-      "body": "<p>Internal company communications indicate that multiple zones at AWS Bahrain and Dubai are \"hard down,\" with no timeline for service restoration.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aed6ec686": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Sharge Disk Pro 2TB review: Great sustained writes, active cooling, and a built-in hub",
-      "src": "Tom's Hardware",
-      "time": "16小时前",
-      "published_ts": 1775312219,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://www.tomshardware.com/pc-components/external-ssds/sharge-disk-pro-2tb-review",
-      "tags": [],
-      "body": "<p>Sharge's Disk Pro pairs a snappy 10 Gbps SSD with a handy port hub and active cooling, all in a compact, eye-catching shell with a magnetic back. It's an impressive package for gamers and road warriors, but you'll pay a high price for all these features.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a0561c4ca": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "My dream pair of AR gaming glasses needs to have these nine features",
       "src": "The Verge",
-      "time": "17小时前",
+      "time": "23小时前",
       "published_ts": 1775311200,
-      "heat": "18.2K",
-      "views": "21.1K",
+      "heat": "9.6K",
+      "views": "12.5K",
       "url": "https://www.theverge.com/gadgets/906586/best-ar-glasses-viture-xreal-gaming-steam-deck-switch-2",
       "tags": [],
       "body": "<p>I’ve spent months in the lab testing the latest AR glasses from Xreal and Viture. By “lab,” I mean cozied up on my couch each night, playing my Steam Deck or Nintendo Switch 2 on a huge, virtual screen that only I can see through these glasses. Using AR glasses as a portable display for [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a19b68579": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Really, you made this without AI? Prove it",
-      "src": "The Verge",
-      "time": "18小时前",
-      "published_ts": 1775307600,
-      "heat": "15.4K",
-      "views": "18.2K",
-      "url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
-      "tags": [],
-      "body": "<p>\"This looks like AI.\" It's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the work of humans, people are naturally skeptical when online platforms refuse to label even obvious AI content. This leads me to one [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "ab59fe080": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "Components of A Coding Agent",
       "src": "Ahead of AI",
-      "time": "19小时前",
+      "time": "1天前",
       "published_ts": 1775303137,
       "heat": "15.0K",
       "views": "15.0K",
@@ -189,7 +189,7 @@
       "cat": "L2 · 基础模型",
       "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
       "src": "Wired",
-      "time": "20小时前",
+      "time": "1天前",
       "published_ts": 1775298600,
       "heat": "16.5K",
       "views": "16.5K",
@@ -371,7 +371,7 @@
       "cat": "L5 · 生态商业",
       "title": "The 3 Best Portable Jump Starters in 2026: Get Charged Up",
       "src": "Wired",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1775212740,
       "heat": "10.6K",
       "views": "12.5K",
@@ -475,7 +475,7 @@
       "cat": "L2 · 基础模型",
       "title": "Inside the leaked Claude Code files",
       "src": "Ben's Bites",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1775134962,
       "heat": "16.5K",
       "views": "16.5K",
@@ -488,7 +488,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Press Start on April: GeForce NOW Brings 10 Games to the Cloud",
       "src": "NVIDIA Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1775134809,
       "heat": "28.5K",
       "views": "33.0K",
@@ -501,7 +501,7 @@
       "cat": "L2 · 基础模型",
       "title": "OpenAI acquires TBPN",
       "src": "OpenAI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1775125800,
       "heat": "45.0K",
       "views": "45.0K",
@@ -514,7 +514,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Codex now offers more flexible pricing for teams",
       "src": "OpenAI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1775124000,
       "heat": "39.6K",
       "views": "45.0K",
@@ -540,7 +540,7 @@
       "cat": "L2 · 基础模型",
       "title": "The gig workers who are training humanoid robots at home",
       "src": "MIT Tech Review",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1775041200,
       "heat": "22.5K",
       "views": "22.5K",
@@ -657,7 +657,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Accelerating the next phase of AI",
       "src": "OpenAI Blog",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1774962000,
       "heat": "28.8K",
       "views": "34.2K",
@@ -670,7 +670,7 @@
       "cat": "L0 · 领袖观点",
       "title": "AI benchmarks are broken. Here’s what we need instead.",
       "src": "MIT Tech Review",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1774958468,
       "heat": "17.1K",
       "views": "19.8K",
@@ -748,7 +748,7 @@
       "cat": "L2 · 基础模型",
       "title": "Why Are Large Language Models so Terrible at Video Games?",
       "src": "IEEE Spectrum",
-      "time": "6天前",
+      "time": "7天前",
       "published_ts": 1774789201,
       "heat": "13.2K",
       "views": "15.0K",
@@ -800,7 +800,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Game On: Five New Titles Now Streaming on GeForce NOW",
       "src": "NVIDIA Blog",
-      "time": "9天前",
+      "time": "10天前",
       "published_ts": 1774530047,
       "heat": "15.0K",
       "views": "19.5K",
@@ -878,7 +878,7 @@
       "cat": "L3 · 推理工程",
       "title": "A Visual Guide to Attention Variants in Modern LLMs",
       "src": "Ahead of AI",
-      "time": "13天前",
+      "time": "14天前",
       "published_ts": 1774180540,
       "heat": "13.2K",
       "views": "15.0K",
@@ -930,7 +930,7 @@
       "cat": "L0 · 领袖观点",
       "title": "GPT 5.4 is a big step for Codex",
       "src": "Interconnects",
-      "time": "17天前",
+      "time": "18天前",
       "published_ts": 1773838974,
       "heat": "11.5K",
       "views": "13.7K",
@@ -956,7 +956,7 @@
       "cat": "L3 · 推理工程",
       "title": "What comes next with open models",
       "src": "Interconnects",
-      "time": "19天前",
+      "time": "20天前",
       "published_ts": 1773666051,
       "heat": "9.4K",
       "views": "11.5K",
@@ -1047,7 +1047,7 @@
       "cat": "L3 · 推理工程",
       "title": "Categories of Inference-Time Scaling for Improved LLM Reasoning",
       "src": "Ahead of AI",
-      "time": "70天前",
+      "time": "71天前",
       "published_ts": 1769253798,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1099,7 +1099,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
       "src": "VentureBeat AI",
-      "time": "81天前",
+      "time": "82天前",
       "published_ts": 1768309200,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1112,7 +1112,7 @@
       "cat": "L2 · 基础模型",
       "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
       "src": "VentureBeat AI",
-      "time": "82天前",
+      "time": "83天前",
       "published_ts": 1768217400,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1151,7 +1151,7 @@
       "cat": "L2 · 基础模型",
       "title": "The State Of LLMs 2025: Progress, Problems, and Predictions",
       "src": "Ahead of AI",
-      "time": "95天前",
+      "time": "96天前",
       "published_ts": 1767097346,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1164,7 +1164,7 @@
       "cat": "L3 · 推理工程",
       "title": "LLM Research Papers: The 2025 List (July to December)",
       "src": "Ahead of AI",
-      "time": "95天前",
+      "time": "96天前",
       "published_ts": 1767096939,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1268,7 +1268,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
       "src": "SemiAnalysis",
-      "time": "208天前",
+      "time": "209天前",
       "published_ts": 1757325297,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1525,6 +1525,56 @@
     }
   },
   "by_layer": {
+    "l4": [
+      "a83661b9f",
+      "a3de459c3",
+      "a47a772b3",
+      "a0561c4ca",
+      "ab59fe080",
+      "a697112d7",
+      "aa5226a97",
+      "a1a07611b",
+      "ad780e7a1",
+      "a191dd8ef",
+      "a65d10fa8",
+      "ad102c3ce",
+      "a88750c9b",
+      "a42efc8b4",
+      "a8e5da7e6",
+      "adf302d45",
+      "a467130c9",
+      "af25d02a4",
+      "a9560485f",
+      "a61a8adff",
+      "ad01feb8a"
+    ],
+    "l1": [
+      "aaa148856",
+      "a698eeff1",
+      "a120e31ae",
+      "a0e841674",
+      "a2bdb58b5",
+      "a78587de7",
+      "a9463725f",
+      "af4ab8cfd",
+      "ab90ecaa8",
+      "a88e37c83",
+      "a480a6787",
+      "a82fd009b",
+      "ab019a7c6",
+      "a43203d10",
+      "a5761e49d",
+      "a38dc4cce",
+      "aa916162d",
+      "a59c2fbb4",
+      "a6bee3694",
+      "a612b9eb6",
+      "a472cb971",
+      "a94a9a29d",
+      "a5236c597",
+      "a2ae2603b",
+      "afeb62ce7"
+    ],
     "l3": [
       "a63c760e2",
       "ab2794f05",
@@ -1570,28 +1620,6 @@
       "af0f189d1",
       "a38ad1236"
     ],
-    "l4": [
-      "a47a772b3",
-      "a0561c4ca",
-      "a19b68579",
-      "ab59fe080",
-      "a697112d7",
-      "aa5226a97",
-      "a1a07611b",
-      "ad780e7a1",
-      "a191dd8ef",
-      "a65d10fa8",
-      "ad102c3ce",
-      "a88750c9b",
-      "a42efc8b4",
-      "a8e5da7e6",
-      "adf302d45",
-      "a467130c9",
-      "af25d02a4",
-      "a9560485f",
-      "a61a8adff",
-      "ad01feb8a"
-    ],
     "l5": [
       "acdd2401e",
       "abb9dbf4f",
@@ -1603,34 +1631,6 @@
       "af2b76745",
       "a845518ec",
       "a475feb08"
-    ],
-    "l1": [
-      "a18e3505b",
-      "adedf5194",
-      "aae3ade1b",
-      "a77f05877",
-      "aed6ec686",
-      "a2bdb58b5",
-      "a78587de7",
-      "a9463725f",
-      "af4ab8cfd",
-      "ab90ecaa8",
-      "a88e37c83",
-      "a480a6787",
-      "a82fd009b",
-      "ab019a7c6",
-      "a43203d10",
-      "a5761e49d",
-      "a38dc4cce",
-      "aa916162d",
-      "a59c2fbb4",
-      "a6bee3694",
-      "a612b9eb6",
-      "a472cb971",
-      "a94a9a29d",
-      "a5236c597",
-      "a2ae2603b",
-      "afeb62ce7"
     ],
     "l0": [
       "ac13280c5",
@@ -1656,11 +1656,11 @@
     ]
   },
   "top5": [
-    "a63c760e2",
-    "a4edefc93",
-    "a47a772b3",
-    "acdd2401e",
-    "a99b5100a"
+    "a83661b9f",
+    "aaa148856",
+    "a698eeff1",
+    "a3de459c3",
+    "a120e31ae"
   ],
   "layers": [
     {
@@ -1668,12 +1668,12 @@
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        21,
-        26,
-        11,
+        15,
+        29,
+        10,
         7,
-        36,
-        21
+        31,
+        20
       ],
       "trend": [
         20,
@@ -1690,11 +1690,11 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        15,
+        19,
         26,
-        9,
+        5,
         7,
-        27,
+        26,
         21
       ],
       "trend": [
@@ -1712,11 +1712,11 @@
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        20,
-        10,
+        13,
+        23,
         8,
-        25,
-        29,
+        26,
+        13,
         18
       ],
       "trend": [
@@ -1734,11 +1734,11 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        11,
-        15,
+        10,
+        22,
         8,
         5,
-        23,
+        30,
         18
       ],
       "trend": [
@@ -1756,11 +1756,11 @@
       "num": "LAYER 3",
       "name": "推理工程",
       "vals": [
+        16,
         10,
-        12,
         5,
-        15,
-        11,
+        5,
+        16,
         15
       ],
       "trend": [
@@ -1779,11 +1779,11 @@
       "name": "生态商业",
       "vals": [
         10,
-        14,
+        11,
         5,
         5,
-        10,
-        10
+        16,
+        11
       ],
       "trend": [
         20,
@@ -1797,6 +1797,36 @@
     }
   ],
   "ticker": [
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l4)",
+      "text": "How the Amazon Echo learned to talk — and listen"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Autonomous ErgoChair Core Review: You get what you pay for"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Nvidia Pascal GPUs debuted 10 years ago today, best known for the…"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l4)",
+      "text": "Grammarly’s sloppelganger saga"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Hobbyist builds a homebrew Intel 8086 ISA accelerator card — make…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Intel's upcoming 42-core Nova Lake SKU allegedly upgraded to 44 c…"
+    },
     {
       "tag": "SIMON WIL",
       "col": "var(--l3)",
@@ -1823,44 +1853,14 @@
       "text": "National Robotics Week — Latest Physical AI Research, Breakthroug…"
     },
     {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "LinkedIn is spying on you, according to a new 'BrowserGate' secur…"
-    },
-    {
       "tag": "TECHCRUNC",
       "col": "var(--l2)",
       "text": "Anthropic says Claude Code subscribers will need to pay extra for…"
     },
     {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Nvidia AI tech claims to slash gaming GPU memory usage by 85% wit…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Unprecedented $450 price slash brings 27-inch 1440p 280 Hz OLED g…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Iranian missile blitz takes down AWS data centers in Bahrain and …"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Sharge Disk Pro 2TB review: Great sustained writes, active coolin…"
-    },
-    {
       "tag": "THE VERGE",
       "col": "var(--l4)",
       "text": "My dream pair of AR gaming glasses needs to have these nine featu…"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "Really, you made this without AI? Prove it"
     },
     {
       "tag": "AHEAD OF ",
@@ -1872,19 +1872,28 @@
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Introduction to Computer Music (2009) [pdf]",
-      "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
-      "votes": "122",
-      "comments": "33",
+      "title": "Show HN: A game where you build a GPU",
+      "url": "https://jaso1024.com/mvidia/",
+      "votes": "813",
+      "comments": "166",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Show HN: A game where you build a GPU",
-      "url": "https://jaso1024.com/mvidia/",
-      "votes": "639",
-      "comments": "147",
+      "title": "Introduction to Computer Music (2009) [pdf]",
+      "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
+      "votes": "176",
+      "comments": "54",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Costco sued for seeking refunds on tariffs customers paid",
+      "url": "https://arstechnica.com/tech-policy/2026/03/costco-sued-for-seeking-refunds-on-tariffs-customers-paid/",
+      "votes": "52",
+      "comments": "27",
       "time": "近期"
     },
     {
@@ -1892,8 +1901,8 @@
       "badge": "pb-hn",
       "title": "LLM Wiki – example of an \"idea file\"",
       "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-      "votes": "149",
-      "comments": "40",
+      "votes": "228",
+      "comments": "71",
       "time": "近期"
     },
     {
@@ -1901,8 +1910,8 @@
       "badge": "pb-hn",
       "title": "Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs",
       "url": "https://zml.ai/posts/zml-smi/",
-      "votes": "19",
-      "comments": "3",
+      "votes": "58",
+      "comments": "8",
       "time": "近期"
     },
     {
@@ -1910,17 +1919,8 @@
       "badge": "pb-hn",
       "title": "How many products does Microsoft have named 'Copilot'?",
       "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-      "votes": "559",
-      "comments": "274",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
-      "url": "https://sllm.cloud",
-      "votes": "147",
-      "comments": "74",
+      "votes": "700",
+      "comments": "330",
       "time": "近期"
     }
   ]
