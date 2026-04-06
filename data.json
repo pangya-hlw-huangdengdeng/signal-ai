@@ -1,52 +1,208 @@
 {
-  "updated_at": "2026-04-06T02:48:48.488000+00:00",
-  "article_count": 117,
+  "updated_at": "2026-04-06T07:49:21.210746+00:00",
+  "article_count": 128,
   "articles": {
+    "aae7bf0ce": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "Google AI Edge Gallery",
+      "src": "Simon Willison",
+      "time": "2小时前",
+      "published_ts": 1775452706,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything",
+      "tags": [],
+      "body": "<p>Google AI Edge Gallery Terrible name, really great app: this is Google's official app for running their Gemma 4 models (the E2B and E4B sizes, plus some members of the Gemma 3 family) directly on your iPhone. It works really well. The E2B model is a 2.54GB download and is both fast and genuinely useful. The app also provides \"ask questions about images\" and audio transcription (up to 30s) with the</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a1a2a0ac5": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "Convolutional Surrogate for 3D Discrete Fracture-Matrix Tensor Upscaling",
+      "src": "arXiv cs.LG",
+      "time": "3小时前",
+      "published_ts": 1775448000,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2604.02335",
+      "tags": [],
+      "body": "<p>arXiv:2604.02335v1 Announce Type: new Abstract: Modeling groundwater flow in three-dimensional fractured crystalline media requires accounting for strong spatial heterogeneity induced by fractures. Fine-scale discrete fracture-matrix (DFM) simulations can capture this complexity but are computationally expensive, especially when repeated evaluations are needed. To address this, we aim to employ a </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aaceec1a1": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Generating Counterfactual Patient Timelines from Real-World Data",
+      "src": "arXiv cs.LG",
+      "time": "3小时前",
+      "published_ts": 1775448000,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2604.02337",
+      "tags": [],
+      "body": "<p>arXiv:2604.02337v1 Announce Type: new Abstract: Counterfactual simulation - exploring hypothetical consequences under alternative clinical scenarios - holds promise for transformative applications such as personalized medicine and in silico trials. However, it remains challenging due to methodological limitations. Here, we show that an autoregressive generative model trained on real-world data fro</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aa1789986": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "LiME: Lightweight Mixture of Experts for Efficient Multimodal Multi-task Learning",
+      "src": "arXiv cs.LG",
+      "time": "3小时前",
+      "published_ts": 1775448000,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2604.02338",
+      "tags": [],
+      "body": "<p>arXiv:2604.02338v1 Announce Type: new Abstract: MoE-PEFT methods combine Mixture of Experts with parameter-efficient fine-tuning for multi-task adaptation, but require separate adapters per expert causing trainable parameters to scale linearly with expert count and limiting applicability to adapter-based architectures. We propose LiME (Lightweight Mixture of Experts), which achieves expert special</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a0f8c59e4": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "SIEVE: Sample-Efficient Parametric Learning from Natural Language",
+      "src": "arXiv cs.LG",
+      "time": "3小时前",
+      "published_ts": 1775448000,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2604.02339",
+      "tags": [],
+      "body": "<p>arXiv:2604.02339v1 Announce Type: new Abstract: Natural language context-such as instructions, knowledge, or feedback-contains rich signal for adapting language models. While in-context learning provides adaptation via the prompt, parametric learning persists into model weights and can improve performance further, though is data hungry and heavily relies on either high-quality traces or automated </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a49c12c55": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Not All Denoising Steps Are Equal: Model Scheduling for Faster Masked Diffusion Language Models",
+      "src": "arXiv cs.LG",
+      "time": "3小时前",
+      "published_ts": 1775448000,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2604.02340",
+      "tags": [],
+      "body": "<p>arXiv:2604.02340v1 Announce Type: new Abstract: Recent advances in masked diffusion language models (MDLMs) narrow the quality gap to autoregressive LMs, but their sampling remains expensive because generation requires many full-sequence denoising passes with a large Transformer and, unlike autoregressive decoding, cannot benefit from KV caching. In this work, we exploit the flexibility of the dif</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ac4237e2f": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "LLM Reasoning with Process Rewards for Outcome-Guided Steps",
+      "src": "arXiv cs.LG",
+      "time": "3小时前",
+      "published_ts": 1775448000,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2604.02341",
+      "tags": [],
+      "body": "<p>arXiv:2604.02341v1 Announce Type: new Abstract: Mathematical reasoning in large language models has improved substantially with reinforcement learning using verifiable rewards, where final answers can be checked automatically and converted into reliable training signals. Most such pipelines optimize outcome correctness only, which yields sparse feedback for long, multi-step solutions and offers li</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a0e88df9c": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web",
+      "src": "arXiv cs.AI",
+      "time": "3小时前",
+      "published_ts": 1775448000,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2604.02334",
+      "tags": [],
+      "body": "<p>arXiv:2604.02334v1 Announce Type: new Abstract: As large language models (LLM)-driven agents transition from isolated task solvers to persistent digital entities, the emergence of the Agentic Web, an ecosystem where heterogeneous agents autonomously interact and co-evolve, marks a pivotal shift toward Artificial General Intelligence (AGI). However, LLM-based multi-agent systems (LaMAS) are hindere</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aae4830e7": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation",
+      "src": "arXiv cs.AI",
+      "time": "3小时前",
+      "published_ts": 1775448000,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2604.02368",
+      "tags": [],
+      "body": "<p>arXiv:2604.02368v1 Announce Type: new Abstract: As Large Language Models (LLMs) exhibit plateauing performance on conventional benchmarks, a pivotal challenge persists: evaluating their proficiency in complex, open-ended tasks characterizing genuine expert-level cognition. Existing frameworks suffer from narrow domain coverage, reliance on generalist tasks, or self-evaluation biases. To bridge thi</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a7a2d07f9": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Compositional Neuro-Symbolic Reasoning",
+      "src": "arXiv cs.AI",
+      "time": "3小时前",
+      "published_ts": 1775448000,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2604.02434",
+      "tags": [],
+      "body": "<p>arXiv:2604.02434v1 Announce Type: new Abstract: We study structured abstraction-based reasoning for the Abstraction and Reasoning Corpus (ARC) and compare its generalization to test-time approaches. Purely neural architectures lack reliable combinatorial generalization, while strictly symbolic systems struggle with perceptual grounding. We therefore propose a neuro-symbolic architecture that extra</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a7a8ada1a": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Understanding the Nature of Generative AI as Threshold Logic in High-Dimensional Space",
+      "src": "arXiv cs.AI",
+      "time": "3小时前",
+      "published_ts": 1775448000,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2604.02476",
+      "tags": [],
+      "body": "<p>arXiv:2604.02476v1 Announce Type: new Abstract: This paper examines the role of threshold logic in understanding generative artificial intelligence. Threshold functions, originally studied in the 1960s in digital circuit synthesis, provide a structurally transparent model of neural computation: a weighted sum of inputs compared to a threshold, geometrically realized as a hyperplane partitioning a </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "af5288010": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "AIVV: Neuro-Symbolic LLM Agent-Integrated Verification and Validation for Trustworthy Autonomous Systems",
+      "src": "arXiv cs.AI",
+      "time": "3小时前",
+      "published_ts": 1775448000,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2604.02478",
+      "tags": [],
+      "body": "<p>arXiv:2604.02478v1 Announce Type: new Abstract: Deep learning models excel at detecting anomaly patterns in normal data. However, they do not provide a direct solution for anomaly classification and scalability across diverse control systems, frequently failing to distinguish genuine faults from nuisance faults caused by noise or the control system's large transient response. Consequently, because</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a49f20828": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "I must delete the evidence: AI Agents Explicitly Cover up Fraud and Violent Crime",
+      "src": "arXiv cs.AI",
+      "time": "3小时前",
+      "published_ts": 1775448000,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2604.02500",
+      "tags": [],
+      "body": "<p>arXiv:2604.02500v1 Announce Type: new Abstract: As ongoing research explores the ability of AI agents to be insider threats and act against company interests, we showcase the abilities of such agents to act against human well being in service of corporate authority. Building on Agentic Misalignment and AI scheming research, we present a scenario where the majority of evaluated state-of-the-art AI </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a9c90830a": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Cleanup Claude Code Paste",
+      "src": "Simon Willison",
+      "time": "4小时前",
+      "published_ts": 1775444123,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://simonwillison.net/2026/Apr/6/cleanup-claude-code-paste/#atom-everything",
+      "tags": [],
+      "body": "<p>Tool: Cleanup Claude Code Paste Super-niche tool this. I sometimes copy prompts out of the Claude Code terminal app and they come out with a bunch of weird additional whitespace. This tool cleans that up. Tags: tools , claude-code</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a0f633ab2": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "Eight years of wanting, three months of building with AI",
       "src": "Simon Willison",
-      "time": "2小时前",
+      "time": "7小时前",
       "published_ts": 1775433258,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://simonwillison.net/2026/Apr/5/building-with-ai/#atom-everything",
       "tags": [],
       "body": "<p>Eight years of wanting, three months of building with AI Lalit Maganti provides one of my favorite pieces of long-form writing on agentic engineering I've seen in ages. They spent eight years thinking about and then three months building syntaqlite , which they describe as \" high-fidelity devtools that SQLite deserves \". The goal was to provide fast, robust and comprehensive linting and verifying </p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a93803ff7": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Quoting Chengpeng Mou",
-      "src": "Simon Willison",
-      "time": "5小时前",
-      "published_ts": 1775425626,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://simonwillison.net/2026/Apr/5/chengpeng-mou/#atom-everything",
-      "tags": [],
-      "body": "<p>From anonymized U.S. ChatGPT data, we are seeing: ~2M weekly messages on health insurance ~600K weekly messages [classified as healthcare] from people living in “hospital deserts” (30 min drive to nearest hospital) 7 out of 10 msgs happen outside clinic hours &mdash; Chengpeng Mou , Head of Business Finance, OpenAI Tags: ai-ethics , generative-ai , openai , chatgpt , ai , llms</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a25b53e75": {
-      "layer": "l3",
-      "cat": "L3 · 推理工程",
-      "title": "Syntaqlite Playground",
-      "src": "Simon Willison",
-      "time": "7小时前",
-      "published_ts": 1775417579,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://simonwillison.net/2026/Apr/5/syntaqlite/#atom-everything",
-      "tags": [],
-      "body": "<p>Tool: Syntaqlite Playground Lalit Maganti's syntaqlite is currently being discussed on Hacker News thanks to Eight years of wanting, three months of building with AI , a deep dive into how it was built. This inspired me to revisit a research project I ran when Lalit first released it a couple of weeks ago, where I tried it out and then compiled it to a WebAssembly wheel so it could run in Pyodide </p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "af8fc18b5": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
       "src": "TechCrunch AI",
-      "time": "7小时前",
+      "time": "12小时前",
       "published_ts": 1775415097,
       "heat": "27.0K",
       "views": "27.0K",
@@ -59,7 +215,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Los Thuthanaka’s Wak&#8217;a is a mellower follow-up to last year’s surprise Pitchfork favorite",
       "src": "The Verge",
-      "time": "8小时前",
+      "time": "13小时前",
       "published_ts": 1775413800,
       "heat": "24.0K",
       "views": "24.0K",
@@ -72,7 +228,7 @@
       "cat": "L1 · 算力硬件",
       "title": "AMD's upcoming Ryzen 9 9950X3D2 listed around $1,000 at several retailers across Canada and the UK — New flagship dual-cache CPU might demand a hefty premium",
       "src": "Tom's Hardware",
-      "time": "9小时前",
+      "time": "14小时前",
       "published_ts": 1775409328,
       "heat": "15.0K",
       "views": "15.0K",
@@ -85,7 +241,7 @@
       "cat": "L1 · 算力硬件",
       "title": "UK confirms drone-killing DragonFire laser weapon for Royal Navy destroyers by 2027 —laser downs 400mph high‑speed drones, costs $13 per shot",
       "src": "Tom's Hardware",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1775405648,
       "heat": "13.2K",
       "views": "15.0K",
@@ -98,7 +254,7 @@
       "cat": "L5 · 生态商业",
       "title": "Suno is a music copyright nightmare",
       "src": "The Verge",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1775404800,
       "heat": "21.1K",
       "views": "24.0K",
@@ -111,7 +267,7 @@
       "cat": "L2 · 基础模型",
       "title": "Iran threatens ‘complete and utter annihilation’ of OpenAI's $30B Stargate AI data center in Abu Dhabi — regime posts video with satellite imagery of ChatGPT-maker's premier 1GW data center",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1775401365,
       "heat": "9.6K",
       "views": "11.4K",
@@ -124,7 +280,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Researchers train living rat neurons to perform real-time AI computations — experiments could pave the way for new brain-machine interfaces",
       "src": "Tom's Hardware",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1775399594,
       "heat": "7.8K",
       "views": "9.6K",
@@ -137,7 +293,7 @@
       "cat": "L2 · 基础模型",
       "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
       "src": "The Verge",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1775397600,
       "heat": "18.2K",
       "views": "21.1K",
@@ -150,7 +306,7 @@
       "cat": "L3 · 推理工程",
       "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
       "src": "TechCrunch AI",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1775397600,
       "heat": "20.5K",
       "views": "23.8K",
@@ -163,7 +319,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Limited edition Atari wristwatches dip under $500 in 20% off sale — classic console inspired rainbow designs available in five colorways",
       "src": "Tom's Hardware",
-      "time": "13小时前",
+      "time": "18小时前",
       "published_ts": 1775396767,
       "heat": "6.0K",
       "views": "7.8K",
@@ -176,7 +332,7 @@
       "cat": "L4 · 交互Agent",
       "title": "How the Amazon Echo learned to talk — and listen",
       "src": "The Verge",
-      "time": "14小时前",
+      "time": "19小时前",
       "published_ts": 1775391885,
       "heat": "12.5K",
       "views": "15.4K",
@@ -189,26 +345,13 @@
       "cat": "L4 · 交互Agent",
       "title": "Grammarly’s sloppelganger saga",
       "src": "The Verge",
-      "time": "14小时前",
+      "time": "19小时前",
       "published_ts": 1775390400,
       "heat": "9.6K",
       "views": "12.5K",
       "url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
       "tags": [],
       "body": "<p>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the ups and downs of AI, follow Stevie Bonifield. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Most people probably know Grammarly for its browser [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a63c760e2": {
-      "layer": "l3",
-      "cat": "L3 · 推理工程",
-      "title": "scan-for-secrets 0.2",
-      "src": "Simon Willison",
-      "time": "22小时前",
-      "published_ts": 1775362033,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://simonwillison.net/2026/Apr/5/scan-for-secrets/#atom-everything",
-      "tags": [],
-      "body": "<p>Release: scan-for-secrets 0.2 CLI tool now streams results as they are found rather than waiting until the end, which is better for large directories. -d/--directory option can now be used multiple times to scan multiple directories. New -f/--file option for specifying one or more individual files to scan. New scan_directory_iter() , scan_file() and scan_file_iter() Python API functions. New -v/--</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a99b5100a": {
       "layer": "l2",
@@ -384,7 +527,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] Gemma 4: The best small Multimodal Open Models, dramatically better than Gemma 3 in every way",
       "src": "Latent Space",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1775199768,
       "heat": "14.8K",
       "views": "17.2K",
@@ -527,7 +670,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] A quiet April Fools",
       "src": "Latent Space",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1775113458,
       "heat": "10.1K",
       "views": "12.5K",
@@ -553,7 +696,7 @@
       "cat": "L2 · 基础模型",
       "title": "[AINews] The Claude Code Source Leak",
       "src": "Latent Space",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1775024661,
       "heat": "7.8K",
       "views": "10.1K",
@@ -1294,7 +1437,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "228天前",
+      "time": "229天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1525,33 +1668,9 @@
     }
   },
   "by_layer": {
-    "l4": [
-      "a0f633ab2",
-      "a93803ff7",
-      "a805d13af",
-      "a83661b9f",
-      "a3de459c3",
-      "ab59fe080",
-      "aa5226a97",
-      "a1a07611b",
-      "ad780e7a1",
-      "a191dd8ef",
-      "a65d10fa8",
-      "ad102c3ce",
-      "a88750c9b",
-      "a42efc8b4",
-      "a8e5da7e6",
-      "adf302d45",
-      "a467130c9",
-      "af25d02a4",
-      "a9560485f",
-      "a61a8adff",
-      "ad01feb8a"
-    ],
     "l3": [
-      "a25b53e75",
+      "aae7bf0ce",
       "aa2b7ca64",
-      "a63c760e2",
       "af4f4f3b8",
       "a5acf490f",
       "ab84a1312",
@@ -1564,35 +1683,8 @@
       "a0ffb5278",
       "a28f84720"
     ],
-    "l1": [
-      "af8fc18b5",
-      "a9e69d555",
-      "a17e40e43",
-      "a5c43dc12",
-      "afb0b2bb3",
-      "a2bdb58b5",
-      "a78587de7",
-      "a9463725f",
-      "af4ab8cfd",
-      "ab90ecaa8",
-      "a88e37c83",
-      "a480a6787",
-      "a82fd009b",
-      "ab019a7c6",
-      "a43203d10",
-      "a5761e49d",
-      "a38dc4cce",
-      "aa916162d",
-      "a59c2fbb4",
-      "a6bee3694",
-      "a612b9eb6",
-      "a472cb971",
-      "a94a9a29d",
-      "a5236c597",
-      "a2ae2603b",
-      "afeb62ce7"
-    ],
     "l5": [
+      "a1a2a0ac5",
       "a8ecf1d5a",
       "abb9dbf4f",
       "a7157e993",
@@ -1602,6 +1694,14 @@
       "a475feb08"
     ],
     "l2": [
+      "aaceec1a1",
+      "aa1789986",
+      "a0f8c59e4",
+      "a49c12c55",
+      "ac4237e2f",
+      "aae4830e7",
+      "a7a2d07f9",
+      "a9c90830a",
       "a6669305d",
       "acb158ac8",
       "a99b5100a",
@@ -1633,6 +1733,7 @@
       "a38ad1236"
     ],
     "l0": [
+      "a0e88df9c",
       "ac13280c5",
       "a3c1cafcd",
       "a92b8dddf",
@@ -1653,14 +1754,67 @@
       "a253e0446",
       "a9173515c",
       "abcb7b0c4"
+    ],
+    "l1": [
+      "a7a8ada1a",
+      "af8fc18b5",
+      "a9e69d555",
+      "a17e40e43",
+      "a5c43dc12",
+      "afb0b2bb3",
+      "a2bdb58b5",
+      "a78587de7",
+      "a9463725f",
+      "af4ab8cfd",
+      "ab90ecaa8",
+      "a88e37c83",
+      "a480a6787",
+      "a82fd009b",
+      "ab019a7c6",
+      "a43203d10",
+      "a5761e49d",
+      "a38dc4cce",
+      "aa916162d",
+      "a59c2fbb4",
+      "a6bee3694",
+      "a612b9eb6",
+      "a472cb971",
+      "a94a9a29d",
+      "a5236c597",
+      "a2ae2603b",
+      "afeb62ce7"
+    ],
+    "l4": [
+      "af5288010",
+      "a49f20828",
+      "a0f633ab2",
+      "a805d13af",
+      "a83661b9f",
+      "a3de459c3",
+      "ab59fe080",
+      "aa5226a97",
+      "a1a07611b",
+      "ad780e7a1",
+      "a191dd8ef",
+      "a65d10fa8",
+      "ad102c3ce",
+      "a88750c9b",
+      "a42efc8b4",
+      "a8e5da7e6",
+      "adf302d45",
+      "a467130c9",
+      "af25d02a4",
+      "a9560485f",
+      "a61a8adff",
+      "ad01feb8a"
     ]
   },
   "top5": [
-    "a0f633ab2",
-    "a93803ff7",
-    "a25b53e75",
-    "af8fc18b5",
-    "a805d13af"
+    "aae7bf0ce",
+    "a1a2a0ac5",
+    "aaceec1a1",
+    "aa1789986",
+    "a0f8c59e4"
   ],
   "layers": [
     {
@@ -1668,21 +1822,21 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        33,
         21,
-        32,
-        8,
-        37,
-        22
+        31,
+        18,
+        9,
+        36,
+        24
       ],
       "trend": [
         20,
-        21,
         22,
-        23,
         24,
-        25,
-        26
+        26,
+        28,
+        30,
+        32
       ]
     },
     {
@@ -1690,12 +1844,12 @@
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        30,
-        22,
-        11,
+        27,
+        23,
+        10,
         7,
-        22,
-        21
+        17,
+        20
       ],
       "trend": [
         20,
@@ -1708,15 +1862,15 @@
       ]
     },
     {
-      "id": "l0",
-      "num": "LAYER 0",
-      "name": "领袖观点",
+      "id": "l4",
+      "num": "LAYER 4",
+      "name": "交互Agent",
       "vals": [
-        25,
         24,
+        27,
         8,
         5,
-        22,
+        14,
         18
       ],
       "trend": [
@@ -1730,15 +1884,15 @@
       ]
     },
     {
-      "id": "l4",
-      "num": "LAYER 4",
-      "name": "交互Agent",
+      "id": "l0",
+      "num": "LAYER 0",
+      "name": "领袖观点",
       "vals": [
+        14,
         20,
-        10,
         8,
-        16,
-        18,
+        5,
+        15,
         18
       ],
       "trend": [
@@ -1757,10 +1911,10 @@
       "name": "推理工程",
       "vals": [
         10,
+        21,
+        12,
+        11,
         10,
-        7,
-        5,
-        22,
         15
       ],
       "trend": [
@@ -1783,7 +1937,7 @@
         5,
         5,
         10,
-        19
+        16
       ],
       "trend": [
         20,
@@ -1799,73 +1953,73 @@
   "ticker": [
     {
       "tag": "SIMON WIL",
-      "col": "var(--l4)",
-      "text": "Eight years of wanting, three months of building with AI"
-    },
-    {
-      "tag": "SIMON WIL",
-      "col": "var(--l4)",
-      "text": "Quoting Chengpeng Mou"
-    },
-    {
-      "tag": "SIMON WIL",
       "col": "var(--l3)",
-      "text": "Syntaqlite Playground"
+      "text": "Google AI Edge Gallery"
     },
     {
-      "tag": "TECHCRUNC",
-      "col": "var(--l1)",
-      "text": "Copilot is ‘for entertainment purposes only,’ according to Micros…"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "Los Thuthanaka’s Wak&#8217;a is a mellower follow-up to last year…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "AMD's upcoming Ryzen 9 9950X3D2 listed around $1,000 at several r…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "UK confirms drone-killing DragonFire laser weapon for Royal Navy …"
-    },
-    {
-      "tag": "THE VERGE",
+      "tag": "ARXIV CS.",
       "col": "var(--l5)",
-      "text": "Suno is a music copyright nightmare"
+      "text": "Convolutional Surrogate for 3D Discrete Fracture-Matrix Tensor Up…"
     },
     {
-      "tag": "TOM'S HAR",
+      "tag": "ARXIV CS.",
       "col": "var(--l2)",
-      "text": "Iran threatens ‘complete and utter annihilation’ of OpenAI's $30B…"
+      "text": "Generating Counterfactual Patient Timelines from Real-World Data"
     },
     {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Researchers train living rat neurons to perform real-time AI comp…"
-    },
-    {
-      "tag": "THE VERGE",
+      "tag": "ARXIV CS.",
       "col": "var(--l2)",
-      "text": "I let Gemini in Google Maps plan my day and it went surprisingly …"
+      "text": "LiME: Lightweight Mixture of Experts for Efficient Multimodal Mul…"
     },
     {
-      "tag": "TECHCRUNC",
-      "col": "var(--l3)",
-      "text": "In Japan, the robot isn’t coming for your job; it’s filling the o…"
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "SIEVE: Sample-Efficient Parametric Learning from Natural Language"
     },
     {
-      "tag": "TOM'S HAR",
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Not All Denoising Steps Are Equal: Model Scheduling for Faster Ma…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "LLM Reasoning with Process Rewards for Outcome-Guided Steps"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l0)",
+      "text": "Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic W…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Compositional Neuro-Symbolic Reasoning"
+    },
+    {
+      "tag": "ARXIV CS.",
       "col": "var(--l1)",
-      "text": "Limited edition Atari wristwatches dip under $500 in 20% off sale…"
+      "text": "Understanding the Nature of Generative AI as Threshold Logic in H…"
     },
     {
-      "tag": "THE VERGE",
+      "tag": "ARXIV CS.",
       "col": "var(--l4)",
-      "text": "How the Amazon Echo learned to talk — and listen"
+      "text": "AIVV: Neuro-Symbolic LLM Agent-Integrated Verification and Valida…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l4)",
+      "text": "I must delete the evidence: AI Agents Explicitly Cover up Fraud a…"
+    },
+    {
+      "tag": "SIMON WIL",
+      "col": "var(--l2)",
+      "text": "Cleanup Claude Code Paste"
     }
   ],
   "community": [
@@ -1874,44 +2028,17 @@
       "badge": "pb-hn",
       "title": "Show HN: I built a tiny LLM to demystify how language models work",
       "url": "https://github.com/arman-bd/guppylm",
-      "votes": "66",
-      "comments": "5",
+      "votes": "355",
+      "comments": "31",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Endian wars and anti-portability: this again?",
-      "url": "https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/",
-      "votes": "17",
-      "comments": "14",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Eight years of wanting, three months of building with AI",
-      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
-      "votes": "646",
-      "comments": "205",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "In Japan, the robot isn't coming for your job; it's filling the one nobody wants",
-      "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
-      "votes": "129",
-      "comments": "136",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
-      "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
-      "votes": "205",
-      "comments": "54",
+      "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+      "url": "https://github.com/fikrikarim/parlor",
+      "votes": "53",
+      "comments": "2",
       "time": "近期"
     },
     {
@@ -1919,8 +2046,35 @@
       "badge": "pb-hn",
       "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
       "url": "https://github.com/kessler/gemma-gem",
-      "votes": "12",
-      "comments": "1",
+      "votes": "61",
+      "comments": "11",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+      "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+      "votes": "254",
+      "comments": "59",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "A tail-call interpreter in (nightly) Rust",
+      "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
+      "votes": "154",
+      "comments": "35",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Eight years of wanting, three months of building with AI",
+      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "votes": "757",
+      "comments": "228",
       "time": "近期"
     }
   ]
