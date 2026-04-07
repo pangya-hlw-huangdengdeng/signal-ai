@@ -1,13 +1,169 @@
 {
-  "updated_at": "2026-04-07T02:42:16.127801+00:00",
-  "article_count": 124,
+  "updated_at": "2026-04-07T07:23:29.583175+00:00",
+  "article_count": 123,
   "articles": {
+    "a155754d7": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
+      "src": "TechCrunch AI",
+      "time": "1小时前",
+      "published_ts": 1775539800,
+      "heat": "27.0K",
+      "views": "27.0K",
+      "url": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
+      "tags": [],
+      "body": "<p>Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a1a2a0ac5": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "Convolutional Surrogate for 3D Discrete Fracture-Matrix Tensor Upscaling",
+      "src": "arXiv cs.LG",
+      "time": "3小时前",
+      "published_ts": 1775534400,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2604.02335",
+      "tags": [],
+      "body": "<p>arXiv:2604.02335v1 Announce Type: new Abstract: Modeling groundwater flow in three-dimensional fractured crystalline media requires accounting for strong spatial heterogeneity induced by fractures. Fine-scale discrete fracture-matrix (DFM) simulations can capture this complexity but are computationally expensive, especially when repeated evaluations are needed. To address this, we aim to employ a </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aaceec1a1": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Generating Counterfactual Patient Timelines from Real-World Data",
+      "src": "arXiv cs.LG",
+      "time": "3小时前",
+      "published_ts": 1775534400,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2604.02337",
+      "tags": [],
+      "body": "<p>arXiv:2604.02337v1 Announce Type: new Abstract: Counterfactual simulation - exploring hypothetical consequences under alternative clinical scenarios - holds promise for transformative applications such as personalized medicine and in silico trials. However, it remains challenging due to methodological limitations. Here, we show that an autoregressive generative model trained on real-world data fro</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aa1789986": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "LiME: Lightweight Mixture of Experts for Efficient Multimodal Multi-task Learning",
+      "src": "arXiv cs.LG",
+      "time": "3小时前",
+      "published_ts": 1775534400,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2604.02338",
+      "tags": [],
+      "body": "<p>arXiv:2604.02338v1 Announce Type: new Abstract: MoE-PEFT methods combine Mixture of Experts with parameter-efficient fine-tuning for multi-task adaptation, but require separate adapters per expert causing trainable parameters to scale linearly with expert count and limiting applicability to adapter-based architectures. We propose LiME (Lightweight Mixture of Experts), which achieves expert special</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a0f8c59e4": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "SIEVE: Sample-Efficient Parametric Learning from Natural Language",
+      "src": "arXiv cs.LG",
+      "time": "3小时前",
+      "published_ts": 1775534400,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2604.02339",
+      "tags": [],
+      "body": "<p>arXiv:2604.02339v1 Announce Type: new Abstract: Natural language context-such as instructions, knowledge, or feedback-contains rich signal for adapting language models. While in-context learning provides adaptation via the prompt, parametric learning persists into model weights and can improve performance further, though is data hungry and heavily relies on either high-quality traces or automated </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a49c12c55": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Not All Denoising Steps Are Equal: Model Scheduling for Faster Masked Diffusion Language Models",
+      "src": "arXiv cs.LG",
+      "time": "3小时前",
+      "published_ts": 1775534400,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2604.02340",
+      "tags": [],
+      "body": "<p>arXiv:2604.02340v1 Announce Type: new Abstract: Recent advances in masked diffusion language models (MDLMs) narrow the quality gap to autoregressive LMs, but their sampling remains expensive because generation requires many full-sequence denoising passes with a large Transformer and, unlike autoregressive decoding, cannot benefit from KV caching. In this work, we exploit the flexibility of the dif</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ac4237e2f": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "LLM Reasoning with Process Rewards for Outcome-Guided Steps",
+      "src": "arXiv cs.LG",
+      "time": "3小时前",
+      "published_ts": 1775534400,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2604.02341",
+      "tags": [],
+      "body": "<p>arXiv:2604.02341v1 Announce Type: new Abstract: Mathematical reasoning in large language models has improved substantially with reinforcement learning using verifiable rewards, where final answers can be checked automatically and converted into reliable training signals. Most such pipelines optimize outcome correctness only, which yields sparse feedback for long, multi-step solutions and offers li</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aaba61f9b": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evolution for IC3 Hardware Model Checking",
+      "src": "arXiv cs.AI",
+      "time": "3小时前",
+      "published_ts": 1775534400,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2604.03232",
+      "tags": [],
+      "body": "<p>arXiv:2604.03232v1 Announce Type: new Abstract: IC3, also known as property-directed reachability (PDR), is a commonly-used algorithm for hardware safety model checking. It checks if a state transition system complies with a given safety property. IC3 either returns UNSAFE (indicating property violation) with a counterexample trace, or SAFE with a checkable inductive invariant as the proof to safe</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ad3f337c3": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "To Throw a Stone with Six Birds: On Agents and Agenthood",
+      "src": "arXiv cs.AI",
+      "time": "3小时前",
+      "published_ts": 1775534400,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2604.03239",
+      "tags": [],
+      "body": "<p>arXiv:2604.03239v1 Announce Type: new Abstract: Six Birds Theory (SBT) treats macroscopic objects as induced closures rather than primitives. Empirical discussions of agency often conflate persistence (being an object) with control (making a counterfactual difference), which makes agency claims difficult to test and easy to spoof. We give a type-correct account of agency within SBT: a theory induc</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a0ec75fb6": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Position: Science of AI Evaluation Requires Item-level Benchmark Data",
+      "src": "arXiv cs.AI",
+      "time": "3小时前",
+      "published_ts": 1775534400,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2604.03244",
+      "tags": [],
+      "body": "<p>arXiv:2604.03244v1 Announce Type: new Abstract: AI evaluations have become the primary evidence for deploying generative AI systems across high-stakes domains. However, current evaluation paradigms often exhibit systemic validity failures. These issues, ranging from unjustified design choices to misaligned metrics, remain intractable without a principled framework for gathering validity evidence a</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a40a89b24": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Toward Full Autonomous Laboratory Instrumentation Control with Large Language Models",
+      "src": "arXiv cs.AI",
+      "time": "3小时前",
+      "published_ts": 1775534400,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2604.03286",
+      "tags": [],
+      "body": "<p>arXiv:2604.03286v1 Announce Type: new Abstract: The control of complex laboratory instrumentation often requires significant programming expertise, creating a barrier for researchers lacking computational skills. This work explores the potential of large language models (LLMs), such as ChatGPT, and LLM-based artificial intelligence (AI) agents to enable efficient programming and automation of scie</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a7c598242": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Evaluating Artificial Intelligence Through a Christian Understanding of Human Flourishing",
+      "src": "arXiv cs.AI",
+      "time": "3小时前",
+      "published_ts": 1775534400,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2604.03356",
+      "tags": [],
+      "body": "<p>arXiv:2604.03356v1 Announce Type: new Abstract: Artificial intelligence (AI) alignment is fundamentally a formation problem, not only a safety problem. As Large Language Models (LLMs) increasingly mediate moral deliberation and spiritual inquiry, they do more than provide information; they function as instruments of digital catechesis, actively shaping and ordering human understanding, decision-ma</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a087d4603": {
       "layer": "l3",
       "cat": "L3 · 推理工程",
       "title": "[AINews] Gemma 4 crosses 2 million downloads",
       "src": "Latent Space",
-      "time": "2小时前",
+      "time": "7小时前",
       "published_ts": 1775521043,
       "heat": "19.5K",
       "views": "19.5K",
@@ -20,9 +176,9 @@
       "cat": "L4 · 交互Agent",
       "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
       "src": "TechCrunch AI",
-      "time": "4小时前",
+      "time": "9小时前",
       "published_ts": 1775512466,
-      "heat": "27.0K",
+      "heat": "23.8K",
       "views": "27.0K",
       "url": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
       "tags": [],
@@ -33,7 +189,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Amazon, Microsoft, and Google under investor pressure to disclose site-specific data center water and power consumption — more than a dozen shareholders ask for transparency ahead of annual investor meetings",
       "src": "Tom's Hardware",
-      "time": "5小时前",
+      "time": "9小时前",
       "published_ts": 1775511630,
       "heat": "15.0K",
       "views": "15.0K",
@@ -46,7 +202,7 @@
       "cat": "L1 · 算力硬件",
       "title": "US lawmakers aim to ban export of DUV chipmaking and etching tools to leading firms in China — bipartisan proposal would ban lithography equipment for Huawei, SMIC, and others",
       "src": "Tom's Hardware",
-      "time": "6小时前",
+      "time": "11小时前",
       "published_ts": 1775505595,
       "heat": "11.4K",
       "views": "13.2K",
@@ -59,10 +215,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Google quietly launched an AI dictation app that works offline",
       "src": "TechCrunch AI",
-      "time": "7小时前",
+      "time": "12小时前",
       "published_ts": 1775501673,
-      "heat": "23.8K",
-      "views": "27.0K",
+      "heat": "20.5K",
+      "views": "23.8K",
       "url": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
       "tags": [],
       "body": "<p>Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -72,7 +228,7 @@
       "cat": "L1 · 算力硬件",
       "title": "The best deals on MacBooks right now",
       "src": "The Verge",
-      "time": "7小时前",
+      "time": "12小时前",
       "published_ts": 1775501406,
       "heat": "18.2K",
       "views": "21.1K",
@@ -85,7 +241,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Robotaxi companies won’t say how often remote operators intervene",
       "src": "The Verge",
-      "time": "8小时前",
+      "time": "13小时前",
       "published_ts": 1775499351,
       "heat": "12.5K",
       "views": "15.4K",
@@ -98,10 +254,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Iran threatens ‘Stargate’ AI data centers",
       "src": "TechCrunch AI",
-      "time": "8小时前",
+      "time": "13小时前",
       "published_ts": 1775498788,
-      "heat": "20.5K",
-      "views": "23.8K",
+      "heat": "17.3K",
+      "views": "20.5K",
       "url": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
       "tags": [],
       "body": "<p>Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -111,7 +267,7 @@
       "cat": "L1 · 算力硬件",
       "title": "The one piece of data that could actually shed light on your job and AI",
       "src": "MIT Tech Review",
-      "time": "10小时前",
+      "time": "14小时前",
       "published_ts": 1775493215,
       "heat": "22.5K",
       "views": "22.5K",
@@ -124,7 +280,7 @@
       "cat": "L4 · 交互Agent",
       "title": "How Meta Used AI to Map Tribal Knowledge in Large-Scale Data Pipelines",
       "src": "Meta Engineering",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1775491250,
       "heat": "30.0K",
       "views": "30.0K",
@@ -137,10 +293,10 @@
       "cat": "L0 · 领袖观点",
       "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek",
       "src": "TechCrunch AI",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1775490955,
-      "heat": "17.3K",
-      "views": "20.5K",
+      "heat": "14.0K",
+      "views": "17.3K",
       "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
       "tags": [],
       "body": "<p>OpenAI proposes taxes on AI profits, public wealth funds, and expanded safety nets to address job loss and inequality, blending redistribution with capitalism as policymakers debate AI’s economic impact.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -150,7 +306,7 @@
       "cat": "L1 · 算力硬件",
       "title": "MSI MAG A1200PLS PCIE5 1200W power supply review: A competent 1200W unit, but pricey",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "15小时前",
       "published_ts": 1775489310,
       "heat": "6.0K",
       "views": "7.8K",
@@ -163,10 +319,10 @@
       "cat": "L5 · 生态商业",
       "title": "Startup Battlefield 200 applications open: a chance for VC access, TechCrunch coverage, and $100K",
       "src": "TechCrunch AI",
-      "time": "12小时前",
+      "time": "16小时前",
       "published_ts": 1775485800,
-      "heat": "14.0K",
-      "views": "17.3K",
+      "heat": "10.8K",
+      "views": "14.0K",
       "url": "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/",
       "tags": [],
       "body": "<p>Nominate your startup, or one you know that deserves the spotlight, and finish the process by applying. Selected 200 have a chance at VC access, TechCrunch coverage, and $100K for Startup Battlefield 200. Applications close on May 27.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -176,7 +332,7 @@
       "cat": "L1 · 算力硬件",
       "title": "AI Is Insatiable",
       "src": "IEEE Spectrum",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1775485378,
       "heat": "15.0K",
       "views": "15.0K",
@@ -184,25 +340,12 @@
       "tags": [],
       "body": "<p>While browsing our website a few weeks ago, I stumbled upon “ How and When the Memory Chip Shortage Will End ” by Senior Editor Samuel K. Moore. His analysis focuses on the current DRAM shortage caused by AI hyperscalers’ ravenous appetite for memory, a major constraint on the speed at which large language models run. Moore provides a clear explanation of the shortage, particularly for high bandwi</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "ad624f897": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
-      "src": "TechCrunch AI",
-      "time": "12小时前",
-      "published_ts": 1775484702,
-      "heat": "10.8K",
-      "views": "14.0K",
-      "url": "https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/",
-      "tags": [],
-      "body": "<p>Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a6fe3fc5d": {
       "layer": "l5",
       "cat": "L5 · 生态商业",
       "title": "AI is changing how small online sellers decide what to make",
       "src": "MIT Tech Review",
-      "time": "15小时前",
+      "time": "20小时前",
       "published_ts": 1775473200,
       "heat": "19.8K",
       "views": "22.5K",
@@ -215,7 +358,7 @@
       "cat": "L2 · 基础模型",
       "title": "Announcing the OpenAI Safety Fellowship",
       "src": "OpenAI Blog",
-      "time": "16小时前",
+      "time": "21小时前",
       "published_ts": 1775469600,
       "heat": "45.0K",
       "views": "45.0K",
@@ -228,7 +371,7 @@
       "cat": "L2 · 基础模型",
       "title": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
       "src": "NVIDIA Blog",
-      "time": "16小时前",
+      "time": "21小时前",
       "published_ts": 1775469359,
       "heat": "37.5K",
       "views": "37.5K",
@@ -241,7 +384,7 @@
       "cat": "L1 · 算力硬件",
       "title": "The Ridiculously Nerdy Intel Bet That Could Rake in Billions",
       "src": "Wired",
-      "time": "17小时前",
+      "time": "22小时前",
       "published_ts": 1775466000,
       "heat": "16.5K",
       "views": "16.5K",
@@ -254,7 +397,7 @@
       "cat": "L3 · 推理工程",
       "title": "Google AI Edge Gallery",
       "src": "Simon Willison",
-      "time": "21小时前",
+      "time": "1天前",
       "published_ts": 1775452706,
       "heat": "15.0K",
       "views": "15.0K",
@@ -262,168 +405,12 @@
       "tags": [],
       "body": "<p>Google AI Edge Gallery Terrible name, really great app: this is Google's official app for running their Gemma 4 models (the E2B and E4B sizes, plus some members of the Gemma 3 family) directly on your iPhone. It works really well. The E2B model is a 2.54GB download and is both fast and genuinely useful. The app also provides \"ask questions about images\" and audio transcription (up to 30s) with the</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a1a2a0ac5": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "Convolutional Surrogate for 3D Discrete Fracture-Matrix Tensor Upscaling",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1775448000,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2604.02335",
-      "tags": [],
-      "body": "<p>arXiv:2604.02335v1 Announce Type: new Abstract: Modeling groundwater flow in three-dimensional fractured crystalline media requires accounting for strong spatial heterogeneity induced by fractures. Fine-scale discrete fracture-matrix (DFM) simulations can capture this complexity but are computationally expensive, especially when repeated evaluations are needed. To address this, we aim to employ a </p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aaceec1a1": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Generating Counterfactual Patient Timelines from Real-World Data",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1775448000,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2604.02337",
-      "tags": [],
-      "body": "<p>arXiv:2604.02337v1 Announce Type: new Abstract: Counterfactual simulation - exploring hypothetical consequences under alternative clinical scenarios - holds promise for transformative applications such as personalized medicine and in silico trials. However, it remains challenging due to methodological limitations. Here, we show that an autoregressive generative model trained on real-world data fro</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aa1789986": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "LiME: Lightweight Mixture of Experts for Efficient Multimodal Multi-task Learning",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1775448000,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://arxiv.org/abs/2604.02338",
-      "tags": [],
-      "body": "<p>arXiv:2604.02338v1 Announce Type: new Abstract: MoE-PEFT methods combine Mixture of Experts with parameter-efficient fine-tuning for multi-task adaptation, but require separate adapters per expert causing trainable parameters to scale linearly with expert count and limiting applicability to adapter-based architectures. We propose LiME (Lightweight Mixture of Experts), which achieves expert special</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a0f8c59e4": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "SIEVE: Sample-Efficient Parametric Learning from Natural Language",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1775448000,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://arxiv.org/abs/2604.02339",
-      "tags": [],
-      "body": "<p>arXiv:2604.02339v1 Announce Type: new Abstract: Natural language context-such as instructions, knowledge, or feedback-contains rich signal for adapting language models. While in-context learning provides adaptation via the prompt, parametric learning persists into model weights and can improve performance further, though is data hungry and heavily relies on either high-quality traces or automated </p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a49c12c55": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Not All Denoising Steps Are Equal: Model Scheduling for Faster Masked Diffusion Language Models",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1775448000,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://arxiv.org/abs/2604.02340",
-      "tags": [],
-      "body": "<p>arXiv:2604.02340v1 Announce Type: new Abstract: Recent advances in masked diffusion language models (MDLMs) narrow the quality gap to autoregressive LMs, but their sampling remains expensive because generation requires many full-sequence denoising passes with a large Transformer and, unlike autoregressive decoding, cannot benefit from KV caching. In this work, we exploit the flexibility of the dif</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ac4237e2f": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "LLM Reasoning with Process Rewards for Outcome-Guided Steps",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1775448000,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://arxiv.org/abs/2604.02341",
-      "tags": [],
-      "body": "<p>arXiv:2604.02341v1 Announce Type: new Abstract: Mathematical reasoning in large language models has improved substantially with reinforcement learning using verifiable rewards, where final answers can be checked automatically and converted into reliable training signals. Most such pipelines optimize outcome correctness only, which yields sparse feedback for long, multi-step solutions and offers li</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a0e88df9c": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1775448000,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2604.02334",
-      "tags": [],
-      "body": "<p>arXiv:2604.02334v1 Announce Type: new Abstract: As large language models (LLM)-driven agents transition from isolated task solvers to persistent digital entities, the emergence of the Agentic Web, an ecosystem where heterogeneous agents autonomously interact and co-evolve, marks a pivotal shift toward Artificial General Intelligence (AGI). However, LLM-based multi-agent systems (LaMAS) are hindere</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aae4830e7": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1775448000,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2604.02368",
-      "tags": [],
-      "body": "<p>arXiv:2604.02368v1 Announce Type: new Abstract: As Large Language Models (LLMs) exhibit plateauing performance on conventional benchmarks, a pivotal challenge persists: evaluating their proficiency in complex, open-ended tasks characterizing genuine expert-level cognition. Existing frameworks suffer from narrow domain coverage, reliance on generalist tasks, or self-evaluation biases. To bridge thi</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a7a2d07f9": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Compositional Neuro-Symbolic Reasoning",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1775448000,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://arxiv.org/abs/2604.02434",
-      "tags": [],
-      "body": "<p>arXiv:2604.02434v1 Announce Type: new Abstract: We study structured abstraction-based reasoning for the Abstraction and Reasoning Corpus (ARC) and compare its generalization to test-time approaches. Purely neural architectures lack reliable combinatorial generalization, while strictly symbolic systems struggle with perceptual grounding. We therefore propose a neuro-symbolic architecture that extra</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a7a8ada1a": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Understanding the Nature of Generative AI as Threshold Logic in High-Dimensional Space",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1775448000,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://arxiv.org/abs/2604.02476",
-      "tags": [],
-      "body": "<p>arXiv:2604.02476v1 Announce Type: new Abstract: This paper examines the role of threshold logic in understanding generative artificial intelligence. Threshold functions, originally studied in the 1960s in digital circuit synthesis, provide a structurally transparent model of neural computation: a weighted sum of inputs compared to a threshold, geometrically realized as a hyperplane partitioning a </p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "af5288010": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "AIVV: Neuro-Symbolic LLM Agent-Integrated Verification and Validation for Trustworthy Autonomous Systems",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1775448000,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://arxiv.org/abs/2604.02478",
-      "tags": [],
-      "body": "<p>arXiv:2604.02478v1 Announce Type: new Abstract: Deep learning models excel at detecting anomaly patterns in normal data. However, they do not provide a direct solution for anomaly classification and scalability across diverse control systems, frequently failing to distinguish genuine faults from nuisance faults caused by noise or the control system's large transient response. Consequently, because</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a49f20828": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "I must delete the evidence: AI Agents Explicitly Cover up Fraud and Violent Crime",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1775448000,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://arxiv.org/abs/2604.02500",
-      "tags": [],
-      "body": "<p>arXiv:2604.02500v1 Announce Type: new Abstract: As ongoing research explores the ability of AI agents to be insider threats and act against company interests, we showcase the abilities of such agents to act against human well being in service of corporate authority. Building on Agentic Misalignment and AI scheming research, we present a scenario where the majority of evaluated state-of-the-art AI </p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a9c90830a": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
       "title": "Cleanup Claude Code Paste",
       "src": "Simon Willison",
-      "time": "23小时前",
+      "time": "1天前",
       "published_ts": 1775444123,
       "heat": "9.6K",
       "views": "11.4K",
@@ -579,7 +566,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] Gemma 4: The best small Multimodal Open Models, dramatically better than Gemma 3 in every way",
       "src": "Latent Space",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1775199768,
       "heat": "12.5K",
       "views": "14.8K",
@@ -709,7 +696,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] A quiet April Fools",
       "src": "Latent Space",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1775113458,
       "heat": "7.8K",
       "views": "10.1K",
@@ -1385,7 +1372,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "229天前",
+      "time": "230天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1616,47 +1603,10 @@
     }
   },
   "by_layer": {
-    "l3": [
-      "a087d4603",
-      "aae7bf0ce",
-      "af4f4f3b8",
-      "a5acf490f",
-      "ab84a1312",
-      "a18156c06",
-      "a774f3120",
-      "a3881275e",
-      "a74239e42",
-      "a23fdeba7",
-      "a1b552f8f",
-      "a0ffb5278",
-      "a28f84720"
-    ],
-    "l4": [
-      "a4c5f472f",
-      "a145ce8a8",
-      "a90dea3a3",
-      "a01224e73",
-      "a4872c295",
-      "ad624f897",
-      "af5288010",
-      "a49f20828",
-      "a0f633ab2",
-      "ab59fe080",
-      "a1a07611b",
-      "ad780e7a1",
-      "a191dd8ef",
-      "a65d10fa8",
-      "ad102c3ce",
-      "a88750c9b",
-      "a42efc8b4",
-      "a8e5da7e6",
-      "adf302d45",
-      "af25d02a4",
-      "a9560485f",
-      "a61a8adff",
-      "ad01feb8a"
-    ],
     "l1": [
+      "a155754d7",
+      "aaba61f9b",
+      "a7c598242",
       "a58640646",
       "a0254a6a3",
       "a59da3963",
@@ -1664,7 +1614,6 @@
       "a9b8e2969",
       "a1632f7b3",
       "abdf8c40c",
-      "a7a8ada1a",
       "a6f4b75bc",
       "a78587de7",
       "a9463725f",
@@ -1686,48 +1635,23 @@
       "a2ae2603b",
       "afeb62ce7"
     ],
-    "l0": [
-      "aa466c41b",
-      "a0e88df9c",
-      "ac13280c5",
-      "a3c1cafcd",
-      "a92b8dddf",
-      "af38549e7",
-      "a3318c6a1",
-      "a0a86adb8",
-      "a6eadb995",
-      "a2f2fbafa",
-      "a7124d2ed",
-      "aa27891e5",
-      "a57fda39f",
-      "a187a50d6",
-      "a2fdfcb21",
-      "a040f39c9",
-      "a0ab4dd7d",
-      "a375099f0",
-      "a6a5b4a81",
-      "a253e0446",
-      "a9173515c",
-      "abcb7b0c4"
-    ],
     "l5": [
+      "a1a2a0ac5",
       "a87cc1337",
       "a6fe3fc5d",
-      "a1a2a0ac5",
       "a7157e993",
       "ad9665095",
       "a845518ec"
     ],
     "l2": [
-      "a99330699",
-      "a99b5100a",
       "aaceec1a1",
       "aa1789986",
       "a0f8c59e4",
       "a49c12c55",
       "ac4237e2f",
-      "aae4830e7",
-      "a7a2d07f9",
+      "a0ec75fb6",
+      "a99330699",
+      "a99b5100a",
       "a9c90830a",
       "a81be9030",
       "a56080671",
@@ -1751,14 +1675,76 @@
       "ab3119897",
       "af0f189d1",
       "a38ad1236"
+    ],
+    "l4": [
+      "ad3f337c3",
+      "a40a89b24",
+      "a4c5f472f",
+      "a145ce8a8",
+      "a90dea3a3",
+      "a01224e73",
+      "a4872c295",
+      "a0f633ab2",
+      "ab59fe080",
+      "a1a07611b",
+      "ad780e7a1",
+      "a191dd8ef",
+      "a65d10fa8",
+      "ad102c3ce",
+      "a88750c9b",
+      "a42efc8b4",
+      "a8e5da7e6",
+      "adf302d45",
+      "af25d02a4",
+      "a9560485f",
+      "a61a8adff",
+      "ad01feb8a"
+    ],
+    "l3": [
+      "a087d4603",
+      "aae7bf0ce",
+      "af4f4f3b8",
+      "a5acf490f",
+      "ab84a1312",
+      "a18156c06",
+      "a774f3120",
+      "a3881275e",
+      "a74239e42",
+      "a23fdeba7",
+      "a1b552f8f",
+      "a0ffb5278",
+      "a28f84720"
+    ],
+    "l0": [
+      "aa466c41b",
+      "ac13280c5",
+      "a3c1cafcd",
+      "a92b8dddf",
+      "af38549e7",
+      "a3318c6a1",
+      "a0a86adb8",
+      "a6eadb995",
+      "a2f2fbafa",
+      "a7124d2ed",
+      "aa27891e5",
+      "a57fda39f",
+      "a187a50d6",
+      "a2fdfcb21",
+      "a040f39c9",
+      "a0ab4dd7d",
+      "a375099f0",
+      "a6a5b4a81",
+      "a253e0446",
+      "a9173515c",
+      "abcb7b0c4"
     ]
   },
   "top5": [
-    "a087d4603",
-    "a4c5f472f",
-    "a58640646",
-    "a0254a6a3",
-    "a145ce8a8"
+    "a155754d7",
+    "a1a2a0ac5",
+    "aaceec1a1",
+    "aa1789986",
+    "a0f8c59e4"
   ],
   "layers": [
     {
@@ -1766,11 +1752,11 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        34,
-        30,
-        16,
+        33,
+        37,
+        24,
         8,
-        20,
+        24,
         22
       ],
       "trend": [
@@ -1788,12 +1774,12 @@
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        19,
-        30,
-        11,
-        7,
-        28,
-        21
+        26,
+        23,
+        12,
+        8,
+        20,
+        22
       ],
       "trend": [
         20,
@@ -1806,37 +1792,15 @@
       ]
     },
     {
-      "id": "l0",
-      "num": "LAYER 0",
-      "name": "领袖观点",
-      "vals": [
-        24,
-        27,
-        8,
-        5,
-        30,
-        18
-      ],
-      "trend": [
-        20,
-        20,
-        20,
-        20,
-        20,
-        20,
-        20
-      ]
-    },
-    {
       "id": "l3",
       "num": "LAYER 3",
       "name": "推理工程",
       "vals": [
         10,
-        21,
-        19,
-        17,
-        12,
+        16,
+        16,
+        15,
+        20,
         15
       ],
       "trend": [
@@ -1854,12 +1818,34 @@
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        21,
+        15,
         10,
-        9,
+        8,
+        19,
+        22,
+        18
+      ],
+      "trend": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "id": "l0",
+      "num": "LAYER 0",
+      "name": "领袖观点",
+      "vals": [
+        10,
+        12,
+        8,
         5,
-        18,
-        19
+        15,
+        18
       ],
       "trend": [
         20,
@@ -1896,6 +1882,66 @@
   ],
   "ticker": [
     {
+      "tag": "TECHCRUNC",
+      "col": "var(--l1)",
+      "text": "AI startup Rocket offers vibe McKinsey-style reports at a fractio…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l5)",
+      "text": "Convolutional Surrogate for 3D Discrete Fracture-Matrix Tensor Up…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Generating Counterfactual Patient Timelines from Real-World Data"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "LiME: Lightweight Mixture of Experts for Efficient Multimodal Mul…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "SIEVE: Sample-Efficient Parametric Learning from Natural Language"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Not All Denoising Steps Are Equal: Model Scheduling for Faster Ma…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "LLM Reasoning with Process Rewards for Outcome-Guided Steps"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l1)",
+      "text": "IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evo…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l4)",
+      "text": "To Throw a Stone with Six Birds: On Agents and Agenthood"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Position: Science of AI Evaluation Requires Item-level Benchmark …"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l4)",
+      "text": "Toward Full Autonomous Laboratory Instrumentation Control with La…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l1)",
+      "text": "Evaluating Artificial Intelligence Through a Christian Understand…"
+    },
+    {
       "tag": "LATENT SP",
       "col": "var(--l3)",
       "text": "[AINews] Gemma 4 crosses 2 million downloads"
@@ -1904,76 +1950,34 @@
       "tag": "TECHCRUNC",
       "col": "var(--l4)",
       "text": "OpenAI alums have been quietly investing from a new, potentially …"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Amazon, Microsoft, and Google under investor pressure to disclose…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "US lawmakers aim to ban export of DUV chipmaking and etching tool…"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "Google quietly launched an AI dictation app that works offline"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l1)",
-      "text": "The best deals on MacBooks right now"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "Robotaxi companies won’t say how often remote operators intervene"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "Iran threatens ‘Stargate’ AI data centers"
-    },
-    {
-      "tag": "MIT TECH ",
-      "col": "var(--l1)",
-      "text": "The one piece of data that could actually shed light on your job …"
-    },
-    {
-      "tag": "META ENGI",
-      "col": "var(--l4)",
-      "text": "How Meta Used AI to Map Tribal Knowledge in Large-Scale Data Pipe…"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l0)",
-      "text": "OpenAI’s vision for the AI economy: public wealth funds, robot ta…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "MSI MAG A1200PLS PCIE5 1200W power supply review: A competent 120…"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l5)",
-      "text": "Startup Battlefield 200 applications open: a chance for VC access…"
-    },
-    {
-      "tag": "IEEE SPEC",
-      "col": "var(--l1)",
-      "text": "AI Is Insatiable"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
+      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+      "url": "https://github.com/anthropics/claude-code/issues/42796",
+      "votes": "992",
+      "comments": "556",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
       "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
       "url": "https://www.freestyle.sh/",
-      "votes": "212",
-      "comments": "116",
+      "votes": "257",
+      "comments": "144",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Apollo Guidance Computer restoration videos",
+      "url": "https://www.curiousmarc.com/space/apollo-guidance-computer",
+      "votes": "33",
+      "comments": "5",
       "time": "近期"
     },
     {
@@ -1981,17 +1985,8 @@
       "badge": "pb-hn",
       "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
       "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
-      "votes": "158",
-      "comments": "74",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
-      "url": "https://github.com/anthropics/claude-code/issues/42796",
-      "votes": "780",
-      "comments": "474",
+      "votes": "227",
+      "comments": "97",
       "time": "近期"
     },
     {
@@ -1999,8 +1994,8 @@
       "badge": "pb-hn",
       "title": "Show HN: Hippo, biologically inspired memory for AI agents",
       "url": "https://github.com/kitfunso/hippo-memory",
-      "votes": "52",
-      "comments": "14",
+      "votes": "85",
+      "comments": "16",
       "time": "近期"
     },
     {
@@ -2008,17 +2003,8 @@
       "badge": "pb-hn",
       "title": "AI singer now occupies eleven spots on iTunes singles chart",
       "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
-      "votes": "112",
-      "comments": "133",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Agent Reading Test",
-      "url": "https://agentreadingtest.com",
-      "votes": "50",
-      "comments": "15",
+      "votes": "148",
+      "comments": "232",
       "time": "近期"
     }
   ]
