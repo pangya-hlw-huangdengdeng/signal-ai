@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-12T02:53:07.869898+00:00",
+  "updated_at": "2026-04-12T07:19:24.593581+00:00",
   "article_count": 115,
   "articles": {
     "ab6614908": {
@@ -7,7 +7,7 @@
       "cat": "L3 · 推理工程",
       "title": "SQLite 3.53.0",
       "src": "Simon Willison",
-      "time": "6小时前",
+      "time": "11小时前",
       "published_ts": 1775937413,
       "heat": "15.0K",
       "views": "15.0K",
@@ -20,7 +20,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
       "src": "TechCrunch AI",
-      "time": "9小时前",
+      "time": "14小时前",
       "published_ts": 1775927902,
       "heat": "27.0K",
       "views": "27.0K",
@@ -33,7 +33,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Clippy, Microsoft’s hapless Office assistant, was retired 25 years ago today — its irritating spirit lives on in 100+ Copilots",
       "src": "Tom's Hardware",
-      "time": "10小时前",
+      "time": "14小时前",
       "published_ts": 1775924857,
       "heat": "13.2K",
       "views": "15.0K",
@@ -46,7 +46,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Save $680 instantly on this massive Corsair 96GB DDR5-6000 RAM kit — 57% discount slashes price tag to $499",
       "src": "Tom's Hardware",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1775923186,
       "heat": "11.4K",
       "views": "13.2K",
@@ -59,7 +59,7 @@
       "cat": "L1 · 算力硬件",
       "title": "MacBook user explains why he files the sharp metal edges off his Apple laptops — unibody design facilitates a surprisingly deep roundover",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1775920542,
       "heat": "7.8K",
       "views": "9.6K",
@@ -72,7 +72,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Your article about AI doesn’t need AI art",
       "src": "The Verge",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1775919600,
       "heat": "15.4K",
       "views": "18.2K",
@@ -85,7 +85,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Google’s latest Nest Doorbells just hit their lowest prices of the year",
       "src": "The Verge",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1775919600,
       "heat": "12.5K",
       "views": "15.4K",
@@ -98,7 +98,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Best Laptops 2026: Our benchmarked picks for productivity, portability, and battery life",
       "src": "Tom's Hardware",
-      "time": "12小时前",
+      "time": "16小时前",
       "published_ts": 1775918103,
       "heat": "6.0K",
       "views": "7.8K",
@@ -111,7 +111,7 @@
       "cat": "L5 · 生态商业",
       "title": "How the Internet Broke Everyone’s Bullshit Detectors",
       "src": "Wired",
-      "time": "17小时前",
+      "time": "21小时前",
       "published_ts": 1775899800,
       "heat": "14.5K",
       "views": "16.5K",
@@ -267,7 +267,7 @@
       "cat": "L2 · 基础模型",
       "title": "Booking restaurants in the UK just got easier with AI in Search",
       "src": "Google AI Blog",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1775793660,
       "heat": "30.4K",
       "views": "34.5K",
@@ -275,31 +275,70 @@
       "tags": [],
       "body": "<p>A search bar with text \"Find me a table\" and a glowing AI search icon. It is overlaid on a background of restaurant cards.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a25072fe0": {
+    "a3a3f9ed7": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
-      "title": "Getting started with ChatGPT",
+      "title": "Using projects in ChatGPT",
       "src": "OpenAI Blog",
       "time": "2天前",
       "published_ts": 1775779200,
       "heat": "45.0K",
       "views": "45.0K",
-      "url": "https://openai.com/academy/getting-started",
+      "url": "https://openai.com/academy/projects",
       "tags": [],
-      "body": "<p>Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "af0076c30": {
+    "a76a6f4f5": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
-      "title": "Brainstorming with ChatGPT",
+      "title": "ChatGPT for marketing teams",
       "src": "OpenAI Blog",
       "time": "2天前",
       "published_ts": 1775779200,
       "heat": "39.6K",
       "views": "45.0K",
-      "url": "https://openai.com/academy/brainstorming",
+      "url": "https://openai.com/academy/marketing",
       "tags": [],
-      "body": "<p>Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ae5d31e53": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Our response to the Axios developer tool compromise",
+      "src": "OpenAI Blog",
+      "time": "2天前",
+      "published_ts": 1775779200,
+      "heat": "34.2K",
+      "views": "39.6K",
+      "url": "https://openai.com/index/axios-developer-tool-compromise",
+      "tags": [],
+      "body": "<p>OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a8bfd50e3": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Using custom GPTs",
+      "src": "OpenAI Blog",
+      "time": "2天前",
+      "published_ts": 1775779200,
+      "heat": "28.8K",
+      "views": "34.2K",
+      "url": "https://openai.com/academy/custom-gpts",
+      "tags": [],
+      "body": "<p>Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a7b0ab5ff": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Analyzing data with ChatGPT",
+      "src": "OpenAI Blog",
+      "time": "2天前",
+      "published_ts": 1775779200,
+      "heat": "23.4K",
+      "views": "28.8K",
+      "url": "https://openai.com/academy/data-analysis",
+      "tags": [],
+      "body": "<p>Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "aeb419c50": {
       "layer": "l4",
@@ -308,50 +347,11 @@
       "src": "OpenAI Blog",
       "time": "2天前",
       "published_ts": 1775779200,
-      "heat": "34.2K",
-      "views": "39.6K",
+      "heat": "18.0K",
+      "views": "23.4K",
       "url": "https://openai.com/academy/writing",
       "tags": [],
       "body": "<p>Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a73482c07": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "ChatGPT for research",
-      "src": "OpenAI Blog",
-      "time": "2天前",
-      "published_ts": 1775779200,
-      "heat": "28.8K",
-      "views": "34.2K",
-      "url": "https://openai.com/academy/research",
-      "tags": [],
-      "body": "<p>Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ad568e855": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Responsible and safe use of AI",
-      "src": "OpenAI Blog",
-      "time": "2天前",
-      "published_ts": 1775779200,
-      "heat": "23.4K",
-      "views": "28.8K",
-      "url": "https://openai.com/academy/responsible-and-safe-use",
-      "tags": [],
-      "body": "<p>Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aeef2dc82": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Prompting fundamentals",
-      "src": "OpenAI Blog",
-      "time": "2天前",
-      "published_ts": 1775779200,
-      "heat": "18.0K",
-      "views": "23.4K",
-      "url": "https://openai.com/academy/prompting",
-      "tags": [],
-      "body": "<p>Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a97554052": {
       "layer": "l3",
@@ -1268,7 +1268,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "234天前",
+      "time": "235天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1541,12 +1541,10 @@
       "aa349383a",
       "a3b761ce0",
       "aa4553f4d",
-      "a25072fe0",
-      "af0076c30",
+      "a3a3f9ed7",
+      "a76a6f4f5",
+      "a7b0ab5ff",
       "aeb419c50",
-      "a73482c07",
-      "ad568e855",
-      "aeef2dc82",
       "a975e53de",
       "a3418b907",
       "a78ebca73",
@@ -1564,6 +1562,7 @@
       "a08f24859",
       "a79c7654c",
       "a9f112bd6",
+      "a8bfd50e3",
       "af50904a2",
       "ad9be9559",
       "add8b404f",
@@ -1605,6 +1604,7 @@
       "a99b5100a",
       "a31532bde",
       "a826a4bdb",
+      "ae5d31e53",
       "a3152a0ee",
       "a33c7d75a",
       "a0da71cea",
@@ -1636,37 +1636,15 @@
   ],
   "layers": [
     {
-      "id": "l2",
-      "num": "LAYER 2",
-      "name": "基础模型",
-      "vals": [
-        19,
-        19,
-        20,
-        6,
-        31,
-        20
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
-    {
       "id": "l0",
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        17,
-        25,
+        26,
+        16,
         9,
         6,
-        30,
+        19,
         19
       ],
       "trend": [
@@ -1684,12 +1662,12 @@
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        15,
-        16,
-        11,
-        7,
-        32,
-        21
+        14,
+        17,
+        12,
+        8,
+        27,
+        22
       ],
       "trend": [
         20,
@@ -1702,25 +1680,25 @@
       ]
     },
     {
-      "id": "l4",
-      "num": "LAYER 4",
-      "name": "交互Agent",
+      "id": "l2",
+      "num": "LAYER 2",
+      "name": "基础模型",
       "vals": [
+        15,
         10,
-        16,
-        9,
-        5,
-        20,
-        19
+        21,
+        7,
+        18,
+        20
       ],
       "trend": [
         20,
-        20,
-        20,
-        20,
-        20,
-        20,
-        20
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
       ]
     },
     {
@@ -1729,10 +1707,10 @@
       "name": "推理工程",
       "vals": [
         10,
-        20,
-        9,
-        5,
         10,
+        17,
+        15,
+        13,
         15
       ],
       "trend": [
@@ -1746,16 +1724,38 @@
       ]
     },
     {
+      "id": "l4",
+      "num": "LAYER 4",
+      "name": "交互Agent",
+      "vals": [
+        10,
+        10,
+        8,
+        5,
+        16,
+        18
+      ],
+      "trend": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ]
+    },
+    {
       "id": "l5",
       "num": "LAYER 5",
       "name": "生态商业",
       "vals": [
         10,
-        18,
+        10,
         5,
         5,
         10,
-        21
+        10
       ],
       "trend": [
         20,
@@ -1846,8 +1846,17 @@
       "badge": "pb-hn",
       "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
       "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "votes": "244",
-      "comments": "65",
+      "votes": "344",
+      "comments": "88",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "How a dancer with ALS used brainwaves to perform live",
+      "url": "https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/",
+      "votes": "32",
+      "comments": "3",
       "time": "近期"
     },
     {
@@ -1855,8 +1864,17 @@
       "badge": "pb-hn",
       "title": "Cirrus Labs to join OpenAI",
       "url": "https://cirruslabs.org/",
-      "votes": "237",
-      "comments": "120",
+      "votes": "259",
+      "comments": "125",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "High-Level Rust: Getting 80% of the Benefits with 20% of the Pain",
+      "url": "https://hamy.xyz/blog/2026-01_high-level-rust",
+      "votes": "21",
+      "comments": "8",
       "time": "近期"
     },
     {
@@ -1864,17 +1882,8 @@
       "badge": "pb-hn",
       "title": "Midnight Captain – A midnight commander inspired file manager",
       "url": "https://github.com/duguyue100/midnight-captain",
-      "votes": "14",
-      "comments": "6",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Rockstar Games Hacked, Hackers Threaten a Massive Data Leak If Not Paid Ransom",
-      "url": "https://kotaku.com/rockstar-games-reportedly-hacked-massive-data-leak-ransom-gta-6-shinyhunters-2000686858",
-      "votes": "95",
-      "comments": "44",
+      "votes": "30",
+      "comments": "15",
       "time": "近期"
     },
     {
@@ -1882,17 +1891,8 @@
       "badge": "pb-hn",
       "title": "Italo Calvino: A traveller in a world of uncertainty",
       "url": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty",
-      "votes": "114",
+      "votes": "115",
       "comments": "20",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "AI assistance when contributing to the Linux kernel",
-      "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
-      "votes": "498",
-      "comments": "378",
       "time": "近期"
     }
   ]
