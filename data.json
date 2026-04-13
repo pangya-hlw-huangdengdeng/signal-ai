@@ -1,13 +1,156 @@
 {
-  "updated_at": "2026-04-13T02:57:49.431415+00:00",
-  "article_count": 116,
+  "updated_at": "2026-04-13T08:10:06.674117+00:00",
+  "article_count": 126,
   "articles": {
+    "a806a06a5": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "The largest orbital compute cluster is open for business",
+      "src": "TechCrunch AI",
+      "time": "1小时前",
+      "published_ts": 1776063660,
+      "heat": "27.0K",
+      "views": "27.0K",
+      "url": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
+      "tags": [],
+      "body": "<p>Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a1f6da20e": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "GNN-as-Judge: Unleashing the Power of LLMs for Graph Learning with GNN Feedback",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1776052800,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2604.08553",
+      "tags": [],
+      "body": "<p>arXiv:2604.08553v1 Announce Type: new Abstract: Large Language Models (LLMs) have shown strong performance on text-attributed graphs (TAGs) due to their superior semantic understanding ability on textual node features. However, their effectiveness as predictors in the low-resource setting, where labeled nodes are severely limited and scarce, remains constrained since fine-tuning LLMs usually requi</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "acf37aae0": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1776052800,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2604.08570",
+      "tags": [],
+      "body": "<p>arXiv:2604.08570v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly used for code generation, yet quantum code generation is still evaluated mostly within single frameworks, making it difficult to separate quantum reasoning from framework familiarity. We introduce QuanBench+, a unified benchmark spanning Qiskit, PennyLane, and Cirq, with 42 aligned tasks covering quantum </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aea3c62f4": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Robust Reasoning Benchmark",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1776052800,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2604.08571",
+      "tags": [],
+      "body": "<p>arXiv:2604.08571v1 Announce Type: new Abstract: While Large Language Models (LLMs) achieve high performance on standard mathematical benchmarks, their underlying reasoning processes remain highly overfit to standard textual formatting. We propose a perturbation pipeline consisting of 14 techniques to evaluate robustness of LLM reasoning. We apply this pipeline to AIME 2024 dataset and evalute 8 st</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "acbdcb636": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Ranked Activation Shift for Post-Hoc Out-of-Distribution Detection",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1776052800,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2604.08572",
+      "tags": [],
+      "body": "<p>arXiv:2604.08572v1 Announce Type: new Abstract: State-of-the-art post-hoc out-of-distribution detection methods rely on intermediate layer activation editing. However, they exhibit inconsistent performance across datasets and models. We show that this instability is driven by differences in the activation distributions, and identify a failure mode of scaling-based methods that arises when penultim</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a1ac04401": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Silhouette Loss: Differentiable Global Structure Learning for Deep Representations",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1776052800,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2604.08573",
+      "tags": [],
+      "body": "<p>arXiv:2604.08573v1 Announce Type: new Abstract: Learning discriminative representations is a central goal of supervised deep learning. While cross-entropy (CE) remains the dominant objective for classification, it does not explicitly enforce desirable geometric properties in the embedding space, such as intra-class compactness and inter-class separation. Existing metric learning approaches, includ</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ad75e267c": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "OpenKedge: Governing Agentic Mutation with Execution-Bound Safety and Evidence Chains",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1776052800,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2604.08601",
+      "tags": [],
+      "body": "<p>arXiv:2604.08601v1 Announce Type: new Abstract: The rise of autonomous AI agents exposes a fundamental flaw in API-centric architectures: probabilistic systems directly execute state mutations without sufficient context, coordination, or safety guarantees. We introduce OpenKedge, a protocol that redefines mutation as a governed process rather than an immediate consequence of API invocation. OpenKe</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a9f1a7782": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "From Business Events to Auditable Decisions: Ontology-Governed Graph Simulation for Enterprise AI",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1776052800,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2604.08603",
+      "tags": [],
+      "body": "<p>arXiv:2604.08603v1 Announce Type: new Abstract: Existing LLM-based agent systems share a common architectural failure: they answer from the unrestricted knowledge space without first simulating how active business scenarios reshape that space for the event at hand -- producing decisions that are fluent but ungrounded and carrying no audit trail. We present LOM-action, which equips enterprise AI wi</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a30eb9f90": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "Sustained Impact of Agentic Personalisation in Marketing: A Longitudinal Case Study",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1776052800,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2604.08621",
+      "tags": [],
+      "body": "<p>arXiv:2604.08621v1 Announce Type: new Abstract: In consumer applications, Customer Relationship Management (CRM) has traditionally relied on the manual optimisation of static, rule-based messaging strategies. While adaptive and autonomous learning systems offer the promise of scalable personalisation, it remains unclear to what extent ``human-in-the-loop'' oversight is required to sustain performa</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a6642d6f8": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "RAMP: Hybrid DRL for Online Learning of Numeric Action Models",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1776052800,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2604.08685",
+      "tags": [],
+      "body": "<p>arXiv:2604.08685v1 Announce Type: new Abstract: Automated planning algorithms require an action model specifying the preconditions and effects of each action, but obtaining such a model is often hard. Learning action models from observations is feasible, but existing algorithms for numeric domains are offline, requiring expert traces as input. We propose the Reinforcement learning, Action Model le</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a29c43bc7": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Model Space Reasoning as Search in Feedback Space for Planning Domain Generation",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1776052800,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2604.08712",
+      "tags": [],
+      "body": "<p>arXiv:2604.08712v1 Announce Type: new Abstract: The generation of planning domains from natural language descriptions remains an open problem even with the advent of large language models and reasoning models. Recent work suggests that while LLMs have the ability to assist with domain generation, they are still far from producing high quality domains that can be deployed in practice. To this end, </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a9ce6bcbc": {
       "layer": "l3",
       "cat": "L3 · 推理工程",
       "title": "Quoting Bryan Cantrill",
       "src": "Simon Willison",
-      "time": "13分钟前",
+      "time": "5小时前",
       "published_ts": 1776048264,
       "heat": "15.0K",
       "views": "15.0K",
@@ -20,9 +163,9 @@
       "cat": "L0 · 领袖观点",
       "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
       "src": "TechCrunch AI",
-      "time": "5小时前",
+      "time": "10小时前",
       "published_ts": 1776028478,
-      "heat": "27.0K",
+      "heat": "23.8K",
       "views": "27.0K",
       "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
       "tags": [],
@@ -33,7 +176,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Grab MSI’s RTX 5080 gaming laptop for just over $2,000 — offers fast 240 Hz QHD+ display, dual storage slots, and expandable DDR5 memory",
       "src": "Tom's Hardware",
-      "time": "9小时前",
+      "time": "15小时前",
       "published_ts": 1776013660,
       "heat": "15.0K",
       "views": "15.0K",
@@ -46,7 +189,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Rockstar Games says hack will have ‘no impact’",
       "src": "The Verge",
-      "time": "9小时前",
+      "time": "15小时前",
       "published_ts": 1776013320,
       "heat": "21.1K",
       "views": "24.0K",
@@ -59,7 +202,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Lenovo hikes Legion Go 2 handheld gaming PC to almost $3,000 for 2 TB model — Handheld now costs more than AMD's Strix Halo devices despite relatively weaker Z2 Extreme chip",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1776007894,
       "heat": "13.2K",
       "views": "15.0K",
@@ -72,7 +215,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Iran's forced nationwide internet blackout becomes second-longest on record as it passes 1,000 hours offline — possessing Starlink terminals punishable by death, country using 'military-grade jamming' against service",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1776007221,
       "heat": "11.4K",
       "views": "13.2K",
@@ -85,10 +228,10 @@
       "cat": "L4 · 交互Agent",
       "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
       "src": "TechCrunch AI",
-      "time": "11小时前",
+      "time": "17小时前",
       "published_ts": 1776006428,
-      "heat": "20.5K",
-      "views": "23.8K",
+      "heat": "17.3K",
+      "views": "20.5K",
       "url": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "tags": [],
       "body": "<p>The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -98,10 +241,10 @@
       "cat": "L2 · 基础模型",
       "title": "At the HumanX conference, everyone was talking about Claude",
       "src": "TechCrunch AI",
-      "time": "11小时前",
+      "time": "17小时前",
       "published_ts": 1776006000,
-      "heat": "17.3K",
-      "views": "20.5K",
+      "heat": "14.0K",
+      "views": "17.3K",
       "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
       "tags": [],
       "body": "<p>Anthropic was the star of the show at San Francisco's AI-centric conference.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -111,7 +254,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Linux lays down the law on AI-generated code, says yes to Copilot, no to AI slop, and humans take the fall for mistakes — after months of fierce debate, Torvalds and maintainers come to an agreement",
       "src": "Tom's Hardware",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1776003488,
       "heat": "7.8K",
       "views": "9.6K",
@@ -124,7 +267,7 @@
       "cat": "L4 · 交互Agent",
       "title": "The Hisense UR9 is a great first shot against OLED’s bow",
       "src": "The Verge",
-      "time": "13小时前",
+      "time": "18小时前",
       "published_ts": 1776000600,
       "heat": "12.5K",
       "views": "15.4K",
@@ -137,7 +280,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Veteran Microsoft engineer says original Task Manager was only 80KB so it could run smoothly on 90s computers — original utility used a smart technique to determine whether it was the only running instance",
       "src": "Tom's Hardware",
-      "time": "14小时前",
+      "time": "19小时前",
       "published_ts": 1775998279,
       "heat": "6.0K",
       "views": "7.8K",
@@ -165,8 +308,8 @@
       "src": "TechCrunch AI",
       "time": "1天前",
       "published_ts": 1775927902,
-      "heat": "14.0K",
-      "views": "17.3K",
+      "heat": "10.8K",
+      "views": "14.0K",
       "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
       "tags": [],
       "body": "<p>The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -196,19 +339,6 @@
       "url": "https://www.latent.space/p/ainews-ai-engineer-europe-2026",
       "tags": [],
       "body": "<p>Two quiet days in a row let us reflect on the first AIE in London.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a679e674e": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
-      "src": "TechCrunch AI",
-      "time": "2天前",
-      "published_ts": 1775852872,
-      "heat": "10.8K",
-      "views": "14.0K",
-      "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
-      "tags": [],
-      "body": "<p>This ban took place after Claude's pricing changed for OpenClaw users last week.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a99b5100a": {
       "layer": "l2",
@@ -306,7 +436,7 @@
       "cat": "L2 · 基础模型",
       "title": "Booking restaurants in the UK just got easier with AI in Search",
       "src": "Google AI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1775793660,
       "heat": "30.4K",
       "views": "34.5K",
@@ -314,83 +444,83 @@
       "tags": [],
       "body": "<p>A search bar with text \"Find me a table\" and a glowing AI search icon. It is overlaid on a background of restaurant cards.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a3a3f9ed7": {
+    "a9c706a8f": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
-      "title": "Using projects in ChatGPT",
+      "title": "ChatGPT for finance teams",
       "src": "OpenAI Blog",
       "time": "3天前",
       "published_ts": 1775779200,
       "heat": "45.0K",
       "views": "45.0K",
-      "url": "https://openai.com/academy/projects",
+      "url": "https://openai.com/academy/finance",
       "tags": [],
-      "body": "<p>Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a76a6f4f5": {
+    "a73482c07": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
-      "title": "ChatGPT for marketing teams",
+      "title": "ChatGPT for research",
       "src": "OpenAI Blog",
       "time": "3天前",
       "published_ts": 1775779200,
       "heat": "39.6K",
       "views": "45.0K",
-      "url": "https://openai.com/academy/marketing",
+      "url": "https://openai.com/academy/research",
       "tags": [],
-      "body": "<p>Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "ae5d31e53": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Our response to the Axios developer tool compromise",
+    "ad568e855": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Responsible and safe use of AI",
       "src": "OpenAI Blog",
       "time": "3天前",
       "published_ts": 1775779200,
       "heat": "34.2K",
       "views": "39.6K",
-      "url": "https://openai.com/index/axios-developer-tool-compromise",
+      "url": "https://openai.com/academy/responsible-and-safe-use",
       "tags": [],
-      "body": "<p>OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a8bfd50e3": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Using custom GPTs",
+    "a25072fe0": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Getting started with ChatGPT",
       "src": "OpenAI Blog",
       "time": "3天前",
       "published_ts": 1775779200,
       "heat": "28.8K",
       "views": "34.2K",
-      "url": "https://openai.com/academy/custom-gpts",
+      "url": "https://openai.com/academy/getting-started",
       "tags": [],
-      "body": "<p>Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a7b0ab5ff": {
+    "ad9558b91": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
-      "title": "Analyzing data with ChatGPT",
+      "title": "ChatGPT for operations teams",
       "src": "OpenAI Blog",
       "time": "3天前",
       "published_ts": 1775779200,
       "heat": "23.4K",
       "views": "28.8K",
-      "url": "https://openai.com/academy/data-analysis",
+      "url": "https://openai.com/academy/operations",
       "tags": [],
-      "body": "<p>Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a2210ae81": {
+    "aeef2dc82": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
-      "title": "Using skills",
+      "title": "Prompting fundamentals",
       "src": "OpenAI Blog",
       "time": "3天前",
       "published_ts": 1775779200,
       "heat": "18.0K",
       "views": "23.4K",
-      "url": "https://openai.com/academy/skills",
+      "url": "https://openai.com/academy/prompting",
       "tags": [],
-      "body": "<p>Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a3152a0ee": {
       "layer": "l2",
@@ -1281,7 +1411,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "235天前",
+      "time": "236天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1512,50 +1642,12 @@
     }
   },
   "by_layer": {
-    "l3": [
-      "a9ce6bcbc",
-      "ab6614908",
-      "a9ffe1a2c",
-      "a6e453d01",
-      "a087d4603",
-      "af4f4f3b8",
-      "a18156c06",
-      "a774f3120",
-      "a23fdeba7",
-      "a1b552f8f",
-      "a0ffb5278",
-      "a28f84720"
-    ],
-    "l0": [
-      "a60bc1ded",
-      "a9f8c7a0a",
-      "a0d230694",
-      "ae11ba5c2",
-      "a5ea1c123",
-      "af38549e7",
-      "a3318c6a1",
-      "a0a86adb8",
-      "a6eadb995",
-      "a2f2fbafa",
-      "a7124d2ed",
-      "aa27891e5",
-      "a57fda39f",
-      "a187a50d6",
-      "a2fdfcb21",
-      "a040f39c9",
-      "a0ab4dd7d",
-      "a375099f0",
-      "a6a5b4a81",
-      "a253e0446",
-      "a9173515c",
-      "abcb7b0c4"
-    ],
     "l1": [
+      "a806a06a5",
       "a43985a66",
       "a43fe0666",
       "a2bcfcafa",
       "ae9c015b0",
-      "a8bfd50e3",
       "af50904a2",
       "ad9be9559",
       "add8b404f",
@@ -1581,34 +1673,18 @@
       "a2ae2603b",
       "afeb62ce7"
     ],
-    "l4": [
-      "a657df452",
-      "a4351c748",
-      "add73b94d",
-      "a71fd985c",
-      "a3a3f9ed7",
-      "a76a6f4f5",
-      "a7b0ab5ff",
-      "a2210ae81",
-      "a3418b907",
-      "a78ebca73",
-      "a4872c295",
-      "ab59fe080",
-      "a1a07611b",
-      "a191dd8ef",
-      "a42efc8b4",
-      "af25d02a4",
-      "a9560485f",
-      "a61a8adff",
-      "ad01feb8a"
-    ],
     "l2": [
+      "a1f6da20e",
+      "acf37aae0",
+      "aea3c62f4",
+      "acbdcb636",
+      "a1ac04401",
+      "a6642d6f8",
+      "a29c43bc7",
       "a42daa94d",
-      "a679e674e",
       "a99b5100a",
       "a31532bde",
       "a826a4bdb",
-      "ae5d31e53",
       "a3152a0ee",
       "a33c7d75a",
       "a0da71cea",
@@ -1630,6 +1706,70 @@
       "af0f189d1",
       "a38ad1236"
     ],
+    "l4": [
+      "ad75e267c",
+      "a9f1a7782",
+      "a657df452",
+      "a4351c748",
+      "add73b94d",
+      "a71fd985c",
+      "a9c706a8f",
+      "a73482c07",
+      "ad568e855",
+      "a25072fe0",
+      "ad9558b91",
+      "aeef2dc82",
+      "a3418b907",
+      "a78ebca73",
+      "a4872c295",
+      "ab59fe080",
+      "a1a07611b",
+      "a191dd8ef",
+      "a42efc8b4",
+      "af25d02a4",
+      "a9560485f",
+      "a61a8adff",
+      "ad01feb8a"
+    ],
+    "l0": [
+      "a30eb9f90",
+      "a60bc1ded",
+      "a9f8c7a0a",
+      "a0d230694",
+      "ae11ba5c2",
+      "a5ea1c123",
+      "af38549e7",
+      "a3318c6a1",
+      "a0a86adb8",
+      "a6eadb995",
+      "a2f2fbafa",
+      "a7124d2ed",
+      "aa27891e5",
+      "a57fda39f",
+      "a187a50d6",
+      "a2fdfcb21",
+      "a040f39c9",
+      "a0ab4dd7d",
+      "a375099f0",
+      "a6a5b4a81",
+      "a253e0446",
+      "a9173515c",
+      "abcb7b0c4"
+    ],
+    "l3": [
+      "a9ce6bcbc",
+      "ab6614908",
+      "a9ffe1a2c",
+      "a6e453d01",
+      "a087d4603",
+      "af4f4f3b8",
+      "a18156c06",
+      "a774f3120",
+      "a23fdeba7",
+      "a1b552f8f",
+      "a0ffb5278",
+      "a28f84720"
+    ],
     "l5": [
       "ab3ea972a",
       "a6fe9e7bd",
@@ -1642,46 +1782,24 @@
     ]
   },
   "top5": [
-    "a9ce6bcbc",
-    "a60bc1ded",
-    "a43985a66",
-    "a657df452",
-    "a43fe0666"
+    "a806a06a5",
+    "a1f6da20e",
+    "acf37aae0",
+    "aea3c62f4",
+    "acbdcb636"
   ],
   "layers": [
-    {
-      "id": "l1",
-      "num": "LAYER 1",
-      "name": "算力硬件",
-      "vals": [
-        27,
-        37,
-        12,
-        8,
-        27,
-        22
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
     {
       "id": "l2",
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        22,
-        21,
-        14,
-        7,
-        27,
-        21
+        25,
+        33,
+        24,
+        8,
+        30,
+        22
       ],
       "trend": [
         20,
@@ -1699,10 +1817,10 @@
       "name": "领袖观点",
       "vals": [
         20,
-        17,
+        27,
         9,
         6,
-        30,
+        27,
         19
       ],
       "trend": [
@@ -1716,16 +1834,38 @@
       ]
     },
     {
+      "id": "l1",
+      "num": "LAYER 1",
+      "name": "算力硬件",
+      "vals": [
+        23,
+        19,
+        11,
+        7,
+        32,
+        21
+      ],
+      "trend": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
       "id": "l4",
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        20,
-        15,
-        8,
         11,
-        11,
-        18
+        23,
+        9,
+        5,
+        27,
+        19
       ],
       "trend": [
         20,
@@ -1743,11 +1883,11 @@
       "name": "推理工程",
       "vals": [
         10,
-        20,
+        14,
+        14,
         5,
-        5,
-        10,
-        15
+        11,
+        14
       ],
       "trend": [
         20,
@@ -1765,11 +1905,11 @@
       "name": "生态商业",
       "vals": [
         12,
-        13,
+        16,
         5,
         5,
         10,
-        20
+        10
       ],
       "trend": [
         20,
@@ -1784,6 +1924,61 @@
   ],
   "ticker": [
     {
+      "tag": "TECHCRUNC",
+      "col": "var(--l1)",
+      "text": "The largest orbital compute cluster is open for business"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "GNN-as-Judge: Unleashing the Power of LLMs for Graph Learning wit…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Qua…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Robust Reasoning Benchmark"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Ranked Activation Shift for Post-Hoc Out-of-Distribution Detectio…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Silhouette Loss: Differentiable Global Structure Learning for Dee…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l4)",
+      "text": "OpenKedge: Governing Agentic Mutation with Execution-Bound Safety…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l4)",
+      "text": "From Business Events to Auditable Decisions: Ontology-Governed Gr…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l0)",
+      "text": "Sustained Impact of Agentic Personalisation in Marketing: A Longi…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "RAMP: Hybrid DRL for Online Learning of Numeric Action Models"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Model Space Reasoning as Search in Feedback Space for Planning Do…"
+    },
+    {
       "tag": "SIMON WIL",
       "col": "var(--l3)",
       "text": "Quoting Bryan Cantrill"
@@ -1797,61 +1992,6 @@
       "tag": "TOM'S HAR",
       "col": "var(--l1)",
       "text": "Grab MSI’s RTX 5080 gaming laptop for just over $2,000 — offers f…"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "Rockstar Games says hack will have ‘no impact’"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Lenovo hikes Legion Go 2 handheld gaming PC to almost $3,000 for …"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Iran's forced nationwide internet blackout becomes second-longest…"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "From LLMs to hallucinations, here’s a simple guide to common AI t…"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l2)",
-      "text": "At the HumanX conference, everyone was talking about Claude"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l4)",
-      "text": "Linux lays down the law on AI-generated code, says yes to Copilot…"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "The Hisense UR9 is a great first shot against OLED’s bow"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Veteran Microsoft engineer says original Task Manager was only 80…"
-    },
-    {
-      "tag": "SIMON WIL",
-      "col": "var(--l3)",
-      "text": "SQLite 3.53.0"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l0)",
-      "text": "Sam Altman responds to ‘incendiary’ New Yorker article after atta…"
-    },
-    {
-      "tag": "WIRED",
-      "col": "var(--l5)",
-      "text": "How the Internet Broke Everyone’s Bullshit Detectors"
     }
   ],
   "community": [
@@ -1860,8 +2000,17 @@
       "badge": "pb-hn",
       "title": "I gave every train in New York an instrument",
       "url": "https://www.trainjazz.com/",
-      "votes": "222",
-      "comments": "42",
+      "votes": "266",
+      "comments": "51",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+      "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+      "votes": "164",
+      "comments": "147",
       "time": "近期"
     },
     {
@@ -1869,8 +2018,8 @@
       "badge": "pb-hn",
       "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
       "url": "https://news.ycombinator.com/item?id=47738883",
-      "votes": "690",
-      "comments": "265",
+      "votes": "823",
+      "comments": "308",
       "time": "近期"
     },
     {
@@ -1878,17 +2027,8 @@
       "badge": "pb-hn",
       "title": "We have a 99% email reputation, but Gmail disagrees",
       "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
-      "votes": "180",
-      "comments": "176",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Show HN: Claudraband – Claude Code for the Power User",
-      "url": "https://github.com/halfwhey/claudraband",
-      "votes": "95",
-      "comments": "30",
+      "votes": "233",
+      "comments": "217",
       "time": "近期"
     },
     {
@@ -1896,17 +2036,17 @@
       "badge": "pb-hn",
       "title": "Exploiting the most prominent AI agent benchmarks",
       "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "votes": "497",
-      "comments": "129",
+      "votes": "514",
+      "comments": "132",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Tech valuations are back to pre-AI boom levels",
-      "url": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels",
-      "votes": "119",
-      "comments": "27",
+      "title": "Show HN: Claudraband – Claude Code for the Power User",
+      "url": "https://github.com/halfwhey/claudraband",
+      "votes": "105",
+      "comments": "38",
       "time": "近期"
     }
   ]
