@@ -1,13 +1,182 @@
 {
-  "updated_at": "2026-04-21T02:51:55.553319+00:00",
-  "article_count": 127,
+  "updated_at": "2026-04-21T07:57:49.149146+00:00",
+  "article_count": 126,
   "articles": {
+    "a0747755d": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "BASIS: Balanced Activation Sketching with Invariant Scalars for \"Ghost Backpropagation\"",
+      "src": "arXiv cs.LG",
+      "time": "3小时前",
+      "published_ts": 1776744000,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2604.16324",
+      "tags": [],
+      "body": "<p>arXiv:2604.16324v1 Announce Type: new Abstract: The activation memory required for exact backpropagation scales linearly with network depth, context length, and feature dimensionality, forming an O(L * BN ) spatial bottleneck (where B is the sequence-batch cardinality and N is the feature dimension). This constraint historically throttles the scaling of deep neural networks. While randomized autom</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "acb233ff9": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "UniMamba: A Unified Spatial-Temporal Modeling Framework with State-Space and Attention Integration",
+      "src": "arXiv cs.LG",
+      "time": "3小时前",
+      "published_ts": 1776744000,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2604.16325",
+      "tags": [],
+      "body": "<p>arXiv:2604.16325v1 Announce Type: new Abstract: Multivariate time series forecasting is fundamental to numerous domains such as energy, finance, and environmental monitoring, where complex temporal dependencies and cross-variable interactions pose enduring challenges. Existing Transformer-based methods capture temporal correlations through attention mechanisms but suffer from quadratic computation</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "afaa44655": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Annotation Entropy Predicts Per-Example Learning Dynamics in LoRA Fine-Tuning",
+      "src": "arXiv cs.LG",
+      "time": "3小时前",
+      "published_ts": 1776744000,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2604.16332",
+      "tags": [],
+      "body": "<p>arXiv:2604.16332v1 Announce Type: new Abstract: We find that LoRA fine-tuning exhibits un-learning on contested examples: items with high annotator disagreement show increasing loss during training, a qualitatively distinct pattern largely absent under full fine-tuning and consistent across all six models tested (four encoder, two decoder-only). This discovery emerges from correlating annotation e</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ab6f62866": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "A Discordance-Aware Multimodal Framework with Multi-Agent Clinical Reasoning",
+      "src": "arXiv cs.LG",
+      "time": "3小时前",
+      "published_ts": 1776744000,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2604.16333",
+      "tags": [],
+      "body": "<p>arXiv:2604.16333v1 Announce Type: new Abstract: Knee osteoarthritis frequently exhibits discordance between structural damage observed in imaging and patient-reported symptoms such as pain. This mismatch complicates clinical interpretation and patient stratification and remains insufficiently modeled in existing decision support systems. We propose a discordance aware multimodal framework that com</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a3616e4e0": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Preventing overfitting in deep learning using differential privacy",
+      "src": "arXiv cs.LG",
+      "time": "3小时前",
+      "published_ts": 1776744000,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2604.16334",
+      "tags": [],
+      "body": "<p>arXiv:2604.16334v1 Announce Type: new Abstract: The use of Deep Neural Network based systems in the real world is growing. They have achieved state-of-the-art performance on many image, speech and text datasets. They have been shown to be powerful systems that are capable of learning detailed relationships and abstractions from the data. This is a double-edged sword which makes such systems vulner</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aac9f8122": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Beyond Verifiable Rewards: Rubric-Based GRM for Reinforced Fine-Tuning SWE Agents",
+      "src": "arXiv cs.LG",
+      "time": "3小时前",
+      "published_ts": 1776744000,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2604.16335",
+      "tags": [],
+      "body": "<p>arXiv:2604.16335v1 Announce Type: new Abstract: Despite recent progress in Large Language Model (LLM) Agents for Software Engineering (SWE) tasks, end-to-end fine-tuning typically relies on verifiable terminal rewards such as whether all unit tests pass. While these binary signals reflect whether the final solution is correct, they provide little guidance for shaping intermediate behaviors during </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aa669a9df": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI",
+      "src": "arXiv cs.AI",
+      "time": "3小时前",
+      "published_ts": 1776744000,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2604.15456",
+      "tags": [],
+      "body": "<p>arXiv:2604.15456v1 Announce Type: new Abstract: Trustworthiness and transparency are essential for the clinical adoption of artificial intelligence (AI) in healthcare and biomedical research. Recent deep research systems aim to accelerate evidence-grounded scientific discovery by integrating AI agents with multi-hop information retrieval, reasoning, and synthesis. However, most existing systems la</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a89a4cdda": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology",
+      "src": "arXiv cs.AI",
+      "time": "3小时前",
+      "published_ts": 1776744000,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2604.15495",
+      "tags": [],
+      "body": "<p>arXiv:2604.15495v1 Announce Type: new Abstract: Navigating complex, densely packed environments like retail stores, warehouses, and hospitals poses a significant spatial grounding challenge for humans and embodied AI. In these spaces, dense visual features quickly become stale given the quasi-static nature of items, and long-tail semantic distributions challenge traditional computer vision. While </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "afdbaec84": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Bureaucratic Silences: What the Canadian AI Register Reveals, Omits, and Obscures",
+      "src": "arXiv cs.AI",
+      "time": "3小时前",
+      "published_ts": 1776744000,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2604.15514",
+      "tags": [],
+      "body": "<p>arXiv:2604.15514v1 Announce Type: new Abstract: In November 2025, the Government of Canada operationalized its commitment to transparency by releasing its first Federal AI Register. In this paper, we argue that such registers are not neutral mirrors of government activity, but active instruments of ontological design that configure the boundaries of accountability. We analyzed the Register's compl</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a20ab00e6": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "LACE: Lattice Attention for Cross-thread Exploration",
+      "src": "arXiv cs.AI",
+      "time": "3小时前",
+      "published_ts": 1776744000,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2604.15529",
+      "tags": [],
+      "body": "<p>arXiv:2604.15529v1 Announce Type: new Abstract: Current large language models reason in isolation. Although it is common to sample multiple reasoning paths in parallel, these trajectories do not interact, and often fail in the same redundant ways. We introduce LACE, a framework that transforms reasoning from a collection of independent trials into a coordinated, parallel process. By repurposing th</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a30a1e06b": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "Preregistered Belief Revision Contracts",
+      "src": "arXiv cs.AI",
+      "time": "3小时前",
+      "published_ts": 1776744000,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2604.15558",
+      "tags": [],
+      "body": "<p>arXiv:2604.15558v1 Announce Type: new Abstract: Deliberative multi-agent systems allow agents to exchange messages and revise beliefs over time. While this interaction is meant to improve performance, it can also create dangerous conformity effects: agreement, confidence, prestige, or majority size may be treated as if they were evidence, producing high-confidence convergence to false conclusions.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a3aff0a49": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "Subliminal Transfer of Unsafe Behaviors in AI Agent Distillation",
+      "src": "arXiv cs.AI",
+      "time": "3小时前",
+      "published_ts": 1776744000,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2604.15559",
+      "tags": [],
+      "body": "<p>arXiv:2604.15559v1 Announce Type: new Abstract: Recent work on subliminal learning demonstrates that language models can transmit semantic traits through data that is semantically unrelated to those traits. However, it remains unclear whether behavioral traits can transfer in agentic systems, where policies are learned from trajectories rather than static text. In this work, we provide the first e</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aea06f7f6": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Dyson’s back with a travel-size Supersonic hairdryer",
+      "src": "The Verge",
+      "time": "3小时前",
+      "published_ts": 1776744000,
+      "heat": "21.1K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/gadgets/915165/dyson-supersonic-travel-hairdryer-gadgets-price",
+      "tags": [],
+      "body": "<p>Ten years ago, Dyson kicked off the hair gadget arms race with its $400 Supersonic hairdryer. Today, it's back with a slightly smaller and cheaper travel-size version. As the name suggests, the $299.99 Supersonic Travel is meant for people on the go - whether that's a business trip or a jaunt to the gym before [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "ac092024b": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
       "title": "[AINews] Moonshot Kimi K2.6: the world's leading Open Model refreshes to catch up to Opus 4.6 (ahead of DeepSeek v4?)",
       "src": "Latent Space",
-      "time": "2小时前",
+      "time": "7小时前",
       "published_ts": 1776730773,
       "heat": "19.5K",
       "views": "19.5K",
@@ -20,10 +189,10 @@
       "cat": "L0 · 领袖观点",
       "title": "Tim Cook will still be Apple’s Trump whisperer",
       "src": "The Verge",
-      "time": "2小时前",
+      "time": "7小时前",
       "published_ts": 1776730485,
-      "heat": "24.0K",
-      "views": "24.0K",
+      "heat": "18.2K",
+      "views": "21.1K",
       "url": "https://www.theverge.com/policy/915422/tim-cook-apple-chairman-trump-policy",
       "tags": [],
       "body": "<p>Though Tim Cook is shedding his CEO title for the role of Apple's executive chairman, it appears he'll keep one of his most important duties: that of the company's Trump whisperer. \"As executive chairman, Cook will assist with certain aspects of the company, including engaging with policymakers around the world,\" Apple writes in a press [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -33,7 +202,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
       "src": "TechCrunch AI",
-      "time": "3小时前",
+      "time": "8小时前",
       "published_ts": 1776726627,
       "heat": "27.0K",
       "views": "27.0K",
@@ -46,10 +215,10 @@
       "cat": "L4 · 交互Agent",
       "title": "The Lenovo Legion Go S is RAMageddon’s latest victim",
       "src": "The Verge",
-      "time": "4小时前",
+      "time": "9小时前",
       "published_ts": 1776725382,
-      "heat": "21.1K",
-      "views": "24.0K",
+      "heat": "15.4K",
+      "views": "18.2K",
       "url": "https://www.theverge.com/games/915278/lenovo-legion-go-s-price-hike-discontinued-ramageddon",
       "tags": [],
       "body": "<p>You can still find the Asus Xbox Ally X and the MSI Claw 8 AI Plus for $999 and $1,049 respectively, but Lenovo's Legion Go S has seemingly given up the fight. The best version of Lenovo's 8-inch handheld now costs nearly double what it did at launch - originally $829.99 last summer, the SteamOS [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -59,7 +228,7 @@
       "cat": "L5 · 生态商业",
       "title": "A Humanoid Robot Set a Half-Marathon Record in China",
       "src": "Wired",
-      "time": "4小时前",
+      "time": "9小时前",
       "published_ts": 1776724407,
       "heat": "16.5K",
       "views": "16.5K",
@@ -72,9 +241,9 @@
       "cat": "L2 · 基础模型",
       "title": "We’re expanding Gemini in Chrome to users in Asia Pacific.",
       "src": "Google AI Blog",
-      "time": "4小时前",
+      "time": "9小时前",
       "published_ts": 1776722400,
-      "heat": "34.5K",
+      "heat": "30.4K",
       "views": "34.5K",
       "url": "https://blog.google/products-and-platforms/products/chrome/chrome-expands-apac/",
       "tags": [],
@@ -85,7 +254,7 @@
       "cat": "L2 · 基础模型",
       "title": "Google rolls out Gemini in Chrome in 7 new countries",
       "src": "TechCrunch AI",
-      "time": "4小时前",
+      "time": "9小时前",
       "published_ts": 1776722400,
       "heat": "23.8K",
       "views": "27.0K",
@@ -93,25 +262,12 @@
       "tags": [],
       "body": "<p>Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "aaad3ca7d": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Apple names Johny Srouji as chief hardware officer",
-      "src": "The Verge",
-      "time": "5小时前",
-      "published_ts": 1776719159,
-      "heat": "12.5K",
-      "views": "15.4K",
-      "url": "https://www.theverge.com/tech/915240/apple-johny-srouji-ternus-cook",
-      "tags": [],
-      "body": "<p>Apple has appointed Johny Srouji as its new chief hardware officer, \"effective immediately,\" according to an announcement on Monday. He is stepping into the shoes of current hardware engineering head John Ternus, who will replace Tim Cook as CEO in September, while Cook becomes the chairman of the board. Last December, Srouji reassured his team [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "adb47fe4d": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "Scientists Gave a Bunch of Salmon Cocaine. This Is What Happened Next.",
       "src": "404 Media",
-      "time": "7小时前",
+      "time": "12小时前",
       "published_ts": 1776714033,
       "heat": "15.0K",
       "views": "15.0K",
@@ -124,7 +280,7 @@
       "cat": "L4 · 交互Agent",
       "title": "It’s not just one thing — it’s another thing",
       "src": "TechCrunch AI",
-      "time": "7小时前",
+      "time": "12小时前",
       "published_ts": 1776713827,
       "heat": "20.5K",
       "views": "23.8K",
@@ -137,10 +293,10 @@
       "cat": "L2 · 基础模型",
       "title": "Start vibe coding in AI Studio with your Google AI subscription.",
       "src": "Google AI Blog",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1776702720,
-      "heat": "26.2K",
-      "views": "30.4K",
+      "heat": "22.1K",
+      "views": "26.2K",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-one-ai-studio/",
       "tags": [],
       "body": "<p>Starting today, Google AI Pro and Ultra subscribers get increased usage limits in Google AI Studio. This update also includes access to Nano Banana Pro and Gemini Pro mo…</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -150,7 +306,7 @@
       "cat": "L2 · 基础模型",
       "title": "🔬 Training Transformers to solve 95% failure rate of Cancer Trials — Ron Alfa & Daniel Bear, Noetik",
       "src": "Latent Space",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1776701837,
       "heat": "17.2K",
       "views": "19.5K",
@@ -163,7 +319,7 @@
       "cat": "L4 · 交互Agent",
       "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
       "src": "TechCrunch AI",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1776701181,
       "heat": "17.3K",
       "views": "20.5K",
@@ -176,7 +332,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Chinese chipmakers made record profit in 2025, despite slipping margins — U.S shipments fall 34% as Beijing shores up local chipmaking efforts",
       "src": "Tom's Hardware",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1776701179,
       "heat": "7.8K",
       "views": "9.6K",
@@ -189,7 +345,7 @@
       "cat": "L1 · 算力硬件",
       "title": "AI cloud company Vercel breached after employee grants AI tool unrestricted access to Google Workspace — hacker seeking $2 million for stolen data",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1776700176,
       "heat": "6.0K",
       "views": "7.8K",
@@ -202,7 +358,7 @@
       "cat": "L0 · 领袖观点",
       "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
       "src": "TechCrunch AI",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1776699019,
       "heat": "14.0K",
       "views": "17.3K",
@@ -215,7 +371,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Autonomous AI at Scale: Adobe Agents Unlock Breakthrough Creative Intelligence With NVIDIA and WPP",
       "src": "NVIDIA Blog",
-      "time": "13小时前",
+      "time": "18小时前",
       "published_ts": 1776690050,
       "heat": "37.5K",
       "views": "37.5K",
@@ -228,7 +384,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Tech CEOs Think AI Will Let Them Be Everywhere at Once",
       "src": "Wired",
-      "time": "15小时前",
+      "time": "20小时前",
       "published_ts": 1776682800,
       "heat": "12.5K",
       "views": "14.5K",
@@ -241,7 +397,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
       "src": "MIT Tech Review",
-      "time": "17小时前",
+      "time": "22小时前",
       "published_ts": 1776675600,
       "heat": "22.5K",
       "views": "22.5K",
@@ -254,169 +410,13 @@
       "cat": "L0 · 领袖观点",
       "title": "NVIDIA and Partners Showcase the Future of AI-Driven Manufacturing at Hannover Messe 2026",
       "src": "NVIDIA Blog",
-      "time": "18小时前",
+      "time": "23小时前",
       "published_ts": 1776673855,
       "heat": "33.0K",
       "views": "37.5K",
       "url": "https://blogs.nvidia.com/blog/ai-manufacturing-hannover-messe/",
       "tags": [],
       "body": "<p>Manufacturing is at an inflection point. Across every major industrial economy, the pressure to do more with less — due to faster design cycles, leaner operations and strain on skilled labor pools — is accelerating the shift to AI-driven production. The question is no longer whether to adopt AI, but how fast and at what [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ac943c6c9": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "The Spectral Geometry of Thought: Phase Transitions, Instruction Reversal, Token-Level Dynamics, and Perfect Correctness Prediction in How Transformers Reason",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1776657600,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2604.15350",
-      "tags": [],
-      "body": "<p>arXiv:2604.15350v1 Announce Type: new Abstract: We discover that large language models exhibit \\emph{spectral phase transitions} in their hidden activation spaces when engaging in reasoning versus factual recall. Through systematic spectral analysis across \\textbf{11 models} spanning \\textbf{5 architecture families} (Qwen, Pythia, Phi, Llama, DeepSeek-R1), we identify \\textbf{seven} core phenomena</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aae3429eb": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Aletheia: Gradient-Guided Layer Selection for Efficient LoRA Fine-Tuning Across Architectures",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1776657600,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2604.15351",
-      "tags": [],
-      "body": "<p>arXiv:2604.15351v1 Announce Type: new Abstract: Low-Rank Adaptation (LoRA) has become the dominant parameter-efficient fine-tuning method for large language models, yet standard practice applies LoRA adapters uniformly to all transformer layers regardless of their relevance to the downstream task. We introduce Aletheia, a gradient-guided layer selection method that identifies the most task-relevan</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ac4c5dcf4": {
-      "layer": "l3",
-      "cat": "L3 · 推理工程",
-      "title": "Sequential KV Cache Compression via Probabilistic Language Tries: Beyond the Per-Vector Shannon Limit",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1776657600,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://arxiv.org/abs/2604.15356",
-      "tags": [],
-      "body": "<p>arXiv:2604.15356v1 Announce Type: new Abstract: Recent work on KV cache quantization, culminating in TurboQuant, has approached the Shannon entropy limit for per-vector compression of transformer key-value caches. We observe that this limit applies to a strictly weaker problem than the one that actually matters: compressing the KV cache as a sequence. The tokens stored in a KV cache are not arbitr</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a9a45680f": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Mapping High-Performance Regions in Battery Scheduling across Data Uncertainty, Battery Design, and Planning Horizons",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1776657600,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://arxiv.org/abs/2604.15360",
-      "tags": [],
-      "body": "<p>arXiv:2604.15360v1 Announce Type: new Abstract: This study presents a triadic analysis of energy storage operation under multi-stage model predictive control, investigating the interplay between data characteristics, forecast uncertainty, planning horizon, and battery c-rate. Synthetic datasets are generated to systematically explore variations in data profiles and uncertainty, enabling parametriz</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a4ff85138": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "M3R: Localized Rainfall Nowcasting with Meteorology-Informed MultiModal Attention",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1776657600,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://arxiv.org/abs/2604.15377",
-      "tags": [],
-      "body": "<p>arXiv:2604.15377v1 Announce Type: new Abstract: Accurate and timely rainfall nowcasting is crucial for disaster mitigation and water resource management. Despite recent advances in deep learning, precipitation prediction remains challenging due to limitations in effectively leveraging diverse multimedia data sources. We introduce M3R, a Meteorology-informed MultiModal attention-based architecture </p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a6659430f": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Lightweight Geometric Adaptation for Training Physics-Informed Neural Networks",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1776657600,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://arxiv.org/abs/2604.15392",
-      "tags": [],
-      "body": "<p>arXiv:2604.15392v1 Announce Type: new Abstract: Physics-Informed Neural Networks (PINNs) often suffer from slow convergence, training instability, and reduced accuracy on challenging partial differential equations due to the anisotropic and rapidly varying geometry of their loss landscapes. We propose a lightweight curvature-aware optimization framework that augments existing first-order optimizer</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aa669a9df": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1776657600,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2604.15456",
-      "tags": [],
-      "body": "<p>arXiv:2604.15456v1 Announce Type: new Abstract: Trustworthiness and transparency are essential for the clinical adoption of artificial intelligence (AI) in healthcare and biomedical research. Recent deep research systems aim to accelerate evidence-grounded scientific discovery by integrating AI agents with multi-hop information retrieval, reasoning, and synthesis. However, most existing systems la</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a89a4cdda": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1776657600,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2604.15495",
-      "tags": [],
-      "body": "<p>arXiv:2604.15495v1 Announce Type: new Abstract: Navigating complex, densely packed environments like retail stores, warehouses, and hospitals poses a significant spatial grounding challenge for humans and embodied AI. In these spaces, dense visual features quickly become stale given the quasi-static nature of items, and long-tail semantic distributions challenge traditional computer vision. While </p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "afdbaec84": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Bureaucratic Silences: What the Canadian AI Register Reveals, Omits, and Obscures",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1776657600,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://arxiv.org/abs/2604.15514",
-      "tags": [],
-      "body": "<p>arXiv:2604.15514v1 Announce Type: new Abstract: In November 2025, the Government of Canada operationalized its commitment to transparency by releasing its first Federal AI Register. In this paper, we argue that such registers are not neutral mirrors of government activity, but active instruments of ontological design that configure the boundaries of accountability. We analyzed the Register's compl</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a20ab00e6": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "LACE: Lattice Attention for Cross-thread Exploration",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1776657600,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://arxiv.org/abs/2604.15529",
-      "tags": [],
-      "body": "<p>arXiv:2604.15529v1 Announce Type: new Abstract: Current large language models reason in isolation. Although it is common to sample multiple reasoning paths in parallel, these trajectories do not interact, and often fail in the same redundant ways. We introduce LACE, a framework that transforms reasoning from a collection of independent trials into a coordinated, parallel process. By repurposing th</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a30a1e06b": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Preregistered Belief Revision Contracts",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1776657600,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://arxiv.org/abs/2604.15558",
-      "tags": [],
-      "body": "<p>arXiv:2604.15558v1 Announce Type: new Abstract: Deliberative multi-agent systems allow agents to exchange messages and revise beliefs over time. While this interaction is meant to improve performance, it can also create dangerous conformity effects: agreement, confidence, prestige, or majority size may be treated as if they were evidence, producing high-confidence convergence to false conclusions.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a3aff0a49": {
-      "layer": "l3",
-      "cat": "L3 · 推理工程",
-      "title": "Subliminal Transfer of Unsafe Behaviors in AI Agent Distillation",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1776657600,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://arxiv.org/abs/2604.15559",
-      "tags": [],
-      "body": "<p>arXiv:2604.15559v1 Announce Type: new Abstract: Recent work on subliminal learning demonstrates that language models can transmit semantic traits through data that is semantically unrelated to those traits. However, it remains unclear whether behavioral traits can transfer in agentic systems, where policies are learned from trajectories rather than static text. In this work, we provide the first e</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "acfdcabbd": {
       "layer": "l2",
@@ -522,19 +522,6 @@
       "tags": [],
       "body": "<p>A learning-oriented workflow for understanding new open-weight model releases</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a0654beec": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
-      "src": "Wired",
-      "time": "2天前",
-      "published_ts": 1776508200,
-      "heat": "10.6K",
-      "views": "12.5K",
-      "url": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
-      "tags": [],
-      "body": "<p>Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "ae4e8a9e1": {
       "layer": "l5",
       "cat": "L5 · 生态商业",
@@ -542,18 +529,31 @@
       "src": "Wired",
       "time": "2天前",
       "published_ts": 1776508200,
-      "heat": "8.6K",
-      "views": "10.6K",
+      "heat": "10.6K",
+      "views": "12.5K",
       "url": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
       "tags": [],
       "body": "<p>Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a0654beec": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
+      "src": "Wired",
+      "time": "2天前",
+      "published_ts": 1776508200,
+      "heat": "8.6K",
+      "views": "10.6K",
+      "url": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
+      "tags": [],
+      "body": "<p>Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a8b29c559": {
       "layer": "l3",
       "cat": "L3 · 推理工程",
       "title": "[AINews] The Two Sides of OpenClaw",
       "src": "Latent Space",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1776495057,
       "heat": "14.8K",
       "views": "17.2K",
@@ -566,7 +566,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Adding a new content type to my blog-to-newsletter tool",
       "src": "Simon Willison",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1776482136,
       "heat": "6.0K",
       "views": "7.8K",
@@ -651,19 +651,6 @@
       "url": "https://www.latent.space/p/ainews-anthropic-claude-opus-47-literally",
       "tags": [],
       "body": "<p>The new SOTA model asserts its dominance.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a5e000431": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "A new way to explore the web with AI Mode in Chrome",
-      "src": "Google AI Blog",
-      "time": "4天前",
-      "published_ts": 1776358800,
-      "heat": "13.8K",
-      "views": "17.9K",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
-      "tags": [],
-      "body": "<p>AI Mode in Chrome</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "aa20d6d34": {
       "layer": "l0",
@@ -761,7 +748,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] RIP Pull Requests (2005-2026)",
       "src": "Latent Space",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1776321672,
       "heat": "10.1K",
       "views": "12.5K",
@@ -839,7 +826,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Building trust in the AI era with privacy-led UX",
       "src": "MIT Tech Review",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1776232800,
       "heat": "9.0K",
       "views": "11.7K",
@@ -852,7 +839,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] Humanity's Last Gasp",
       "src": "Latent Space",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1776222354,
       "heat": "7.8K",
       "views": "10.1K",
@@ -1424,7 +1411,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "243天前",
+      "time": "244天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1656,16 +1643,17 @@
   },
   "by_layer": {
     "l2": [
+      "a0747755d",
+      "afaa44655",
+      "a3616e4e0",
+      "aac9f8122",
+      "afdbaec84",
+      "a20ab00e6",
       "ac092024b",
       "a59036760",
       "aba564130",
       "a4f071faa",
       "a45b53760",
-      "aae3429eb",
-      "a9a45680f",
-      "a6659430f",
-      "afdbaec84",
-      "a20ab00e6",
       "acfdcabbd",
       "adbc583f2",
       "ae2cb1a82",
@@ -1673,7 +1661,6 @@
       "a1c025c0d",
       "a69ade314",
       "aaee80031",
-      "a5e000431",
       "a890d7c38",
       "a902396d8",
       "a7248cfcc",
@@ -1696,35 +1683,9 @@
       "af0f189d1",
       "a38ad1236"
     ],
-    "l0": [
-      "a4e3ed6e3",
-      "aaad3ca7d",
-      "ad91b478d",
-      "a135aabf1",
-      "abe180643",
-      "ac943c6c9",
-      "a4ff85138",
-      "a89a4cdda",
-      "a30a1e06b",
-      "aa20d6d34",
-      "aec74a40a",
-      "a0a86adb8",
-      "a6eadb995",
-      "a2f2fbafa",
-      "a7124d2ed",
-      "aa27891e5",
-      "a57fda39f",
-      "a187a50d6",
-      "a2fdfcb21",
-      "a040f39c9",
-      "a0ab4dd7d",
-      "a375099f0",
-      "a6a5b4a81",
-      "a253e0446",
-      "a9173515c",
-      "abcb7b0c4"
-    ],
     "l4": [
+      "acb233ff9",
+      "aea06f7f6",
       "ae7ae1bcf",
       "a06004c88",
       "adb47fe4d",
@@ -1747,21 +1708,37 @@
       "a61a8adff",
       "ad01feb8a"
     ],
-    "l5": [
-      "a0ecbdb84",
-      "a9d6bdc05",
-      "ae4e8a9e1",
-      "a0ba2f01a",
-      "a9057e9b9",
-      "affb6f750",
-      "a688a97f5",
-      "a342c4ec3"
+    "l0": [
+      "ab6f62866",
+      "a89a4cdda",
+      "a30a1e06b",
+      "a4e3ed6e3",
+      "ad91b478d",
+      "a135aabf1",
+      "abe180643",
+      "aa20d6d34",
+      "aec74a40a",
+      "a0a86adb8",
+      "a6eadb995",
+      "a2f2fbafa",
+      "a7124d2ed",
+      "aa27891e5",
+      "a57fda39f",
+      "a187a50d6",
+      "a2fdfcb21",
+      "a040f39c9",
+      "a0ab4dd7d",
+      "a375099f0",
+      "a6a5b4a81",
+      "a253e0446",
+      "a9173515c",
+      "abcb7b0c4"
     ],
     "l1": [
+      "aa669a9df",
       "ad5d7e156",
       "a19e667cd",
       "acc7c349b",
-      "aa669a9df",
       "a0654beec",
       "a501d03fc",
       "a3425a4b5",
@@ -1783,7 +1760,6 @@
       "afeb62ce7"
     ],
     "l3": [
-      "ac4c5dcf4",
       "a3aff0a49",
       "abecf5e50",
       "a8b29c559",
@@ -1793,14 +1769,24 @@
       "a23fdeba7",
       "a1b552f8f",
       "a28f84720"
+    ],
+    "l5": [
+      "a0ecbdb84",
+      "a9d6bdc05",
+      "ae4e8a9e1",
+      "a0ba2f01a",
+      "a9057e9b9",
+      "affb6f750",
+      "a688a97f5",
+      "a342c4ec3"
     ]
   },
   "top5": [
-    "ac092024b",
-    "a4e3ed6e3",
-    "ae7ae1bcf",
-    "a06004c88",
-    "a0ecbdb84"
+    "a0747755d",
+    "acb233ff9",
+    "afaa44655",
+    "ab6f62866",
+    "a3616e4e0"
   ],
   "layers": [
     {
@@ -1808,11 +1794,11 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        22,
-        35,
-        14,
+        36,
+        30,
+        19,
         10,
-        33,
+        44,
         25
       ],
       "trend": [
@@ -1826,15 +1812,15 @@
       ]
     },
     {
-      "id": "l1",
-      "num": "LAYER 1",
-      "name": "算力硬件",
+      "id": "l4",
+      "num": "LAYER 4",
+      "name": "交互Agent",
       "vals": [
-        18,
-        27,
+        25,
+        13,
         9,
-        6,
-        14,
+        27,
+        26,
         19
       ],
       "trend": [
@@ -1852,34 +1838,12 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        20,
-        16,
-        10,
-        6,
-        31,
-        20
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
         24,
-        25,
-        26
-      ]
-    },
-    {
-      "id": "l4",
-      "num": "LAYER 4",
-      "name": "交互Agent",
-      "vals": [
-        10,
-        19,
-        8,
-        11,
-        25,
-        18
+        18,
+        9,
+        6,
+        29,
+        19
       ],
       "trend": [
         20,
@@ -1892,16 +1856,38 @@
       ]
     },
     {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
+      "id": "l1",
+      "num": "LAYER 1",
+      "name": "算力硬件",
       "vals": [
         10,
-        12,
-        5,
-        5,
         18,
-        13
+        9,
+        6,
+        26,
+        19
+      ],
+      "trend": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
+      "vals": [
+        10,
+        17,
+        5,
+        5,
+        11,
+        11
       ],
       "trend": [
         20,
@@ -1914,16 +1900,16 @@
       ]
     },
     {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
       "vals": [
-        14,
-        10,
+        11,
+        11,
         5,
-        5,
-        10,
-        10
+        6,
+        21,
+        13
       ],
       "trend": [
         20,
@@ -1938,129 +1924,129 @@
   ],
   "ticker": [
     {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "BASIS: Balanced Activation Sketching with Invariant Scalars for \"…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l4)",
+      "text": "UniMamba: A Unified Spatial-Temporal Modeling Framework with Stat…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Annotation Entropy Predicts Per-Example Learning Dynamics in LoRA…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l0)",
+      "text": "A Discordance-Aware Multimodal Framework with Multi-Agent Clinica…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Preventing overfitting in deep learning using differential privac…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Beyond Verifiable Rewards: Rubric-Based GRM for Reinforced Fine-T…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l1)",
+      "text": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Th…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l0)",
+      "text": "GIST: Multimodal Knowledge Extraction and Spatial Grounding via I…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Bureaucratic Silences: What the Canadian AI Register Reveals, Omi…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "LACE: Lattice Attention for Cross-thread Exploration"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l0)",
+      "text": "Preregistered Belief Revision Contracts"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l3)",
+      "text": "Subliminal Transfer of Unsafe Behaviors in AI Agent Distillation"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l4)",
+      "text": "Dyson’s back with a travel-size Supersonic hairdryer"
+    },
+    {
       "tag": "LATENT SP",
       "col": "var(--l2)",
       "text": "[AINews] Moonshot Kimi K2.6: the world's leading Open Model refre…"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l0)",
-      "text": "Tim Cook will still be Apple’s Trump whisperer"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "Anthropic takes $5B from Amazon and pledges $100B in cloud spendi…"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "The Lenovo Legion Go S is RAMageddon’s latest victim"
-    },
-    {
-      "tag": "WIRED",
-      "col": "var(--l5)",
-      "text": "A Humanoid Robot Set a Half-Marathon Record in China"
-    },
-    {
-      "tag": "GOOGLE AI",
-      "col": "var(--l2)",
-      "text": "We’re expanding Gemini in Chrome to users in Asia Pacific."
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l2)",
-      "text": "Google rolls out Gemini in Chrome in 7 new countries"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l0)",
-      "text": "Apple names Johny Srouji as chief hardware officer"
-    },
-    {
-      "tag": "404 MEDIA",
-      "col": "var(--l4)",
-      "text": "Scientists Gave a Bunch of Salmon Cocaine. This Is What Happened …"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "It’s not just one thing — it’s another thing"
-    },
-    {
-      "tag": "GOOGLE AI",
-      "col": "var(--l2)",
-      "text": "Start vibe coding in AI Studio with your Google AI subscription."
-    },
-    {
-      "tag": "LATENT SP",
-      "col": "var(--l2)",
-      "text": "🔬 Training Transformers to solve 95% failure rate of Cancer Trial…"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentag…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Chinese chipmakers made record profit in 2025, despite slipping m…"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
-      "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
-      "votes": "555",
-      "comments": "290",
+      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+      "url": "https://docs.openclaw.ai/providers/anthropic",
+      "votes": "134",
+      "comments": "67",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Kimi vendor verifier – verify accuracy of inference providers",
-      "url": "https://www.kimi.com/blog/kimi-vendor-verifier",
-      "votes": "179",
-      "comments": "17",
+      "title": "Less human AI agents, please",
+      "url": "https://nial.se/blog/less-human-ai-agents-please/",
+      "votes": "19",
+      "comments": "11",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
-      "url": "https://prismml.com/news/ternary-bonsai",
-      "votes": "65",
-      "comments": "12",
+      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
+      "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
+      "votes": "124",
+      "comments": "40",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Soul Player C64 – A real transformer running on a 1 MHz Commodore 64",
-      "url": "https://github.com/gizmo64k/soulplayer-c64",
-      "votes": "82",
-      "comments": "21",
+      "title": "The Beauty of Bonsai Styles",
+      "url": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
+      "votes": "40",
+      "comments": "9",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys",
-      "url": "https://words.filippo.io/128-bits/",
-      "votes": "144",
-      "comments": "60",
+      "title": "Salmon exposed to cocaine and its main byproduct roam more widely",
+      "url": "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust",
+      "votes": "12",
+      "comments": "2",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
-      "url": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
-      "votes": "198",
-      "comments": "88",
+      "title": "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
+      "url": "https://mediator.ai/",
+      "votes": "50",
+      "comments": "20",
       "time": "近期"
     }
   ]
