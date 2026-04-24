@@ -1,16 +1,211 @@
 {
-  "updated_at": "2026-04-24T02:54:34.328969+00:00",
-  "article_count": 123,
+  "updated_at": "2026-04-24T08:09:41.179607+00:00",
+  "article_count": 124,
   "articles": {
+    "afd436246": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "DeepSeek V4 - almost on the frontier, a fraction of the price",
+      "src": "Simon Willison",
+      "time": "2小时前",
+      "published_ts": 1777010464,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything",
+      "tags": [],
+      "body": "<p>Chinese AI lab DeepSeek's last model release was V3.2 (and V3.2 Speciale) last December . They just dropped the first of their hotly anticipated V4 series in the shape of two preview models, DeepSeek-V4-Pro and DeepSeek-V4-Flash . Both models are 1 million token context Mixture of Experts. Pro is 1.6T total parameters, 49B active. Flash is 284B total, 13B active. They're using the standard MIT lic</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "afb8db31e": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "[AINews] GPT 5.5 and OpenAI Codex Superapp",
+      "src": "Latent Space",
+      "time": "3小时前",
+      "published_ts": 1777005643,
+      "heat": "19.5K",
+      "views": "19.5K",
+      "url": "https://www.latent.space/p/ainews-gpt-55-and-openai-codex-superapp",
+      "tags": [],
+      "body": "<p>Spud lives!</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ae985dfa7": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "Millisecond Converter",
+      "src": "Simon Willison",
+      "time": "3小时前",
+      "published_ts": 1777004591,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://simonwillison.net/2026/Apr/24/milliseconds/#atom-everything",
+      "tags": [],
+      "body": "<p>Tool: Millisecond Converter LLM reports prompt durations in milliseconds and I got fed up of having to think about how to convert those to seconds and minutes. Tags: tools</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a9c17aa08": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "It's a big one",
+      "src": "Simon Willison",
+      "time": "3小时前",
+      "published_ts": 1777003794,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://simonwillison.net/2026/Apr/24/weekly/#atom-everything",
+      "tags": [],
+      "body": "<p>This week's edition of my email newsletter (aka content from this blog delivered to your inbox) features 4 pelicans riding bicycles, 1 possum on an e-scooter, up to 5 raccoons with ham radios hiding in crowds, 5 blog posts, 8 links, 3 quotes and a new chapter of my Agentic Engineering Patterns guide. Tags: newsletter</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a3fcb91f3": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "WorkflowGen:an adaptive workflow generation mechanism driven by trajectory experience",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1777003200,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2604.19756",
+      "tags": [],
+      "body": "<p>arXiv:2604.19756v1 Announce Type: new Abstract: Large language model (LLM) agents often suffer from high reasoning overhead, excessive token consumption, unstable execution, and inability to reuse past experiences in complex tasks like business queries, tool use, and workflow orchestration. Traditional methods generate workflows from scratch for every query, leading to high cost, slow response, an</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a90533f04": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Transparent Screening for LLM Inference and Training Impacts",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1777003200,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2604.19757",
+      "tags": [],
+      "body": "<p>arXiv:2604.19757v1 Announce Type: new Abstract: This paper presents a transparent screening framework for estimating inference and training impacts of current large language models under limited observability. The framework converts natural-language application descriptions into bounded environmental estimates and supports a comparative online observatory of current market models. Rather than clai</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a2a9f7c50": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "Accelerating PayPal's Commerce Agent with Speculative Decoding: An Empirical Study on EAGLE3 with Fine-Tuned Nemotron Models",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1777003200,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2604.19767",
+      "tags": [],
+      "body": "<p>arXiv:2604.19767v1 Announce Type: new Abstract: We evaluate speculative decoding with EAGLE3 as an inference-time optimization for PayPal's Commerce Agent, powered by a fine-tuned llama3.1-nemotron-nano-8B-v1 model. Building on prior work (NEMO-4-PAYPAL) that reduced latency and cost through domain-specific fine-tuning, we benchmark EAGLE3 via vLLM against NVIDIA NIM on identical 2xH100 hardware a</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ab4381b2b": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "On-Meter Graph Machine Learning: A Case Study of PV Power Forecasting for Grid Edge Intelligence",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1777003200,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2604.19800",
+      "tags": [],
+      "body": "<p>arXiv:2604.19800v1 Announce Type: new Abstract: This paper presents a detailed study of how graph neural networks can be used on edge intelligent meters in a microgrid to forecast photovoltaic power generation. The problem background and the adopted technologies are introduced, including ONNX and ONNX Runtime. The hardware and software specifications of the smart meter are also briefly described. </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a83961a43": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Expert Upcycling: Shifting the Compute-Efficient Frontier of Mixture-of-Experts",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1777003200,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2604.19835",
+      "tags": [],
+      "body": "<p>arXiv:2604.19835v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) has become the dominant architecture for scaling large language models: frontier models routinely decouple total parameters from per-token computation through sparse expert routing. Scaling laws show that under fixed active computation, model quality scales predictably with total parameters, and MoEs realize this by increasin</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a07f20166": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Architecture of an AI-Based Automated Course of Action Generation System for Military Operations",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1777003200,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2604.20862",
+      "tags": [],
+      "body": "<p>arXiv:2604.20862v1 Announce Type: new Abstract: The automation system for Course of Action (CoA) planning is an essential element in future warfare. As maneuver speeds increase, surveillance ranges extend, and weapon ranges grow, the operational area expands, making traditional manned-based CoA planning increasingly challenging. Consequently, the development of an AI-based automated CoA planning s</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ae0f0a376": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1777003200,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2604.20972",
+      "tags": [],
+      "body": "<p>arXiv:2604.20972v1 Announce Type: new Abstract: Content moderation systems are typically evaluated by measuring agreement with human labels. In rule-governed environments this assumption fails: multiple decisions may be logically consistent with the governing policy, and agreement metrics penalize valid decisions while mischaracterizing ambiguity as error - a failure mode we term the Agreement Tra</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a5fb95cc0": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1777003200,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2604.20987",
+      "tags": [],
+      "body": "<p>arXiv:2604.20987v1 Announce Type: new Abstract: Long horizon interactive environments are a testbed for evaluating agents skill usage abilities. These environments demand multi step reasoning, the chaining of multiple skills over many timesteps, and robust decision making under delayed rewards and partial observability. Games are a good testbed for evaluating agent skill usage in environments. Lar</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a8a76d4a2": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "Value-Conflict Diagnostics Reveal Widespread Alignment Faking in Language Models",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1777003200,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2604.20995",
+      "tags": [],
+      "body": "<p>arXiv:2604.20995v1 Announce Type: new Abstract: Alignment faking, where a model behaves aligned with developer policy when monitored but reverts to its own preferences when unobserved, is a concerning yet poorly understood phenomenon, in part because current diagnostic tools remain limited. Prior diagnostics rely on highly toxic and clearly harmful scenarios, causing most models to refuse immediat</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a8b0b4c15": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "The Last Harness You'll Ever Build",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1777003200,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2604.21003",
+      "tags": [],
+      "body": "<p>arXiv:2604.21003v1 Announce Type: new Abstract: AI agents are increasingly deployed on complex, domain-specific workflows -- navigating enterprise web applications that require dozens of clicks and form fills, orchestrating multi-step research pipelines that span search, extraction, and synthesis, automating code review across unfamiliar repositories, and handling customer escalations that demand </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aade0583a": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "Deep FinResearch Bench: Evaluating AI's Ability to Conduct Professional Financial Investment Research",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1777003200,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2604.21006",
+      "tags": [],
+      "body": "<p>arXiv:2604.21006v1 Announce Type: new Abstract: We introduce Deep FinResearch Bench, a practical and comprehensive evaluation framework for deep research (DR) agents in financial investment research. The benchmark assesses three dimensions of report quality: qualitative rigor, quantitative forecasting and valuation accuracy, and claim credibility and verifiability. Particularly, we define correspo</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "aa23fbe12": {
       "layer": "l3",
       "cat": "L3 · 推理工程",
       "title": "russellromney/honker",
       "src": "Simon Willison",
-      "time": "1小时前",
+      "time": "6小时前",
       "published_ts": 1776995407,
-      "heat": "15.0K",
-      "views": "15.0K",
+      "heat": "9.6K",
+      "views": "11.4K",
       "url": "https://simonwillison.net/2026/Apr/24/honker/#atom-everything",
       "tags": [],
       "body": "<p>russellromney/honker \"Postgres NOTIFY/LISTEN semantics\" for SQLite, implemented as a Rust SQLite extension and various language bindings to help make use of it. The design of this looks very solid. It lets you write Python code for queues that looks like this: import honker db = honker . open ( \"app.db\" ) emails = db . queue ( \"emails\" ) emails . enqueue ({ \"to\" : \"alice@example.com\" }) # Consume </p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -20,10 +215,10 @@
       "cat": "L2 · 基础模型",
       "title": "An update on recent Claude Code quality reports",
       "src": "Simon Willison",
-      "time": "1小时前",
+      "time": "6小时前",
       "published_ts": 1776994285,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "7.8K",
+      "views": "9.6K",
       "url": "https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/#atom-everything",
       "tags": [],
       "body": "<p>An update on recent Claude Code quality reports It turns out the high volume of complaints that Claude Code was providing worse quality results over the past two months was grounded in real problems. The models themselves were not to blame, but three separate issues in the Claude Code harness caused complex but material problems which directly affected users. Anthropic's postmortem describes these</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -33,10 +228,10 @@
       "cat": "L3 · 推理工程",
       "title": "Serving the For You feed",
       "src": "Simon Willison",
-      "time": "1小时前",
+      "time": "7小时前",
       "published_ts": 1776992897,
-      "heat": "11.4K",
-      "views": "13.2K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://simonwillison.net/2026/Apr/24/serving-the-for-you-feed/#atom-everything",
       "tags": [],
       "body": "<p>Serving the For You feed One of Bluesky's most interesting features is that anyone can run their own custom \"feed\" implementation and make it available to other users - effectively enabling custom algorithms that can use any mechanism they like to recommend posts. spacecowboy runs the For You Feed , used by around 72,000 people. This guest post on the AT Protocol blog explains how it works. The ar</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -46,10 +241,10 @@
       "cat": "L5 · 生态商业",
       "title": "Leak reveals new Xbox Game Pass ‘Starter Edition’ that’s part of Discord Nitro",
       "src": "The Verge",
-      "time": "4小时前",
+      "time": "9小时前",
       "published_ts": 1776983799,
-      "heat": "21.1K",
-      "views": "24.0K",
+      "heat": "18.2K",
+      "views": "21.1K",
       "url": "https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle",
       "tags": [],
       "body": "<p>Microsoft started teasing a mysterious Discord and Xbox Game Pass partnership yesterday, and a new leak appears to have detailed exactly what's coming. Discord Previews has uncovered a new Xbox Game Pass \"Starter Edition\" that is bundled with Discord Nitro. The Starter Edition reportedly includes \"access to over 50 games from the Game Pass library,\" [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -59,10 +254,10 @@
       "cat": "L2 · 基础模型",
       "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
       "src": "The Verge",
-      "time": "4小时前",
+      "time": "9小时前",
       "published_ts": 1776983231,
-      "heat": "18.2K",
-      "views": "21.1K",
+      "heat": "15.4K",
+      "views": "18.2K",
       "url": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
       "tags": [],
       "body": "<p>Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to Claude, like Microsoft apps, but this expansion focuses on personal apps like Audible, Spotify, Uber, AllTrails, TripAdvisor, Instacart, TurboTax, and others. Some of these apps, such [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -72,7 +267,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Intel CEO says he can 'think of no better partner than Elon Musk' to explore 'unconventional' ways to improve chip manufacturing — TeraFab partnership aims to rethink how chips are made to reduce costs",
       "src": "Tom's Hardware",
-      "time": "4小时前",
+      "time": "9小时前",
       "published_ts": 1776982557,
       "heat": "15.0K",
       "views": "15.0K",
@@ -80,28 +275,15 @@
       "tags": [],
       "body": "<p>Intel CEO Lip-Bu Tan commented on the company's partnership with Elon Musk's TeraFab project, but details about the relationship are still light.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a73b68889": {
-      "layer": "l3",
-      "cat": "L3 · 推理工程",
-      "title": "Extract PDF text in your browser with LiteParse for the web",
-      "src": "Simon Willison",
-      "time": "5小时前",
-      "published_ts": 1776981264,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything",
-      "tags": [],
-      "body": "<p>LlamaIndex have a most excellent open source project called LiteParse , which provides a Node.js CLI tool for extracting text from PDFs. I got a version of LiteParse working entirely in the browser, using most of the same libraries that LiteParse uses to run in Node.js. Spatial text parsing Refreshingly, LiteParse doesn't use AI models to do what it does: it's good old-fashioned PDF parsing, falli</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "abb7c9c62": {
       "layer": "l0",
       "cat": "L0 · 领袖观点",
       "title": "Brendan Carr’s war on wokeness targets inclusive children&#8217;s television",
       "src": "The Verge",
-      "time": "5小时前",
+      "time": "10小时前",
       "published_ts": 1776980206,
-      "heat": "15.4K",
-      "views": "18.2K",
+      "heat": "12.5K",
+      "views": "15.4K",
       "url": "https://www.theverge.com/entertainment/917810/brendan-carr-fcc-transgender-nonbinary-childrens-programming",
       "tags": [],
       "body": "<p>Under the guidance of consummate bully / chairman Brendan Carr, the FCC is taking steps towards cracking down on children's entertainment that in any way explores the complexities of gender identity. On Wednesday, the FCC's Media Bureau announced that it is soliciting comments from the public about whether the TV ratings system has made sound [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -111,7 +293,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
       "src": "TechCrunch AI",
-      "time": "5小时前",
+      "time": "11小时前",
       "published_ts": 1776978000,
       "heat": "27.0K",
       "views": "27.0K",
@@ -124,7 +306,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Community Votes to Deny Water to Nuclear Weapons Data Center",
       "src": "404 Media",
-      "time": "6小时前",
+      "time": "11小时前",
       "published_ts": 1776976230,
       "heat": "15.0K",
       "views": "15.0K",
@@ -137,7 +319,7 @@
       "cat": "L2 · 基础模型",
       "title": "Sign of the future: GPT-5.5",
       "src": "One Useful Thing",
-      "time": "6小时前",
+      "time": "12小时前",
       "published_ts": 1776974438,
       "heat": "15.0K",
       "views": "15.0K",
@@ -145,25 +327,12 @@
       "tags": [],
       "body": "<p>One impressive step on the curve</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a17ec16a2": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
-      "src": "Simon Willison",
-      "time": "6小时前",
-      "published_ts": 1776974387,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything",
-      "tags": [],
-      "body": "<p>GPT-5.5 is out . It's available in OpenAI Codex and is rolling out to paid ChatGPT subscribers. I've had some preview access and found it to be a fast, effective and highly capable model. As is usually the case these days, it's hard to put into words what's good about it - I ask it to build things and it builds exactly what I ask for! There's one notable omission from today's release - the API: AP</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a1c558de2": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
       "src": "TechCrunch AI",
-      "time": "7小时前",
+      "time": "12小时前",
       "published_ts": 1776973105,
       "heat": "23.8K",
       "views": "27.0K",
@@ -176,9 +345,9 @@
       "cat": "L4 · 交互Agent",
       "title": "AIE Europe Debrief + Agent Labs Thesis: Unsupervised Learning x Latent Space Crossover Special (2026)",
       "src": "Latent Space",
-      "time": "7小时前",
+      "time": "12小时前",
       "published_ts": 1776973039,
-      "heat": "19.5K",
+      "heat": "17.2K",
       "views": "19.5K",
       "url": "https://www.latent.space/p/unsupervised-learning-2026",
       "tags": [],
@@ -189,7 +358,7 @@
       "cat": "L5 · 生态商业",
       "title": "There's a new playbook for partnering with creators on marketing campaigns.",
       "src": "Google AI Blog",
-      "time": "7小时前",
+      "time": "13小时前",
       "published_ts": 1776970800,
       "heat": "34.5K",
       "views": "34.5K",
@@ -202,7 +371,7 @@
       "cat": "L4 · 交互Agent",
       "title": "OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work",
       "src": "NVIDIA Blog",
-      "time": "7小时前",
+      "time": "13小时前",
       "published_ts": 1776970675,
       "heat": "37.5K",
       "views": "37.5K",
@@ -215,7 +384,7 @@
       "cat": "L2 · 基础模型",
       "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
       "src": "TechCrunch AI",
-      "time": "8小时前",
+      "time": "13小时前",
       "published_ts": 1776968969,
       "heat": "20.5K",
       "views": "23.8K",
@@ -228,7 +397,7 @@
       "cat": "L1 · 算力硬件",
       "title": "At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty",
       "src": "Wired",
-      "time": "8小时前",
+      "time": "13小时前",
       "published_ts": 1776968677,
       "heat": "14.5K",
       "views": "16.5K",
@@ -241,7 +410,7 @@
       "cat": "L2 · 基础模型",
       "title": "Fitbit's personal health coach is now even more personalized.",
       "src": "Google AI Blog",
-      "time": "9小时前",
+      "time": "15小时前",
       "published_ts": 1776963600,
       "heat": "30.4K",
       "views": "34.5K",
@@ -254,7 +423,7 @@
       "cat": "L1 · 算力硬件",
       "title": "First Intel Wildcat Lake laptop spotted in the wild, geared to compete with MacBook Neo — features an aluminum chassis with 11W fanless mode",
       "src": "Tom's Hardware",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1776962586,
       "heat": "13.2K",
       "views": "15.0K",
@@ -267,7 +436,7 @@
       "cat": "L2 · 基础模型",
       "title": "Convert faster on YouTube with April’s Demand Gen Drop.",
       "src": "Google AI Blog",
-      "time": "10小时前",
+      "time": "16小时前",
       "published_ts": 1776960000,
       "heat": "17.9K",
       "views": "22.1K",
@@ -280,7 +449,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Era raises $11M to build a software platform for AI gadgets",
       "src": "TechCrunch AI",
-      "time": "10小时前",
+      "time": "16小时前",
       "published_ts": 1776960000,
       "heat": "17.3K",
       "views": "20.5K",
@@ -293,7 +462,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Crypto scam takes advantage of Strait of Hormuz crisis by taking fake payments, leading to two ships being fired upon — two vessels reportedly fell victim and paid fake 'Iranian authorities'",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1776957857,
       "heat": "9.6K",
       "views": "11.4K",
@@ -306,7 +475,7 @@
       "cat": "L5 · 生态商业",
       "title": "Anthropic surpasses biggest rival OpenAI in secondary market valuation — surges to $1 trillion amid frantic investor interest",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1776957090,
       "heat": "7.8K",
       "views": "9.6K",
@@ -319,7 +488,7 @@
       "cat": "L1 · 算力硬件",
       "title": "SpaceX says it is going to begin manufacturing GPUs — $1.75 trillion IPO listing reportedly includes in-house GPU production",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "17小时前",
       "published_ts": 1776956410,
       "heat": "6.0K",
       "views": "7.8K",
@@ -332,7 +501,7 @@
       "cat": "L2 · 基础模型",
       "title": "What Anthropic’s Mythos Means for the Future of Cybersecurity",
       "src": "IEEE Spectrum",
-      "time": "12小时前",
+      "time": "18小时前",
       "published_ts": 1776952801,
       "heat": "15.0K",
       "views": "15.0K",
@@ -345,7 +514,7 @@
       "cat": "L2 · 基础模型",
       "title": "Another customer of troubled startup Delve suffered a big security incident",
       "src": "TechCrunch AI",
-      "time": "12小时前",
+      "time": "18小时前",
       "published_ts": 1776952800,
       "heat": "10.8K",
       "views": "14.0K",
@@ -358,7 +527,7 @@
       "cat": "L2 · 基础模型",
       "title": "Researchers Simulated a Delusional User to Test Chatbot Safety",
       "src": "404 Media",
-      "time": "13小时前",
+      "time": "18小时前",
       "published_ts": 1776952339,
       "heat": "13.2K",
       "views": "15.0K",
@@ -371,7 +540,7 @@
       "cat": "L4 · 交互Agent",
       "title": "ChatGPT's Nano Banana",
       "src": "Ben's Bites",
-      "time": "13小时前",
+      "time": "18小时前",
       "published_ts": 1776949810,
       "heat": "16.5K",
       "views": "16.5K",
@@ -384,7 +553,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Making Sense of the Early Universe",
       "src": "NVIDIA Blog",
-      "time": "13小时前",
+      "time": "19小时前",
       "published_ts": 1776949222,
       "heat": "28.5K",
       "views": "33.0K",
@@ -397,7 +566,7 @@
       "cat": "L1 · 算力硬件",
       "title": "AI Designs Thermoelectric Generators 10,000 Times Faster Than We Can",
       "src": "IEEE Spectrum",
-      "time": "15小时前",
+      "time": "21小时前",
       "published_ts": 1776942001,
       "heat": "13.2K",
       "views": "15.0K",
@@ -410,7 +579,7 @@
       "cat": "L2 · 基础模型",
       "title": "Introducing GPT-5.5",
       "src": "OpenAI Blog",
-      "time": "15小时前",
+      "time": "21小时前",
       "published_ts": 1776942000,
       "heat": "45.0K",
       "views": "45.0K",
@@ -423,7 +592,7 @@
       "cat": "L2 · 基础模型",
       "title": "GPT-5.5 System Card",
       "src": "OpenAI Blog",
-      "time": "15小时前",
+      "time": "21小时前",
       "published_ts": 1776942000,
       "heat": "39.6K",
       "views": "45.0K",
@@ -436,7 +605,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Automations",
       "src": "OpenAI Blog",
-      "time": "16小时前",
+      "time": "22小时前",
       "published_ts": 1776938400,
       "heat": "34.2K",
       "views": "39.6K",
@@ -449,156 +618,13 @@
       "cat": "L1 · 算力硬件",
       "title": "Top 10 uses for Codex at work",
       "src": "OpenAI Blog",
-      "time": "16小时前",
+      "time": "22小时前",
       "published_ts": 1776938400,
       "heat": "28.8K",
       "views": "34.2K",
       "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
       "tags": [],
       "body": "<p>Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a3fcb91f3": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "WorkflowGen:an adaptive workflow generation mechanism driven by trajectory experience",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1776916800,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2604.19756",
-      "tags": [],
-      "body": "<p>arXiv:2604.19756v1 Announce Type: new Abstract: Large language model (LLM) agents often suffer from high reasoning overhead, excessive token consumption, unstable execution, and inability to reuse past experiences in complex tasks like business queries, tool use, and workflow orchestration. Traditional methods generate workflows from scratch for every query, leading to high cost, slow response, an</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a90533f04": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Transparent Screening for LLM Inference and Training Impacts",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1776916800,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2604.19757",
-      "tags": [],
-      "body": "<p>arXiv:2604.19757v1 Announce Type: new Abstract: This paper presents a transparent screening framework for estimating inference and training impacts of current large language models under limited observability. The framework converts natural-language application descriptions into bounded environmental estimates and supports a comparative online observatory of current market models. Rather than clai</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a2a9f7c50": {
-      "layer": "l3",
-      "cat": "L3 · 推理工程",
-      "title": "Accelerating PayPal's Commerce Agent with Speculative Decoding: An Empirical Study on EAGLE3 with Fine-Tuned Nemotron Models",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1776916800,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://arxiv.org/abs/2604.19767",
-      "tags": [],
-      "body": "<p>arXiv:2604.19767v1 Announce Type: new Abstract: We evaluate speculative decoding with EAGLE3 as an inference-time optimization for PayPal's Commerce Agent, powered by a fine-tuned llama3.1-nemotron-nano-8B-v1 model. Building on prior work (NEMO-4-PAYPAL) that reduced latency and cost through domain-specific fine-tuning, we benchmark EAGLE3 via vLLM against NVIDIA NIM on identical 2xH100 hardware a</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ab4381b2b": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "On-Meter Graph Machine Learning: A Case Study of PV Power Forecasting for Grid Edge Intelligence",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1776916800,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://arxiv.org/abs/2604.19800",
-      "tags": [],
-      "body": "<p>arXiv:2604.19800v1 Announce Type: new Abstract: This paper presents a detailed study of how graph neural networks can be used on edge intelligent meters in a microgrid to forecast photovoltaic power generation. The problem background and the adopted technologies are introduced, including ONNX and ONNX Runtime. The hardware and software specifications of the smart meter are also briefly described. </p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a83961a43": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Expert Upcycling: Shifting the Compute-Efficient Frontier of Mixture-of-Experts",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1776916800,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://arxiv.org/abs/2604.19835",
-      "tags": [],
-      "body": "<p>arXiv:2604.19835v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) has become the dominant architecture for scaling large language models: frontier models routinely decouple total parameters from per-token computation through sparse expert routing. Scaling laws show that under fixed active computation, model quality scales predictably with total parameters, and MoEs realize this by increasin</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a79df0683": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1776916800,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2604.19749",
-      "tags": [],
-      "body": "<p>arXiv:2604.19749v1 Announce Type: new Abstract: Equipping LLMs with external tools effectively addresses internal reasoning limitations. However, it introduces a critical yet under-explored phenomenon: tool overuse, the unnecessary tool-use during reasoning. In this paper, we first reveal this phenomenon is pervasive across diverse LLMs. We then experimentally elucidate its underlying mechanisms t</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "af9a328ec": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "AI to Learn 2.0: A Deliverable-Oriented Governance Framework and Maturity Rubric for Opaque AI in Learning-Intensive Domains",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1776916800,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2604.19751",
-      "tags": [],
-      "body": "<p>arXiv:2604.19751v1 Announce Type: new Abstract: Generative AI is entering research, education, and professional work faster than current governance frameworks can specify how AI-assisted outputs should be judged in learning-intensive settings. The central problem is proxy failure: a polished artifact can be useful while no longer serving as credible evidence of the human understanding, judgment, o</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "abeefdaad": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Algorithm Selection with Zero Domain Knowledge via Text Embeddings",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1776916800,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://arxiv.org/abs/2604.19753",
-      "tags": [],
-      "body": "<p>arXiv:2604.19753v1 Announce Type: new Abstract: We propose a feature-free approach to algorithm selection that replaces hand-crafted instance features with pretrained text embeddings. Our method, ZeroFolio, proceeds in three steps: it reads the raw instance file as plain text, embeds it with a pretrained embedding model, and selects an algorithm via weighted k-nearest neighbors. The key to our app</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a847a19a2": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Exploring Data Augmentation and Resampling Strategies for Transformer-Based Models to Address Class Imbalance in AI Scoring of Scientific Explanations in NGSS Classroom",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1776916800,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://arxiv.org/abs/2604.19754",
-      "tags": [],
-      "body": "<p>arXiv:2604.19754v1 Announce Type: new Abstract: Automated scoring of students' scientific explanations offers the potential for immediate, accurate feedback, yet class imbalance in rubric categories particularly those capturing advanced reasoning remains a challenge. This study investigates augmentation strategies to improve transformer-based text classification of student responses to a physical </p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a425e0efe": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Explainable AML Triage with LLMs: Evidence Retrieval and Counterfactual Checks",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1776916800,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://arxiv.org/abs/2604.19755",
-      "tags": [],
-      "body": "<p>arXiv:2604.19755v1 Announce Type: new Abstract: Anti-money laundering (AML) transaction monitoring generates large volumes of alerts that must be rapidly triaged by investigators under strict audit and governance constraints. While large language models (LLMs) can summarize heterogeneous evidence and draft rationales, unconstrained generation is risky in regulated workflows due to hallucinations, </p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a238cf7eb": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "ThermoQA: A Three-Tier Benchmark for Evaluating Thermodynamic Reasoning in Large Language Models",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1776916800,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://arxiv.org/abs/2604.19758",
-      "tags": [],
-      "body": "<p>arXiv:2604.19758v1 Announce Type: new Abstract: We present ThermoQA, a benchmark of 293 open-ended engineering thermodynamics problems in three tiers: property lookups (110 Q), component analysis (101 Q), and full cycle analysis (82 Q). Ground truth is computed programmatically from CoolProp 7.2.0, covering water, R-134a, and variable-cp air. Six frontier LLMs are evaluated across three independen</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "ab06a438e": {
       "layer": "l3",
@@ -607,8 +633,8 @@
       "src": "Latent Space",
       "time": "1天前",
       "published_ts": 1776912337,
-      "heat": "17.2K",
-      "views": "19.5K",
+      "heat": "14.8K",
+      "views": "17.2K",
       "url": "https://www.latent.space/p/ainews-tasteful-tokenmaxxing",
       "tags": [],
       "body": "<p>a quiet day lets us reflect on the top conversation that AI leaders are having everywhere.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -620,8 +646,8 @@
       "src": "Latent Space",
       "time": "1天前",
       "published_ts": 1776886429,
-      "heat": "14.8K",
-      "views": "17.2K",
+      "heat": "12.5K",
+      "views": "14.8K",
       "url": "https://www.latent.space/p/shopify",
       "tags": [],
       "body": "<p>A rare interview with Shopify's CTO on -everything- that Shopify is doing to maximize AI for their customers, with exclusive data on their own AI adoption.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -763,8 +789,8 @@
       "src": "Latent Space",
       "time": "2天前",
       "published_ts": 1776817432,
-      "heat": "12.5K",
-      "views": "14.8K",
+      "heat": "10.1K",
+      "views": "12.5K",
       "url": "https://www.latent.space/p/ainews-openai-launches-gpt-image",
       "tags": [],
       "body": "<p>with Cursor getting a $10B contract with xAI and a right to acquire for $60B.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -854,24 +880,11 @@
       "src": "Latent Space",
       "time": "3天前",
       "published_ts": 1776730773,
-      "heat": "10.1K",
-      "views": "12.5K",
+      "heat": "7.8K",
+      "views": "10.1K",
       "url": "https://www.latent.space/p/ainews-moonshot-kimi-k26-the-worlds",
       "tags": [],
       "body": "<p>Yay Kimi!!!</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a45b53760": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "🔬 Training Transformers to solve 95% failure rate of Cancer Trials — Ron Alfa & Daniel Bear, Noetik",
-      "src": "Latent Space",
-      "time": "3天前",
-      "published_ts": 1776701837,
-      "heat": "7.8K",
-      "views": "10.1K",
-      "url": "https://www.latent.space/p/noetik",
-      "tags": [],
-      "body": "<p>95% of cancer treatments fail to pass clinical trials, but it may be a matching problem &#8212; that Noetik is solving with autoregressive transformers like TARIO-2!</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "acc7c349b": {
       "layer": "l1",
@@ -1372,7 +1385,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "246天前",
+      "time": "247天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1603,22 +1616,14 @@
     }
   },
   "by_layer": {
-    "l3": [
-      "aa23fbe12",
-      "a5096854e",
-      "a73b68889",
-      "a2a9f7c50",
-      "ab06a438e",
-      "a774f3120",
-      "a23fdeba7",
-      "a1b552f8f",
-      "a28f84720"
-    ],
     "l2": [
+      "afd436246",
+      "a90533f04",
+      "a83961a43",
+      "a07f20166",
       "a3b848dac",
       "afc5e9e6a",
       "ae3d3b3e2",
-      "a17ec16a2",
       "a2047c9a6",
       "a945ffb3a",
       "a185aa137",
@@ -1627,16 +1632,9 @@
       "a71850d05",
       "af581c5ca",
       "ae5c00d41",
-      "a90533f04",
-      "a83961a43",
-      "a79df0683",
-      "abeefdaad",
-      "a847a19a2",
-      "a238cf7eb",
       "a9a89a194",
       "a416a8f84",
       "ac092024b",
-      "a45b53760",
       "a1c025c0d",
       "ac84e7008",
       "a3152a0ee",
@@ -1654,23 +1652,41 @@
       "af0f189d1",
       "a38ad1236"
     ],
-    "l5": [
-      "ad6e7cf11",
-      "a13a9eba4",
-      "ad452ec12",
-      "a74b4b94e",
-      "aa17cbcd7",
-      "ad1fe2ee2",
-      "a6b54dc20",
-      "a1fb64e59",
-      "ad700f457",
-      "add70a360",
-      "a9c6d4bb8",
-      "a10f4d983",
-      "a9057e9b9",
-      "a342c4ec3"
+    "l3": [
+      "afb8db31e",
+      "ae985dfa7",
+      "a2a9f7c50",
+      "aa23fbe12",
+      "a5096854e",
+      "ab06a438e",
+      "a774f3120",
+      "a23fdeba7",
+      "a1b552f8f",
+      "a28f84720"
+    ],
+    "l4": [
+      "a9c17aa08",
+      "a3fcb91f3",
+      "a5fb95cc0",
+      "a8b0b4c15",
+      "a3a9f9b0d",
+      "a0a05bf3e",
+      "a1c558de2",
+      "a6eeb59a6",
+      "a389e719a",
+      "a92b6a52a",
+      "a19300276",
+      "a967c7839",
+      "a1c2d117e",
+      "a4872c295",
+      "ab59fe080",
+      "af25d02a4",
+      "a9560485f",
+      "a61a8adff",
+      "ad01feb8a"
     ],
     "l1": [
+      "ab4381b2b",
       "a3cad3f7e",
       "a64b5c9f2",
       "aff592844",
@@ -1680,8 +1696,6 @@
       "ae7e42070",
       "a1dd973af",
       "a65f9ed88",
-      "ab4381b2b",
-      "af9a328ec",
       "a0e66b46a",
       "a7f492b9e",
       "a83c3eedf",
@@ -1698,6 +1712,25 @@
       "a5236c597",
       "a2ae2603b",
       "afeb62ce7"
+    ],
+    "l5": [
+      "ae0f0a376",
+      "a8a76d4a2",
+      "aade0583a",
+      "ad6e7cf11",
+      "a13a9eba4",
+      "ad452ec12",
+      "a74b4b94e",
+      "aa17cbcd7",
+      "ad1fe2ee2",
+      "a6b54dc20",
+      "a1fb64e59",
+      "ad700f457",
+      "add70a360",
+      "a9c6d4bb8",
+      "a10f4d983",
+      "a9057e9b9",
+      "a342c4ec3"
     ],
     "l0": [
       "abb7c9c62",
@@ -1718,33 +1751,14 @@
       "a253e0446",
       "a9173515c",
       "abcb7b0c4"
-    ],
-    "l4": [
-      "a3a9f9b0d",
-      "a0a05bf3e",
-      "a1c558de2",
-      "a6eeb59a6",
-      "a389e719a",
-      "a92b6a52a",
-      "a19300276",
-      "a3fcb91f3",
-      "a425e0efe",
-      "a967c7839",
-      "a1c2d117e",
-      "a4872c295",
-      "ab59fe080",
-      "af25d02a4",
-      "a9560485f",
-      "a61a8adff",
-      "ad01feb8a"
     ]
   },
   "top5": [
-    "aa23fbe12",
-    "a3b848dac",
-    "a5096854e",
-    "ad6e7cf11",
-    "afc5e9e6a"
+    "afd436246",
+    "afb8db31e",
+    "ae985dfa7",
+    "a9c17aa08",
+    "a3fcb91f3"
   ],
   "layers": [
     {
@@ -1754,10 +1768,10 @@
       "vals": [
         23,
         20,
-        12,
-        10,
-        43,
-        25
+        11,
+        9,
+        26,
+        23
       ],
       "trend": [
         20,
@@ -1770,59 +1784,15 @@
       ]
     },
     {
-      "id": "l1",
-      "num": "LAYER 1",
-      "name": "算力硬件",
-      "vals": [
-        25,
-        10,
-        10,
-        7,
-        25,
-        20
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
-    {
-      "id": "l4",
-      "num": "LAYER 4",
-      "name": "交互Agent",
-      "vals": [
-        18,
-        20,
-        6,
-        5,
-        23,
-        16
-      ],
-      "trend": [
-        20,
-        19,
-        18,
-        17,
-        16,
-        15,
-        14
-      ]
-    },
-    {
       "id": "l0",
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        10,
-        20,
+        21,
+        26,
         7,
         5,
-        11,
+        18,
         17
       ],
       "trend": [
@@ -1840,12 +1810,12 @@
       "num": "LAYER 5",
       "name": "生态商业",
       "vals": [
-        20,
-        10,
+        19,
+        15,
+        6,
         5,
-        5,
-        10,
-        10
+        27,
+        24
       ],
       "trend": [
         20,
@@ -1858,135 +1828,152 @@
       ]
     },
     {
+      "id": "l4",
+      "num": "LAYER 4",
+      "name": "交互Agent",
+      "vals": [
+        22,
+        15,
+        7,
+        5,
+        19,
+        17
+      ],
+      "trend": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "id": "l1",
+      "num": "LAYER 1",
+      "name": "算力硬件",
+      "vals": [
+        11,
+        18,
+        10,
+        6,
+        24,
+        20
+      ],
+      "trend": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
       "id": "l3",
       "num": "LAYER 3",
       "name": "推理工程",
       "vals": [
         10,
-        10,
+        19,
         5,
-        12,
-        15,
-        13
+        5,
+        11,
+        14
       ],
       "trend": [
         20,
+        19,
         18,
+        17,
         16,
-        14,
-        12,
-        10,
-        8
+        15,
+        14
       ]
     }
   ],
   "ticker": [
     {
       "tag": "SIMON WIL",
-      "col": "var(--l3)",
-      "text": "russellromney/honker"
-    },
-    {
-      "tag": "SIMON WIL",
       "col": "var(--l2)",
-      "text": "An update on recent Claude Code quality reports"
-    },
-    {
-      "tag": "SIMON WIL",
-      "col": "var(--l3)",
-      "text": "Serving the For You feed"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l5)",
-      "text": "Leak reveals new Xbox Game Pass ‘Starter Edition’ that’s part of …"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l2)",
-      "text": "Claude is connecting directly to your personal apps like Spotify,…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Intel CEO says he can 'think of no better partner than Elon Musk'…"
-    },
-    {
-      "tag": "SIMON WIL",
-      "col": "var(--l3)",
-      "text": "Extract PDF text in your browser with LiteParse for the web"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l0)",
-      "text": "Brendan Carr’s war on wokeness targets inclusive children&#8217;s…"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment"
-    },
-    {
-      "tag": "404 MEDIA",
-      "col": "var(--l4)",
-      "text": "Community Votes to Deny Water to Nuclear Weapons Data Center"
-    },
-    {
-      "tag": "ONE USEFU",
-      "col": "var(--l2)",
-      "text": "Sign of the future: GPT-5.5"
-    },
-    {
-      "tag": "SIMON WIL",
-      "col": "var(--l2)",
-      "text": "A pelican for GPT-5.5 via the semi-official Codex backdoor API"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "Meet Noscroll, an AI bot that does your doomscrolling for you"
+      "text": "DeepSeek V4 - almost on the frontier, a fraction of the price"
     },
     {
       "tag": "LATENT SP",
+      "col": "var(--l3)",
+      "text": "[AINews] GPT 5.5 and OpenAI Codex Superapp"
+    },
+    {
+      "tag": "SIMON WIL",
+      "col": "var(--l3)",
+      "text": "Millisecond Converter"
+    },
+    {
+      "tag": "SIMON WIL",
       "col": "var(--l4)",
-      "text": "AIE Europe Debrief + Agent Labs Thesis: Unsupervised Learning x L…"
+      "text": "It's a big one"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l4)",
+      "text": "WorkflowGen:an adaptive workflow generation mechanism driven by t…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Transparent Screening for LLM Inference and Training Impacts"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l3)",
+      "text": "Accelerating PayPal's Commerce Agent with Speculative Decoding: A…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l1)",
+      "text": "On-Meter Graph Machine Learning: A Case Study of PV Power Forecas…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Expert Upcycling: Shifting the Compute-Efficient Frontier of Mixt…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Architecture of an AI-Based Automated Course of Action Generation…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l5)",
+      "text": "Escaping the Agreement Trap: Defensibility Signals for Evaluating…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l4)",
+      "text": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon T…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l5)",
+      "text": "Value-Conflict Diagnostics Reveal Widespread Alignment Faking in …"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l4)",
+      "text": "The Last Harness You'll Ever Build"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "GPT-5.5",
-      "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "votes": "1,137",
-      "comments": "787",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "votes": "665",
-      "comments": "329",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-      "url": "https://blog.meshcore.io/2026/04/23/the-split",
-      "votes": "162",
-      "comments": "96",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "TorchTPU: Running PyTorch Natively on TPUs at Google Scale",
-      "url": "https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/",
-      "votes": "70",
-      "comments": "2",
+      "title": "DeepSeek v4",
+      "url": "https://api-docs.deepseek.com/",
+      "votes": "764",
+      "comments": "435",
       "time": "近期"
     },
     {
@@ -1994,17 +1981,44 @@
       "badge": "pb-hn",
       "title": "An update on recent Claude Code quality reports",
       "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "votes": "590",
-      "comments": "451",
+      "votes": "711",
+      "comments": "526",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Show HN: Agent Vault – Open-source credential proxy and vault for agents",
-      "url": "https://github.com/Infisical/agent-vault",
-      "votes": "80",
-      "comments": "28",
+      "title": "GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
+      "votes": "1,333",
+      "comments": "879",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+      "votes": "743",
+      "comments": "364",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
+      "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
+      "votes": "199",
+      "comments": "245",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Familiarity is the enemy: On why Enterprise systems have failed for 60 years",
+      "url": "https://felixbarbalet.com/familiarity-is-the-enemy/",
+      "votes": "32",
+      "comments": "11",
       "time": "近期"
     }
   ]
