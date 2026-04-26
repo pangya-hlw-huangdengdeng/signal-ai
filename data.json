@@ -1,16 +1,94 @@
 {
-  "updated_at": "2026-04-26T13:13:30.859033+00:00",
+  "updated_at": "2026-04-26T19:00:05.293989+00:00",
   "article_count": 118,
   "articles": {
+    "ac279e945": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Save over $150 on this fantastic Elecoo resin 3D printer with 16K resolution and a tilting vat — Saturn 4 Ultra 16K is on sale for just $493 right now on Amazon",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1777223784,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/pc-components/save-over-usd150-on-this-fantastic-elecoo-resin-3d-printer-with-16k-resolution-and-a-tilting-vat-saturn-4-ultra-16k-is-on-sale-for-just-usd493-right-now-on-amazon",
+      "tags": [],
+      "body": "<p>The Elegoo Saturn 4 Ultra is already a top recommendation in the resin 3D printer world, but with this discount, it's a no-brainer. Featuring a 16K resolution on a 10.1-inch LCD, you get 14 microns of accuracy with so many smart features that it'd be an actual challenge to ruin a print, or the printer.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a4aced1a0": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "RTX 4090 sent for repair is a sophisticated fake with laser-etched VRAM and core, 'This is the best scam I've ever seen' — Scammers pulled a factory-level job to sell a dud to unsuspecting customer",
+      "src": "Tom's Hardware",
+      "time": "3小时前",
+      "published_ts": 1777217615,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/pc-components/gpus/rtx-4090-sent-for-repair-is-a-sophisticated-fake-with-laser-etched-vram-and-core-this-is-the-best-scam-ive-ever-seen-scammers-pulled-a-factory-level-job-to-sell-a-dud-to-unsuspecting-customer",
+      "tags": [],
+      "body": "<p>Northwest Repair was sent an Asus ROG Strix 4090 that had a dead core and memory chips with fake markings to make it look like the real thing. Unfortunately, there's no way of telling what these counterfeit parts actually were, but the main takeaway is just how good these scammers are getting as of late.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "adb96c89f": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "To buy this Bay Area home, you’ll need Anthropic equity",
+      "src": "TechCrunch AI",
+      "time": "3小时前",
+      "published_ts": 1777217400,
+      "heat": "27.0K",
+      "views": "27.0K",
+      "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+      "tags": [],
+      "body": "<p>Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a9746b0ef": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Toyota’s limited edition $3,500 Crown gaming chair has heating, cooling, and a USB-C seatbelt buckle — Toyota Crown front car seat turned into gaming chair, enjoy in-car comforts while on your PC",
+      "src": "Tom's Hardware",
+      "time": "4小时前",
+      "published_ts": 1777213899,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://www.tomshardware.com/peripherals/gaming-chairs/toyotas-limited-edition-usd3-500-crown-gaming-chair-has-heating-cooling-and-a-usb-c-seatbelt-buckle-enjoy-in-car-comforts-while-you-are-on-your-pc",
+      "tags": [],
+      "body": "<p>The world's largest automaker has branched out into computer chairs with a limited edition model as part of The Crown Collection.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a1ec6e04b": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Skylight’s 15-inch smart calendar is down to its lowest price to date",
+      "src": "The Verge",
+      "time": "4小时前",
+      "published_ts": 1777212303,
+      "heat": "15.4K",
+      "views": "18.2K",
+      "url": "https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale",
+      "tags": [],
+      "body": "<p>When you’re juggling more than just your own calendar, staying organized can be overwhelming. Fortunately, the Skylight Calendar 2 can help simplify things by syncing multiple calendars in a single spot, and now through May 7th, it’s available directly from Skylight for $259.99 ($40 off), its best price to date. Skylight’s 15-inch smart calendar improves [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ad152ed0f": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "New metal 3D printer shrinks industrial tech down to workbench size with laser powder bed fusion system — aims to bring laser metal printing to workshops and labs for $9,600",
+      "src": "Tom's Hardware",
+      "time": "5小时前",
+      "published_ts": 1777209711,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://www.tomshardware.com/3d-printing/new-metal-3d-printer-shrinks-industrial-tech-down-to-workbench-size-with-laser-powder-bed-fusion-system-aims-to-bring-laser-metal-printing-to-workshops-and-labs-for-usd9-600",
+      "tags": [],
+      "body": "<p>Scrap Labs has unveiled the Scrap 1, a compact laser powder bed fusion metal 3D printer that fits on a workbench and starts at $9,600 — a fraction of what industrial LPBF systems typically cost</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "abf8c3f5e": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "AMD Ryzen 5 7600X3D review: An unbeatable value gaming CPU",
       "src": "Tom's Hardware",
-      "time": "12分钟前",
+      "time": "5小时前",
       "published_ts": 1777208445,
-      "heat": "15.0K",
-      "views": "15.0K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-7600x3d-review",
       "tags": [],
       "body": "<p>The Ryzen 7 9850X3D was never set up for success, but our testing reveals the ugly side of AMD’s latest X3D CPU: higher power consumption for minuscule performance gains.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -20,74 +98,22 @@
       "cat": "L4 · 交互Agent",
       "title": "After three months on Linux, I don’t miss Windows at all",
       "src": "The Verge",
-      "time": "13分钟前",
+      "time": "6小时前",
       "published_ts": 1777208400,
-      "heat": "24.0K",
-      "views": "24.0K",
+      "heat": "12.5K",
+      "views": "15.4K",
       "url": "https://www.theverge.com/tech/918797/switched-to-linux-dont-miss-windows",
       "tags": [],
       "body": "<p>In January I finally made good on my threat/promise to install Linux on my desktop. I wanted to see how far I could get using a Linux PC as my main computer without doing a bunch of research beforehand or troubleshooting afterwards. Since then I have booted into Windows exactly twice: once to scan a [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a9cac5847": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Commodore backs down over FPGA firmware lockdown — it won’t now try and block third-party firmware installs but will stand firm against bricked modded units",
-      "src": "Tom's Hardware",
-      "time": "43分钟前",
-      "published_ts": 1777206600,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://www.tomshardware.com/video-games/retro-gaming/commodore-backs-down-over-fpga-firmware-lockdown-it-wont-now-try-and-block-third-party-firmware-installs-but-will-stand-firm-against-bricked-modded-units",
-      "tags": [],
-      "body": "<p>Iconic home computer brand has reversed its no-third-party firmware decision but makes it clear that users will get 'no free support/replacement for bricked modded units.'</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "af412f24e": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "DeepSeek launches 1.6 trillion parameter V4 on Huawei chips as U.S. escalates AI theft accusations — U.S. gov't alleges IP theft by DeepSeek and other Chinese AI firms",
-      "src": "Tom's Hardware",
-      "time": "58分钟前",
-      "published_ts": 1777205700,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-launches-1-6-trillion-parameter-v4-on-huawei-chips-as-us-escalates-ai-theft-accusations",
-      "tags": [],
-      "body": "<p>DeepSeek on Friday released a preview of its V4 large language model, the Hangzhou-based startup's most powerful to date.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ab734928a": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Taiwan's stock market surpasses the UK's despite having less than a quarter of the UK's economy — AI boom propels Taiwan forward, TSMC alone accounts for more than 40% of Taiwan's total market value",
-      "src": "Tom's Hardware",
-      "time": "1小时前",
-      "published_ts": 1777204800,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://www.tomshardware.com/tech-industry/taiwan-stock-market-overtakes-the-uk",
-      "tags": [],
-      "body": "<p>Taiwan's stock market is now worth more than the United Kingdom's, in a shift driven almost entirely by the insatiable global appetite for AI chips.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a2533ca20": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Intel reportedly says it boosted yields by selling what would normally be 'scrap' or 'low-expectation' CPUs — customers more willing to accept lesser chips due to overwhelming CPU demand",
-      "src": "Tom's Hardware",
-      "time": "1小时前",
-      "published_ts": 1777203900,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://www.tomshardware.com/pc-components/cpus/intel-reportedly-says-it-boosted-yields-by-selling-what-would-normally-be-scrap-or-low-expectation-cpus-customers-more-willing-to-accept-lesser-chips-due-to-overwhelming-cpu-demand",
-      "tags": [],
-      "body": "<p>Intel’s Investor relations team confirmed that customers are sweeping up the lower-quality chips, bringing in tangible revenue for the company.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "aa6ce6230": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "Anthropic created a test marketplace for agent-on-agent commerce",
       "src": "TechCrunch AI",
-      "time": "15小时前",
+      "time": "21小时前",
       "published_ts": 1777153417,
-      "heat": "27.0K",
+      "heat": "23.8K",
       "views": "27.0K",
       "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
       "tags": [],
@@ -98,36 +124,23 @@
       "cat": "L4 · 交互Agent",
       "title": "Maine’s governor vetoes data center moratorium",
       "src": "TechCrunch AI",
-      "time": "16小时前",
+      "time": "22小时前",
       "published_ts": 1777150628,
-      "heat": "23.8K",
-      "views": "27.0K",
+      "heat": "20.5K",
+      "views": "23.8K",
       "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
       "tags": [],
       "body": "<p>L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a02638a45": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "An influx of used EVs could drive down prices",
-      "src": "The Verge",
-      "time": "18小时前",
-      "published_ts": 1777141523,
-      "heat": "15.4K",
-      "views": "18.2K",
-      "url": "https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices",
-      "tags": [],
-      "body": "<p>Part of what has held back electric cars has been the cost. But an influx of used vehicles over the next three years could bring prices down dramatically. In 2025, just 123,000 leases on EVs expired. That is expected to more than double to 300,000 in 2026, and double again to 600,000 in 2027 and [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a6cb34840": {
       "layer": "l0",
       "cat": "L0 · 领袖观点",
       "title": "OpenAI CEO apologizes to Tumbler Ridge community",
       "src": "TechCrunch AI",
-      "time": "19小时前",
+      "time": "1天前",
       "published_ts": 1777137476,
-      "heat": "20.5K",
-      "views": "23.8K",
+      "heat": "17.3K",
+      "views": "20.5K",
       "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
       "tags": [],
       "body": "<p>In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -137,7 +150,7 @@
       "cat": "L2 · 基础模型",
       "title": "WHY ARE YOU LIKE THIS",
       "src": "Simon Willison",
-      "time": "20小时前",
+      "time": "1天前",
       "published_ts": 1777135441,
       "heat": "15.0K",
       "views": "15.0K",
@@ -150,10 +163,10 @@
       "cat": "L5 · 生态商业",
       "title": "Why Cohere is merging with Aleph Alpha",
       "src": "TechCrunch AI",
-      "time": "21小时前",
+      "time": "1天前",
       "published_ts": 1777132800,
-      "heat": "17.3K",
-      "views": "20.5K",
+      "heat": "14.0K",
+      "views": "17.3K",
       "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
       "tags": [],
       "body": "<p>Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -163,26 +176,13 @@
       "cat": "L5 · 生态商业",
       "title": "Why Tokyo is the most important tech destination of 2026",
       "src": "TechCrunch AI",
-      "time": "22小时前",
+      "time": "1天前",
       "published_ts": 1777129380,
-      "heat": "14.0K",
-      "views": "17.3K",
+      "heat": "10.8K",
+      "views": "14.0K",
       "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
       "tags": [],
       "body": "<p>SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a653e2245": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Sharge’s fast Qi2.2 MagSafe battery is down to $70 with a free USB-C cable",
-      "src": "The Verge",
-      "time": "22小时前",
-      "published_ts": 1777129200,
-      "heat": "9.6K",
-      "views": "12.5K",
-      "url": "https://www.theverge.com/gadgets/918410/sharge-icemag-3-qi2-usb-c-wireless-power-bank-battery-deal-sale",
-      "tags": [],
-      "body": "<p>I’ve been testing compact, magnetic Qi2 power banks that can snap onto your phone for an upcoming buying guide. They make recharging much easier than bringing along a huge battery that weighs down your bag. One of my favorites so far is the Sharge Icemag 3, a 10,000mAh model that can wirelessly output 25W to [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "aec1072c1": {
       "layer": "l4",
@@ -319,7 +319,7 @@
       "cat": "L5 · 生态商业",
       "title": "7 highlights from Google Cloud Next ‘26",
       "src": "Google AI Blog",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1777053600,
       "heat": "30.4K",
       "views": "34.5K",
@@ -332,7 +332,7 @@
       "cat": "L5 · 生态商业",
       "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
       "src": "Wired",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1777051056,
       "heat": "12.5K",
       "views": "14.5K",
@@ -345,7 +345,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Behind the Blog: Waiting in the Apple Store",
       "src": "404 Media",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1777050315,
       "heat": "13.2K",
       "views": "15.0K",
@@ -358,7 +358,7 @@
       "cat": "L2 · 基础模型",
       "title": "Find out what’s new in the Gemini app in April's Gemini Drop.",
       "src": "Google AI Blog",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1777046400,
       "heat": "26.2K",
       "views": "30.4K",
@@ -371,7 +371,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Apple's Next CEO Needs to Launch a Killer AI Product",
       "src": "Wired",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1777042800,
       "heat": "10.6K",
       "views": "12.5K",
@@ -384,7 +384,7 @@
       "cat": "L4 · 交互Agent",
       "title": "The AI Compute Crunch Is Here (and It's Affecting the Entire Economy)",
       "src": "404 Media",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1777038837,
       "heat": "11.4K",
       "views": "13.2K",
@@ -501,7 +501,7 @@
       "cat": "L4 · 交互Agent",
       "title": "OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work",
       "src": "NVIDIA Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1776970675,
       "heat": "37.5K",
       "views": "37.5K",
@@ -514,7 +514,7 @@
       "cat": "L2 · 基础模型",
       "title": "Fitbit's personal health coach is now even more personalized.",
       "src": "Google AI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1776963600,
       "heat": "17.9K",
       "views": "22.1K",
@@ -527,7 +527,7 @@
       "cat": "L2 · 基础模型",
       "title": "What Anthropic’s Mythos Means for the Future of Cybersecurity",
       "src": "IEEE Spectrum",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1776952801,
       "heat": "15.0K",
       "views": "15.0K",
@@ -540,7 +540,7 @@
       "cat": "L2 · 基础模型",
       "title": "Researchers Simulated a Delusional User to Test Chatbot Safety",
       "src": "404 Media",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1776952339,
       "heat": "7.8K",
       "views": "9.6K",
@@ -800,7 +800,7 @@
       "cat": "L2 · 基础模型",
       "title": "That's my designer - Claude",
       "src": "Ben's Bites",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1776778305,
       "heat": "14.5K",
       "views": "16.5K",
@@ -852,7 +852,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Capacity Efficiency at Meta: How Unified AI Agents Optimize Performance at Hyperscale",
       "src": "Meta Engineering",
-      "time": "9天前",
+      "time": "10天前",
       "published_ts": 1776355234,
       "heat": "26.4K",
       "views": "30.0K",
@@ -865,7 +865,7 @@
       "cat": "L5 · 生态商业",
       "title": "Optical Fiber Networks Can Keep Rail Networks Safe",
       "src": "IEEE Spectrum",
-      "time": "9天前",
+      "time": "10天前",
       "published_ts": 1776351765,
       "heat": "9.6K",
       "views": "11.4K",
@@ -904,7 +904,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Sarang Gupta Builds AI Systems With Real-World Impact",
       "src": "IEEE Spectrum",
-      "time": "11天前",
+      "time": "12天前",
       "published_ts": 1776189601,
       "heat": "6.0K",
       "views": "7.8K",
@@ -943,7 +943,7 @@
       "cat": "L2 · 基础模型",
       "title": "Trust But Canary: Configuration Safety at Scale",
       "src": "Meta Engineering",
-      "time": "17天前",
+      "time": "18天前",
       "published_ts": 1775672726,
       "heat": "15.6K",
       "views": "19.2K",
@@ -956,7 +956,7 @@
       "cat": "L2 · 基础模型",
       "title": "No Claude for Claws",
       "src": "Ben's Bites",
-      "time": "18天前",
+      "time": "19天前",
       "published_ts": 1775567747,
       "heat": "6.6K",
       "views": "8.6K",
@@ -969,7 +969,7 @@
       "cat": "L4 · 交互Agent",
       "title": "How Meta Used AI to Map Tribal Knowledge in Large-Scale Data Pipelines",
       "src": "Meta Engineering",
-      "time": "19天前",
+      "time": "20天前",
       "published_ts": 1775491250,
       "heat": "12.0K",
       "views": "15.6K",
@@ -995,7 +995,7 @@
       "cat": "L2 · 基础模型",
       "title": "Gemma 4 and what makes an open model succeed",
       "src": "Interconnects",
-      "time": "22天前",
+      "time": "23天前",
       "published_ts": 1775235456,
       "heat": "7.2K",
       "views": "9.4K",
@@ -1034,7 +1034,7 @@
       "cat": "L3 · 推理工程",
       "title": "A Dream of Spring for Open-Weight LLMs: 10 Architectures from Jan-Feb 2026",
       "src": "Ahead of AI",
-      "time": "59天前",
+      "time": "60天前",
       "published_ts": 1772026016,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1073,7 +1073,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Management as AI superpower",
       "src": "One Useful Thing",
-      "time": "88天前",
+      "time": "89天前",
       "published_ts": 1769532955,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1099,7 +1099,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
       "src": "VentureBeat AI",
-      "time": "93天前",
+      "time": "94天前",
       "published_ts": 1769090400,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1112,7 +1112,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
       "src": "VentureBeat AI",
-      "time": "96天前",
+      "time": "97天前",
       "published_ts": 1768831200,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1125,7 +1125,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
       "src": "VentureBeat AI",
-      "time": "99天前",
+      "time": "100天前",
       "published_ts": 1768572060,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1203,7 +1203,7 @@
       "cat": "L0 · 领袖观点",
       "title": "2025 LLM Year in Review",
       "src": "Andrej Karpathy",
-      "time": "127天前",
+      "time": "128天前",
       "published_ts": 1766167200,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1216,7 +1216,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Auto-grading decade-old Hacker News discussions with hindsight",
       "src": "Andrej Karpathy",
-      "time": "136天前",
+      "time": "137天前",
       "published_ts": 1765378800,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1229,7 +1229,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Verifiability",
       "src": "Andrej Karpathy",
-      "time": "159天前",
+      "time": "160天前",
       "published_ts": 1763398800,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1242,7 +1242,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Animals vs Ghosts",
       "src": "Andrej Karpathy",
-      "time": "206天前",
+      "time": "207天前",
       "published_ts": 1759338000,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1255,7 +1255,7 @@
       "cat": "L1 · 算力硬件",
       "title": "xAI’s Colossus 2 – First Gigawatt Datacenter In The World, Unique RL Methodology, Capital Raise",
       "src": "SemiAnalysis",
-      "time": "221天前",
+      "time": "222天前",
       "published_ts": 1758044281,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1333,7 +1333,7 @@
       "cat": "L0 · 领袖观点",
       "title": "AGI Is Not Multimodal",
       "src": "The Gradient",
-      "time": "325天前",
+      "time": "326天前",
       "published_ts": 1749045629,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1398,7 +1398,7 @@
       "cat": "L2 · 基础模型",
       "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
       "src": "The Gradient",
-      "time": "525天前",
+      "time": "526天前",
       "published_ts": 1731775575,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1411,7 +1411,7 @@
       "cat": "L2 · 基础模型",
       "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
       "src": "The Gradient",
-      "time": "593天前",
+      "time": "594天前",
       "published_ts": 1725902928,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1424,7 +1424,7 @@
       "cat": "L0 · 领袖观点",
       "title": "We Need Positive Visions for AI Grounded in Wellbeing",
       "src": "The Gradient",
-      "time": "630天前",
+      "time": "631天前",
       "published_ts": 1722704443,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1463,7 +1463,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Financial Market Applications of LLMs",
       "src": "The Gradient",
-      "time": "735天前",
+      "time": "736天前",
       "published_ts": 1713635859,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1539,11 +1539,11 @@
   },
   "by_layer": {
     "l1": [
+      "ac279e945",
+      "a4aced1a0",
+      "a9746b0ef",
+      "ad152ed0f",
       "abf8c3f5e",
-      "a9cac5847",
-      "ab734928a",
-      "a2533ca20",
-      "a653e2245",
       "ae7e42070",
       "a1dd973af",
       "a65f9ed88",
@@ -1565,10 +1565,11 @@
       "afeb62ce7"
     ],
     "l4": [
+      "adb96c89f",
+      "a1ec6e04b",
       "af61228db",
       "aa6ce6230",
       "a5489fec6",
-      "a02638a45",
       "aec1072c1",
       "ab2f535c3",
       "a662d80e8",
@@ -1587,8 +1588,28 @@
       "a61a8adff",
       "ad01feb8a"
     ],
+    "l0": [
+      "a6cb34840",
+      "ac14dfd9f",
+      "afb508caf",
+      "a6e694b4e",
+      "aa20d6d34",
+      "a0a86adb8",
+      "a6eadb995",
+      "a2f2fbafa",
+      "aa27891e5",
+      "a57fda39f",
+      "a187a50d6",
+      "a2fdfcb21",
+      "a040f39c9",
+      "a0ab4dd7d",
+      "a375099f0",
+      "a6a5b4a81",
+      "a253e0446",
+      "a9173515c",
+      "abcb7b0c4"
+    ],
     "l2": [
-      "af412f24e",
       "a50fc5ed4",
       "a9c06249e",
       "ae7d70890",
@@ -1622,27 +1643,6 @@
       "af0f189d1",
       "a38ad1236"
     ],
-    "l0": [
-      "a6cb34840",
-      "ac14dfd9f",
-      "afb508caf",
-      "a6e694b4e",
-      "aa20d6d34",
-      "a0a86adb8",
-      "a6eadb995",
-      "a2f2fbafa",
-      "aa27891e5",
-      "a57fda39f",
-      "a187a50d6",
-      "a2fdfcb21",
-      "a040f39c9",
-      "a0ab4dd7d",
-      "a375099f0",
-      "a6a5b4a81",
-      "a253e0446",
-      "a9173515c",
-      "abcb7b0c4"
-    ],
     "l5": [
       "a1a540e1f",
       "ace1003fb",
@@ -1670,11 +1670,11 @@
     ]
   },
   "top5": [
-    "abf8c3f5e",
-    "af61228db",
-    "a9cac5847",
-    "af412f24e",
-    "ab734928a"
+    "ac279e945",
+    "a4aced1a0",
+    "adb96c89f",
+    "a9746b0ef",
+    "a1ec6e04b"
   ],
   "layers": [
     {
@@ -1682,11 +1682,11 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        19,
-        20,
         32,
+        21,
+        35,
         9,
-        34,
+        23,
         23
       ],
       "trend": [
@@ -1700,15 +1700,37 @@
       ]
     },
     {
+      "id": "l4",
+      "num": "LAYER 4",
+      "name": "交互Agent",
+      "vals": [
+        25,
+        23,
+        9,
+        11,
+        29,
+        19
+      ],
+      "trend": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ]
+    },
+    {
       "id": "l1",
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        25,
-        32,
+        23,
+        24,
         10,
         6,
-        16,
+        19,
         20
       ],
       "trend": [
@@ -1726,65 +1748,21 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
+        20,
         10,
-        19,
         8,
         5,
-        30,
-        18
-      ],
-      "trend": [
-        20,
-        20,
-        20,
-        20,
-        20,
-        20,
-        20
-      ]
-    },
-    {
-      "id": "l4",
-      "num": "LAYER 4",
-      "name": "交互Agent",
-      "vals": [
-        10,
-        12,
-        8,
-        5,
-        15,
-        18
-      ],
-      "trend": [
-        20,
-        20,
-        20,
-        20,
-        20,
-        20,
-        20
-      ]
-    },
-    {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
-      "vals": [
-        14,
-        10,
-        5,
-        5,
-        15,
-        10
-      ],
-      "trend": [
-        20,
-        19,
-        18,
-        17,
         16,
-        15,
-        14
+        18
+      ],
+      "trend": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
       ]
     },
     {
@@ -1792,11 +1770,11 @@
       "num": "LAYER 3",
       "name": "推理工程",
       "vals": [
+        11,
         10,
-        10,
-        13,
         5,
-        10,
+        5,
+        12,
         12
       ],
       "trend": [
@@ -1808,9 +1786,61 @@
         10,
         8
       ]
+    },
+    {
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
+      "vals": [
+        10,
+        10,
+        5,
+        5,
+        10,
+        18
+      ],
+      "trend": [
+        20,
+        19,
+        18,
+        17,
+        16,
+        15,
+        14
+      ]
     }
   ],
   "ticker": [
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Save over $150 on this fantastic Elecoo resin 3D printer with 16K…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "RTX 4090 sent for repair is a sophisticated fake with laser-etche…"
+    },
+    {
+      "tag": "TECHCRUNC",
+      "col": "var(--l4)",
+      "text": "To buy this Bay Area home, you’ll need Anthropic equity"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Toyota’s limited edition $3,500 Crown gaming chair has heating, c…"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l4)",
+      "text": "Skylight’s 15-inch smart calendar is down to its lowest price to …"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "New metal 3D printer shrinks industrial tech down to workbench si…"
+    },
     {
       "tag": "TOM'S HAR",
       "col": "var(--l1)",
@@ -1822,26 +1852,6 @@
       "text": "After three months on Linux, I don’t miss Windows at all"
     },
     {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Commodore backs down over FPGA firmware lockdown — it won’t now t…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l2)",
-      "text": "DeepSeek launches 1.6 trillion parameter V4 on Huawei chips as U.…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Taiwan's stock market surpasses the UK's despite having less than…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Intel reportedly says it boosted yields by selling what would nor…"
-    },
-    {
       "tag": "TECHCRUNC",
       "col": "var(--l4)",
       "text": "Anthropic created a test marketplace for agent-on-agent commerce"
@@ -1850,11 +1860,6 @@
       "tag": "TECHCRUNC",
       "col": "var(--l4)",
       "text": "Maine’s governor vetoes data center moratorium"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "An influx of used EVs could drive down prices"
     },
     {
       "tag": "TECHCRUNC",
@@ -1875,21 +1880,25 @@
       "tag": "TECHCRUNC",
       "col": "var(--l5)",
       "text": "Why Tokyo is the most important tech destination of 2026"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l1)",
-      "text": "Sharge’s fast Qi2.2 MagSafe battery is down to $70 with a free US…"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
+      "title": "GoDaddy Gave a Domain to a Stranger Without Any Documentation",
+      "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
+      "votes": "92",
+      "comments": "27",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
       "title": "Amateur armed with ChatGPT solves an Erdős problem",
       "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-      "votes": "477",
-      "comments": "309",
+      "votes": "659",
+      "comments": "457",
       "time": "近期"
     },
     {
@@ -1897,8 +1906,26 @@
       "badge": "pb-hn",
       "title": "GnuPG – post-quantum crypto landing in mainline",
       "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
-      "votes": "97",
-      "comments": "33",
+      "votes": "142",
+      "comments": "42",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "QNX on the Commodore 900 – Raiders of the lost hard drive [video]",
+      "url": "https://archive.fosdem.org/2025/schedule/event/fosdem-2025-5479-raiders-of-the-lost-hard-drive/",
+      "votes": "26",
+      "comments": "0",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "An AI agent deleted our production database. The agent's confession is below",
+      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+      "votes": "58",
+      "comments": "62",
       "time": "近期"
     },
     {
@@ -1906,35 +1933,8 @@
       "badge": "pb-hn",
       "title": "OpenAI Privacy Filter",
       "url": "https://openai.com/index/introducing-openai-privacy-filter/",
-      "votes": "235",
-      "comments": "47",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Eden AI – European Alternative to OpenRouter",
-      "url": "https://www.edenai.co",
-      "votes": "85",
-      "comments": "43",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Hokusai and Tesselations",
-      "url": "https://dl.ndl.go.jp/pid/1899550/1/11/",
-      "votes": "123",
-      "comments": "15",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Optimizing Datalog for the GPU",
-      "url": "https://dl.acm.org/doi/10.1145/3669940.3707274",
-      "votes": "64",
-      "comments": "3",
+      "votes": "277",
+      "comments": "59",
       "time": "近期"
     }
   ]
