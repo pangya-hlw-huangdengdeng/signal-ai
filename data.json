@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-26T03:20:54.005961+00:00",
+  "updated_at": "2026-04-26T07:44:57.536761+00:00",
   "article_count": 117,
   "articles": {
     "aa6ce6230": {
@@ -7,7 +7,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Anthropic created a test marketplace for agent-on-agent commerce",
       "src": "TechCrunch AI",
-      "time": "5小时前",
+      "time": "10小时前",
       "published_ts": 1777153417,
       "heat": "27.0K",
       "views": "27.0K",
@@ -20,7 +20,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Maine’s governor vetoes data center moratorium",
       "src": "TechCrunch AI",
-      "time": "6小时前",
+      "time": "10小时前",
       "published_ts": 1777150628,
       "heat": "23.8K",
       "views": "27.0K",
@@ -33,7 +33,7 @@
       "cat": "L4 · 交互Agent",
       "title": "An influx of used EVs could drive down prices",
       "src": "The Verge",
-      "time": "8小时前",
+      "time": "13小时前",
       "published_ts": 1777141523,
       "heat": "21.1K",
       "views": "24.0K",
@@ -46,7 +46,7 @@
       "cat": "L0 · 领袖观点",
       "title": "OpenAI CEO apologizes to Tumbler Ridge community",
       "src": "TechCrunch AI",
-      "time": "10小时前",
+      "time": "14小时前",
       "published_ts": 1777137476,
       "heat": "20.5K",
       "views": "23.8K",
@@ -59,7 +59,7 @@
       "cat": "L2 · 基础模型",
       "title": "WHY ARE YOU LIKE THIS",
       "src": "Simon Willison",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1777135441,
       "heat": "15.0K",
       "views": "15.0K",
@@ -72,7 +72,7 @@
       "cat": "L5 · 生态商业",
       "title": "Why Cohere is merging with Aleph Alpha",
       "src": "TechCrunch AI",
-      "time": "11小时前",
+      "time": "15小时前",
       "published_ts": 1777132800,
       "heat": "17.3K",
       "views": "20.5K",
@@ -85,7 +85,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Intel's upcoming Xeon 7 \"Diamond Rapids\" server CPUs reportedly delayed to 2027 — Next-gen Coral Rapids lineup lands 2028 but can be accelerated, according to new leak",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "15小时前",
       "published_ts": 1777132046,
       "heat": "11.4K",
       "views": "13.2K",
@@ -98,7 +98,7 @@
       "cat": "L5 · 生态商业",
       "title": "Why Tokyo is the most important tech destination of 2026",
       "src": "TechCrunch AI",
-      "time": "12小时前",
+      "time": "16小时前",
       "published_ts": 1777129380,
       "heat": "14.0K",
       "views": "17.3K",
@@ -111,7 +111,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Sharge’s fast Qi2.2 MagSafe battery is down to $70 with a free USB-C cable",
       "src": "The Verge",
-      "time": "12小时前",
+      "time": "16小时前",
       "published_ts": 1777129200,
       "heat": "15.4K",
       "views": "18.2K",
@@ -124,7 +124,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Maine governor vetoes bill that bans large new data centers — says legislature should’ve exempted one particular well-supported data center",
       "src": "Tom's Hardware",
-      "time": "13小时前",
+      "time": "18小时前",
       "published_ts": 1777124416,
       "heat": "7.8K",
       "views": "9.6K",
@@ -137,7 +137,7 @@
       "cat": "L4 · 交互Agent",
       "title": "The Govee smart lamp brightened up my room, and then my life",
       "src": "The Verge",
-      "time": "13小时前",
+      "time": "18小时前",
       "published_ts": 1777123800,
       "heat": "12.5K",
       "views": "15.4K",
@@ -150,7 +150,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Intel has reportedly cancelled discrete gaming GPUs for the upcoming Xe3P Arc \"Celestial\" family — gaming GPU remains uncertain even for the next-gen Xe4 \"Druid\" lineup that lands in 2027",
       "src": "Tom's Hardware",
-      "time": "14小时前",
+      "time": "18小时前",
       "published_ts": 1777123145,
       "heat": "6.0K",
       "views": "7.8K",
@@ -163,7 +163,7 @@
       "cat": "L5 · 生态商业",
       "title": "Xbox’s weirdest studio is on a roll",
       "src": "The Verge",
-      "time": "14小时前",
+      "time": "18小时前",
       "published_ts": 1777122000,
       "heat": "9.6K",
       "views": "12.5K",
@@ -176,7 +176,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Quoting Romain Huet",
       "src": "Simon Willison",
-      "time": "15小时前",
+      "time": "19小时前",
       "published_ts": 1777118815,
       "heat": "13.2K",
       "views": "15.0K",
@@ -189,7 +189,7 @@
       "cat": "L5 · 生态商业",
       "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
       "src": "Wired",
-      "time": "16小时前",
+      "time": "21小时前",
       "published_ts": 1777113000,
       "heat": "16.5K",
       "views": "16.5K",
@@ -202,7 +202,7 @@
       "cat": "L5 · 生态商业",
       "title": "Ace the Ping-Pong Robot Can Whup Your Ass",
       "src": "Wired",
-      "time": "17小时前",
+      "time": "22小时前",
       "published_ts": 1777109400,
       "heat": "14.5K",
       "views": "16.5K",
@@ -215,7 +215,7 @@
       "cat": "L2 · 基础模型",
       "title": "[AINews] DeepSeek V4 Pro (1.6T-A49B) and Flash (284B-A13B), Base and Instruct — runnable on Huawei Ascend chips",
       "src": "Latent Space",
-      "time": "22小时前",
+      "time": "1天前",
       "published_ts": 1777093248,
       "heat": "19.5K",
       "views": "19.5K",
@@ -228,7 +228,7 @@
       "cat": "L2 · 基础模型",
       "title": "GPT-5.5 prompting guide",
       "src": "Simon Willison",
-      "time": "23小时前",
+      "time": "1天前",
       "published_ts": 1777090416,
       "heat": "11.4K",
       "views": "13.2K",
@@ -410,7 +410,7 @@
       "cat": "L2 · 基础模型",
       "title": "DeepSeek V4 - almost on the frontier, a fraction of the price",
       "src": "Simon Willison",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1777010464,
       "heat": "6.0K",
       "views": "7.8K",
@@ -423,7 +423,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] GPT 5.5 and OpenAI Codex Superapp",
       "src": "Latent Space",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1777005643,
       "heat": "17.2K",
       "views": "19.5K",
@@ -1294,7 +1294,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "248天前",
+      "time": "249天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1668,11 +1668,11 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        21,
-        33,
-        32,
+        36,
+        39,
+        10,
         9,
-        25,
+        35,
         23
       ],
       "trend": [
@@ -1686,37 +1686,15 @@
       ]
     },
     {
-      "id": "l1",
-      "num": "LAYER 1",
-      "name": "算力硬件",
-      "vals": [
-        26,
-        10,
-        9,
-        6,
-        19,
-        19
-      ],
-      "trend": [
-        20,
-        20,
-        20,
-        20,
-        20,
-        20,
-        20
-      ]
-    },
-    {
       "id": "l4",
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        10,
-        17,
+        23,
+        27,
         8,
         5,
-        16,
+        12,
         18
       ],
       "trend": [
@@ -1730,25 +1708,25 @@
       ]
     },
     {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
+      "id": "l1",
+      "num": "LAYER 1",
+      "name": "算力硬件",
       "vals": [
-        12,
-        17,
-        5,
-        5,
         13,
-        12
+        25,
+        9,
+        6,
+        22,
+        19
       ],
       "trend": [
         20,
-        18,
-        16,
-        14,
-        12,
-        10,
-        8
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
       ]
     },
     {
@@ -1756,11 +1734,11 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        10,
-        10,
+        13,
+        24,
         8,
         5,
-        26,
+        24,
         18
       ],
       "trend": [
@@ -1778,11 +1756,11 @@
       "num": "LAYER 5",
       "name": "生态商业",
       "vals": [
-        10,
-        10,
+        14,
+        21,
         6,
         5,
-        12,
+        10,
         10
       ],
       "trend": [
@@ -1793,6 +1771,28 @@
         16,
         15,
         14
+      ]
+    },
+    {
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
+      "vals": [
+        10,
+        10,
+        11,
+        7,
+        19,
+        12
+      ],
+      "trend": [
+        20,
+        18,
+        16,
+        14,
+        12,
+        10,
+        8
       ]
     }
   ],
@@ -1874,8 +1874,17 @@
       "badge": "pb-hn",
       "title": "Amateur armed with ChatGPT solves an Erdős problem",
       "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-      "votes": "86",
-      "comments": "38",
+      "votes": "314",
+      "comments": "190",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "GnuPG – post-quantum crypto landing in mainline",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
+      "votes": "39",
+      "comments": "10",
       "time": "近期"
     },
     {
@@ -1883,8 +1892,8 @@
       "badge": "pb-hn",
       "title": "OpenAI Privacy Filter",
       "url": "https://openai.com/index/introducing-openai-privacy-filter/",
-      "votes": "129",
-      "comments": "20",
+      "votes": "195",
+      "comments": "37",
       "time": "近期"
     },
     {
@@ -1892,8 +1901,17 @@
       "badge": "pb-hn",
       "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
       "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
-      "votes": "531",
-      "comments": "88",
+      "votes": "568",
+      "comments": "89",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Hokusai and Tesselations",
+      "url": "https://dl.ndl.go.jp/pid/1899550/1/11/",
+      "votes": "103",
+      "comments": "14",
       "time": "近期"
     },
     {
@@ -1901,26 +1919,8 @@
       "badge": "pb-hn",
       "title": "Optimizing Datalog for the GPU",
       "url": "https://dl.acm.org/doi/10.1145/3669940.3707274",
-      "votes": "26",
+      "votes": "43",
       "comments": "3",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "GPT‑5.5 Bio Bug Bounty",
-      "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
-      "votes": "136",
-      "comments": "98",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Plain text has been around for decades and it’s here to stay",
-      "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
-      "votes": "280",
-      "comments": "141",
       "time": "近期"
     }
   ]
