@@ -1,13 +1,169 @@
 {
-  "updated_at": "2026-04-27T03:25:25.857338+00:00",
-  "article_count": 118,
+  "updated_at": "2026-04-27T08:31:32.685916+00:00",
+  "article_count": 130,
   "articles": {
+    "a1145b6f4": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Focus Session: Hardware and Software Techniques for Accelerating Multimodal Foundation Models",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1777262400,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2604.21952",
+      "tags": [],
+      "body": "<p>arXiv:2604.21952v1 Announce Type: new Abstract: This work presents a multi-layered methodology for efficiently accelerating multimodal foundation models (MFMs). It combines hardware and software co-design of transformer blocks with an optimization pipeline that reduces computational and memory requirements. During model development, it employs performance enhancements through fine-tuning for domai</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a865efe20": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Performance Anomaly Detection in Athletics: A Benchmarking System with Visual Analytics",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1777262400,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2604.21953",
+      "tags": [],
+      "body": "<p>arXiv:2604.21953v1 Announce Type: new Abstract: Anti-doping programs rely on biological testing to detect performance-enhancing drugs, but such testing costs over $800 per sample and is limited by short detection windows for many prohibited substances. These constraints leave large portions of athletes without regular testing, motivating complementary screening approaches that analyze routine comp</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a063a4b51": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Conditional anomaly detection using soft harmonic functions: An application to clinical alerting",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1777262400,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2604.21956",
+      "tags": [],
+      "body": "<p>arXiv:2604.21956v1 Announce Type: new Abstract: Timely detection of concerning events is an important problem in clinical practice. In this paper, we consider the problem of conditional anomaly detection that aims to identify data instances with an unusual response, such as the omission of an important lab test. We develop a new non-parametric approach for conditional anomaly detection based on th</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a811be845": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Multi-Task Optimization over Networks of Tasks",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1777262400,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2604.21991",
+      "tags": [],
+      "body": "<p>arXiv:2604.21991v1 Announce Type: new Abstract: Multi-task optimization is a powerful approach for solving a large number of tasks in parallel. However, existing algorithms face distinct limitations: Population-based methods scale poorly and remain underexplored for large task sets. Approaches that do scale beyond a thousand tasks are mostly MAP-Elites variants and rely on a fixed, discretized arc</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a5a8b74ad": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "When Quotes Crumble: Detecting Transient Mechanical Liquidity Erosion in Limit Order Books",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1777262400,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2604.21993",
+      "tags": [],
+      "body": "<p>arXiv:2604.21993v1 Announce Type: new Abstract: We study the detection of transient liquidity erosion (\"crumbling quotes\") in electronic limit order books, where observable quote deterioration may reflect either mechanical liquidity withdrawal or informational repricing. Using the ABIDES agent-based simulator, we construct a multi-agent environment in which crumbling emerges from stochastic regime</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ae8aaaca2": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Universal Transformers Need Memory: Depth-State Trade-offs in Adaptive Recursive Reasoning",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1777262400,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2604.21999",
+      "tags": [],
+      "body": "<p>arXiv:2604.21999v1 Announce Type: new Abstract: We study learned memory tokens as computational scratchpad for a single-block Universal Transformer (UT) with Adaptive Computation Time (ACT) on Sudoku-Extreme, a combinatorial reasoning benchmark. We find that memory tokens are empirically necessary: across all configurations tested -- 3 seeds, multiple token counts, two initialization schemes, ACT </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a3945307b": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Math Takes Two: A test for emergent mathematical reasoning in communication",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1777262400,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2604.21935",
+      "tags": [],
+      "body": "<p>arXiv:2604.21935v1 Announce Type: new Abstract: Although language models demonstrate remarkable proficiency on mathematical benchmarks, it remains unclear whether this reflects true mathematical reasoning or statistical pattern matching over learning formal syntax. Most existing evaluations rely on symbolic problems grounded in established mathematical conventions, limiting insight into the models</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ab1ff8bac": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "An Artifact-based Agent Framework for Adaptive and Reproducible Medical Image Processing",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1777262400,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2604.21936",
+      "tags": [],
+      "body": "<p>arXiv:2604.21936v1 Announce Type: new Abstract: Medical imaging research is increasingly shifting from controlled benchmark evaluation toward real-world clinical deployment. In such settings, applying analytical methods extends beyond model design to require dataset-aware workflow configuration and provenance tracking. Two requirements therefore become central: \\textbf{adaptability}, the ability t</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ac1728e54": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "MolClaw: An Autonomous Agent with Hierarchical Skills for Drug Molecule Evaluation, Screening, and Optimization",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1777262400,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2604.21937",
+      "tags": [],
+      "body": "<p>arXiv:2604.21937v1 Announce Type: new Abstract: Computational drug discovery, particularly the complex workflows of drug molecule screening and optimization, requires orchestrating dozens of specialized tools in multi-step workflows, yet current AI agents struggle to maintain robust performance and consistently underperform in these high-complexity scenarios. Here we present MolClaw, an autonomous</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aed7bd3d6": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1777262400,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2604.21965",
+      "tags": [],
+      "body": "<p>arXiv:2604.21965v1 Announce Type: new Abstract: Recent work has used LLM agents to reproduce empirical social science results with access to both the data and code. We broaden this scope by asking: Can they reproduce results given only a paper's methods description and original data? We develop an agentic reproduction system that extracts structured methods descriptions from papers, runs reimpleme</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a28e61590": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Rethinking Publication: A Certification Framework for AI-Enabled Research",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1777262400,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2604.22026",
+      "tags": [],
+      "body": "<p>arXiv:2604.22026v1 Announce Type: new Abstract: AI research pipelines now produce a growing share of publishable academic output, including work that meets existing peer-review standards for quality and novelty. Yet the publication system was built on the assumption of universal human authorship and lacks a principled way to evaluate knowledge produced through automated pipelines. This paper propo</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ad0282788": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Sound Agentic Science Requires Adversarial Experiments",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1777262400,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2604.22080",
+      "tags": [],
+      "body": "<p>arXiv:2604.22080v1 Announce Type: new Abstract: LLM-based agents are rapidly being adopted for scientific data analysis, automating tasks once limited by human time and expertise. This capability is often framed as an acceleration of discovery, but it also accelerates a familiar failure mode, the rapid production of plausible, endlessly revisable analyses that are easy to generate, effectively tur</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "ac279e945": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "Save over $150 on this fantastic Elecoo resin 3D printer with 16K resolution and a tilting vat — Saturn 4 Ultra 16K is on sale for just $493 right now on Amazon",
       "src": "Tom's Hardware",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1777223784,
       "heat": "15.0K",
       "views": "15.0K",
@@ -20,7 +176,7 @@
       "cat": "L1 · 算力硬件",
       "title": "RTX 4090 sent for repair is a sophisticated fake with laser-etched VRAM and core, 'This is the best scam I've ever seen' — Scammers pulled a factory-level job to sell a dud to unsuspecting customer",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1777217615,
       "heat": "13.2K",
       "views": "15.0K",
@@ -33,7 +189,7 @@
       "cat": "L4 · 交互Agent",
       "title": "To buy this Bay Area home, you’ll need Anthropic equity",
       "src": "TechCrunch AI",
-      "time": "11小时前",
+      "time": "17小时前",
       "published_ts": 1777217400,
       "heat": "27.0K",
       "views": "27.0K",
@@ -46,7 +202,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Toyota’s limited edition $3,500 Crown gaming chair has heating, cooling, and a USB-C seatbelt buckle — Toyota Crown front car seat turned into gaming chair, enjoy in-car comforts while on your PC",
       "src": "Tom's Hardware",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1777213899,
       "heat": "11.4K",
       "views": "13.2K",
@@ -59,7 +215,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Skylight’s 15-inch smart calendar is down to its lowest price to date",
       "src": "The Verge",
-      "time": "13小时前",
+      "time": "18小时前",
       "published_ts": 1777212303,
       "heat": "15.4K",
       "views": "18.2K",
@@ -72,7 +228,7 @@
       "cat": "L1 · 算力硬件",
       "title": "New metal 3D printer shrinks industrial tech down to workbench size with laser powder bed fusion system — aims to bring laser metal printing to workshops and labs for $9,600",
       "src": "Tom's Hardware",
-      "time": "14小时前",
+      "time": "19小时前",
       "published_ts": 1777209711,
       "heat": "7.8K",
       "views": "9.6K",
@@ -85,7 +241,7 @@
       "cat": "L1 · 算力硬件",
       "title": "AMD Ryzen 5 7600X3D review: An unbeatable value gaming CPU",
       "src": "Tom's Hardware",
-      "time": "14小时前",
+      "time": "19小时前",
       "published_ts": 1777208445,
       "heat": "6.0K",
       "views": "7.8K",
@@ -98,7 +254,7 @@
       "cat": "L4 · 交互Agent",
       "title": "After three months on Linux, I don’t miss Windows at all",
       "src": "The Verge",
-      "time": "14小时前",
+      "time": "19小时前",
       "published_ts": 1777208400,
       "heat": "12.5K",
       "views": "15.4K",
@@ -228,7 +384,7 @@
       "cat": "L2 · 基础模型",
       "title": "[AINews] DeepSeek V4 Pro (1.6T-A49B) and Flash (284B-A13B), Base and Instruct — runnable on Huawei Ascend chips",
       "src": "Latent Space",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1777093248,
       "heat": "19.5K",
       "views": "19.5K",
@@ -241,7 +397,7 @@
       "cat": "L2 · 基础模型",
       "title": "GPT-5.5 prompting guide",
       "src": "Simon Willison",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1777090416,
       "heat": "11.4K",
       "views": "13.2K",
@@ -423,7 +579,7 @@
       "cat": "L2 · 基础模型",
       "title": "DeepSeek V4 - almost on the frontier, a fraction of the price",
       "src": "Simon Willison",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1777010464,
       "heat": "6.0K",
       "views": "7.8K",
@@ -436,7 +592,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] GPT 5.5 and OpenAI Codex Superapp",
       "src": "Latent Space",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1777005643,
       "heat": "17.2K",
       "views": "19.5K",
@@ -587,19 +743,6 @@
       "tags": [],
       "body": "<p>Waste heat is everywhere: car engines, industrial machinery , kitchen appliances—even your own body . Some of that lost energy can be converted into electricity using thermoelectric generators: compact, solid-state devices that produce power directly from temperature differences without the need for spinning turbines or moving parts. But designing materials that make these systems efficient has lo</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "ae5c00d41": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "GPT-5.5 System Card",
-      "src": "OpenAI Blog",
-      "time": "3天前",
-      "published_ts": 1776942000,
-      "heat": "39.6K",
-      "views": "45.0K",
-      "url": "https://openai.com/index/gpt-5-5-system-card",
-      "tags": [],
-      "body": "<p>点击「查看原文」阅读完整内容。</p>"
-    },
     "af581c5ca": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
@@ -607,24 +750,24 @@
       "src": "OpenAI Blog",
       "time": "3天前",
       "published_ts": 1776942000,
-      "heat": "34.2K",
-      "views": "39.6K",
+      "heat": "39.6K",
+      "views": "45.0K",
       "url": "https://openai.com/index/introducing-gpt-5-5",
       "tags": [],
       "body": "<p>Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a65f9ed88": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Top 10 uses for Codex at work",
+    "ae5c00d41": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "GPT-5.5 System Card",
       "src": "OpenAI Blog",
       "time": "3天前",
-      "published_ts": 1776938400,
-      "heat": "28.8K",
-      "views": "34.2K",
-      "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+      "published_ts": 1776942000,
+      "heat": "34.2K",
+      "views": "39.6K",
+      "url": "https://openai.com/index/gpt-5-5-system-card",
       "tags": [],
-      "body": "<p>Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>点击「查看原文」阅读完整内容。</p>"
     },
     "a015c116e": {
       "layer": "l1",
@@ -633,11 +776,24 @@
       "src": "OpenAI Blog",
       "time": "3天前",
       "published_ts": 1776938400,
-      "heat": "18.0K",
-      "views": "23.4K",
+      "heat": "23.4K",
+      "views": "28.8K",
       "url": "https://openai.com/academy/what-is-codex",
       "tags": [],
       "body": "<p>Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a19300276": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Automations",
+      "src": "OpenAI Blog",
+      "time": "3天前",
+      "published_ts": 1776938400,
+      "heat": "18.0K",
+      "views": "23.4K",
+      "url": "https://openai.com/academy/codex-automations",
+      "tags": [],
+      "body": "<p>Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "ab06a438e": {
       "layer": "l3",
@@ -1307,7 +1463,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "249天前",
+      "time": "250天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1538,7 +1694,77 @@
     }
   },
   "by_layer": {
+    "l2": [
+      "a1145b6f4",
+      "a865efe20",
+      "a063a4b51",
+      "a811be845",
+      "ae8aaaca2",
+      "a3945307b",
+      "a50fc5ed4",
+      "a9c06249e",
+      "ae7d70890",
+      "a31c7444e",
+      "a3b5534ad",
+      "a8394239a",
+      "a3dc05097",
+      "afd436246",
+      "ae3d3b3e2",
+      "a945ffb3a",
+      "aecd93ce3",
+      "a71850d05",
+      "af581c5ca",
+      "ae5c00d41",
+      "a9a89a194",
+      "a416a8f84",
+      "a1c025c0d",
+      "ac84e7008",
+      "a3152a0ee",
+      "a2ff358f0",
+      "ac0f3a8c2",
+      "a56080671",
+      "a306fec6a",
+      "a06dfbaf7",
+      "a7e4991c9",
+      "a94c96601",
+      "a95a70797",
+      "a0c4ebb65",
+      "a0b43a2bc",
+      "ab3119897",
+      "af0f189d1",
+      "a38ad1236"
+    ],
+    "l4": [
+      "a5a8b74ad",
+      "ab1ff8bac",
+      "ac1728e54",
+      "aed7bd3d6",
+      "ad0282788",
+      "adb96c89f",
+      "a1ec6e04b",
+      "af61228db",
+      "aa6ce6230",
+      "a5489fec6",
+      "aec1072c1",
+      "ab2f535c3",
+      "a662d80e8",
+      "a540939e2",
+      "a0a05bf3e",
+      "a6eeb59a6",
+      "a389e719a",
+      "a92b6a52a",
+      "a19300276",
+      "a967c7839",
+      "a1c2d117e",
+      "a4872c295",
+      "ab59fe080",
+      "af25d02a4",
+      "a9560485f",
+      "a61a8adff",
+      "ad01feb8a"
+    ],
     "l1": [
+      "a28e61590",
       "ac279e945",
       "a4aced1a0",
       "a9746b0ef",
@@ -1546,7 +1772,6 @@
       "abf8c3f5e",
       "ae7e42070",
       "a1dd973af",
-      "a65f9ed88",
       "a015c116e",
       "a0e66b46a",
       "a7f492b9e",
@@ -1564,29 +1789,6 @@
       "a5236c597",
       "a2ae2603b",
       "afeb62ce7"
-    ],
-    "l4": [
-      "adb96c89f",
-      "a1ec6e04b",
-      "af61228db",
-      "aa6ce6230",
-      "a5489fec6",
-      "aec1072c1",
-      "ab2f535c3",
-      "a662d80e8",
-      "a540939e2",
-      "a0a05bf3e",
-      "a6eeb59a6",
-      "a389e719a",
-      "a92b6a52a",
-      "a967c7839",
-      "a1c2d117e",
-      "a4872c295",
-      "ab59fe080",
-      "af25d02a4",
-      "a9560485f",
-      "a61a8adff",
-      "ad01feb8a"
     ],
     "l0": [
       "a6cb34840",
@@ -1608,40 +1810,6 @@
       "a253e0446",
       "a9173515c",
       "abcb7b0c4"
-    ],
-    "l2": [
-      "a50fc5ed4",
-      "a9c06249e",
-      "ae7d70890",
-      "a31c7444e",
-      "a3b5534ad",
-      "a8394239a",
-      "a3dc05097",
-      "afd436246",
-      "ae3d3b3e2",
-      "a945ffb3a",
-      "aecd93ce3",
-      "a71850d05",
-      "ae5c00d41",
-      "af581c5ca",
-      "a9a89a194",
-      "a416a8f84",
-      "a1c025c0d",
-      "ac84e7008",
-      "a3152a0ee",
-      "a2ff358f0",
-      "ac0f3a8c2",
-      "a56080671",
-      "a306fec6a",
-      "a06dfbaf7",
-      "a7e4991c9",
-      "a94c96601",
-      "a95a70797",
-      "a0c4ebb65",
-      "a0b43a2bc",
-      "ab3119897",
-      "af0f189d1",
-      "a38ad1236"
     ],
     "l5": [
       "a1a540e1f",
@@ -1670,11 +1838,11 @@
     ]
   },
   "top5": [
-    "ac279e945",
-    "a4aced1a0",
-    "adb96c89f",
-    "a9746b0ef",
-    "a1ec6e04b"
+    "a1145b6f4",
+    "a865efe20",
+    "a063a4b51",
+    "a811be845",
+    "a5a8b74ad"
   ],
   "layers": [
     {
@@ -1682,12 +1850,12 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        22,
-        38,
-        25,
+        24,
+        37,
+        21,
         9,
         30,
-        23
+        24
       ],
       "trend": [
         20,
@@ -1700,15 +1868,15 @@
       ]
     },
     {
-      "id": "l1",
-      "num": "LAYER 1",
-      "name": "算力硬件",
+      "id": "l4",
+      "num": "LAYER 4",
+      "name": "交互Agent",
       "vals": [
-        12,
-        24,
+        11,
+        15,
         10,
-        7,
-        27,
+        9,
+        24,
         20
       ],
       "trend": [
@@ -1722,16 +1890,16 @@
       ]
     },
     {
-      "id": "l4",
-      "num": "LAYER 4",
-      "name": "交互Agent",
+      "id": "l1",
+      "num": "LAYER 1",
+      "name": "算力硬件",
       "vals": [
-        12,
-        13,
-        8,
-        13,
-        22,
-        18
+        16,
+        10,
+        9,
+        6,
+        16,
+        19
       ],
       "trend": [
         20,
@@ -1744,38 +1912,16 @@
       ]
     },
     {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
-      "vals": [
-        10,
-        22,
-        5,
-        5,
-        15,
-        24
-      ],
-      "trend": [
-        20,
-        19,
-        18,
-        17,
-        16,
-        15,
-        14
-      ]
-    },
-    {
       "id": "l0",
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
         10,
-        16,
-        8,
+        10,
+        7,
         5,
-        17,
-        18
+        26,
+        17
       ],
       "trend": [
         20,
@@ -1792,11 +1938,11 @@
       "num": "LAYER 3",
       "name": "推理工程",
       "vals": [
-        14,
+        10,
         10,
         5,
-        13,
-        13,
+        5,
+        15,
         12
       ],
       "trend": [
@@ -1808,9 +1954,91 @@
         10,
         8
       ]
+    },
+    {
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
+      "vals": [
+        10,
+        10,
+        5,
+        5,
+        10,
+        12
+      ],
+      "trend": [
+        20,
+        19,
+        18,
+        17,
+        16,
+        15,
+        14
+      ]
     }
   ],
   "ticker": [
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Focus Session: Hardware and Software Techniques for Accelerating …"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Performance Anomaly Detection in Athletics: A Benchmarking System…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Conditional anomaly detection using soft harmonic functions: An a…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Multi-Task Optimization over Networks of Tasks"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l4)",
+      "text": "When Quotes Crumble: Detecting Transient Mechanical Liquidity Ero…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Universal Transformers Need Memory: Depth-State Trade-offs in Ada…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Math Takes Two: A test for emergent mathematical reasoning in com…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l4)",
+      "text": "An Artifact-based Agent Framework for Adaptive and Reproducible M…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l4)",
+      "text": "MolClaw: An Autonomous Agent with Hierarchical Skills for Drug Mo…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l4)",
+      "text": "Read the Paper, Write the Code: Agentic Reproduction of Social-Sc…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l1)",
+      "text": "Rethinking Publication: A Certification Framework for AI-Enabled …"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l4)",
+      "text": "Sound Agentic Science Requires Adversarial Experiments"
+    },
     {
       "tag": "TOM'S HAR",
       "col": "var(--l1)",
@@ -1820,76 +2048,34 @@
       "tag": "TOM'S HAR",
       "col": "var(--l1)",
       "text": "RTX 4090 sent for repair is a sophisticated fake with laser-etche…"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "To buy this Bay Area home, you’ll need Anthropic equity"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Toyota’s limited edition $3,500 Crown gaming chair has heating, c…"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "Skylight’s 15-inch smart calendar is down to its lowest price to …"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "New metal 3D printer shrinks industrial tech down to workbench si…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "AMD Ryzen 5 7600X3D review: An unbeatable value gaming CPU"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "After three months on Linux, I don’t miss Windows at all"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "Anthropic created a test marketplace for agent-on-agent commerce"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "Maine’s governor vetoes data center moratorium"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l0)",
-      "text": "OpenAI CEO apologizes to Tumbler Ridge community"
-    },
-    {
-      "tag": "SIMON WIL",
-      "col": "var(--l2)",
-      "text": "WHY ARE YOU LIKE THIS"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l5)",
-      "text": "Why Cohere is merging with Aleph Alpha"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l5)",
-      "text": "Why Tokyo is the most important tech destination of 2026"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
+      "title": "AI should elevate your thinking, not replace it",
+      "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+      "votes": "466",
+      "comments": "336",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
       "title": "Three constraints before I build anything",
       "url": "https://jordanlord.co.uk/blog/3-constraints/",
-      "votes": "76",
-      "comments": "12",
+      "votes": "194",
+      "comments": "29",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "An AI agent deleted our production database. The agent's confession is below",
+      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+      "votes": "648",
+      "comments": "800",
       "time": "近期"
     },
     {
@@ -1897,35 +2083,17 @@
       "badge": "pb-hn",
       "title": "EvanFlow – A TDD driven feedback loop for Claude Code",
       "url": "https://github.com/evanklem/evanflow",
-      "votes": "12",
-      "comments": "4",
+      "votes": "62",
+      "comments": "25",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
-      "url": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
-      "votes": "78",
-      "comments": "43",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "AI should elevate your thinking, not replace it",
-      "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-      "votes": "312",
-      "comments": "262",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Show HN: AI memory with biological decay (52% recall)",
-      "url": "https://github.com/sachitrafa/YourMemory",
-      "votes": "69",
-      "comments": "31",
+      "title": "GoDaddy gave a domain to a stranger without any documentation",
+      "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
+      "votes": "597",
+      "comments": "231",
       "time": "近期"
     },
     {
@@ -1933,8 +2101,8 @@
       "badge": "pb-hn",
       "title": "Music of the BBC Microcomputer System",
       "url": "https://www.acornelectron.co.uk/eug/72/a-musi.html",
-      "votes": "13",
-      "comments": "1",
+      "votes": "19",
+      "comments": "3",
       "time": "近期"
     }
   ]
