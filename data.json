@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-03T03:33:17.425906+00:00",
+  "updated_at": "2026-05-03T08:04:59.531992+00:00",
   "article_count": 111,
   "articles": {
     "a92e23f36": {
@@ -7,7 +7,7 @@
       "cat": "L4 · 交互Agent",
       "title": "AI-generated actors and scripts are now ineligible for Oscars",
       "src": "TechCrunch AI",
-      "time": "5小时前",
+      "time": "10小时前",
       "published_ts": 1777758898,
       "heat": "27.0K",
       "views": "27.0K",
@@ -20,7 +20,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Grab a 1440p-capable gaming rig with an RTX 5060 for just $1,049 — Save up to 25% on ABS Flux & Cyclone prebuilts that also feature 32 GB of RAM",
       "src": "Tom's Hardware",
-      "time": "6小时前",
+      "time": "10小时前",
       "published_ts": 1777756469,
       "heat": "15.0K",
       "views": "15.0K",
@@ -33,7 +33,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Meta&#8217;s historic loss in court could cost a lot more than $375 million",
       "src": "The Verge",
-      "time": "9小时前",
+      "time": "13小时前",
       "published_ts": 1777746326,
       "heat": "24.0K",
       "views": "24.0K",
@@ -46,7 +46,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices",
       "src": "The Verge",
-      "time": "9小时前",
+      "time": "14小时前",
       "published_ts": 1777744264,
       "heat": "21.1K",
       "views": "24.0K",
@@ -59,7 +59,7 @@
       "cat": "L2 · 基础模型",
       "title": "Sightings",
       "src": "Simon Willison",
-      "time": "10小时前",
+      "time": "14小时前",
       "published_ts": 1777742800,
       "heat": "15.0K",
       "views": "15.0K",
@@ -72,7 +72,7 @@
       "cat": "L4 · 交互Agent",
       "title": "The best AI dictation apps, tested and ranked",
       "src": "TechCrunch AI",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1777737600,
       "heat": "23.8K",
       "views": "27.0K",
@@ -85,7 +85,7 @@
       "cat": "L5 · 生态商业",
       "title": "45 years later, earliest DOS source code transcribed from a stack of old printouts found in a garage — code was open-sourced to mark 86-DOS 1.00’s anniversary",
       "src": "Tom's Hardware",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1777732800,
       "heat": "9.6K",
       "views": "11.4K",
@@ -98,7 +98,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Retailer selling broken RTX 5090 GPUs for as low as $1,760 — GPUs were damaged during transport, but include all components on the PCB",
       "src": "Tom's Hardware",
-      "time": "13小时前",
+      "time": "17小时前",
       "published_ts": 1777731636,
       "heat": "7.8K",
       "views": "9.6K",
@@ -111,7 +111,7 @@
       "cat": "L0 · 领袖观点",
       "title": "This Personality Trait Makes Dreams More Bizarre, Scientists Discover",
       "src": "404 Media",
-      "time": "14小时前",
+      "time": "19小时前",
       "published_ts": 1777726840,
       "heat": "15.0K",
       "views": "15.0K",
@@ -124,7 +124,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Playing Esoteric Ebb is like rolling the dice with a great DM",
       "src": "The Verge",
-      "time": "15小时前",
+      "time": "20小时前",
       "published_ts": 1777723200,
       "heat": "12.5K",
       "views": "15.4K",
@@ -137,7 +137,7 @@
       "cat": "L5 · 生态商业",
       "title": "Disneyland Now Uses Face Recognition on Visitors",
       "src": "Wired",
-      "time": "17小时前",
+      "time": "21小时前",
       "published_ts": 1777717800,
       "heat": "16.5K",
       "views": "16.5K",
@@ -150,7 +150,7 @@
       "cat": "L4 · 交互Agent",
       "title": "[AINews] AI Engineer World's Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers",
       "src": "Latent Space",
-      "time": "20小时前",
+      "time": "1天前",
       "published_ts": 1777706515,
       "heat": "19.5K",
       "views": "19.5K",
@@ -319,7 +319,7 @@
       "cat": "L2 · 基础模型",
       "title": "[AINews] Agents for Everything Else: Codex for Knowledge Work, Claude for Creative Work",
       "src": "Latent Space",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1777611221,
       "heat": "17.2K",
       "views": "19.5K",
@@ -631,7 +631,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Cybersecurity in the Intelligence Age",
       "src": "OpenAI Blog",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1777435200,
       "heat": "28.8K",
       "views": "34.2K",
@@ -696,7 +696,7 @@
       "cat": "L0 · 领袖观点",
       "title": "[AINews] ImageGen is on the Path to AGI",
       "src": "Latent Space",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1777354699,
       "heat": "10.1K",
       "views": "12.5K",
@@ -1216,7 +1216,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "255天前",
+      "time": "256天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1580,15 +1580,37 @@
   ],
   "layers": [
     {
+      "id": "l4",
+      "num": "LAYER 4",
+      "name": "交互Agent",
+      "vals": [
+        24,
+        31,
+        9,
+        17,
+        18,
+        19
+      ],
+      "trend": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ]
+    },
+    {
       "id": "l2",
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        27,
-        30,
-        8,
+        22,
+        24,
+        23,
         7,
-        28,
+        21,
         21
       ],
       "trend": [
@@ -1606,11 +1628,11 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        17,
-        30,
+        13,
+        12,
         11,
         7,
-        30,
+        28,
         21
       ],
       "trend": [
@@ -1624,37 +1646,15 @@
       ]
     },
     {
-      "id": "l4",
-      "num": "LAYER 4",
-      "name": "交互Agent",
-      "vals": [
-        23,
-        18,
-        9,
-        19,
-        27,
-        19
-      ],
-      "trend": [
-        20,
-        20,
-        20,
-        20,
-        20,
-        20,
-        20
-      ]
-    },
-    {
       "id": "l1",
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        22,
-        17,
+        11,
+        14,
         10,
         7,
-        23,
+        19,
         20
       ],
       "trend": [
@@ -1668,16 +1668,16 @@
       ]
     },
     {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
       "vals": [
-        10,
-        10,
-        12,
+        13,
+        13,
+        5,
         5,
         10,
-        13
+        14
       ],
       "trend": [
         20,
@@ -1690,16 +1690,16 @@
       ]
     },
     {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
       "vals": [
-        10,
+        13,
         10,
         5,
         5,
         10,
-        10
+        13
       ],
       "trend": [
         20,
@@ -1788,28 +1788,19 @@
     {
       "platform": "HN",
       "badge": "pb-hn",
+      "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+      "url": "https://acai.sh/blog/specsmaxxing",
+      "votes": "39",
+      "comments": "25",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
       "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
       "url": "https://github.com/microsoft/vscode/pull/310226",
-      "votes": "902",
-      "comments": "440",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Voice-AI-for-Beginners – A curated learning path for developers",
-      "url": "https://github.com/mahimairaja/voiceai",
-      "votes": "39",
-      "comments": "3",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Am I the only one who hates delivery robots?",
-      "url": "https://www.latimes.com/entertainment-arts/story/2026-04-14/delivery-robots-creating-problems-glendale-ban",
-      "votes": "39",
-      "comments": "21",
+      "votes": "1,111",
+      "comments": "527",
       "time": "近期"
     },
     {
@@ -1817,26 +1808,35 @@
       "badge": "pb-hn",
       "title": "The agent harness belongs outside the sandbox",
       "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
-      "votes": "73",
-      "comments": "56",
+      "votes": "95",
+      "comments": "74",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Refusal in Language Models Is Mediated by a Single Direction",
-      "url": "https://arxiv.org/abs/2406.11717",
-      "votes": "100",
-      "comments": "34",
+      "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+      "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+      "votes": "244",
+      "comments": "108",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Open Design: Use Your Coding Agent as a Design Engine",
-      "url": "https://github.com/nexu-io/open-design",
-      "votes": "188",
-      "comments": "87",
+      "title": "AI, Intimacy, and the Data You Never Meant to Share",
+      "url": "https://fshot.org/techzone/the-algorithm-knows.php",
+      "votes": "17",
+      "comments": "1",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "When Dawkins met Claude – Could this AI be conscious?",
+      "url": "https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/",
+      "votes": "27",
+      "comments": "135",
       "time": "近期"
     }
   ]
