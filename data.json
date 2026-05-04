@@ -1,26 +1,273 @@
 {
-  "updated_at": "2026-05-04T14:09:02.372671+00:00",
-  "article_count": 118,
+  "updated_at": "2026-05-04T19:44:24.238005+00:00",
+  "article_count": 119,
   "articles": {
-    "ae72ff31d": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Nvidia's exposure to Asian supply chains for components hits 90% of its production costs — marked increase from 65% could intensify as physical AI adds even more exposure",
-      "src": "Tom's Hardware",
-      "time": "42分钟前",
-      "published_ts": 1777901156,
+    "ad5e7a882": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Image AI models now drive app growth, beating chatbot upgrades",
+      "src": "TechCrunch AI",
+      "time": "31分钟前",
+      "published_ts": 1777921969,
+      "heat": "27.0K",
+      "views": "27.0K",
+      "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+      "tags": [],
+      "body": "<p>Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ad71ddbfd": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
+      "src": "Ars Technica",
+      "time": "1小时前",
+      "published_ts": 1777917466,
+      "heat": "18.0K",
+      "views": "18.0K",
+      "url": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
+      "tags": [],
+      "body": "<p>Amid falling revenue and store closures, GameStop wants to buy the much larger eBay.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ad4cd4647": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "'Nature' Retracts Paper on the Benefits of ChatGPT in Education",
+      "src": "404 Media",
+      "time": "1小时前",
+      "published_ts": 1777917403,
       "heat": "15.0K",
       "views": "15.0K",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-asian-supply-chain-hits-90-percent-of-production-costs",
+      "url": "https://www.404media.co/nature-retracts-paper-on-the-benefits-of-chatgpt-in-education/",
       "tags": [],
-      "body": "<p>Asian suppliers now represent roughly 90% of Nvidia's production costs, up from about 65% a year earlier, according to data compiled by Bloomberg.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>“What educators, parents and policy officials really needed was high quality data and evidence to help guide them. What they have had to deal with instead is some substandard research.”</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a7c2f471d": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Secretlab launches Mandalorian Titan Evo gaming chair in Star Wars collection for May the 4th — collab builds with a new high-end themed chair",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1777917357,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/peripherals/gaming-chairs/secretlab-launches-mandalorian-titan-evo-gaming-chair-for-star-wars-day",
+      "tags": [],
+      "body": "<p>Secretlab dropped a Mandalorian Edition, along with other Star Wars-themed designs, to its Titan Evo gaming chair lineup on Star Wars Day.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ae989053e": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "TRE Python binding — ReDoS robustness demo",
+      "src": "Simon Willison",
+      "time": "1小时前",
+      "published_ts": 1777917120,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything",
+      "tags": [],
+      "body": "<p>Research: TRE Python binding — ReDoS robustness demo If it's good enough for antirez to add to Redis I figured Ville Laurikari's TRE regular expression engine was worth exploring in a little more detail. I had Claude Code build an experimental Python binding (it used ctypes ) and try some malicious regular expression attacks against the library. TRE handles those much better than Python's standard</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a65f7d50c": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "The latest AI news we announced in April 2026",
+      "src": "Google AI Blog",
+      "time": "2小时前",
+      "published_ts": 1777914000,
+      "heat": "34.5K",
+      "views": "34.5K",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+      "tags": [],
+      "body": "<p>mp4 featuring an underwater video and a mobile AI video mockup.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ab3d1847c": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
+      "src": "TechCrunch AI",
+      "time": "2小时前",
+      "published_ts": 1777913867,
+      "heat": "23.8K",
+      "views": "27.0K",
+      "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+      "tags": [],
+      "body": "<p>Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ad5edd8ff": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "AMD Ryzen AI 5 435G APU breaks cover in early benchmarks — six-core Zen 5 chip goes head-to-head with the Ryzen 5 8600G for budget PC builders",
+      "src": "Tom's Hardware",
+      "time": "2小时前",
+      "published_ts": 1777913538,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-ai-5-435g-apu-breaks-cover-in-early-benchmarks-six-core-zen-5-chip-goes-head-to-head-with-the-ryzen-5-8600g-for-budget-pc-builders",
+      "tags": [],
+      "body": "<p>The Ryzen AI 5 435G shows similar performance to the existing Ryzen 5 8600G in new Geekbench 6 benchmarks.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a147429a9": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "The creator of Roomba is back with a furry robot companion",
+      "src": "The Verge",
+      "time": "2小时前",
+      "published_ts": 1777913498,
+      "heat": "21.1K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
+      "tags": [],
+      "body": "<p>Colin Angle, the maker of the Roomba and the man who helped put 50 million household robots into people's homes, is back with a new robot. But this one is designed as a companion, not a cleaner. The first robot from Angle's new company, Familiar Machines &#38; Magic, is a dog-sized robotic pet that resembles [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a13a67257": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
+      "src": "TechCrunch AI",
+      "time": "2小时前",
+      "published_ts": 1777913155,
+      "heat": "20.5K",
+      "views": "23.8K",
+      "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+      "tags": [],
+      "body": "<p>The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a1f7741e9": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
+      "src": "TechCrunch AI",
+      "time": "3小时前",
+      "published_ts": 1777912563,
+      "heat": "17.3K",
+      "views": "20.5K",
+      "url": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
+      "tags": [],
+      "body": "<p>Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a430d8e9d": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
+      "src": "TechCrunch AI",
+      "time": "3小时前",
+      "published_ts": 1777910364,
+      "heat": "14.0K",
+      "views": "17.3K",
+      "url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+      "tags": [],
+      "body": "<p>Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a83756f4d": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Redis Array Playground",
+      "src": "Simon Willison",
+      "time": "3小时前",
+      "published_ts": 1777910037,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://simonwillison.net/2026/May/4/redis-array/#atom-everything",
+      "tags": [],
+      "body": "<p>Tool: Redis Array Playground Salvatore Sanfilippo submitted a PR adding a new data type - arrays - to Redis. The new commands are ARCOUNT , ARDEL , ARDELRANGE , ARGET , ARGETRANGE , ARGREP , ARINFO , ARINSERT , ARLASTITEMS , ARLEN , ARMGET , ARMSET , ARNEXT , AROP , ARRING , ARSCAN , ARSEEK , ARSET . The implementation is currently available in a branch, so I had Claude Code for web build this int</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a2e9509d5": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "Week one of the Musk v. Altman trial: What it was like in the room",
+      "src": "MIT Tech Review",
+      "time": "3小时前",
+      "published_ts": 1777909887,
+      "heat": "22.5K",
+      "views": "22.5K",
+      "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+      "tags": [],
+      "body": "<p>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, alleging that the millions he spent to&#8230;</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ab84f5e24": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "src": "The Verge",
+      "time": "4小时前",
+      "published_ts": 1777909429,
+      "heat": "12.5K",
+      "views": "15.4K",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "tags": [],
+      "body": "<p>Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. The trial began with [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a88355d15": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Amazon&#8217;s trying to turn its massive shipping operation into another AWS",
+      "src": "The Verge",
+      "time": "4小时前",
+      "published_ts": 1777907774,
+      "heat": "9.6K",
+      "views": "12.5K",
+      "url": "https://www.theverge.com/tech/923013/amazon-supply-chain-services",
+      "tags": [],
+      "body": "<p>Amazon might have a part in delivering all kinds of stuff to your door soon, as its massive shipping network opens up to other companies outside its marketplace, more directly competing with giants like DHL, UPS, and FedEx. The new Amazon Supply Chain Services (ASCS) will offer freight, distribution, fulfillment, and parcel shipping to businesses [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a3732c266": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Celebrating America’s 250th on Google Arts & Culture",
+      "src": "Google AI Blog",
+      "time": "4小时前",
+      "published_ts": 1777906800,
+      "heat": "30.4K",
+      "views": "34.5K",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/celebrating-america/",
+      "tags": [],
+      "body": "<p>Video trailer for the Making of the Nation - America at 250 project. The video features inspiring music and and a guide through the historical American artifacts that can be explored on Google Arts & Culture.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ae9a9ecbf": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "CISA flags actively exploited ‘Copy Fail’ Linux kernel flaw enabling root takeover across major distros — unpatched systems may remain vulnerable to attack",
+      "src": "Tom's Hardware",
+      "time": "5小时前",
+      "published_ts": 1777905407,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://www.tomshardware.com/software/linux/cisa-flags-actively-exploited-copy-fail-linux-kernel-flaw-enabling-root-takeover-across-major-distros-unpatched-systems-may-remain-vulnerable-to-attack",
+      "tags": [],
+      "body": "<p>CISA warns of the actively exploited “Copy Fail” Linux flaw (CVE-2026-31431), enabling root access, with a public exploit released before patches were ready.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a51c1410f": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "OpenAI, Google, and Microsoft Back Bill to Fund ‘AI Literacy’ in Schools",
+      "src": "404 Media",
+      "time": "5小时前",
+      "published_ts": 1777904959,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
+      "tags": [],
+      "body": "<p>A new bill introduced by Senators Adam Schiff and Mike Rounds would award grants to the National Science Foundation—which has endured massive funding cuts under the Trump Administration for science research—to put “AI literacy” in schools.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a63813b51": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Intel's Arc Pro B70 workstation GPU with 32GB of VRAM gets tested in games — Roughly twice as fast as Arc B580 on average, beats RTX 5060 Ti in some titles",
+      "src": "Tom's Hardware",
+      "time": "5小时前",
+      "published_ts": 1777904529,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://www.tomshardware.com/pc-components/gpus/intels-arc-pro-b70-workstation-gpu-with-32gb-of-vram-gets-tested-in-games-roughly-twice-as-fast-as-arc-b580-on-average-beats-rtx-5060-ti-in-some-titles",
+      "tags": [],
+      "body": "<p>In a new review for the Arc Pro B70, the workstation GPU performs rather well across five games tested at 1440p resolution. On average, it loses to the RTX 5060 Ti 16GB in traditional raster but beats it in ray tracing. Overall, the B70 was only 2.9% behind the 5060 Ti in all games when you average out both RT and raster.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "ae3764951": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "Perfectly Aligning AI’s Values With Humanity’s Is Impossible",
       "src": "IEEE Spectrum",
-      "time": "1小时前",
+      "time": "6小时前",
       "published_ts": 1777899601,
       "heat": "15.0K",
       "views": "15.0K",
@@ -28,51 +275,12 @@
       "tags": [],
       "body": "<p>One of the hardest problems in artificial intelligence is “ alignment ,” or making sure AI goals match our own, a challenge that may prove especially important if superintelligent AIs that outmatch us intellectually are ever developed. But scientists in England and their colleagues now report in the journal PNAS Nexus that perfect alignment between AI systems and human interests is mathematically </p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a4881eb0b": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Hisense aggressively cuts the price of its RGB LED TV on release day",
-      "src": "The Verge",
-      "time": "1小时前",
-      "published_ts": 1777899600,
-      "heat": "21.1K",
-      "views": "24.0K",
-      "url": "https://www.theverge.com/tech/922571/hisense-cuts-price-ur9",
-      "tags": [],
-      "body": "<p>The Hisense UR9 - the first RGB LED TV to be released this year - is now available for much less than originally revealed. The 65-inch UR9 is now $1,999, while the 75-inch model is $2,999 and the 85-inch is $3,999. (There's no updated price yet for the 100-inch.) That's between $1,500 and $2,000 off, [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aada3c838": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Save $1,100 on this prebuilt gaming rig with Nvidia RTX 5070 Ti, Intel 14900KF, 32GB of RAM, and 2TB of storage — AB Kaze II Aqua on deep discount",
-      "src": "Tom's Hardware",
-      "time": "1小时前",
-      "published_ts": 1777896529,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://www.tomshardware.com/pc-components/save-usd1-100-on-this-prebuilt-gaming-rig-with-nvidia-rtx-5070-ti-intel-14900kf-32gb-of-ram-and-2tb-of-storage-ab-kaze-ii-aqua-on-deep-discount",
-      "tags": [],
-      "body": "<p>Newegg deal actually delivers. Score the ABS Kaze II Aqua with i9-14900KF and RTX 5070 Ti for $2,175 with code—over $1,100 off a powerful, ready-to-game prebuilt.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ace51399f": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "AMD Ryzen AI Max+ PRO 495 APU could arrive with 192GB of unified memory — leaked PassMark benchmarks suggest modest update over Strix Halo",
-      "src": "Tom's Hardware",
-      "time": "2小时前",
-      "published_ts": 1777894735,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-ai-max-pro-495-apu-could-arrive-with-192gb-of-unified-memory-leaked-passmark-benchmarks-suggest-modest-update-over-strix-halo",
-      "tags": [],
-      "body": "<p>The Ryzen AI Max+ PRO 495 appears to retain the same core configuration as its predecessor while adding more unified memory and slightly better performance.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a319afa30": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
       "src": "IEEE Spectrum",
-      "time": "3小时前",
+      "time": "8小时前",
       "published_ts": 1777892914,
       "heat": "13.2K",
       "views": "15.0K",
@@ -80,38 +288,12 @@
       "tags": [],
       "body": "<p>This article is brought to you by DAIMON Robotics . This April, Hong Kong-based DAIMON Robotics has released Daimon-Infinity , which it describes as the largest omni-modal robotic dataset for physical AI, featuring high resolution tactile sensing and spanning a wide range of tasks from folding laundry at home to manufacturing on factory assembly lines. The project is supported by collaborative eff</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a7ee239d9": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Crushing shortages have pushed long-term supply agreements for SSDs and HDDs to record five years — large customers are signing large contracts",
-      "src": "Tom's Hardware",
-      "time": "3小时前",
-      "published_ts": 1777890600,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://www.tomshardware.com/pc-components/ssds/crushing-shortages-have-pushed-long-term-supply-agreements-for-ssds-and-hdds-to-record-five-years-large-customers-are-signing-large-contracts",
-      "tags": [],
-      "body": "<p>Demand for storage devices is so high that large customers are willing to sign up to five-year long-term supply agreements, according to Sandisk, Seagate, and Western Digital.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a5e4ef683": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "AMD Ryzen 9 PRO 9965X3D spotted on Passmark — company's first PRO chip with 3D V-Cache also bumps the lineup up to 16 cores",
-      "src": "Tom's Hardware",
-      "time": "4小时前",
-      "published_ts": 1777888800,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9-pro-9965x3d-spotted-on-passmark-companys-first-pro-chip-with-3d-v-cache-also-bumps-the-lineup-up-to-16-cores",
-      "tags": [],
-      "body": "<p>A new Ryzen PRO series processor has appeared on PassMark with just three samples, but a very promising spec sheet. The Ryzen 9 PRO 9965X3D is a 16-core Zen 5 chip with 3D V-Cache, making it the first of its kind. It performs quite closely to the standard 9950X3D it's based on, but likely has a lower TDP.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a22ec23fc": {
       "layer": "l3",
       "cat": "L3 · 推理工程",
       "title": "Cloud Is Closer Than It Appears: Revisiting the Tradeoffs of Distributed Real-Time Inference",
       "src": "arXiv cs.LG",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1777867200,
       "heat": "15.0K",
       "views": "15.0K",
@@ -124,7 +306,7 @@
       "cat": "L1 · 算力硬件",
       "title": "FedACT: Concurrent Federated Intelligence across Heterogeneous Data Sources",
       "src": "arXiv cs.LG",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1777867200,
       "heat": "13.2K",
       "views": "15.0K",
@@ -137,7 +319,7 @@
       "cat": "L2 · 基础模型",
       "title": "AirFM-DDA: Air-Interface Foundation Model in the Delay-Doppler-Angle Domain for AI-Native 6G",
       "src": "arXiv cs.LG",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1777867200,
       "heat": "9.6K",
       "views": "11.4K",
@@ -150,7 +332,7 @@
       "cat": "L2 · 基础模型",
       "title": "Learning physically grounded traffic accident reconstruction from public accident reports",
       "src": "arXiv cs.LG",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1777867200,
       "heat": "7.8K",
       "views": "9.6K",
@@ -163,7 +345,7 @@
       "cat": "L2 · 基础模型",
       "title": "Smart Ensemble Learning Framework for Predicting Groundwater Heavy Metal Pollution",
       "src": "arXiv cs.LG",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1777867200,
       "heat": "6.0K",
       "views": "7.8K",
@@ -171,70 +353,31 @@
       "tags": [],
       "body": "<p>arXiv:2605.00056v1 Announce Type: new Abstract: Groundwater in the Densu Basin is increasingly threatened by heavy metal contamination, but conventional methods fail to capture the statistical complexity and spatial heterogeneity of pollution indicators. A key challenge is modelling the Heavy Metal Pollution Index (HPI), which is typically skewed and affected by correlated contaminants, leading to</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a42a2e3a0": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "‘This is fine’ creator says AI startup stole his art",
-      "src": "TechCrunch AI",
-      "time": "17小时前",
-      "published_ts": 1777839411,
-      "heat": "27.0K",
-      "views": "27.0K",
-      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+    "a3921990b": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "src": "OpenAI Blog",
+      "time": "19小时前",
+      "published_ts": 1777852800,
+      "heat": "45.0K",
+      "views": "45.0K",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
       "tags": [],
-      "body": "<p>The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a73077f31": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
-      "src": "TechCrunch AI",
-      "time": "20小时前",
-      "published_ts": 1777831209,
-      "heat": "23.8K",
-      "views": "27.0K",
-      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
-      "tags": [],
-      "body": "<p>A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a945f9172": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Reggie Fils-Aimé says Amazon once asked Nintendo to break the law",
-      "src": "The Verge",
-      "time": "22小时前",
-      "published_ts": 1777821867,
-      "heat": "15.4K",
-      "views": "18.2K",
-      "url": "https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal",
-      "tags": [],
-      "body": "<p>Way back in the DS days, Nintendo decided to stop selling to Amazon. During a recent lecture at NYU, former Nintendo of America President Reggie Fils-Aim&#233; said it was because Amazon was seeking preferential treatment that would have hurt its relationship with other retailers, and potentially broken the law. The two sides have since made [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a0153c997": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
       "title": "Quoting Anthropic",
       "src": "Simon Willison",
-      "time": "22小时前",
+      "time": "1天前",
       "published_ts": 1777821203,
-      "heat": "15.0K",
-      "views": "15.0K",
+      "heat": "11.4K",
+      "views": "13.2K",
       "url": "https://simonwillison.net/2026/May/3/anthropic/#atom-everything",
       "tags": [],
       "body": "<p>We used an automatic classifier which judged sycophancy by looking at whether Claude showed a willingness to push back, maintain positions when challenged, give praise proportional to the merit of ideas, and speak frankly regardless of what a person wants to hear. Most of the time in these situations, Claude expressed no sycophancy—only 9% of conversations included sycophantic behavior (Figure 2).</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a5e53ce0e": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Shokz’s bassy OpenRun Pro 2 are $40 off thanks to a new Mother’s Day promo",
-      "src": "The Verge",
-      "time": "23小时前",
-      "published_ts": 1777820400,
-      "heat": "12.5K",
-      "views": "15.4K",
-      "url": "https://www.theverge.com/gadgets/922616/shokz-openrun-pro-2-bone-conduction-headphones-mothers-day-deal-sale",
-      "tags": [],
-      "body": "<p>If you’re looking to pick up a pair of open-ear headphones for yourself — or your mom — Shokz is running a Mother’s Day sale. Now through May 10th, the company’s best pair of bone conduction headphones, the OpenRun Pro 2, are available from Amazon, Best Buy, and Shokz for around $139.95 ($40 off), their [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a5ac53546": {
       "layer": "l5",
@@ -247,46 +390,20 @@
       "views": "13.2K",
       "url": "https://spectrum.ieee.org/deepfake-detector-microsoft-generative-ai",
       "tags": [],
-      "body": "<p>This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore. With the rise of AI-generated content online, it’s becoming more difficult—and more important—to help the public identify whether an image, audio clip or video is real or fake. To combat the problem, a team of researchers from Microsoft, Northwestern University in Evanston, Ill., and Witness, a non-pro</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a92e23f36": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "AI-generated actors and scripts are now ineligible for Oscars",
-      "src": "TechCrunch AI",
-      "time": "1天前",
-      "published_ts": 1777758898,
-      "heat": "20.5K",
-      "views": "23.8K",
-      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-      "tags": [],
-      "body": "<p>Bad news for Tilly Norwood.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore. With the rise of AI-generated content online, it’s becoming more difficult—and more important—to help the public identify whether an image, audio clip, or video is real or fake. To combat the problem, a team of researchers from Microsoft; Northwestern University, in Evanston, Ill.; and Witness, a nonpr</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a45401bc0": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
       "title": "Sightings",
       "src": "Simon Willison",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1777742800,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "9.6K",
+      "views": "11.4K",
       "url": "https://simonwillison.net/2026/May/2/sightings/#atom-everything",
       "tags": [],
       "body": "<p>/elsewhere/sightings/ I have a new camera (a Canon R6 Mark II) so I'm taking a lot more photos of birds. I share my best wildlife photos on iNaturalist , and based on yesterday's successful prototype I decided to add those to my blog. I built this feature on my phone using Claude Code for web, as an extension of my beats system for syndicating external content. Here's the PR and prompt. As with my</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a7aea391e": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "The best AI dictation apps, tested and ranked",
-      "src": "TechCrunch AI",
-      "time": "1天前",
-      "published_ts": 1777737600,
-      "heat": "17.3K",
-      "views": "20.5K",
-      "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
-      "tags": [],
-      "body": "<p>AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a52571234": {
       "layer": "l0",
@@ -295,8 +412,8 @@
       "src": "404 Media",
       "time": "2天前",
       "published_ts": 1777726840,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "9.6K",
+      "views": "11.4K",
       "url": "https://www.404media.co/this-personality-trait-makes-dreams-more-bizarre-scientists-discover/",
       "tags": [],
       "body": "<p>Scientists analyzed thousands of self-reported dreams and discovered that our sleeping visions are influenced by personality traits and external events, such as the pandemic.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -327,19 +444,6 @@
       "tags": [],
       "body": "<p>a quiet day lets us make a call for speakers!</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "af06c6e16": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-      "src": "TechCrunch AI",
-      "time": "2天前",
-      "published_ts": 1777673607,
-      "heat": "10.8K",
-      "views": "14.0K",
-      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-      "tags": [],
-      "body": "<p>Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a775e7d5e": {
       "layer": "l0",
       "cat": "L0 · 领袖观点",
@@ -347,7 +451,7 @@
       "src": "MIT Tech Review",
       "time": "2天前",
       "published_ts": 1777673299,
-      "heat": "22.5K",
+      "heat": "19.8K",
       "views": "22.5K",
       "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
       "tags": [],
@@ -371,10 +475,10 @@
       "cat": "L2 · 基础模型",
       "title": "iNaturalist Sightings",
       "src": "Simon Willison",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1777664141,
-      "heat": "11.4K",
-      "views": "13.2K",
+      "heat": "7.8K",
+      "views": "9.6K",
       "url": "https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything",
       "tags": [],
       "body": "<p>Tool: iNaturalist Sightings I wanted to see my iNaturalist observations - across two separate accounts - grouped by when they occurred. I'm camping this weekend so I built this entirely on my phone using Claude Code for web. I started by building an inaturalist-clumper Python CLI for fetching and \"clumping\" observations - by default clumps use observations within 2 hours and 5km of each other. The</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -384,10 +488,10 @@
       "cat": "L4 · 交互Agent",
       "title": "China Pressure Canceled World’s Largest Digital Human Rights Conference",
       "src": "404 Media",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1777660373,
-      "heat": "11.4K",
-      "views": "13.2K",
+      "heat": "7.8K",
+      "views": "9.6K",
       "url": "https://www.404media.co/china-pressure-canceled-worlds-largest-digital-human-rights-conference/",
       "tags": [],
       "body": "<p>RightCon's organizers said Beijing was upset over over the inclusion of speakers from Taiwain.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -397,7 +501,7 @@
       "cat": "L1 · 算力硬件",
       "title": "How Meta Is Strengthening End-to-End Encrypted Backups",
       "src": "Meta Engineering",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1777651258,
       "heat": "30.0K",
       "views": "30.0K",
@@ -410,10 +514,10 @@
       "cat": "L5 · 生态商业",
       "title": "Cyber-Insecurity in the AI Era",
       "src": "MIT Tech Review",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1777650841,
-      "heat": "19.8K",
-      "views": "22.5K",
+      "heat": "17.1K",
+      "views": "19.8K",
       "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
       "tags": [],
       "body": "<p>Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review&#8217;s EmTech AI conference explores why security must be rethought with AI at its core, not layered on after&#8230;</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -423,10 +527,10 @@
       "cat": "L5 · 生态商业",
       "title": "Operationalizing AI for Scale and Sovereignty",
       "src": "MIT Tech Review",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1777649469,
-      "heat": "17.1K",
-      "views": "19.8K",
+      "heat": "14.4K",
+      "views": "17.1K",
       "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
       "tags": [],
       "body": "<p>Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review&#8217;s EmTech AI conference examines how AI factories unlock new levels of scale, sustainability, and governance—positioning data&#8230;</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -451,8 +555,8 @@
       "src": "MIT Tech Review",
       "time": "3天前",
       "published_ts": 1777626000,
-      "heat": "14.4K",
-      "views": "17.1K",
+      "heat": "11.7K",
+      "views": "14.4K",
       "url": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
       "tags": [],
       "body": "<p>A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out a filter&#8230;</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -490,24 +594,11 @@
       "src": "Simon Willison",
       "time": "3天前",
       "published_ts": 1777591397,
-      "heat": "9.6K",
-      "views": "11.4K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything",
       "tags": [],
       "body": "<p>Codex CLI 0.128.0 adds /goal The latest version of OpenAI's Codex CLI coding agent adds their own version of the Ralph loop : you can now set a /goal and Codex will keep on looping until it evaluates that the goal has been completed... or the configured token budget has been exhausted. It looks like the feature is mainly implemented though the goals/continuation.md and goals/budget_limit.md prompt</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a976ccf27": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Our evaluation of OpenAI's GPT-5.5 cyber capabilities",
-      "src": "Simon Willison",
-      "time": "3天前",
-      "published_ts": 1777590204,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything",
-      "tags": [],
-      "body": "<p>Our evaluation of OpenAI&#x27;s GPT-5.5 cyber capabilities The UK's AI Security Institute previously evaluated Claude Mythos : now they've evaluated GPT-5.5 for finding security vulnerability and found it to be comparable to Mythos, but unlike Mythos it's generally available right now. Tags: ai , openai , generative-ai , llms , anthropic , claude , ai-security-research , gpt</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a764e088f": {
       "layer": "l0",
@@ -522,19 +613,6 @@
       "tags": [],
       "body": "<p>Apple CEO Tim Cook told analysts that AI adoption has happened faster than expected.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a52b93569": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Quoting Andrew Kelley",
-      "src": "Simon Willison",
-      "time": "3天前",
-      "published_ts": 1777584295,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://simonwillison.net/2026/Apr/30/andrew-kelley/#atom-everything",
-      "tags": [],
-      "body": "<p>It's a common misconception that we can't tell who is using LLM and who is not. I'm sure we didn't catch 100% of LLM-assisted PRs over the past few months, but the kind of mistakes humans make are fundamentally different than LLM hallucinations, making them easy to spot. Furthermore, people who come from the world of agentic coding have a certain digital smell that is not obvious to them but is ob</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a38425a42": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
@@ -542,8 +620,8 @@
       "src": "Ars Technica",
       "time": "3天前",
       "published_ts": 1777580448,
-      "heat": "15.8K",
-      "views": "18.0K",
+      "heat": "13.7K",
+      "views": "15.8K",
       "url": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
       "tags": [],
       "body": "<p>CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -566,7 +644,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
       "src": "Wired",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1777575294,
       "heat": "8.6K",
       "views": "10.6K",
@@ -579,7 +657,7 @@
       "cat": "L5 · 生态商业",
       "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own",
       "src": "Wired",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1777570874,
       "heat": "6.6K",
       "views": "8.6K",
@@ -592,10 +670,10 @@
       "cat": "L2 · 基础模型",
       "title": "Your car with Google built-in is about to get smarter, thanks to Gemini",
       "src": "Google AI Blog",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1777564800,
-      "heat": "30.4K",
-      "views": "34.5K",
+      "heat": "22.1K",
+      "views": "26.2K",
       "url": "https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-gemini-tips-2026/",
       "tags": [],
       "body": "<p>Gemini navigation on a car screen</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -605,10 +683,10 @@
       "cat": "L2 · 基础模型",
       "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
       "src": "MIT Tech Review",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1777564781,
-      "heat": "11.7K",
-      "views": "14.4K",
+      "heat": "9.0K",
+      "views": "11.7K",
       "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
       "tags": [],
       "body": "<p>The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this technology is built than was once thought possible. Goodfire claims Silico&#8230;</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -626,19 +704,6 @@
       "tags": [],
       "body": "<p>[Editor&#8217;s note] The blog has been updated to note that GeForce RTX 5080-power expansion also extends to the Install-to-Play library. It’s gonna be May — and the cloud’s in full festival mode. 16 games are joining GeForce NOW this month, including new AAA titles arriving on launch day from Steam, Xbox, PC Game Pass and [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a4b9110fe": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "AI Max Turns 1 with new ways to steer performance and expansion to more advertisers",
-      "src": "Google AI Blog",
-      "time": "4天前",
-      "published_ts": 1777554000,
-      "heat": "22.1K",
-      "views": "26.2K",
-      "url": "https://blog.google/products/ads-commerce/ai-max-new-features/",
-      "tags": [],
-      "body": "<p>\"The Road to Google Marketing Live\" surrounded by various shopping items</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a80607a75": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
@@ -646,24 +711,11 @@
       "src": "Google AI Blog",
       "time": "4天前",
       "published_ts": 1777554000,
-      "heat": "17.9K",
-      "views": "22.1K",
+      "heat": "13.8K",
+      "views": "17.9K",
       "url": "https://blog.google/products-and-platforms/products/search/preferred-sources-language-expansion/",
       "tags": [],
       "body": "<p>Preferred Sources is now rolling out globally in all supported languages, giving users more control over the news they see on Search.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a6d5657f0": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Adapt your Shopping campaigns to modern Search with AI Max.",
-      "src": "Google AI Blog",
-      "time": "4天前",
-      "published_ts": 1777554000,
-      "heat": "13.8K",
-      "views": "17.9K",
-      "url": "https://blog.google/products/ads-commerce/ai-max-for-shopping/",
-      "tags": [],
-      "body": "<p>Built for the next generation of Search, AI Max for Shopping campaigns helps retailers reach shoppers the moment discovery begins.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "aecf354b1": {
       "layer": "l3",
@@ -685,8 +737,8 @@
       "src": "OpenAI Blog",
       "time": "4天前",
       "published_ts": 1777492800,
-      "heat": "39.6K",
-      "views": "45.0K",
+      "heat": "34.2K",
+      "views": "39.6K",
       "url": "https://openai.com/index/where-the-goblins-came-from",
       "tags": [],
       "body": "<p>How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -696,10 +748,10 @@
       "cat": "L0 · 领袖观点",
       "title": "Building the compute infrastructure for the Intelligence Age",
       "src": "OpenAI Blog",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1777474800,
-      "heat": "34.2K",
-      "views": "39.6K",
+      "heat": "28.8K",
+      "views": "34.2K",
       "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
       "tags": [],
       "body": "<p>OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -711,8 +763,8 @@
       "src": "Ars Technica",
       "time": "5天前",
       "published_ts": 1777460424,
-      "heat": "13.7K",
-      "views": "15.8K",
+      "heat": "11.5K",
+      "views": "13.7K",
       "url": "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/",
       "tags": [],
       "body": "<p>Security firms find themselves especially exposed.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -737,8 +789,8 @@
       "src": "OpenAI Blog",
       "time": "5天前",
       "published_ts": 1777435200,
-      "heat": "28.8K",
-      "views": "34.2K",
+      "heat": "23.4K",
+      "views": "28.8K",
       "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
       "tags": [],
       "body": "<p>OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -761,7 +813,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Better Hardware Could Turn Zeros into AI Heroes",
       "src": "IEEE Spectrum",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1777399420,
       "heat": "6.0K",
       "views": "7.8K",
@@ -774,7 +826,7 @@
       "cat": "L0 · 领袖观点",
       "title": "NVIDIA Launches Nemotron 3 Nano Omni Model, Unifying Vision, Audio and Language for up to 9x More Efficient AI Agents",
       "src": "NVIDIA Blog",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1777392028,
       "heat": "28.5K",
       "views": "33.0K",
@@ -808,19 +860,6 @@
       "tags": [],
       "body": "<p>reflecting on the continued GPT-Image-2 explosion</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a71508091": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Our commitment to community safety",
-      "src": "OpenAI Blog",
-      "time": "6天前",
-      "published_ts": 1777334400,
-      "heat": "23.4K",
-      "views": "28.8K",
-      "url": "https://openai.com/index/our-commitment-to-community-safety",
-      "tags": [],
-      "body": "<p>Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "ad5acbf60": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
@@ -847,28 +886,15 @@
       "tags": [],
       "body": "<p>Applied Intuition puts the AI in mining rigs, drones, trucks, warships and physical vehicles in the most adversarial environments imaginable. We dive in with their CEO and CTO as they emerge.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a100bcc80": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
-      "src": "MIT Tech Review",
-      "time": "6天前",
-      "published_ts": 1777330377,
-      "heat": "9.0K",
-      "views": "11.7K",
-      "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
-      "tags": [],
-      "body": "<p>After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterprise and might even oust&#8230;</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a1433b74a": {
       "layer": "l3",
       "cat": "L3 · 推理工程",
       "title": "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
       "src": "Ars Technica",
-      "time": "9天前",
+      "time": "10天前",
       "published_ts": 1777057239,
-      "heat": "9.4K",
-      "views": "11.5K",
+      "heat": "7.2K",
+      "views": "9.4K",
       "url": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/",
       "tags": [],
       "body": "<p>Hundreds of subdomains from dozens of universities have been hijacked by scammers.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -891,7 +917,7 @@
       "cat": "L4 · 交互Agent",
       "title": "OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work",
       "src": "NVIDIA Blog",
-      "time": "10天前",
+      "time": "11天前",
       "published_ts": 1776970675,
       "heat": "19.5K",
       "views": "24.0K",
@@ -943,7 +969,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Capacity Efficiency at Meta: How Unified AI Agents Optimize Performance at Hyperscale",
       "src": "Meta Engineering",
-      "time": "17天前",
+      "time": "18天前",
       "published_ts": 1776355234,
       "heat": "22.8K",
       "views": "26.4K",
@@ -958,8 +984,8 @@
       "src": "Interconnects",
       "time": "19天前",
       "published_ts": 1776199272,
-      "heat": "13.7K",
-      "views": "15.8K",
+      "heat": "11.5K",
+      "views": "13.7K",
       "url": "https://www.interconnects.ai/p/what-ive-been-building-atom-report",
       "tags": [],
       "body": "<p>What I've been up to!</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -971,8 +997,8 @@
       "src": "Interconnects",
       "time": "24天前",
       "published_ts": 1775770119,
-      "heat": "9.4K",
-      "views": "11.5K",
+      "heat": "7.2K",
+      "views": "9.4K",
       "url": "https://www.interconnects.ai/p/claude-mythos-and-misguided-open",
       "tags": [],
       "body": "<p>Another dance around fears of open-source.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -982,7 +1008,7 @@
       "cat": "L2 · 基础模型",
       "title": "Trust But Canary: Configuration Safety at Scale",
       "src": "Meta Engineering",
-      "time": "25天前",
+      "time": "26天前",
       "published_ts": 1775672726,
       "heat": "12.0K",
       "views": "15.6K",
@@ -1002,19 +1028,6 @@
       "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
       "tags": [],
       "body": "<p>How coding agents use tools, memory, and repo context to make LLMs work better in practice</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a56080671": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Gemma 4 and what makes an open model succeed",
-      "src": "Interconnects",
-      "time": "30天前",
-      "published_ts": 1775235456,
-      "heat": "7.2K",
-      "views": "9.4K",
-      "url": "https://www.interconnects.ai/p/gemma-4-and-what-makes-an-open-model",
-      "tags": [],
-      "body": "<p>Hint: it's not benchmark scores.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a306fec6a": {
       "layer": "l2",
@@ -1086,7 +1099,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Management as AI superpower",
       "src": "One Useful Thing",
-      "time": "96天前",
+      "time": "97天前",
       "published_ts": 1769532955,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1216,7 +1229,7 @@
       "cat": "L0 · 领袖观点",
       "title": "2025 LLM Year in Review",
       "src": "Andrej Karpathy",
-      "time": "135天前",
+      "time": "136天前",
       "published_ts": 1766167200,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1229,7 +1242,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Auto-grading decade-old Hacker News discussions with hindsight",
       "src": "Andrej Karpathy",
-      "time": "144天前",
+      "time": "145天前",
       "published_ts": 1765378800,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1242,7 +1255,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Verifiability",
       "src": "Andrej Karpathy",
-      "time": "167天前",
+      "time": "168天前",
       "published_ts": 1763398800,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1255,7 +1268,7 @@
       "cat": "L1 · 算力硬件",
       "title": "xAI’s Colossus 2 – First Gigawatt Datacenter In The World, Unique RL Methodology, Capital Raise",
       "src": "SemiAnalysis",
-      "time": "229天前",
+      "time": "230天前",
       "published_ts": 1758044281,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1398,7 +1411,7 @@
       "cat": "L2 · 基础模型",
       "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
       "src": "The Gradient",
-      "time": "533天前",
+      "time": "534天前",
       "published_ts": 1731775575,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1411,7 +1424,7 @@
       "cat": "L2 · 基础模型",
       "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
       "src": "The Gradient",
-      "time": "601天前",
+      "time": "602天前",
       "published_ts": 1725902928,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1424,7 +1437,7 @@
       "cat": "L0 · 领袖观点",
       "title": "We Need Positive Visions for AI Grounded in Wellbeing",
       "src": "The Gradient",
-      "time": "638天前",
+      "time": "639天前",
       "published_ts": 1722704443,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1463,7 +1476,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Financial Market Applications of LLMs",
       "src": "The Gradient",
-      "time": "743天前",
+      "time": "744天前",
       "published_ts": 1713635859,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1538,21 +1551,49 @@
     }
   },
   "by_layer": {
+    "l4": [
+      "ad5e7a882",
+      "ad4cd4647",
+      "a65f7d50c",
+      "a13a67257",
+      "a430d8e9d",
+      "a88355d15",
+      "a464c507f",
+      "a51372174",
+      "a43cbb5b4",
+      "acfe8eb8b",
+      "ad5acbf60",
+      "a389e719a",
+      "a92b6a52a",
+      "ab59fe080",
+      "af25d02a4",
+      "a9560485f",
+      "a61a8adff",
+      "ad01feb8a"
+    ],
+    "l5": [
+      "ad71ddbfd",
+      "a51c1410f",
+      "a5ac53546",
+      "acd867b8e",
+      "a012aead7",
+      "a1d0d05fa",
+      "ac701104f",
+      "a1c1266c7",
+      "a1aba752c"
+    ],
     "l1": [
-      "ae72ff31d",
+      "a7c2f471d",
+      "ad5edd8ff",
+      "ae9a9ecbf",
+      "a63813b51",
       "ae3764951",
-      "aada3c838",
-      "ace51399f",
       "a319afa30",
-      "a7ee239d9",
-      "a5e4ef683",
       "a38244269",
-      "af06c6e16",
       "ae26cebf0",
       "aaa5feaf8",
       "a38425a42",
       "abe20e715",
-      "a6d5657f0",
       "a27432bbd",
       "ac1d9fb8c",
       "ababb0f6e",
@@ -1568,50 +1609,20 @@
       "a2ae2603b",
       "afeb62ce7"
     ],
-    "l4": [
-      "a4881eb0b",
-      "a73077f31",
-      "a945f9172",
-      "a5e53ce0e",
-      "a92e23f36",
-      "a7aea391e",
-      "a464c507f",
-      "a51372174",
-      "a43cbb5b4",
-      "a52b93569",
-      "acfe8eb8b",
-      "a71508091",
-      "ad5acbf60",
-      "a389e719a",
-      "a92b6a52a",
-      "ab59fe080",
-      "af25d02a4",
-      "a9560485f",
-      "a61a8adff",
-      "ad01feb8a"
-    ],
-    "l3": [
-      "a22ec23fc",
-      "aecf354b1",
-      "ac8aab00b",
-      "a1433b74a",
-      "a774f3120",
-      "a23fdeba7",
-      "a1b552f8f",
-      "a28f84720"
-    ],
     "l2": [
+      "ae989053e",
+      "a83756f4d",
+      "a3732c266",
       "a279fa7c4",
       "a324ba29a",
       "a6afb144f",
+      "a3921990b",
       "a0153c997",
       "a45401bc0",
       "a75b00bfb",
       "a0e64ac4b",
-      "a976ccf27",
       "a6dcbdcdf",
       "a19af89a2",
-      "a4b9110fe",
       "a80607a75",
       "aa7aabedf",
       "ae3d3b3e2",
@@ -1620,7 +1631,6 @@
       "ac84e7008",
       "a3152a0ee",
       "a2ff358f0",
-      "a56080671",
       "a306fec6a",
       "a06dfbaf7",
       "a7e4991c9",
@@ -1632,17 +1642,12 @@
       "af0f189d1",
       "a38ad1236"
     ],
-    "l5": [
-      "a42a2e3a0",
-      "a5ac53546",
-      "acd867b8e",
-      "a012aead7",
-      "a1d0d05fa",
-      "ac701104f",
-      "a1c1266c7",
-      "a1aba752c"
-    ],
     "l0": [
+      "ab3d1847c",
+      "a147429a9",
+      "a1f7741e9",
+      "a2e9509d5",
+      "ab84f5e24",
       "a52571234",
       "a775e7d5e",
       "a74a0d0aa",
@@ -1652,7 +1657,6 @@
       "a41a1d016",
       "afcb34067",
       "abcf04ba7",
-      "a100bcc80",
       "aa20d6d34",
       "a0a86adb8",
       "a6eadb995",
@@ -1667,14 +1671,24 @@
       "a253e0446",
       "a9173515c",
       "abcb7b0c4"
+    ],
+    "l3": [
+      "a22ec23fc",
+      "aecf354b1",
+      "ac8aab00b",
+      "a1433b74a",
+      "a774f3120",
+      "a23fdeba7",
+      "a1b552f8f",
+      "a28f84720"
     ]
   },
   "top5": [
-    "ae72ff31d",
-    "ae3764951",
-    "a4881eb0b",
-    "aada3c838",
-    "ace51399f"
+    "ad5e7a882",
+    "ad71ddbfd",
+    "ad4cd4647",
+    "a7c2f471d",
+    "ae989053e"
   ],
   "layers": [
     {
@@ -1682,21 +1696,21 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        26,
-        16,
-        13,
+        29,
+        38,
+        34,
         8,
-        27,
-        22
+        33,
+        23
       ],
       "trend": [
         20,
-        21,
         22,
-        23,
         24,
-        25,
-        26
+        26,
+        28,
+        30,
+        32
       ]
     },
     {
@@ -1704,33 +1718,11 @@
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        23,
-        12,
-        11,
-        7,
-        37,
-        21
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
-    {
-      "id": "l0",
-      "num": "LAYER 0",
-      "name": "领袖观点",
-      "vals": [
-        27,
-        15,
+        30,
+        31,
         10,
-        6,
-        15,
+        7,
+        20,
         20
       ],
       "trend": [
@@ -1748,12 +1740,12 @@
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        12,
-        10,
-        8,
-        5,
-        18,
-        18
+        22,
+        27,
+        7,
+        13,
+        24,
+        17
       ],
       "trend": [
         20,
@@ -1766,25 +1758,25 @@
       ]
     },
     {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
+      "id": "l0",
+      "num": "LAYER 0",
+      "name": "领袖观点",
       "vals": [
-        12,
-        10,
-        6,
-        5,
-        10,
-        13
+        20,
+        14,
+        11,
+        7,
+        23,
+        21
       ],
       "trend": [
         20,
-        18,
-        16,
-        14,
-        12,
-        10,
-        8
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
       ]
     },
     {
@@ -1792,7 +1784,7 @@
       "num": "LAYER 5",
       "name": "生态商业",
       "vals": [
-        10,
+        14,
         10,
         5,
         5,
@@ -1808,88 +1800,128 @@
         10,
         8
       ]
+    },
+    {
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
+      "vals": [
+        10,
+        11,
+        5,
+        11,
+        10,
+        13
+      ],
+      "trend": [
+        20,
+        18,
+        16,
+        14,
+        12,
+        10,
+        8
+      ]
     }
   ],
   "ticker": [
     {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Nvidia's exposure to Asian supply chains for components hits 90% …"
-    },
-    {
-      "tag": "IEEE SPEC",
-      "col": "var(--l1)",
-      "text": "Perfectly Aligning AI’s Values With Humanity’s Is Impossible"
-    },
-    {
-      "tag": "THE VERGE",
+      "tag": "TECHCRUNC",
       "col": "var(--l4)",
-      "text": "Hisense aggressively cuts the price of its RGB LED TV on release …"
+      "text": "Image AI models now drive app growth, beating chatbot upgrades"
+    },
+    {
+      "tag": "ARS TECHN",
+      "col": "var(--l5)",
+      "text": "GameStop offers $56 billion for eBay, struggles to explain how it…"
+    },
+    {
+      "tag": "404 MEDIA",
+      "col": "var(--l4)",
+      "text": "'Nature' Retracts Paper on the Benefits of ChatGPT in Education"
     },
     {
       "tag": "TOM'S HAR",
       "col": "var(--l1)",
-      "text": "Save $1,100 on this prebuilt gaming rig with Nvidia RTX 5070 Ti, …"
+      "text": "Secretlab launches Mandalorian Titan Evo gaming chair in Star War…"
     },
     {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "AMD Ryzen AI Max+ PRO 495 APU could arrive with 192GB of unified …"
-    },
-    {
-      "tag": "IEEE SPEC",
-      "col": "var(--l1)",
-      "text": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Crushing shortages have pushed long-term supply agreements for SS…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "AMD Ryzen 9 PRO 9965X3D spotted on Passmark — company's first PRO…"
-    },
-    {
-      "tag": "ARXIV CS.",
-      "col": "var(--l3)",
-      "text": "Cloud Is Closer Than It Appears: Revisiting the Tradeoffs of Dist…"
-    },
-    {
-      "tag": "ARXIV CS.",
-      "col": "var(--l1)",
-      "text": "FedACT: Concurrent Federated Intelligence across Heterogeneous Da…"
-    },
-    {
-      "tag": "ARXIV CS.",
+      "tag": "SIMON WIL",
       "col": "var(--l2)",
-      "text": "AirFM-DDA: Air-Interface Foundation Model in the Delay-Doppler-An…"
+      "text": "TRE Python binding — ReDoS robustness demo"
     },
     {
-      "tag": "ARXIV CS.",
-      "col": "var(--l2)",
-      "text": "Learning physically grounded traffic accident reconstruction from…"
-    },
-    {
-      "tag": "ARXIV CS.",
-      "col": "var(--l2)",
-      "text": "Smart Ensemble Learning Framework for Predicting Groundwater Heav…"
+      "tag": "GOOGLE AI",
+      "col": "var(--l4)",
+      "text": "The latest AI news we announced in April 2026"
     },
     {
       "tag": "TECHCRUNC",
-      "col": "var(--l5)",
-      "text": "‘This is fine’ creator says AI startup stole his art"
+      "col": "var(--l0)",
+      "text": "Elon Musk’s only AI expert witness at the OpenAI trial fears an A…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "AMD Ryzen AI 5 435G APU breaks cover in early benchmarks — six-co…"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l0)",
+      "text": "The creator of Roomba is back with a furry robot companion"
+    },
+    {
+      "tag": "TECHCRUNC",
+      "col": "var(--l4)",
+      "text": "Sierra raises $950M as the race to own enterprise AI gets serious"
+    },
+    {
+      "tag": "TECHCRUNC",
+      "col": "var(--l0)",
+      "text": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after a…"
+    },
+    {
+      "tag": "TECHCRUNC",
+      "col": "var(--l4)",
+      "text": "Anthropic and OpenAI are both launching joint ventures for enterp…"
+    },
+    {
+      "tag": "SIMON WIL",
+      "col": "var(--l2)",
+      "text": "Redis Array Playground"
+    },
+    {
+      "tag": "MIT TECH ",
+      "col": "var(--l0)",
+      "text": "Week one of the Musk v. Altman trial: What it was like in the roo…"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Someone allegedly used a hairdryer to rig Polymarket weather bets",
-      "url": "https://www.engadget.com/big-tech/someone-allegedly-used-a-hairdryer-to-rig-polymarket-weather-bets-155312411.html",
-      "votes": "36",
-      "comments": "7",
+      "title": "Let's Talk about LLMs",
+      "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
+      "votes": "30",
+      "comments": "9",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Sierra Raises $950M at $15B Valuation",
+      "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+      "votes": "41",
+      "comments": "61",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
+      "url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
+      "votes": "77",
+      "comments": "73",
       "time": "近期"
     },
     {
@@ -1897,8 +1929,8 @@
       "badge": "pb-hn",
       "title": "Why are neural networks and cryptographic ciphers so similar? (2025)",
       "url": "https://reiner.org/neural-net-ciphers",
-      "votes": "46",
-      "comments": "12",
+      "votes": "99",
+      "comments": "32",
       "time": "近期"
     },
     {
@@ -1906,8 +1938,8 @@
       "badge": "pb-hn",
       "title": "Texico: Learn the principles of programming without even touching a computer",
       "url": "https://www3.nhk.or.jp/nhkworld/en/shows/texico/",
-      "votes": "107",
-      "comments": "7",
+      "votes": "166",
+      "comments": "13",
       "time": "近期"
     },
     {
@@ -1915,26 +1947,8 @@
       "badge": "pb-hn",
       "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
       "url": "https://github.com/aattaran/deepclaude",
-      "votes": "547",
-      "comments": "232",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Discovering hard disk physical geometry through microbenchmarking (2019)",
-      "url": "https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/",
-      "votes": "128",
-      "comments": "5",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Let's Buy Spirit Air",
-      "url": "https://letsbuyspiritair.com/",
-      "votes": "438",
-      "comments": "418",
+      "votes": "626",
+      "comments": "265",
       "time": "近期"
     }
   ]
