@@ -1,13 +1,78 @@
 {
-  "updated_at": "2026-05-04T03:31:52.026643+00:00",
-  "article_count": 115,
+  "updated_at": "2026-05-04T08:33:46.540472+00:00",
+  "article_count": 120,
   "articles": {
+    "a22ec23fc": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "Cloud Is Closer Than It Appears: Revisiting the Tradeoffs of Distributed Real-Time Inference",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1777867200,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2605.00005",
+      "tags": [],
+      "body": "<p>arXiv:2605.00005v1 Announce Type: new Abstract: The increasing deployment of deep neural networks (DNNs) in cyber-physical systems (CPS) enhances perception fidelity, but imposes substantial computational demands on execution platforms, posing challenges to real-time control deadlines. Traditional distributed CPS architectures typically favor on-device inference to avoid network variability and co</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a38244269": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "FedACT: Concurrent Federated Intelligence across Heterogeneous Data Sources",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1777867200,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2605.00011",
+      "tags": [],
+      "body": "<p>arXiv:2605.00011v1 Announce Type: new Abstract: Federated Learning (FL) enables collaborative intelligence across decentralized data source devices in a privacy-preserving way. While substantial research attention has been drawn to optimizing the learning process for an individual task, real-world applications increasingly require multiple machine learning tasks simultaneously training their model</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a279fa7c4": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "AirFM-DDA: Air-Interface Foundation Model in the Delay-Doppler-Angle Domain for AI-Native 6G",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1777867200,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2605.00020",
+      "tags": [],
+      "body": "<p>arXiv:2605.00020v1 Announce Type: new Abstract: The success of large foundation models is catalyzing a new paradigm for AI-native 6G network design: wireless foundation models for physical layer design. However, existing models often operate on channel state information (CSI) in the space-time-frequency (STF) domain, where distinct multipath components are inherently superimposed and structurally </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a324ba29a": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Learning physically grounded traffic accident reconstruction from public accident reports",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1777867200,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2605.00050",
+      "tags": [],
+      "body": "<p>arXiv:2605.00050v1 Announce Type: new Abstract: Traffic accidents are routinely documented in textual reports, yet physically grounded accident reconstruction remains difficult because detailed scene measurements and expert reconstructions are scarce, costly and hard to scale. Here we formulate accident reconstruction from publicly accessible reports and scene measurements as a parameterized multi</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a6afb144f": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Smart Ensemble Learning Framework for Predicting Groundwater Heavy Metal Pollution",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1777867200,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2605.00056",
+      "tags": [],
+      "body": "<p>arXiv:2605.00056v1 Announce Type: new Abstract: Groundwater in the Densu Basin is increasingly threatened by heavy metal contamination, but conventional methods fail to capture the statistical complexity and spatial heterogeneity of pollution indicators. A key challenge is modelling the Heavy Metal Pollution Index (HPI), which is typically skewed and affected by correlated contaminants, leading to</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a42a2e3a0": {
       "layer": "l5",
       "cat": "L5 · 生态商业",
       "title": "‘This is fine’ creator says AI startup stole his art",
       "src": "TechCrunch AI",
-      "time": "7小时前",
+      "time": "12小时前",
       "published_ts": 1777839411,
       "heat": "27.0K",
       "views": "27.0K",
@@ -20,7 +85,7 @@
       "cat": "L4 · 交互Agent",
       "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
       "src": "TechCrunch AI",
-      "time": "9小时前",
+      "time": "14小时前",
       "published_ts": 1777831209,
       "heat": "23.8K",
       "views": "27.0K",
@@ -33,7 +98,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Reggie Fils-Aimé says Amazon once asked Nintendo to break the law",
       "src": "The Verge",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1777821867,
       "heat": "24.0K",
       "views": "24.0K",
@@ -46,7 +111,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Enthusiast builds a PC big enough to live in — humans in this RGB-lit fish tank case look just like figurines",
       "src": "Tom's Hardware",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1777821850,
       "heat": "15.0K",
       "views": "15.0K",
@@ -59,7 +124,7 @@
       "cat": "L2 · 基础模型",
       "title": "Quoting Anthropic",
       "src": "Simon Willison",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1777821203,
       "heat": "15.0K",
       "views": "15.0K",
@@ -72,7 +137,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Shokz’s bassy OpenRun Pro 2 are $40 off thanks to a new Mother’s Day promo",
       "src": "The Verge",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1777820400,
       "heat": "21.1K",
       "views": "24.0K",
@@ -85,7 +150,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Nvidia accelerates end-of-life for some Jetson AI processors due to memory shortages — RAMpocalypse sends older DDR4-based modules to the great scrapheap in the sky",
       "src": "Tom's Hardware",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1777819988,
       "heat": "13.2K",
       "views": "15.0K",
@@ -98,7 +163,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Popular 90s search engine ‘Ask Jeeves’ finally bites the dust — parent company shutters website that pioneered natural language queries, only a placeholder results page remains",
       "src": "Tom's Hardware",
-      "time": "14小时前",
+      "time": "19小时前",
       "published_ts": 1777814545,
       "heat": "7.8K",
       "views": "9.6K",
@@ -111,7 +176,7 @@
       "cat": "L5 · 生态商业",
       "title": "Deepfake Detection Dataset Aims to Keep Up With Generative AI",
       "src": "IEEE Spectrum",
-      "time": "14小时前",
+      "time": "19小时前",
       "published_ts": 1777813201,
       "heat": "15.0K",
       "views": "15.0K",
@@ -124,7 +189,7 @@
       "cat": "L4 · 交互Agent",
       "title": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
       "src": "The Verge",
-      "time": "14小时前",
+      "time": "19小时前",
       "published_ts": 1777813200,
       "heat": "15.4K",
       "views": "18.2K",
@@ -137,7 +202,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Anthropic in early talks to buy DRAM-less AI inference chips from UK startup — Fractile's SRAM architecture reduces need for pricey memory during extreme pricing and shortage crunch",
       "src": "Tom's Hardware",
-      "time": "14小时前",
+      "time": "19小时前",
       "published_ts": 1777812714,
       "heat": "6.0K",
       "views": "7.8K",
@@ -150,7 +215,7 @@
       "cat": "L4 · 交互Agent",
       "title": "AI music is flooding streaming services — but who wants it?",
       "src": "The Verge",
-      "time": "15小时前",
+      "time": "20小时前",
       "published_ts": 1777809600,
       "heat": "12.5K",
       "views": "15.4K",
@@ -241,7 +306,7 @@
       "cat": "L4 · 交互Agent",
       "title": "[AINews] AI Engineer World's Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers",
       "src": "Latent Space",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1777706515,
       "heat": "19.5K",
       "views": "19.5K",
@@ -384,7 +449,7 @@
       "cat": "L2 · 基础模型",
       "title": "[AINews] Agents for Everything Else: Codex for Knowledge Work, Claude for Creative Work",
       "src": "Latent Space",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1777611221,
       "heat": "17.2K",
       "views": "19.5K",
@@ -696,7 +761,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Cybersecurity in the Intelligence Age",
       "src": "OpenAI Blog",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1777435200,
       "heat": "28.8K",
       "views": "34.2K",
@@ -761,7 +826,7 @@
       "cat": "L0 · 领袖观点",
       "title": "[AINews] ImageGen is on the Path to AGI",
       "src": "Latent Space",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1777354699,
       "heat": "10.1K",
       "views": "12.5K",
@@ -1268,7 +1333,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "256天前",
+      "time": "257天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1499,6 +1564,76 @@
     }
   },
   "by_layer": {
+    "l3": [
+      "a22ec23fc",
+      "aecf354b1",
+      "ac8aab00b",
+      "a1433b74a",
+      "a774f3120",
+      "a23fdeba7",
+      "a1b552f8f",
+      "a28f84720"
+    ],
+    "l1": [
+      "a38244269",
+      "ad35b8ad3",
+      "a3b055026",
+      "a383e9aaf",
+      "a87336521",
+      "af06c6e16",
+      "ae26cebf0",
+      "aaa5feaf8",
+      "a38425a42",
+      "a319afa30",
+      "abe20e715",
+      "a6d5657f0",
+      "a27432bbd",
+      "ac1d9fb8c",
+      "ababb0f6e",
+      "ac90935ff",
+      "aa825253b",
+      "aa916162d",
+      "a59c2fbb4",
+      "a6bee3694",
+      "a612b9eb6",
+      "a472cb971",
+      "a94a9a29d",
+      "a5236c597",
+      "a2ae2603b",
+      "afeb62ce7"
+    ],
+    "l2": [
+      "a279fa7c4",
+      "a324ba29a",
+      "a6afb144f",
+      "a0153c997",
+      "a45401bc0",
+      "a75b00bfb",
+      "a0e64ac4b",
+      "a976ccf27",
+      "a6dcbdcdf",
+      "a19af89a2",
+      "a80607a75",
+      "a4b9110fe",
+      "aa7aabedf",
+      "ae3d3b3e2",
+      "a416a8f84",
+      "a1c025c0d",
+      "ac84e7008",
+      "a3152a0ee",
+      "a2ff358f0",
+      "a56080671",
+      "a306fec6a",
+      "a06dfbaf7",
+      "a7e4991c9",
+      "a94c96601",
+      "a95a70797",
+      "a0c4ebb65",
+      "a0b43a2bc",
+      "ab3119897",
+      "af0f189d1",
+      "a38ad1236"
+    ],
     "l5": [
       "a42a2e3a0",
       "a5ac53546",
@@ -1535,62 +1670,6 @@
       "a61a8adff",
       "ad01feb8a"
     ],
-    "l1": [
-      "ad35b8ad3",
-      "a3b055026",
-      "a383e9aaf",
-      "a87336521",
-      "af06c6e16",
-      "ae26cebf0",
-      "aaa5feaf8",
-      "a38425a42",
-      "a319afa30",
-      "abe20e715",
-      "a6d5657f0",
-      "a27432bbd",
-      "ac1d9fb8c",
-      "ababb0f6e",
-      "ac90935ff",
-      "aa825253b",
-      "aa916162d",
-      "a59c2fbb4",
-      "a6bee3694",
-      "a612b9eb6",
-      "a472cb971",
-      "a94a9a29d",
-      "a5236c597",
-      "a2ae2603b",
-      "afeb62ce7"
-    ],
-    "l2": [
-      "a0153c997",
-      "a45401bc0",
-      "a75b00bfb",
-      "a0e64ac4b",
-      "a976ccf27",
-      "a6dcbdcdf",
-      "a19af89a2",
-      "a80607a75",
-      "a4b9110fe",
-      "aa7aabedf",
-      "ae3d3b3e2",
-      "a416a8f84",
-      "a1c025c0d",
-      "ac84e7008",
-      "a3152a0ee",
-      "a2ff358f0",
-      "a56080671",
-      "a306fec6a",
-      "a06dfbaf7",
-      "a7e4991c9",
-      "a94c96601",
-      "a95a70797",
-      "a0c4ebb65",
-      "a0b43a2bc",
-      "ab3119897",
-      "af0f189d1",
-      "a38ad1236"
-    ],
     "l0": [
       "a52571234",
       "a775e7d5e",
@@ -1616,58 +1695,27 @@
       "a253e0446",
       "a9173515c",
       "abcb7b0c4"
-    ],
-    "l3": [
-      "aecf354b1",
-      "ac8aab00b",
-      "a1433b74a",
-      "a774f3120",
-      "a23fdeba7",
-      "a1b552f8f",
-      "a28f84720"
     ]
   },
   "top5": [
-    "a42a2e3a0",
-    "a73077f31",
-    "a945f9172",
-    "ad35b8ad3",
-    "a0153c997"
+    "a22ec23fc",
+    "a38244269",
+    "a279fa7c4",
+    "a324ba29a",
+    "a6afb144f"
   ],
   "layers": [
-    {
-      "id": "l1",
-      "num": "LAYER 1",
-      "name": "算力硬件",
-      "vals": [
-        22,
-        25,
-        10,
-        7,
-        28,
-        20
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
     {
       "id": "l2",
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        24,
-        14,
-        23,
-        7,
-        21,
-        21
+        25,
+        31,
+        25,
+        8,
+        31,
+        22
       ],
       "trend": [
         20,
@@ -1684,11 +1732,11 @@
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        22,
-        19,
+        20,
+        31,
         10,
-        14,
-        23,
+        21,
+        32,
         20
       ],
       "trend": [
@@ -1706,11 +1754,11 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        16,
-        10,
+        23,
+        22,
         10,
         6,
-        27,
+        25,
         20
       ],
       "trend": [
@@ -1724,16 +1772,38 @@
       ]
     },
     {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
+      "id": "l1",
+      "num": "LAYER 1",
+      "name": "算力硬件",
       "vals": [
+        19,
+        17,
+        10,
+        7,
+        28,
+        20
+      ],
+      "trend": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
+      "vals": [
+        10,
         10,
         12,
         5,
-        5,
-        10,
-        21
+        13,
+        13
       ],
       "trend": [
         20,
@@ -1746,16 +1816,16 @@
       ]
     },
     {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
       "vals": [
         10,
         10,
         5,
         5,
-        10,
-        13
+        17,
+        12
       ],
       "trend": [
         20,
@@ -1769,6 +1839,31 @@
     }
   ],
   "ticker": [
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l3)",
+      "text": "Cloud Is Closer Than It Appears: Revisiting the Tradeoffs of Dist…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l1)",
+      "text": "FedACT: Concurrent Federated Intelligence across Heterogeneous Da…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "AirFM-DDA: Air-Interface Foundation Model in the Delay-Doppler-An…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Learning physically grounded traffic accident reconstruction from…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Smart Ensemble Learning Framework for Predicting Groundwater Heav…"
+    },
     {
       "tag": "TECHCRUNC",
       "col": "var(--l5)",
@@ -1813,86 +1908,61 @@
       "tag": "IEEE SPEC",
       "col": "var(--l5)",
       "text": "Deepfake Detection Dataset Aims to Keep Up With Generative AI"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "How the internet’s favorite squirrel dad made the hottest camera …"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Anthropic in early talks to buy DRAM-less AI inference chips from…"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "AI music is flooding streaming services — but who wants it?"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "AI-generated actors and scripts are now ineligible for Oscars"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "Meta&#8217;s historic loss in court could cost a lot more than $3…"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Let's Buy Spirit Air",
-      "url": "https://letsbuyspiritair.com/",
-      "votes": "216",
-      "comments": "161",
+      "title": "Humanoid Robot Actuators",
+      "url": "https://www.firgelli.com/pages/humanoid-robot-actuators",
+      "votes": "115",
+      "comments": "39",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
       "url": "https://github.com/aattaran/deepclaude",
-      "votes": "200",
-      "comments": "97",
+      "votes": "420",
+      "comments": "157",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Discovering Hard Disk Physical Geometry Through Microbenchmarking (2019)",
+      "title": "Discovering hard disk physical geometry through microbenchmarking (2019)",
       "url": "https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/",
-      "votes": "10",
+      "votes": "74",
+      "comments": "3",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Texico: Learn the principles of programming without even touching a computer",
+      "url": "https://www3.nhk.or.jp/nhkworld/en/shows/texico/",
+      "votes": "16",
       "comments": "1",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+      "title": "Let's Buy Spirit Air",
+      "url": "https://letsbuyspiritair.com/",
+      "votes": "319",
+      "comments": "305",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
       "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
-      "votes": "304",
-      "comments": "254",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "LLMs Are Not a Higher Level of Abstraction",
-      "url": "https://www.lelanthran.com/chap15/content.html",
-      "votes": "83",
-      "comments": "66",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Agentic Coding Is a Trap",
-      "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
-      "votes": "235",
-      "comments": "167",
+      "votes": "385",
+      "comments": "329",
       "time": "近期"
     }
   ]
