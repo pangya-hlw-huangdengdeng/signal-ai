@@ -1,13 +1,208 @@
 {
-  "updated_at": "2026-05-13T03:41:34.127808+00:00",
-  "article_count": 130,
+  "updated_at": "2026-05-13T08:48:14.852808+00:00",
+  "article_count": 131,
   "articles": {
+    "adcc39513": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Amazon&#8217;s Panos Panay addresses new Fire phone rumors",
+      "src": "The Verge",
+      "time": "11分钟前",
+      "published_ts": 1778661402,
+      "heat": "24.0K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/tech/929412/amazon-panos-panay-interview-phone-transformer",
+      "tags": [],
+      "body": "<p>Amazon's head of devices and services, Panos Panay, says that the company is \"not necessarily\" planning to release a smartphone, but has stopped short of denying it outright. It was previously reported that Amazon is developing an Alexa-enabled AI phone codenamed \"Transformer,\" more than 10 years after it scrapped its ill-fated Fire Phone. Speaking to [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ad2fd22bd": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Our fight against fraud: 5 ways we’re keeping you safer",
+      "src": "Google AI Blog",
+      "time": "2小时前",
+      "published_ts": 1778652000,
+      "heat": "34.5K",
+      "views": "34.5K",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/scams-fraud-protection/",
+      "tags": [],
+      "body": "<p>Fight against fraud hero image</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a1e1fee38": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "CSP Allow-list Experiment",
+      "src": "Simon Willison",
+      "time": "3小时前",
+      "published_ts": 1778647845,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://simonwillison.net/2026/May/13/csp-allow/#atom-everything",
+      "tags": [],
+      "body": "<p>Tool: CSP Allow-list Experiment An experiment that shows that you can load an app in a CSP-protected sandboxed iframe (see previous note ) and have a custom fetch() that intercepts CSP errors and passes them up to the parent window... which can then prompt the user to add that domain to an allow-list and then refresh the page. I built this one with GPT-5.5 xhigh running in the Codex desktop app. T</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a0d7fe1dd": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "Interpretable EEG Microstate Discovery via Variational Deep Embedding: A Systematic Architecture Search with Multi-Quadrant Evaluation",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1778644800,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2605.10947",
+      "tags": [],
+      "body": "<p>arXiv:2605.10947v1 Announce Type: new Abstract: EEG microstate analysis segments continuous brain electrical activity into brief, quasi-stable topographic configurations that reflect discrete functional brain states. Conventional approaches such as Modified K-Means operate directly in electrode space with hard assignment, offering no learned latent representation, no generative decoder, and no mec</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a9532d4da": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "QuIDE: Mastering the Quantized Intelligence Trade-off via Active Optimization",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1778644800,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2605.10959",
+      "tags": [],
+      "body": "<p>arXiv:2605.10959v1 Announce Type: new Abstract: There is currently no unified metric for evaluating the efficiency of quantized neural networks. We propose QuIDE, built around the Intelligence Index I = (C x P)/log_2(T+1), which collapses the compression-accuracy-latency trade-off into a single score. Experiments across six settings -- SimpleCNN (MNIST, CIFAR), ResNet-18 (ImageNet-1K), and Llama-3</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a548e0b7f": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Steering Without Breaking: Mechanistically Informed Interventions for Discrete Diffusion Language Models",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1778644800,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2605.10971",
+      "tags": [],
+      "body": "<p>arXiv:2605.10971v1 Announce Type: new Abstract: Discrete diffusion language models (DLMs) generate text by iteratively denoising all positions in parallel, offering an alternative to autoregressive models. Controlled generation methods for DLMs, imported from autoregressive models, apply uniform intervention at every denoising steps. We show this uniform schedule degrades quality, and the damage c</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ac2951c6c": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Rotation-Preserving Supervised Fine-Tuning",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1778644800,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2605.10973",
+      "tags": [],
+      "body": "<p>arXiv:2605.10973v1 Announce Type: new Abstract: Supervised fine-tuning (SFT) improves in-domain performance but can degrade out-of-domain (OOD) generalization. Prior work suggests that this degradation is related to changes in dominant singular subspaces of pretrained weight matrices. However, directly identifying loss-sensitive directions with Hessian or Fisher information is computationally expe</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a3e5d9ef6": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Vertex-Softmax: Tight Transformer Verification via Exact Softmax Optimization",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1778644800,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2605.10974",
+      "tags": [],
+      "body": "<p>arXiv:2605.10974v1 Announce Type: new Abstract: Certified verification of transformer attention requires bounding the softmax function over interval constraints on the pre-softmax scores. Existing verifiers relax softmax ndependently of the downstream objective, leaving avoidable slack. We prove that the exact optimum of this score-box problem is attained at a vertex of the constraint box, and est</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a84097265": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Hierarchical Multi-Scale Graph Neural Networks: Scalable Heterophilous Learning with Oversmoothing and Oversquashing Mitigation",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1778644800,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2605.10975",
+      "tags": [],
+      "body": "<p>arXiv:2605.10975v1 Announce Type: new Abstract: Graphs with heterophily, where adjacent nodes carry different labels, are prevalent in real-world applications, from social networks to molecular interactions. However, existing spectral Graph Neural Network (GNN) approaches tailored for heterophilous graph classification suffer from hub-dominated (node with large degree) aggregation and oversmoothin</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a326ba445": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attention, Hidden States, and Causal Circuits",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1778644800,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2605.08200",
+      "tags": [],
+      "body": "<p>arXiv:2605.08200v1 Announce Type: new Abstract: A pervasive intuition holds that vision-language models (VLMs) are most trustworthy when their attention maps look sharp: concentrated attention on the queried region should imply a confident, calibrated answer. We test this Attention-Confidence Assumption directly. We instrument three open-weight VLM families (LLaVA-1.5, PaliGemma, Qwen2-VL; 3-7B pa</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "afb5f9b39": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1778644800,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2605.08220",
+      "tags": [],
+      "body": "<p>arXiv:2605.08220v1 Announce Type: new Abstract: The automated extraction of data from scientific charts is a critical task for large-scale literature analysis. While multimodal Large Language Models (LLMs) show promise, their accuracy on non-standardized charts remains a challenge. This raises a key research question: what is the most effective strategy to improve model performance (high-level sem</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a942bab1e": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1778644800,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2605.08354",
+      "tags": [],
+      "body": "<p>arXiv:2605.08354v1 Announce Type: new Abstract: Aligning multimodal generative models with human preferences demands reward signals that respect the compositional, multi-dimensional structure of human judgment. Prevailing RLHF approaches reduce this structure to scalar or pairwise labels, collapsing nuanced preferences into opaque parametric proxies and exposing vulnerabilities to reward hacking. </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aa7715605": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "Embeddings for Preferences, Not Semantics",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1778644800,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2605.08360",
+      "tags": [],
+      "body": "<p>arXiv:2605.08360v1 Announce Type: new Abstract: Modern AI is opening the door to collective decision-making in which participants express their views as free-form text rather than voting on a fixed set of candidates. A natural idea is to embed these opinions in a vector space so that the substantial literature on facility location problems and fair clustering can be brought to bear. But standard t</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a3d849555": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "On Distinguishing Capability Elicitation from Capability Creation in Post-Training: A Free-Energy Perspective",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1778644800,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2605.08368",
+      "tags": [],
+      "body": "<p>arXiv:2605.08368v1 Announce Type: new Abstract: Debates about large language model post-training often treat supervised fine-tuning (SFT) as imitation and reinforcement learning (RL) as discovery. But this distinction is too coarse. What matters is whether a training procedure increases the probability of behaviors the pretrained model could already produce, or whether it changes what the model ca</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a5d9222be": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1778644800,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2605.08374",
+      "tags": [],
+      "body": "<p>arXiv:2605.08374v2 Announce Type: new Abstract: Episodic memory allows LLM agents to accumulate and retrieve experience, but current methods treat each memory independently, i.e., evaluating retrieval quality in isolation without accounting for the dependency chains through which memories enable the creation of future memories. We introduce MemQ, which applies TD($\\lambda$) eligibility traces to m</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a6bbcc6e9": {
       "layer": "l3",
       "cat": "L3 · 推理工程",
       "title": "[AINews] The End of Finetuning",
       "src": "Latent Space",
-      "time": "54分钟前",
+      "time": "6小时前",
       "published_ts": 1778640442,
       "heat": "19.5K",
       "views": "19.5K",
@@ -20,9 +215,9 @@
       "cat": "L4 · 交互Agent",
       "title": "Sony’s new Xperia phone gets an overdue redesign",
       "src": "The Verge",
-      "time": "1小时前",
+      "time": "6小时前",
       "published_ts": 1778637600,
-      "heat": "24.0K",
+      "heat": "21.1K",
       "views": "24.0K",
       "url": "https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs",
       "tags": [],
@@ -33,7 +228,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
       "src": "TechCrunch AI",
-      "time": "3小时前",
+      "time": "8小时前",
       "published_ts": 1778632008,
       "heat": "27.0K",
       "views": "27.0K",
@@ -46,7 +241,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says",
       "src": "Wired",
-      "time": "3小时前",
+      "time": "8小时前",
       "published_ts": 1778631005,
       "heat": "16.5K",
       "views": "16.5K",
@@ -59,7 +254,7 @@
       "cat": "L5 · 生态商业",
       "title": "xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit",
       "src": "Wired",
-      "time": "3小时前",
+      "time": "8小时前",
       "published_ts": 1778630400,
       "heat": "14.5K",
       "views": "16.5K",
@@ -72,9 +267,9 @@
       "cat": "L3 · 推理工程",
       "title": "datasette 1.0a29",
       "src": "Simon Willison",
-      "time": "4小时前",
+      "time": "9小时前",
       "published_ts": 1778629266,
-      "heat": "15.0K",
+      "heat": "13.2K",
       "views": "15.0K",
       "url": "https://simonwillison.net/2026/May/12/datasette/#atom-everything",
       "tags": [],
@@ -85,7 +280,7 @@
       "cat": "L5 · 生态商业",
       "title": "The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy",
       "src": "Wired",
-      "time": "4小时前",
+      "time": "9小时前",
       "published_ts": 1778626305,
       "heat": "12.5K",
       "views": "14.5K",
@@ -98,10 +293,10 @@
       "cat": "L3 · 推理工程",
       "title": "Quoting Mitchell Hashimoto",
       "src": "Simon Willison",
-      "time": "5小时前",
+      "time": "10小时前",
       "published_ts": 1778624511,
-      "heat": "11.4K",
-      "views": "13.2K",
+      "heat": "9.6K",
+      "views": "11.4K",
       "url": "https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything",
       "tags": [],
       "body": "<p>The thing about 90% of TDMs [Technical Decision Makers] is that they're motivated primarily by NOT GETTING FIRED. These aren't people who browser Lobsters or push to GH on the weekend. These are people that work 9 to 5, get paid, go home, and NEVER THINK ABOUT WORK AGAIN. So to achieve all that, they follow secular trends supported by analysts and broad public sentiment. Oh, Gartner said that \"AI </p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -111,10 +306,10 @@
       "cat": "L4 · 交互Agent",
       "title": "iOS 27 might add a lot more customization to the Camera app",
       "src": "The Verge",
-      "time": "6小时前",
+      "time": "11小时前",
       "published_ts": 1778621771,
-      "heat": "18.2K",
-      "views": "21.1K",
+      "heat": "15.4K",
+      "views": "18.2K",
       "url": "https://www.theverge.com/tech/929152/apple-ios-27-camera-app-customization",
       "tags": [],
       "body": "<p>Apple's next iOS update could include something phone photographers have been waiting for: a lot more control over the Camera app. According to Bloomberg's Mark Gurman, the Camera app will be \"fully customizable\" in iOS 27 and users will be able to \"pick their own set of controls - called widgets - that run along [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -124,10 +319,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Meta won’t let you block its AI account on Threads",
       "src": "The Verge",
-      "time": "7小时前",
+      "time": "12小时前",
       "published_ts": 1778618123,
-      "heat": "15.4K",
-      "views": "18.2K",
+      "heat": "12.5K",
+      "views": "15.4K",
       "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
       "tags": [],
       "body": "<p>Meta announced on Tuesday that it's testing a Threads feature that lets users tag a Meta AI account to get answers to questions or context about a conversation on the platform. If you've spent any time looking at replies on X as of late, this new feature sounds a lot like Meta's take on people [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -137,10 +332,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Meta will tell parents when their teens add new interests to their Instagram algorithm",
       "src": "The Verge",
-      "time": "7小时前",
+      "time": "12小时前",
       "published_ts": 1778615810,
-      "heat": "12.5K",
-      "views": "15.4K",
+      "heat": "9.6K",
+      "views": "12.5K",
       "url": "https://www.theverge.com/tech/929009/meta-teen-accounts-algorithm-parental-controls",
       "tags": [],
       "body": "<p>Starting Tuesday, parents can get more details about what their teens are up to on Instagram. Meta is adding a feature to its Teen Accounts that shows parents the \"general topics their teens engage with,\" like \"basketball\" or \"fashion.\" Meta also says it will soon start notifying parents when their teen adds a new interest [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -150,7 +345,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Musk mulled handing OpenAI to his children, Altman testifies",
       "src": "TechCrunch AI",
-      "time": "9小时前",
+      "time": "14小时前",
       "published_ts": 1778609115,
       "heat": "23.8K",
       "views": "27.0K",
@@ -163,10 +358,10 @@
       "cat": "L2 · 基础模型",
       "title": "llm 0.32a2",
       "src": "Simon Willison",
-      "time": "9小时前",
+      "time": "15小时前",
       "published_ts": 1778607907,
-      "heat": "9.6K",
-      "views": "11.4K",
+      "heat": "7.8K",
+      "views": "9.6K",
       "url": "https://simonwillison.net/2026/May/12/llm/#atom-everything",
       "tags": [],
       "body": "<p>Release: llm 0.32a2 A bunch of useful stuff in this LLM alpha, but the most important detail is this one: Most reasoning-capable OpenAI models now use the /v1/responses endpoint instead of /v1/chat/completions . This enables interleaved reasoning across tool calls for GPT-5 class models. #1435 This means you can now see the summarized reasoning tokens when you run prompts against an OpenAI model, </p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -176,7 +371,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Anthropic warns investors against secondary platforms offering access to its shares",
       "src": "TechCrunch AI",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1778607394,
       "heat": "20.5K",
       "views": "23.8K",
@@ -184,25 +379,12 @@
       "tags": [],
       "body": "<p>\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "aeee0cacd": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Sam Altman says Elon Musk’s mind games were damaging OpenAI",
-      "src": "The Verge",
-      "time": "10小时前",
-      "published_ts": 1778607249,
-      "heat": "9.6K",
-      "views": "12.5K",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
-      "tags": [],
-      "body": "<p>OpenAI CEO Sam Altman says Elon Musk did \"huge damage\" to the culture of the AI startup. During testimony as part of Musk's lawsuit against OpenAI, Altman said Musk required OpenAI president Greg Brockman and former chief scientist Ilya Sutskever to rank researchers by their accomplishments and \"take a chainsaw through a bunch.\" Altman conceded [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "ae208bb0d": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "Report: Google and SpaceX in talks to put data centers into orbit",
       "src": "TechCrunch AI",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1778607057,
       "heat": "17.3K",
       "views": "20.5K",
@@ -215,7 +397,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Neutralizing the Gigascale Problem: How to Solve the Physical Power Paradox of Extreme AI Training Loads",
       "src": "IEEE Spectrum",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1778606115,
       "heat": "15.0K",
       "views": "15.0K",
@@ -228,7 +410,7 @@
       "cat": "L2 · 基础模型",
       "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
       "src": "TechCrunch AI",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1778605260,
       "heat": "14.0K",
       "views": "17.3K",
@@ -236,25 +418,12 @@
       "tags": [],
       "body": "<p>Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a9363f79c": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Bringing the best of Gemini in Chrome to Android",
-      "src": "Google AI Blog",
-      "time": "10小时前",
-      "published_ts": 1778605200,
-      "heat": "34.5K",
-      "views": "34.5K",
-      "url": "https://blog.google/products-and-platforms/products/chrome/bringing-chrome-ai-to-android/",
-      "tags": [],
-      "body": "<p>Android figure next to the text \"The Android Show | I/O Edition\"</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a96356b3f": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "Introducing Googlebook, designed for Gemini Intelligence",
       "src": "Google AI Blog",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1778605200,
       "heat": "30.4K",
       "views": "34.5K",
@@ -262,25 +431,25 @@
       "tags": [],
       "body": "<p>Googlebook thumbnail</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a84d29153": {
+    "a9363f79c": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
-      "title": "Reclaim your time with Pause Point.",
+      "title": "Bringing the best of Gemini in Chrome to Android",
       "src": "Google AI Blog",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1778605200,
-      "heat": "22.1K",
-      "views": "26.2K",
-      "url": "https://blog.google/products-and-platforms/platforms/android/pause-point/",
+      "heat": "26.2K",
+      "views": "30.4K",
+      "url": "https://blog.google/products-and-platforms/products/chrome/bringing-chrome-ai-to-android/",
       "tags": [],
-      "body": "<p>This new wellbeing feature helps stop doomscrolling so you can use your phone with more intent.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>Android figure next to the text \"The Android Show | I/O Edition\"</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a28c7c466": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
       "title": "Express yourself with our new 3D emoji.",
       "src": "Google AI Blog",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1778605200,
       "heat": "13.8K",
       "views": "17.9K",
@@ -293,7 +462,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
       "src": "TechCrunch AI",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1778605200,
       "heat": "10.8K",
       "views": "14.0K",
@@ -306,7 +475,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Google's new laptop platform, 'Googlebook,' leaks ahead of reveal event — new laptops powered by Android and Google Gemini, meant to succeed Chromebook",
       "src": "Tom's Hardware",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1778605128,
       "heat": "13.2K",
       "views": "15.0K",
@@ -319,7 +488,7 @@
       "cat": "L2 · 基础模型",
       "title": "Migrating Data Ingestion Systems at Meta Scale",
       "src": "Meta Engineering",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1778601657,
       "heat": "30.0K",
       "views": "30.0K",
@@ -332,7 +501,7 @@
       "cat": "L0 · 领袖观点",
       "title": "How open model ecosystems compound",
       "src": "Interconnects",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1778601287,
       "heat": "18.0K",
       "views": "18.0K",
@@ -345,7 +514,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Trump administration reportedly debating ban on Chinese cellular modules in expansion of FCC crackdown — potential restrictions could impact everything from smart devices and routers to connected cars and industrial IoT systems",
       "src": "Tom's Hardware",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1778599404,
       "heat": "11.4K",
       "views": "13.2K",
@@ -358,7 +527,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Jensen Huang snubbed by White House for President Trump’s China state visit — Nvidia CEO not on roster, which includes Apple's Tim Cook and Elon Musk",
       "src": "Tom's Hardware",
-      "time": "13小时前",
+      "time": "18小时前",
       "published_ts": 1778594230,
       "heat": "6.0K",
       "views": "7.8K",
@@ -371,7 +540,7 @@
       "cat": "L4 · 交互Agent",
       "title": "ICE Agents Have List of 20 Million People on Their iPhones Thanks to Palantir",
       "src": "404 Media",
-      "time": "14小时前",
+      "time": "19小时前",
       "published_ts": 1778590838,
       "heat": "15.0K",
       "views": "15.0K",
@@ -384,7 +553,7 @@
       "cat": "L0 · 领袖观点",
       "title": "NVIDIA and SAP Bring Trust to Specialized Agents",
       "src": "NVIDIA Blog",
-      "time": "15小时前",
+      "time": "20小时前",
       "published_ts": 1778589056,
       "heat": "37.5K",
       "views": "37.5K",
@@ -397,7 +566,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Your Next AI Query May Travel Where the Power Is",
       "src": "IEEE Spectrum",
-      "time": "15小时前",
+      "time": "20小时前",
       "published_ts": 1778587201,
       "heat": "13.2K",
       "views": "15.0K",
@@ -410,156 +579,13 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] Thinking Machines' Native Interaction Models - TML-Interaction-Small 276B-A12B - advances SOTA Realtime Voice and kills standard VAD",
       "src": "Latent Space",
-      "time": "23小时前",
+      "time": "1天前",
       "published_ts": 1778560426,
       "heat": "17.2K",
       "views": "19.5K",
       "url": "https://www.latent.space/p/ainews-thinking-machines-native-interaction",
       "tags": [],
       "body": "<p>well done, Team Thinky.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a6243abb2": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Reinforcement learning for inverse structural design and rapid laser cutting of kirigami prototypes",
-      "src": "arXiv cs.LG",
-      "time": "23小时前",
-      "published_ts": 1778558400,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2605.08098",
-      "tags": [],
-      "body": "<p>arXiv:2605.08098v1 Announce Type: new Abstract: Kirigami is an increasingly useful fabrication method to produce shape-programmable metamaterial structures. However, inverse design remains difficult because deployment is nonlinear, and feasible cut layouts must satisfy discrete compatibility rules, avoid overlap, and map one target shape to valid designs. We present RL-Kirigami, an inverse design </p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a63556fa3": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Path-Based Gradient Boosting for Graph-Level Prediction",
-      "src": "arXiv cs.LG",
-      "time": "23小时前",
-      "published_ts": 1778558400,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2605.08102",
-      "tags": [],
-      "body": "<p>arXiv:2605.08102v1 Announce Type: new Abstract: We propose PathBoost, a gradient tree boosting method for graph-level classification and regression that learns discriminative path-based features directly from the input graph structure. Building on a previous work, which was tailored to a specific chemistry application, PathBoost introduces three key extensions: (i) adaptation to binary classificat</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a55f5445a": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Geometry-free prediction of inertial lift forces in microfluidic devices using deep learning",
-      "src": "arXiv cs.LG",
-      "time": "23小时前",
-      "published_ts": 1778558400,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://arxiv.org/abs/2605.08109",
-      "tags": [],
-      "body": "<p>arXiv:2605.08109v1 Announce Type: new Abstract: Inertial microfluidic devices (IMDs) offer low-cost, high-throughput alternative techniques for many traditional particle- (or cell-) manipulation tasks, but simulating them requires being able to predict particle migration, and thus particle lift forces, under a variety of possible channel geometries. Recent work has demonstrated that machine learni</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a57fa5828": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "BaLoRA: Bayesian Low-Rank Adaptation of Large Scale Models",
-      "src": "arXiv cs.LG",
-      "time": "23小时前",
-      "published_ts": 1778558400,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://arxiv.org/abs/2605.08110",
-      "tags": [],
-      "body": "<p>arXiv:2605.08110v1 Announce Type: new Abstract: Low-Rank Adaptation (LoRA) has become the standard for fine-tuning large pre-trained models at reduced computational cost. However, its low-rank point-estimate updates limit expressiveness, leave a persistent gap relative to full fine-tuning accuracy, and provide no built-in uncertainty quantification, limiting its applicability in settings where rel</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a401a870b": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "TTCD:Transformer Integrated Temporal Causal Discovery from Non-Stationary Time Series Data",
-      "src": "arXiv cs.LG",
-      "time": "23小时前",
-      "published_ts": 1778558400,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://arxiv.org/abs/2605.08111",
-      "tags": [],
-      "body": "<p>arXiv:2605.08111v1 Announce Type: new Abstract: The widespread availability of complex time series data in various domains such as environmental science, epidemiology, and economics demands robust causal discovery methods that can identify intricate contemporaneous and lagged relationships in non-stationary, nonlinear, and noisy settings. Existing constraint-based methods often rely heavily on con</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a326ba445": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attention, Hidden States, and Causal Circuits",
-      "src": "arXiv cs.AI",
-      "time": "23小时前",
-      "published_ts": 1778558400,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2605.08200",
-      "tags": [],
-      "body": "<p>arXiv:2605.08200v1 Announce Type: new Abstract: A pervasive intuition holds that vision-language models (VLMs) are most trustworthy when their attention maps look sharp: concentrated attention on the queried region should imply a confident, calibrated answer. We test this Attention-Confidence Assumption directly. We instrument three open-weight VLM families (LLaVA-1.5, PaliGemma, Qwen2-VL; 3-7B pa</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "afb5f9b39": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
-      "src": "arXiv cs.AI",
-      "time": "23小时前",
-      "published_ts": 1778558400,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2605.08220",
-      "tags": [],
-      "body": "<p>arXiv:2605.08220v1 Announce Type: new Abstract: The automated extraction of data from scientific charts is a critical task for large-scale literature analysis. While multimodal Large Language Models (LLMs) show promise, their accuracy on non-standardized charts remains a challenge. This raises a key research question: what is the most effective strategy to improve model performance (high-level sem</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a942bab1e": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria",
-      "src": "arXiv cs.AI",
-      "time": "23小时前",
-      "published_ts": 1778558400,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://arxiv.org/abs/2605.08354",
-      "tags": [],
-      "body": "<p>arXiv:2605.08354v1 Announce Type: new Abstract: Aligning multimodal generative models with human preferences demands reward signals that respect the compositional, multi-dimensional structure of human judgment. Prevailing RLHF approaches reduce this structure to scalar or pairwise labels, collapsing nuanced preferences into opaque parametric proxies and exposing vulnerabilities to reward hacking. </p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aa7715605": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Embeddings for Preferences, Not Semantics",
-      "src": "arXiv cs.AI",
-      "time": "23小时前",
-      "published_ts": 1778558400,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://arxiv.org/abs/2605.08360",
-      "tags": [],
-      "body": "<p>arXiv:2605.08360v1 Announce Type: new Abstract: Modern AI is opening the door to collective decision-making in which participants express their views as free-form text rather than voting on a fixed set of candidates. A natural idea is to embed these opinions in a vector space so that the substantial literature on facility location problems and fair clustering can be brought to bear. But standard t</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a3d849555": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "On Distinguishing Capability Elicitation from Capability Creation in Post-Training: A Free-Energy Perspective",
-      "src": "arXiv cs.AI",
-      "time": "23小时前",
-      "published_ts": 1778558400,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://arxiv.org/abs/2605.08368",
-      "tags": [],
-      "body": "<p>arXiv:2605.08368v1 Announce Type: new Abstract: Debates about large language model post-training often treat supervised fine-tuning (SFT) as imitation and reinforcement learning (RL) as discovery. But this distinction is too coarse. What matters is whether a training procedure increases the probability of behaviors the pretrained model could already produce, or whether it changes what the model ca</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a5d9222be": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
-      "src": "arXiv cs.AI",
-      "time": "23小时前",
-      "published_ts": 1778558400,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://arxiv.org/abs/2605.08374",
-      "tags": [],
-      "body": "<p>arXiv:2605.08374v1 Announce Type: new Abstract: Episodic memory allows LLM agents to accumulate and retrieve experience, but current methods treat each memory independently, i.e., evaluating retrieval quality in isolation without accounting for the dependency chains through which memories enable the creation of future memories. We introduce MemQ, which applies TD($\\lambda$) eligibility traces to m</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a3035e496": {
       "layer": "l1",
@@ -607,8 +633,8 @@
       "src": "Simon Willison",
       "time": "1天前",
       "published_ts": 1778543935,
-      "heat": "7.8K",
-      "views": "9.6K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything",
       "tags": [],
       "body": "<p>GitLab Act 2 There's a lot going on in this announcement from GitLab about the \"workforce reduction\" and \"structural and strategic decisions\" they are making with respect to the agentic era. They're \"planning to reduce the number of countries by up to 30% where we have small teams\". One of the most interesting things about GitLab is that they have employees spread across a large number of countrie</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -625,19 +651,6 @@
       "url": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
       "tags": [],
       "body": "<p>The former OpenAI chief scientist may be estranged from the company, but he still came to its defense as he testified on Monday.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a3d859f81": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Quoting James Shore",
-      "src": "Simon Willison",
-      "time": "1天前",
-      "published_ts": 1778528912,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://simonwillison.net/2026/May/11/james-shore/#atom-everything",
-      "tags": [],
-      "body": "<p>Your AI coding agent, the one you use to write code, needs to reduce your maintenance costs. Not by a little bit, either. You write code twice as quick now? Better hope you’ve halved your maintenance costs. Three times as productive? One third the maintenance costs. Otherwise, you’re screwed. You’re trading a temporary speed boost for permanent indenture. [...] The math only works if the LLM decre</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "adf17ee11": {
       "layer": "l1",
@@ -852,7 +865,7 @@
       "cat": "L2 · 基础模型",
       "title": "[AINews] GPT-Realtime-2, -Translate, and -Whisper: new SOTA realtime voice APIs",
       "src": "Latent Space",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1778224284,
       "heat": "12.5K",
       "views": "14.8K",
@@ -943,7 +956,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] Anthropic-SpaceXai's 300MW/$5B/yr deal for Colossus I, ARR growth is 8000% annualized",
       "src": "Latent Space",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1778133434,
       "heat": "10.1K",
       "views": "12.5K",
@@ -995,7 +1008,7 @@
       "cat": "L1 · 算力硬件",
       "title": "[AINews] Silicon Valley gets Serious about Services",
       "src": "Latent Space",
-      "time": "6天前",
+      "time": "7天前",
       "published_ts": 1778046041,
       "heat": "7.8K",
       "views": "10.1K",
@@ -1463,7 +1476,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "265天前",
+      "time": "266天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1694,19 +1707,9 @@
     }
   },
   "by_layer": {
-    "l3": [
-      "a6bbcc6e9",
-      "a0d3801f6",
-      "aba364df9",
-      "acc7709a4",
-      "a87bac2a0",
-      "acc019a00",
-      "a774f3120",
-      "a23fdeba7",
-      "a1b552f8f",
-      "a28f84720"
-    ],
     "l4": [
+      "adcc39513",
+      "a5d9222be",
       "aa6d330b1",
       "a3bafcb2d",
       "ad97b7cd2",
@@ -1715,9 +1718,7 @@
       "a96485811",
       "ae208bb0d",
       "aec05831a",
-      "a5d9222be",
       "a3fafcf6a",
-      "a3d859f81",
       "a41d49cb7",
       "aaac4fa5d",
       "ad4404a12",
@@ -1731,59 +1732,21 @@
       "a61a8adff",
       "ad01feb8a"
     ],
-    "l0": [
-      "a4c7bfcac",
-      "a301488db",
-      "aeee0cacd",
-      "a4c70e437",
-      "a43dd77f2",
-      "aff2a9fc2",
-      "a63556fa3",
-      "a55f5445a",
-      "a326ba445",
-      "aa7715605",
-      "ad12d00df",
-      "a911ad612",
-      "a997698f4",
-      "ae3e9824b",
-      "a5e2d779c",
-      "a2e9509d5",
-      "aa20d6d34",
-      "a0a86adb8",
-      "a6eadb995",
-      "a2f2fbafa",
-      "aa27891e5",
-      "a57fda39f",
-      "a187a50d6",
-      "a040f39c9",
-      "a0ab4dd7d",
-      "a375099f0",
-      "a6a5b4a81",
-      "a253e0446",
-      "a9173515c",
-      "abcb7b0c4"
-    ],
-    "l5": [
-      "a175edd8a",
-      "ac5c17b54",
-      "a4599b605",
-      "a9f80bb4e",
-      "a2549ac1d",
-      "a0196b7f4",
-      "a46b65c97"
-    ],
     "l2": [
-      "a1e47de71",
-      "a714404b3",
-      "a9363f79c",
-      "a84d29153",
-      "a28c7c466",
-      "a58c3031f",
-      "a57fa5828",
-      "a401a870b",
+      "ad2fd22bd",
+      "a1e1fee38",
+      "a548e0b7f",
+      "ac2951c6c",
+      "a3e5d9ef6",
+      "a84097265",
       "afb5f9b39",
       "a942bab1e",
       "a3d849555",
+      "a1e47de71",
+      "a714404b3",
+      "a9363f79c",
+      "a28c7c466",
+      "a58c3031f",
       "af4cdaa89",
       "a41a1b31c",
       "aeb2da051",
@@ -1804,14 +1767,24 @@
       "af0f189d1",
       "a38ad1236"
     ],
+    "l5": [
+      "a0d7fe1dd",
+      "a175edd8a",
+      "ac5c17b54",
+      "a4599b605",
+      "a9f80bb4e",
+      "a2549ac1d",
+      "a0196b7f4",
+      "a46b65c97"
+    ],
     "l1": [
+      "a9532d4da",
       "af61820fb",
       "a96356b3f",
       "a4eefe3b9",
       "a873679f3",
       "a9037c8de",
       "a4cca31c4",
-      "a6243abb2",
       "a3035e496",
       "adf17ee11",
       "a99428355",
@@ -1835,14 +1808,55 @@
       "a5236c597",
       "a2ae2603b",
       "afeb62ce7"
+    ],
+    "l0": [
+      "a326ba445",
+      "aa7715605",
+      "a4c7bfcac",
+      "a301488db",
+      "a4c70e437",
+      "a43dd77f2",
+      "aff2a9fc2",
+      "ad12d00df",
+      "a911ad612",
+      "a997698f4",
+      "ae3e9824b",
+      "a5e2d779c",
+      "a2e9509d5",
+      "aa20d6d34",
+      "a0a86adb8",
+      "a6eadb995",
+      "a2f2fbafa",
+      "aa27891e5",
+      "a57fda39f",
+      "a187a50d6",
+      "a040f39c9",
+      "a0ab4dd7d",
+      "a375099f0",
+      "a6a5b4a81",
+      "a253e0446",
+      "a9173515c",
+      "abcb7b0c4"
+    ],
+    "l3": [
+      "a6bbcc6e9",
+      "a0d3801f6",
+      "aba364df9",
+      "acc7709a4",
+      "a87bac2a0",
+      "acc019a00",
+      "a774f3120",
+      "a23fdeba7",
+      "a1b552f8f",
+      "a28f84720"
     ]
   },
   "top5": [
-    "a6bbcc6e9",
-    "aa6d330b1",
-    "a3bafcb2d",
-    "a4c7bfcac",
-    "a175edd8a"
+    "adcc39513",
+    "ad2fd22bd",
+    "a1e1fee38",
+    "a0d7fe1dd",
+    "a9532d4da"
   ],
   "layers": [
     {
@@ -1850,34 +1864,12 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        23,
-        27,
-        14,
-        7,
+        31,
         25,
-        21
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
-    {
-      "id": "l1",
-      "num": "LAYER 1",
-      "name": "算力硬件",
-      "vals": [
-        14,
-        28,
-        11,
         7,
-        20,
-        21
+        8,
+        31,
+        22
       ],
       "trend": [
         20,
@@ -1894,11 +1886,33 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        13,
-        13,
+        25,
+        27,
+        10,
+        6,
+        34,
+        20
+      ],
+      "trend": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "id": "l1",
+      "num": "LAYER 1",
+      "name": "算力硬件",
+      "vals": [
+        19,
+        20,
         11,
         7,
-        27,
+        30,
         21
       ],
       "trend": [
@@ -1916,11 +1930,11 @@
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        12,
-        15,
+        10,
+        10,
         8,
-        6,
-        23,
+        11,
+        25,
         18
       ],
       "trend": [
@@ -1934,16 +1948,16 @@
       ]
     },
     {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
       "vals": [
-        14,
-        17,
+        11,
+        11,
         5,
         5,
-        14,
-        10
+        18,
+        13
       ],
       "trend": [
         20,
@@ -1956,16 +1970,16 @@
       ]
     },
     {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
       "vals": [
         10,
         10,
         5,
-        16,
-        13,
-        13
+        5,
+        10,
+        10
       ],
       "trend": [
         20,
@@ -1980,74 +1994,74 @@
   ],
   "ticker": [
     {
-      "tag": "LATENT SP",
-      "col": "var(--l3)",
-      "text": "[AINews] The End of Finetuning"
-    },
-    {
       "tag": "THE VERGE",
       "col": "var(--l4)",
-      "text": "Sony’s new Xperia phone gets an overdue redesign"
+      "text": "Amazon&#8217;s Panos Panay addresses new Fire phone rumors"
     },
     {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "Medicare’s new payment model is built for AI, and most of the tec…"
-    },
-    {
-      "tag": "WIRED",
-      "col": "var(--l0)",
-      "text": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kid…"
-    },
-    {
-      "tag": "WIRED",
-      "col": "var(--l5)",
-      "text": "xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit"
-    },
-    {
-      "tag": "SIMON WIL",
-      "col": "var(--l3)",
-      "text": "datasette 1.0a29"
-    },
-    {
-      "tag": "WIRED",
-      "col": "var(--l5)",
-      "text": "The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy"
-    },
-    {
-      "tag": "SIMON WIL",
-      "col": "var(--l3)",
-      "text": "Quoting Mitchell Hashimoto"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "iOS 27 might add a lot more customization to the Camera app"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "Meta won’t let you block its AI account on Threads"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "Meta will tell parents when their teens add new interests to thei…"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l0)",
-      "text": "Musk mulled handing OpenAI to his children, Altman testifies"
+      "tag": "GOOGLE AI",
+      "col": "var(--l2)",
+      "text": "Our fight against fraud: 5 ways we’re keeping you safer"
     },
     {
       "tag": "SIMON WIL",
       "col": "var(--l2)",
-      "text": "llm 0.32a2"
+      "text": "CSP Allow-list Experiment"
     },
     {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "Anthropic warns investors against secondary platforms offering ac…"
+      "tag": "ARXIV CS.",
+      "col": "var(--l5)",
+      "text": "Interpretable EEG Microstate Discovery via Variational Deep Embed…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l1)",
+      "text": "QuIDE: Mastering the Quantized Intelligence Trade-off via Active …"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Steering Without Breaking: Mechanistically Informed Interventions…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Rotation-Preserving Supervised Fine-Tuning"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Vertex-Softmax: Tight Transformer Verification via Exact Softmax …"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Hierarchical Multi-Scale Graph Neural Networks: Scalable Heteroph…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l0)",
+      "text": "Where Reliability Lives in Vision-Language Models: A Mechanistic …"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Appr…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Auto-Rubric as Reward: From Implicit Preferences to Explicit Mult…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l0)",
+      "text": "Embeddings for Preferences, Not Semantics"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "On Distinguishing Capability Elicitation from Capability Creation…"
     }
   ],
   "community": [
@@ -2056,8 +2070,8 @@
       "badge": "pb-hn",
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "url": "https://github.com/cactus-compute/needle",
-      "votes": "319",
-      "comments": "115",
+      "votes": "439",
+      "comments": "149",
       "time": "近期"
     },
     {
@@ -2065,8 +2079,8 @@
       "badge": "pb-hn",
       "title": "Why senior developers fail to communicate their expertise",
       "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "votes": "420",
-      "comments": "190",
+      "votes": "548",
+      "comments": "236",
       "time": "近期"
     },
     {
@@ -2074,26 +2088,8 @@
       "badge": "pb-hn",
       "title": "Reimagining the mouse pointer for the AI era",
       "url": "https://deepmind.google/blog/ai-pointer/",
-      "votes": "160",
-      "comments": "133",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Foucault's Order of Things Explained with Trading Cards [video]",
-      "url": "https://www.youtube.com/watch?v=1TbHYjGvS68",
-      "votes": "25",
-      "comments": "14",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
-      "url": "https://voker.ai",
-      "votes": "44",
-      "comments": "19",
+      "votes": "193",
+      "comments": "164",
       "time": "近期"
     },
     {
@@ -2101,8 +2097,26 @@
       "badge": "pb-hn",
       "title": "Show HN: Agentic interface for mainframes and COBOL",
       "url": "https://www.hypercubic.ai/hopper",
-      "votes": "60",
-      "comments": "37",
+      "votes": "70",
+      "comments": "41",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+      "url": "https://voker.ai",
+      "votes": "52",
+      "comments": "19",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Foucault's Order of Things Explained with Trading Cards [video]",
+      "url": "https://www.youtube.com/watch?v=1TbHYjGvS68",
+      "votes": "33",
+      "comments": "23",
       "time": "近期"
     }
   ]
