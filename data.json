@@ -1,13 +1,104 @@
 {
-  "updated_at": "2026-05-16T03:28:54.559186+00:00",
-  "article_count": 130,
+  "updated_at": "2026-05-16T08:08:06.543136+00:00",
+  "article_count": 121,
   "articles": {
+    "a84caa11d": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "[AINews] Cerebras' $60B IPO: Slowly, then All at Once",
+      "src": "Latent Space",
+      "time": "3小时前",
+      "published_ts": 1778906210,
+      "heat": "19.5K",
+      "views": "19.5K",
+      "url": "https://www.latent.space/p/ainews-cerebras-60b-ipo-slowly-then",
+      "tags": [],
+      "body": "<p>Congrats Big Chip!</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a6398568d": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1778904000,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2605.13848",
+      "tags": [],
+      "body": "<p>arXiv:2605.13848v1 Announce Type: new Abstract: Agentic LLM frameworks that rely on prompted orchestration, where the model itself determines workflow transitions, often suffer from hallucinated routing, infinite loops, and non-reproducible execution. We introduce GraphBit, an engine-orchestrated framework that defines workflows explicitly and deterministically as a directed acyclic graph (DAG). U</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ae00d5cca": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defined Serving Granularity",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1778904000,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2605.13849",
+      "tags": [],
+      "body": "<p>arXiv:2605.13849v1 Announce Type: new Abstract: Determining what to eat to satisfy nutritional requirements is one of the oldest optimization problems in operations research, yet existing formulations have two persistent limitations: continuous variables produce impractical fractional servings (1.7 eggs, 0.37 bananas), and hard nutrient constraints cause infeasibility when targets conflict. A syst</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "af34bdd30": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1778904000,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2605.13850",
+      "tags": [],
+      "body": "<p>arXiv:2605.13850v1 Announce Type: new Abstract: Existing frameworks for LLM-based agent architectures describe systems from a single perspective: industry guides (Anthropic, Google, LangChain) focus on execution topology -- how data flows -- while cognitive science surveys focus on cognitive function -- what the agent does. Neither axis alone disambiguates architecturally distinct systems: the sam</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ab46e723f": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "Invisible Orchestrators Suppress Protective Behavior and Dissociate Power-Holders: Safety Risks in Multi-Agent LLM Systems",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1778904000,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2605.13851",
+      "tags": [],
+      "body": "<p>arXiv:2605.13851v1 Announce Type: new Abstract: Multi-agent orchestration -- in which a hidden coordinator manages specialized worker agents -- is becoming the default architecture for enterprise AI deployment, yet the safety implications of orchestrator invisibility have never been empirically tested. We conducted a preregistered 3x2 experiment (365 runs, 5 agents per run) crossing three organiza</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "adbc7ec8f": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "PREPING: Building Agent Memory without Tasks",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1778904000,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2605.13880",
+      "tags": [],
+      "body": "<p>arXiv:2605.13880v1 Announce Type: new Abstract: Agent memory is typically constructed either offline from curated demonstrations or online from post-deployment interactions. However, regardless of how it is built, an agent faces a cold-start gap when first introduced to a new environment without any task-specific experience available. In this paper, we study pre-task memory construction: whether a</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a5d0e9bdc": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "PolitNuggets: Benchmarking Agentic Discovery of Long-Tail Political Facts",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1778904000,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2605.14002",
+      "tags": [],
+      "body": "<p>arXiv:2605.14002v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) embedded in agentic frameworks have transformed information retrieval from static, long context question answering into open-ended exploration. Yet real world use requires models to discover and synthesize \"long-tail\" facts from dispersed sources, a capability that remains under-evaluated. We introduce PolitNuggets, a mu</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "afa4928df": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "inaturalist-clumper 0.1",
       "src": "Simon Willison",
-      "time": "3小时前",
+      "time": "8小时前",
       "published_ts": 1778889191,
       "heat": "15.0K",
       "views": "15.0K",
@@ -20,7 +111,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
       "src": "MIT Tech Review",
-      "time": "3小时前",
+      "time": "8小时前",
       "published_ts": 1778888375,
       "heat": "22.5K",
       "views": "22.5K",
@@ -33,7 +124,7 @@
       "cat": "L4 · 交互Agent",
       "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
       "src": "The Verge",
-      "time": "5小时前",
+      "time": "9小时前",
       "published_ts": 1778883900,
       "heat": "21.1K",
       "views": "24.0K",
@@ -46,7 +137,7 @@
       "cat": "L4 · 交互Agent",
       "title": "ArXiv will ban researchers who upload papers full of AI slop",
       "src": "The Verge",
-      "time": "6小时前",
+      "time": "11小时前",
       "published_ts": 1778877499,
       "heat": "15.4K",
       "views": "18.2K",
@@ -59,7 +150,7 @@
       "cat": "L0 · 领袖观点",
       "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
       "src": "TechCrunch AI",
-      "time": "8小时前",
+      "time": "12小时前",
       "published_ts": 1778873056,
       "heat": "27.0K",
       "views": "27.0K",
@@ -72,7 +163,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Intel Core Ultra 7 270K Plus drops below MSRP for the first time — grab the 24-core Arrow Lake Refresh chip for just $279 for a limited time",
       "src": "Tom's Hardware",
-      "time": "8小时前",
+      "time": "13小时前",
       "published_ts": 1778870084,
       "heat": "15.0K",
       "views": "15.0K",
@@ -85,7 +176,7 @@
       "cat": "L0 · 领袖观点",
       "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
       "src": "The Verge",
-      "time": "9小时前",
+      "time": "13小时前",
       "published_ts": 1778869295,
       "heat": "9.6K",
       "views": "12.5K",
@@ -98,7 +189,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
       "src": "TechCrunch AI",
-      "time": "9小时前",
+      "time": "13小时前",
       "published_ts": 1778868884,
       "heat": "23.8K",
       "views": "27.0K",
@@ -111,7 +202,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
       "src": "Wired",
-      "time": "10小时前",
+      "time": "14小时前",
       "published_ts": 1778864957,
       "heat": "16.5K",
       "views": "16.5K",
@@ -124,7 +215,7 @@
       "cat": "L4 · 交互Agent",
       "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
       "src": "TechCrunch AI",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1778860800,
       "heat": "20.5K",
       "views": "23.8K",
@@ -137,7 +228,7 @@
       "cat": "L4 · 交互Agent",
       "title": "ArXiv to Ban Researchers for a Year if They Submit AI Slop",
       "src": "404 Media",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1778860332,
       "heat": "13.2K",
       "views": "15.0K",
@@ -150,7 +241,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Behind the Blog: New Music and a Crash Out",
       "src": "404 Media",
-      "time": "12小时前",
+      "time": "16小时前",
       "published_ts": 1778858347,
       "heat": "11.4K",
       "views": "13.2K",
@@ -163,7 +254,7 @@
       "cat": "L5 · 生态商业",
       "title": "Google floats reduced initial 5GB free cloud storage limit, users claim — 15GB to require extra security measures, company confirms it is 'testing a new storage policy for new accounts'",
       "src": "Tom's Hardware",
-      "time": "12小时前",
+      "time": "16小时前",
       "published_ts": 1778858021,
       "heat": "13.2K",
       "views": "15.0K",
@@ -176,7 +267,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Pennsylvania residents complain they are being 'bulldozed' over AI data center concerns — lambast Gov. Shapiro in two-hour town hall, say he is losing support base",
       "src": "Tom's Hardware",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1778856379,
       "heat": "11.4K",
       "views": "13.2K",
@@ -189,7 +280,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Trump says China is blocking Nvidia H200 purchases despite US approval — says country 'chose not to' sanction purchases, pushing homegrown chips instead",
       "src": "Tom's Hardware",
-      "time": "13小时前",
+      "time": "17小时前",
       "published_ts": 1778854661,
       "heat": "9.6K",
       "views": "11.4K",
@@ -202,7 +293,7 @@
       "cat": "L5 · 生态商业",
       "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
       "src": "TechCrunch AI",
-      "time": "13小时前",
+      "time": "18小时前",
       "published_ts": 1778853600,
       "heat": "17.3K",
       "views": "20.5K",
@@ -215,7 +306,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Mayo Clinic is Using AI to Listen to Emergency Room Visits",
       "src": "404 Media",
-      "time": "14小时前",
+      "time": "19小时前",
       "published_ts": 1778850008,
       "heat": "9.6K",
       "views": "11.4K",
@@ -228,7 +319,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Osaurus brings both local and cloud AI models to your Mac",
       "src": "TechCrunch AI",
-      "time": "15小时前",
+      "time": "19小时前",
       "published_ts": 1778847588,
       "heat": "14.0K",
       "views": "17.3K",
@@ -241,7 +332,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Samsung starts winding down chip production six days before planned 18-day strike — company enters 'emergency management mode,' daily losses could hit $2 billion",
       "src": "Tom's Hardware",
-      "time": "15小时前",
+      "time": "19小时前",
       "published_ts": 1778847079,
       "heat": "6.0K",
       "views": "7.8K",
@@ -254,7 +345,7 @@
       "cat": "L5 · 生态商业",
       "title": "How Chinese short dramas became AI content machines",
       "src": "MIT Tech Review",
-      "time": "18小时前",
+      "time": "23小时前",
       "published_ts": 1778835600,
       "heat": "19.8K",
       "views": "22.5K",
@@ -267,7 +358,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Mira Murati Wants Her AI to ‘Keep Humans in the Loop’",
       "src": "Wired",
-      "time": "18小时前",
+      "time": "23小时前",
       "published_ts": 1778835600,
       "heat": "14.5K",
       "views": "16.5K",
@@ -280,7 +371,7 @@
       "cat": "L0 · 领袖观点",
       "title": "From policy to practice: supporting the future of AI in education",
       "src": "Google AI Blog",
-      "time": "19小时前",
+      "time": "1天前",
       "published_ts": 1778832000,
       "heat": "34.5K",
       "views": "34.5K",
@@ -293,169 +384,13 @@
       "cat": "L2 · 基础模型",
       "title": "QR code generator",
       "src": "Simon Willison",
-      "time": "23小时前",
+      "time": "1天前",
       "published_ts": 1778817649,
       "heat": "11.4K",
       "views": "13.2K",
       "url": "https://simonwillison.net/2026/May/15/qr-code-generator/#atom-everything",
       "tags": [],
       "body": "<p>Tool: QR code generator Claude helped me build this tool for creating QR codes, for both text/URLs and for connecting to WiFi networks. Tags: vibe-coding , tools , generative-ai , ai , llms</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a8954bb5d": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Vision-Based Runtime Monitoring under Varying Specifications using Semantic Latent Representations",
-      "src": "arXiv cs.LG",
-      "time": "23小时前",
-      "published_ts": 1778817600,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2605.13923",
-      "tags": [],
-      "body": "<p>arXiv:2605.13923v1 Announce Type: new Abstract: We study certified runtime monitoring of past-time signal temporal logic (ptSTL) from visual observations under partial observability. The monitor must infer safety-relevant quantities from images and provide finite-sample guarantees, while being \\emph{reusable}: once trained and calibrated, it should certify any formula in a target fragment without </p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a515319b5": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Mechanistic Interpretability of EEG Foundation Models via Sparse Autoencoders",
-      "src": "arXiv cs.LG",
-      "time": "23小时前",
-      "published_ts": 1778817600,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2605.13930",
-      "tags": [],
-      "body": "<p>arXiv:2605.13930v1 Announce Type: new Abstract: EEG foundation models achieve state-of-the-art clinical performance, yet the internal computations driving their predictions remain opaque: a barrier to clinical trust. We apply TopK Sparse Autoencoders (SAEs) across three architecturally distinct EEG transformers: SleepFM, REVE, and LaBraM to extract sparse feature dictionaries from their embeddings</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "abd20d7fa": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Rethinking Molecular OOD Generalization via Target-Aware Source Selection",
-      "src": "arXiv cs.LG",
-      "time": "23小时前",
-      "published_ts": 1778817600,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://arxiv.org/abs/2605.13932",
-      "tags": [],
-      "body": "<p>arXiv:2605.13932v1 Announce Type: new Abstract: Robust prediction of molecular properties under extreme out-of-distribution (OOD) scenarios is a pivotal bottleneck in AI-driven drug discovery. Current scaffold-splitting protocols fail to obstruct microscopic semantic overlap, predisposing models to shortcut learning and overestimating their true extrapolation capability; meanwhile, conventional do</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a7d46afa1": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "Unsupervised learning of acquisition variability in structural connectomes via hybrid latent space modeling",
-      "src": "arXiv cs.LG",
-      "time": "23小时前",
-      "published_ts": 1778817600,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://arxiv.org/abs/2605.13933",
-      "tags": [],
-      "body": "<p>arXiv:2605.13933v1 Announce Type: new Abstract: Acquisition differences across sites, scanners, and protocols in dMRI introduce variability that complicates structural connectome analysis. This motivates deep learning models that can represent high-dimensional connectomes in a low-dimensional space while explicitly separating acquisition-related effects from biological variation. Conventional dime</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aa6f2ed79": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Beyond Mode-Seeking RL: Trajectory-Balance Post-Training for Diffusion Language Models",
-      "src": "arXiv cs.LG",
-      "time": "23小时前",
-      "published_ts": 1778817600,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://arxiv.org/abs/2605.13935",
-      "tags": [],
-      "body": "<p>arXiv:2605.13935v1 Announce Type: new Abstract: Diffusion language models are a promising alternative to autoregressive models, yet post-training methods for them largely adapt reward-maximizing objectives. We identify a central failure mode in this setting we call trajectory locking: sampled reward-driven updates over-concentrate probability mass onto a narrow set of denoising paths, reducing cov</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a13645667": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Towards the Next Frontier of LLMs, Training on Private Data: A Cross-Domain Benchmark for Federated Fine-Tuning",
-      "src": "arXiv cs.LG",
-      "time": "23小时前",
-      "published_ts": 1778817600,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://arxiv.org/abs/2605.13936",
-      "tags": [],
-      "body": "<p>arXiv:2605.13936v1 Announce Type: new Abstract: The recent success of large language models (LLMs) has been largely driven by vast public datasets. However, the next frontier for LLM development lies beyond public data. Much of the world's most valuable information is private, especially in highly regulated sectors such as healthcare and finance, where data include patient histories or customer co</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a6398568d": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
-      "src": "arXiv cs.AI",
-      "time": "23小时前",
-      "published_ts": 1778817600,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2605.13848",
-      "tags": [],
-      "body": "<p>arXiv:2605.13848v1 Announce Type: new Abstract: Agentic LLM frameworks that rely on prompted orchestration, where the model itself determines workflow transitions, often suffer from hallucinated routing, infinite loops, and non-reproducible execution. We introduce GraphBit, an engine-orchestrated framework that defines workflows explicitly and deterministically as a directed acyclic graph (DAG). U</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ae00d5cca": {
-      "layer": "l3",
-      "cat": "L3 · 推理工程",
-      "title": "Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defined Serving Granularity",
-      "src": "arXiv cs.AI",
-      "time": "23小时前",
-      "published_ts": 1778817600,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2605.13849",
-      "tags": [],
-      "body": "<p>arXiv:2605.13849v1 Announce Type: new Abstract: Determining what to eat to satisfy nutritional requirements is one of the oldest optimization problems in operations research, yet existing formulations have two persistent limitations: continuous variables produce impractical fractional servings (1.7 eggs, 0.37 bananas), and hard nutrient constraints cause infeasibility when targets conflict. A syst</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "af34bdd30": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
-      "src": "arXiv cs.AI",
-      "time": "23小时前",
-      "published_ts": 1778817600,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://arxiv.org/abs/2605.13850",
-      "tags": [],
-      "body": "<p>arXiv:2605.13850v1 Announce Type: new Abstract: Existing frameworks for LLM-based agent architectures describe systems from a single perspective: industry guides (Anthropic, Google, LangChain) focus on execution topology -- how data flows -- while cognitive science surveys focus on cognitive function -- what the agent does. Neither axis alone disambiguates architecturally distinct systems: the sam</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ab46e723f": {
-      "layer": "l3",
-      "cat": "L3 · 推理工程",
-      "title": "Invisible Orchestrators Suppress Protective Behavior and Dissociate Power-Holders: Safety Risks in Multi-Agent LLM Systems",
-      "src": "arXiv cs.AI",
-      "time": "23小时前",
-      "published_ts": 1778817600,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://arxiv.org/abs/2605.13851",
-      "tags": [],
-      "body": "<p>arXiv:2605.13851v1 Announce Type: new Abstract: Multi-agent orchestration -- in which a hidden coordinator manages specialized worker agents -- is becoming the default architecture for enterprise AI deployment, yet the safety implications of orchestrator invisibility have never been empirically tested. We conducted a preregistered 3x2 experiment (365 runs, 5 agents per run) crossing three organiza</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "adbc7ec8f": {
-      "layer": "l3",
-      "cat": "L3 · 推理工程",
-      "title": "PREPING: Building Agent Memory without Tasks",
-      "src": "arXiv cs.AI",
-      "time": "23小时前",
-      "published_ts": 1778817600,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://arxiv.org/abs/2605.13880",
-      "tags": [],
-      "body": "<p>arXiv:2605.13880v1 Announce Type: new Abstract: Agent memory is typically constructed either offline from curated demonstrations or online from post-deployment interactions. However, regardless of how it is built, an agent faces a cold-start gap when first introduced to a new environment without any task-specific experience available. In this paper, we study pre-task memory construction: whether a</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a5d0e9bdc": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "PolitNuggets: Benchmarking Agentic Discovery of Long-Tail Political Facts",
-      "src": "arXiv cs.AI",
-      "time": "23小时前",
-      "published_ts": 1778817600,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://arxiv.org/abs/2605.14002",
-      "tags": [],
-      "body": "<p>arXiv:2605.14002v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) embedded in agentic frameworks have transformed information retrieval from static, long context question answering into open-ended exploration. Yet real world use requires models to discover and synthesize \"long-tail\" facts from dispersed sources, a capability that remains under-evaluated. We introduce PolitNuggets, a mu</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "ae289febc": {
       "layer": "l0",
@@ -490,24 +425,11 @@
       "src": "Latent Space",
       "time": "1天前",
       "published_ts": 1778805021,
-      "heat": "19.5K",
+      "heat": "17.2K",
       "views": "19.5K",
       "url": "https://www.latent.space/p/ainews-everything-is-conductor",
       "tags": [],
       "body": "<p>an ultra quiet day lets us highlight a smaller trend.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ab7347195": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "A new personal finance experience in ChatGPT",
-      "src": "OpenAI Blog",
-      "time": "1天前",
-      "published_ts": 1778803200,
-      "heat": "45.0K",
-      "views": "45.0K",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "tags": [],
-      "body": "<p>Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "af1469c51": {
       "layer": "l2",
@@ -516,11 +438,24 @@
       "src": "OpenAI Blog",
       "time": "1天前",
       "published_ts": 1778803200,
-      "heat": "39.6K",
-      "views": "45.0K",
+      "heat": "28.8K",
+      "views": "34.2K",
       "url": "https://openai.com/index/databricks",
       "tags": [],
       "body": "<p>Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ab7347195": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "A new personal finance experience in ChatGPT",
+      "src": "OpenAI Blog",
+      "time": "1天前",
+      "published_ts": 1778803200,
+      "heat": "23.4K",
+      "views": "28.8K",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "tags": [],
+      "body": "<p>Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a8f7cfb04": {
       "layer": "l4",
@@ -542,8 +477,8 @@
       "src": "Latent Space",
       "time": "1天前",
       "published_ts": 1778796331,
-      "heat": "17.2K",
-      "views": "19.5K",
+      "heat": "14.8K",
+      "views": "17.2K",
       "url": "https://www.latent.space/p/abridge",
       "tags": [],
       "body": "<p>How Abridge is quietly turning the patient and clinician conversation into the operating system of healthcare</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -555,8 +490,8 @@
       "src": "OpenAI Blog",
       "time": "1天前",
       "published_ts": 1778790600,
-      "heat": "34.2K",
-      "views": "39.6K",
+      "heat": "18.0K",
+      "views": "23.4K",
       "url": "https://openai.com/index/sea-david-chen",
       "tags": [],
       "body": "<p>Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -639,19 +574,6 @@
       "tags": [],
       "body": "<p>Editor&#8217;s note: The Gaijin single sign-on feature is now up and running. Dive masks on — Subnautica 2 is making a splash on GeForce NOW day-and-date with launch, so members can plunge into the title’s brand-new alien ocean from almost any device. It leads 11 new games joining the cloud this week. A limited-time HITMAN [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a66a5cdce": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Work with Codex from anywhere",
-      "src": "OpenAI Blog",
-      "time": "1天前",
-      "published_ts": 1778763600,
-      "heat": "28.8K",
-      "views": "34.2K",
-      "url": "https://openai.com/index/work-with-codex-from-anywhere",
-      "tags": [],
-      "body": "<p>Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a61e07a24": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
@@ -709,7 +631,7 @@
       "cat": "L2 · 基础模型",
       "title": "Es Devlin’s ‘A National Portrait’ for the National Portrait Gallery",
       "src": "Google AI Blog",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1778745600,
       "heat": "30.4K",
       "views": "34.5K",
@@ -722,26 +644,13 @@
       "cat": "L2 · 基础模型",
       "title": "[AINews] Codex Rises, Claude Meters Programmatic Usage",
       "src": "Latent Space",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1778730806,
-      "heat": "14.8K",
-      "views": "17.2K",
+      "heat": "12.5K",
+      "views": "14.8K",
       "url": "https://www.latent.space/p/ainews-codex-rises-claude-meters",
       "tags": [],
       "body": "<p>a quiet day lets us report on a long trend of the major coding agents</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aea520293": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Helping ChatGPT better recognize context in sensitive conversations",
-      "src": "OpenAI Blog",
-      "time": "2天前",
-      "published_ts": 1778716800,
-      "heat": "23.4K",
-      "views": "28.8K",
-      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-      "tags": [],
-      "body": "<p>Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a82351661": {
       "layer": "l5",
@@ -873,19 +782,6 @@
       "tags": [],
       "body": "<p>When I sat down with bell hooks’ personal journals at an archive at Berea College in Kentucky, I expected an intimate peek into her private thoughts, her voice before the editing. What I got instead was frustration. Her handwriting was dense cursive, all loops that looked identical to my eye, and there were years of journals to go through. I found myself photographing pages and feeding them to Cha</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a3389b0d4": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Building a safe, effective sandbox to enable Codex on Windows",
-      "src": "OpenAI Blog",
-      "time": "2天前",
-      "published_ts": 1778670000,
-      "heat": "18.0K",
-      "views": "23.4K",
-      "url": "https://openai.com/index/building-codex-windows-sandbox",
-      "tags": [],
-      "body": "<p>Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a6bbcc6e9": {
       "layer": "l3",
       "cat": "L3 · 推理工程",
@@ -893,8 +789,8 @@
       "src": "Latent Space",
       "time": "3天前",
       "published_ts": 1778640442,
-      "heat": "12.5K",
-      "views": "14.8K",
+      "heat": "10.1K",
+      "views": "12.5K",
       "url": "https://www.latent.space/p/ainews-the-end-of-finetuning",
       "tags": [],
       "body": "<p>a quiet day lets us reflect on whither finetuning</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -969,10 +865,10 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] Thinking Machines' Native Interaction Models - TML-Interaction-Small 276B-A12B - advances SOTA Realtime Voice and kills standard VAD",
       "src": "Latent Space",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1778560426,
-      "heat": "10.1K",
-      "views": "12.5K",
+      "heat": "7.8K",
+      "views": "10.1K",
       "url": "https://www.latent.space/p/ainews-thinking-machines-native-interaction",
       "tags": [],
       "body": "<p>well done, Team Thinky.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -1015,19 +911,6 @@
       "url": "https://www.bensbites.com/p/bens-builds-3-an-email-app",
       "tags": [],
       "body": "<p>They have some challenges &#128517;</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a87bac2a0": {
-      "layer": "l3",
-      "cat": "L3 · 推理工程",
-      "title": "[AINews] Anthropic growing 10x/year while everyone else is laying off >10% of their workforce",
-      "src": "Latent Space",
-      "time": "7天前",
-      "published_ts": 1778288908,
-      "heat": "7.8K",
-      "views": "10.1K",
-      "url": "https://www.latent.space/p/ainews-anthropic-growing-10xyear",
-      "tags": [],
-      "body": "<p>A quiet day lets us reflect on an interesting dichotomy in the economy.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "ac65f400b": {
       "layer": "l1",
@@ -1463,7 +1346,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "268天前",
+      "time": "269天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1695,6 +1578,7 @@
   },
   "by_layer": {
     "l1": [
+      "a84caa11d",
       "afa4928df",
       "aee95baf5",
       "aad0b71f7",
@@ -1723,7 +1607,45 @@
       "a2ae2603b",
       "afeb62ce7"
     ],
+    "l4": [
+      "a6398568d",
+      "aa26885f7",
+      "ac5bfedd8",
+      "a701747fa",
+      "ab63b8883",
+      "aaa4f90e5",
+      "a8c51075a",
+      "ab7347195",
+      "a8f7cfb04",
+      "a062ed5ed",
+      "afba4ae59",
+      "a6612589e",
+      "a726604a1",
+      "a61e07a24",
+      "af3b20dd5",
+      "a816e6ed2",
+      "ad826bd68",
+      "ab59fe080",
+      "af25d02a4",
+      "a9560485f",
+      "a61a8adff",
+      "ad01feb8a"
+    ],
+    "l3": [
+      "ae00d5cca",
+      "ab46e723f",
+      "adbc7ec8f",
+      "a2cf6a266",
+      "a2335d573",
+      "a6bbcc6e9",
+      "acc7709a4",
+      "a774f3120",
+      "a23fdeba7",
+      "a1b552f8f",
+      "a28f84720"
+    ],
     "l0": [
+      "af34bdd30",
       "a7a45f213",
       "a116ed85d",
       "a156e8e3c",
@@ -1731,10 +1653,6 @@
       "a998f6c47",
       "a21a4d4a6",
       "a8a1f602d",
-      "a8954bb5d",
-      "a515319b5",
-      "abd20d7fa",
-      "af34bdd30",
       "ae289febc",
       "a4c70e437",
       "aff2a9fc2",
@@ -1755,50 +1673,9 @@
       "a9173515c",
       "abcb7b0c4"
     ],
-    "l4": [
-      "aa26885f7",
-      "ac5bfedd8",
-      "a701747fa",
-      "ab63b8883",
-      "aaa4f90e5",
-      "a6398568d",
-      "a8c51075a",
-      "ab7347195",
-      "a8f7cfb04",
-      "a062ed5ed",
-      "afba4ae59",
-      "a6612589e",
-      "a726604a1",
-      "a66a5cdce",
-      "a61e07a24",
-      "aea520293",
-      "af3b20dd5",
-      "a816e6ed2",
-      "a3389b0d4",
-      "ad826bd68",
-      "ab59fe080",
-      "af25d02a4",
-      "a9560485f",
-      "a61a8adff",
-      "ad01feb8a"
-    ],
-    "l5": [
-      "ab4cb78e9",
-      "a748ce2d7",
-      "abac995da",
-      "a7d46afa1",
-      "a4fd827fd",
-      "a0f88cd4e",
-      "ab121126c",
-      "a82351661",
-      "a2549ac1d",
-      "a0196b7f4"
-    ],
     "l2": [
-      "a8cd22f89",
-      "aa6f2ed79",
-      "a13645667",
       "a5d0e9bdc",
+      "a8cd22f89",
       "af1469c51",
       "acb8f20f3",
       "a1abb0110",
@@ -1822,39 +1699,36 @@
       "af0f189d1",
       "a38ad1236"
     ],
-    "l3": [
-      "ae00d5cca",
-      "ab46e723f",
-      "adbc7ec8f",
-      "a2cf6a266",
-      "a2335d573",
-      "a6bbcc6e9",
-      "acc7709a4",
-      "a87bac2a0",
-      "a774f3120",
-      "a23fdeba7",
-      "a1b552f8f",
-      "a28f84720"
+    "l5": [
+      "ab4cb78e9",
+      "a748ce2d7",
+      "abac995da",
+      "a4fd827fd",
+      "a0f88cd4e",
+      "ab121126c",
+      "a82351661",
+      "a2549ac1d",
+      "a0196b7f4"
     ]
   },
   "top5": [
-    "afa4928df",
-    "a7a45f213",
-    "aa26885f7",
-    "ac5bfedd8",
-    "a116ed85d"
+    "a84caa11d",
+    "a6398568d",
+    "ae00d5cca",
+    "af34bdd30",
+    "ab46e723f"
   ],
   "layers": [
     {
-      "id": "l4",
-      "num": "LAYER 4",
-      "name": "交互Agent",
+      "id": "l2",
+      "num": "LAYER 2",
+      "name": "基础模型",
       "vals": [
-        20,
-        30,
-        9,
-        16,
-        29,
+        28,
+        26,
+        8,
+        6,
+        21,
         19
       ],
       "trend": [
@@ -1872,34 +1746,12 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        23,
-        27,
+        19,
+        33,
         11,
         7,
-        30,
+        17,
         21
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
-    {
-      "id": "l2",
-      "num": "LAYER 2",
-      "name": "基础模型",
-      "vals": [
-        16,
-        11,
-        24,
-        6,
-        25,
-        20
       ],
       "trend": [
         20,
@@ -1916,12 +1768,12 @@
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
+        23,
+        24,
+        11,
+        7,
         19,
-        10,
-        10,
-        6,
-        26,
-        20
+        21
       ],
       "trend": [
         20,
@@ -1934,15 +1786,59 @@
       ]
     },
     {
+      "id": "l4",
+      "num": "LAYER 4",
+      "name": "交互Agent",
+      "vals": [
+        10,
+        21,
+        9,
+        5,
+        27,
+        19
+      ],
+      "trend": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
+      "vals": [
+        10,
+        12,
+        5,
+        5,
+        10,
+        19
+      ],
+      "trend": [
+        20,
+        18,
+        16,
+        14,
+        12,
+        10,
+        8
+      ]
+    },
+    {
       "id": "l3",
       "num": "LAYER 3",
       "name": "推理工程",
       "vals": [
-        16,
-        21,
+        10,
+        10,
         5,
-        5,
-        17,
+        6,
+        10,
         14
       ],
       "trend": [
@@ -1954,31 +1850,44 @@
         15,
         14
       ]
-    },
-    {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
-      "vals": [
-        10,
-        10,
-        5,
-        5,
-        14,
-        13
-      ],
-      "trend": [
-        20,
-        18,
-        16,
-        14,
-        12,
-        10,
-        8
-      ]
     }
   ],
   "ticker": [
+    {
+      "tag": "LATENT SP",
+      "col": "var(--l1)",
+      "text": "[AINews] Cerebras' $60B IPO: Slowly, then All at Once"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l4)",
+      "text": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Or…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l3)",
+      "text": "Mixed Integer Goal Programming for Personalized Meal Optimization…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l0)",
+      "text": "A Two-Dimensional Framework for AI Agent Design Patterns: Cogniti…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l3)",
+      "text": "Invisible Orchestrators Suppress Protective Behavior and Dissocia…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l3)",
+      "text": "PREPING: Building Agent Memory without Tasks"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "PolitNuggets: Benchmarking Agentic Discovery of Long-Tail Politic…"
+    },
     {
       "tag": "SIMON WIL",
       "col": "var(--l1)",
@@ -2013,69 +1922,16 @@
       "tag": "THE VERGE",
       "col": "var(--l0)",
       "text": "OpenAI keeps shuffling its executives in bid to win AI agent batt…"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l1)",
-      "text": "Silicon Valley’s vacationland needs a new energy provider just as…"
-    },
-    {
-      "tag": "WIRED",
-      "col": "var(--l0)",
-      "text": "Greg Brockman Officially Takes Control of OpenAI’s Products in La…"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "OpenAI launches ChatGPT for personal finance, will let you connec…"
-    },
-    {
-      "tag": "404 MEDIA",
-      "col": "var(--l4)",
-      "text": "ArXiv to Ban Researchers for a Year if They Submit AI Slop"
-    },
-    {
-      "tag": "404 MEDIA",
-      "col": "var(--l0)",
-      "text": "Behind the Blog: New Music and a Crash Out"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l5)",
-      "text": "Google floats reduced initial 5GB free cloud storage limit, users…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Pennsylvania residents complain they are being 'bulldozed' over A…"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "I believe there are entire companies right now under AI psychosis",
-      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "votes": "920",
-      "comments": "391",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "The main thing about P2P meth is that there's so much of it (2021)",
-      "url": "https://dynomight.net/p2p-meth/",
-      "votes": "61",
-      "comments": "54",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "A 0-click exploit chain for the Pixel 10",
-      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "votes": "347",
-      "comments": "159",
+      "title": "Frontier AI has broken the open CTF format",
+      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "votes": "50",
+      "comments": "24",
       "time": "近期"
     },
     {
@@ -2083,26 +1939,44 @@
       "badge": "pb-hn",
       "title": "Ploopy Bean: a trackpoint for every computer",
       "url": "https://ploopy.co/shop/bean-pointing-stick/",
-      "votes": "9",
-      "comments": "6",
+      "votes": "84",
+      "comments": "38",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Waymo updates 3,800 robotaxis after they 'drive into standing water'",
-      "url": "https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html",
-      "votes": "168",
-      "comments": "162",
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "votes": "1,259",
+      "comments": "601",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Steve Jobs in Exile – New book on his years at NeXT Computer",
-      "url": "https://spectrum.ieee.org/steve-jobs-next-computer",
-      "votes": "194",
-      "comments": "156",
+      "title": "The main thing about P2P meth is that there's so much of it (2021)",
+      "url": "https://dynomight.net/p2p-meth/",
+      "votes": "110",
+      "comments": "110",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "A 0-click exploit chain for the Pixel 10",
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "votes": "366",
+      "comments": "181",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Gaining control of every projector and camera on campus",
+      "url": "https://www.edna.land/blogs/posts/scanning/",
+      "votes": "12",
+      "comments": "1",
       "time": "近期"
     }
   ]
