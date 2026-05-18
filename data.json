@@ -1,15 +1,262 @@
 {
-  "updated_at": "2026-05-18T03:58:14.963390+00:00",
-  "article_count": 116,
+  "updated_at": "2026-05-18T10:10:44.242455+00:00",
+  "article_count": 129,
   "articles": {
+    "af537ef93": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Samsung granted court injunction against imminent strike action in last-minute reprieve — talks resume as unions barred from occupying or locking facilities, obstructing workers",
+      "src": "Tom's Hardware",
+      "time": "4分钟前",
+      "published_ts": 1779098760,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/tech-industry/samsung-granted-court-injunction-against-imminent-strike-action-in-last-minute-reprieve-talks-resume-as-unions-barred-from-occupying-or-locking-facilities-obstructing-workers",
+      "tags": [],
+      "body": "<p>Samsung has been granted an injunction to limit the scope of planned strike action ahead of an 18-day walkout due to start on Thursday.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a9949d3b0": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "How Melbourne’s AI and Data Center Flywheel Is Accelerating Research Innovation",
+      "src": "IEEE Spectrum",
+      "time": "10分钟前",
+      "published_ts": 1779098401,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://spectrum.ieee.org/melbourne-ai-data-center-innovation",
+      "tags": [],
+      "body": "<p>This sponsored article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia . Melbourne’s reputation as a global events city, from the Australian Open tennis and Formula 1 Australian Grand Prix to hosting NFL regular season games, now intersects with a different form of scale: large-scale compute, data-intensive research, and advanced engineering. Long reco</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aa00f39b2": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Agentic AI for Robot Teams",
+      "src": "IEEE Spectrum",
+      "time": "10分钟前",
+      "published_ts": 1779098401,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://events.bizzabo.com/867156",
+      "tags": [],
+      "body": "<p>This presentation highlights recent efforts at the Johns Hopkins Applied Physics Laboratory to advance agentic AI for collaborative robotic teams. It begins by framing the core challenges of enabling autonomy, coordination, and adaptability across heterogeneous systems, then introduces a scalable architecture designed to support agentic behaviors in multi-robot environments. The talk concludes wit</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a6385709c": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Samsung meeting transcripts show memory workers offered incredible 607% bonus worth $477,000, while logic chip staff get as little as 50% — union says misbalance 'creates a retention crisis the company cannot afford'",
+      "src": "Tom's Hardware",
+      "time": "10分钟前",
+      "published_ts": 1779098400,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/tech-industry/leaked-samsung-meeting-transcripts-show-memory-workers-offered-607-percent-bonus",
+      "tags": [],
+      "body": "<p>Internal Samsung wage negotiation transcripts show the company proposed bonuses of 607% of annual salary for its memory chip division in March,</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a7d85228f": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Disco Elysium’s spiritual successor can&#8217;t escape its phantoms",
+      "src": "The Verge",
+      "time": "10分钟前",
+      "published_ts": 1779098400,
+      "heat": "24.0K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/entertainment/931629/zero-parades-for-dead-spies-review-disco-elysium",
+      "tags": [],
+      "body": "<p>Zero Parades: For Dead Spies wants you to question the price of forgiveness. After leading a crew of spies through a failed operation, protagonist Cascade is willing to pay whatever amount is needed to reestablish contact not just with fellow agents, but with the friends she let down. After being \"frozen\" for five years and [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a5559f74d": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "I’m a Normie. Can Normies Really Vibe Code?",
+      "src": "Wired",
+      "time": "10分钟前",
+      "published_ts": 1779098400,
+      "heat": "16.5K",
+      "views": "16.5K",
+      "url": "https://www.wired.com/story/normie-vibe-code/",
+      "tags": [],
+      "body": "<p>Apparently anyone can vibe code anything these days. So Claude and I tried to make a database for tracking the petty grievances of the masses.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a386a719e": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Enthusiast crams reversed-engineered PS2 into a handheld, designs custom motherboard — bespoke \"PlayStation 2 Portable\" pairs modern features with original silicon",
+      "src": "Tom's Hardware",
+      "time": "30分钟前",
+      "published_ts": 1779097200,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://www.tomshardware.com/video-games/handheld-gaming/enthusiast-crams-reversed-engineered-ps2-into-a-handheld-designs-custom-motherboard-bespoke-playstation-2-portable-pairs-modern-features-with-original-silicon",
+      "tags": [],
+      "body": "<p>What if you wanted to play PS2 games on the go but didn't want to emulate them? Meet the PS2 Portable: an open-source handheld pieced together with a custom motherboard featuring original PS2 silicon and modern niceties such as hall-effect joysticks. It can play any PS2 game natively for up to 4.5 hours on a single charge, which happens via USB-C.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a93943ff7": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "AgentStop: Terminating Local AI Agents Early to Save Energy in Consumer Devices",
+      "src": "arXiv cs.LG",
+      "time": "6小时前",
+      "published_ts": 1779076800,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2605.15206",
+      "tags": [],
+      "body": "<p>arXiv:2605.15206v1 Announce Type: new Abstract: Autonomous agents powered by large language models (LLMs) are increasingly used to automate complex, multi-step tasks such as coding or web-based question answering. While remote, cloud-based agents offer scalability and ease of deployment, they raise privacy concerns, depend on network connectivity, and incur recurring API costs. Deploying agents lo</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a2449210a": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination",
+      "src": "arXiv cs.LG",
+      "time": "6小时前",
+      "published_ts": 1779076800,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2605.15207",
+      "tags": [],
+      "body": "<p>arXiv:2605.15207v1 Announce Type: new Abstract: Multi-agent LLM systems have shown promise for complex reasoning, yet recent evaluations reveal they often underperform single-model baselines. We identify a structural failure mode in sequential fine-tuning of shared-context teams: updating one agent shifts the team's context distribution, and when subsequent updates are evaluated on cached rollouts</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a3d39c211": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "Quantization Undoes Alignment: Bias Emergence in Compressed LLMs Across Models and Precision Levels",
+      "src": "arXiv cs.LG",
+      "time": "6小时前",
+      "published_ts": 1779076800,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2605.15208",
+      "tags": [],
+      "body": "<p>arXiv:2605.15208v1 Announce Type: new Abstract: Large Language Models are routinely compressed via post-training quantization to reduce inference costs and memory footprint for cloud and edge deployment, yet the impact of this compression on model quality remains poorly understood. Existing studies typically compare only two conditions (full-precision vs. a single quantized variant), rely on aggre</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a25c4cf5b": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "Mask-Morph Graph U-Net: A Generalisable Mesh-Based Surrogate for Crashworthiness Field Prediction under Large Geometric Variation",
+      "src": "arXiv cs.LG",
+      "time": "6小时前",
+      "published_ts": 1779076800,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2605.15231",
+      "tags": [],
+      "body": "<p>arXiv:2605.15231v1 Announce Type: new Abstract: Nonlinear finite element crash simulations are accurate but computationally expensive, limiting their use in iterative design optimisation. Machine-learning surrogate models based on graph neural networks (GNNs) offer a faster alternative. Message-passing GNNs are widely used for mesh simulation, and their shared node and edge update functions are re</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ae46f2d70": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "MuteBench: Modality Unavailability Tolerance Evaluation for Incomplete Multimodal Fusion",
+      "src": "arXiv cs.LG",
+      "time": "6小时前",
+      "published_ts": 1779076800,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2605.15235",
+      "tags": [],
+      "body": "<p>arXiv:2605.15235v1 Announce Type: new Abstract: Multimodal physiological data powers clinical AI systems from intensive care units to wearable devices, but sensors routinely fail in practice. Two failure modes are common: modality missing, where an entire channel is absent, and within-modality missing, where a contiguous time segment is lost. No existing benchmark evaluates multiple fusion archite</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a0ecd760f": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Reducing the Safety Tax in LLM Safety Alignment with On-Policy Self-Distillation",
+      "src": "arXiv cs.LG",
+      "time": "6小时前",
+      "published_ts": 1779076800,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2605.15239",
+      "tags": [],
+      "body": "<p>arXiv:2605.15239v1 Announce Type: new Abstract: Safety alignment often improves robustness to harmful queries at the cost of reasoning ability, a tradeoff known as the safety tax. A common cause is distributional mismatch: supervised fine-tuning trains the target model on safety demonstrations produced by humans, external models, or fixed self-generated traces, rather than on trajectories sampled </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "acb3f01b7": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "DeepSlide: From Artifacts to Presentation Delivery",
+      "src": "arXiv cs.AI",
+      "time": "6小时前",
+      "published_ts": 1779076800,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2605.15202",
+      "tags": [],
+      "body": "<p>arXiv:2605.15202v1 Announce Type: new Abstract: Presentations are a primary medium for scholarly communication, yet most AI slide generators optimize the artifact (a visually plausible deck) while under-optimizing the delivery process (pacing, narrative, and presentation preparation). We present DeepSlide, a human-in-the-loop multi-agent system that supports preparing the full presentation process</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a3e8b3cfd": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrained Dispatch",
+      "src": "arXiv cs.AI",
+      "time": "6小时前",
+      "published_ts": 1779076800,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2605.15204",
+      "tags": [],
+      "body": "<p>arXiv:2605.15204v1 Announce Type: new Abstract: Multi-agent orchestration frameworks such as LangChain, LangGraph, and CrewAI route tasks through graph-based pipelines but do not enforce the stage constraints that govern real business processes. We present SDOF, a framework that treats multi-agent execution as a constrained state machine. SDOF operates through two primary defensive layers, impleme</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ac7b88e28": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical Findings from Interactive Evaluations",
+      "src": "arXiv cs.AI",
+      "time": "6小时前",
+      "published_ts": 1779076800,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2605.15205",
+      "tags": [],
+      "body": "<p>arXiv:2605.15205v1 Announce Type: new Abstract: Improving the Theory of Mind (ToM) capability of Large Language Models (LLMs) is crucial for effective social interactions between these AI models and humans. However, the existing benchmarks often measure ToM capability improvement through story-reading, multiple-choice questions from a third-person perspective, while ignoring the first-person, dyna</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "afb5009c8": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "SkillSmith: Compiling Agent Skills into Boundary-Guided Runtime Interfaces",
+      "src": "arXiv cs.AI",
+      "time": "6小时前",
+      "published_ts": 1779076800,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2605.15215",
+      "tags": [],
+      "body": "<p>arXiv:2605.15215v1 Announce Type: new Abstract: Recently, skills have been widely adopted in large language model (LLM)-based agent systems across various domains. In existing frameworks, skills are typically injected into the agent reasoning loop as contextual guidance once matched to a runtime task, enabling specialized task-solving capabilities. We find that this execution paradigm introduces t</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a7bd42254": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Fair outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions",
+      "src": "arXiv cs.AI",
+      "time": "6小时前",
+      "published_ts": 1779076800,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2605.15217",
+      "tags": [],
+      "body": "<p>arXiv:2605.15217v1 Announce Type: new Abstract: Instruction-tuned language models exhibit behavioural fairness in high-stakes decisions while retaining biased associations in their internal representations. However, whether these suppressed representations can affect model outputs - and whether such causal potency is symmetric across demographic groups - remains unknown. We investigate the use of </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a59514e6a": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "CAX-Agent: A Lightweight Agent Harness for Reliable APDL Automation",
+      "src": "arXiv cs.AI",
+      "time": "6小时前",
+      "published_ts": 1779076800,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2605.15218",
+      "tags": [],
+      "body": "<p>arXiv:2605.15218v1 Announce Type: new Abstract: Large language models deployed for MAPDL finite-element simulation face practical reliability challenges: without structured execution control, tool encapsulation, and fault recovery, outputs may be inconsistent and task failures are common. The Agent Harness paradigm addresses this by inserting domain-specific orchestration middleware that manages t</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a731ad02c": {
       "layer": "l5",
       "cat": "L5 · 生态商业",
       "title": "Microsoft is retiring Teams’ Together Mode",
       "src": "The Verge",
-      "time": "6小时前",
+      "time": "12小时前",
       "published_ts": 1779052528,
-      "heat": "24.0K",
+      "heat": "21.1K",
       "views": "24.0K",
       "url": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
       "tags": [],
@@ -20,7 +267,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
       "src": "TechCrunch AI",
-      "time": "8小时前",
+      "time": "14小时前",
       "published_ts": 1779047194,
       "heat": "23.8K",
       "views": "27.0K",
@@ -28,25 +275,25 @@
       "tags": [],
       "body": "<p>A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "ad84fbea2": {
+    "a237eec1e": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
-      "title": "Revamped Siri will reportedly offer auto-deleting chats",
+      "title": "Revamped Siri will reportedly offer autodeleting chats",
       "src": "The Verge",
-      "time": "9小时前",
+      "time": "15小时前",
       "published_ts": 1779043228,
-      "heat": "21.1K",
-      "views": "24.0K",
+      "heat": "18.2K",
+      "views": "21.1K",
       "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
       "tags": [],
-      "body": "<p>Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat histories. [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>Apple is hoping that its record on privacy can be the differentiator on the AI front and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat histories. [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a915ab659": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks.",
       "src": "Google AI Blog",
-      "time": "9小时前",
+      "time": "16小时前",
       "published_ts": 1779040800,
       "heat": "34.5K",
       "views": "34.5K",
@@ -59,10 +306,10 @@
       "cat": "L0 · 领袖观点",
       "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
       "src": "The Verge",
-      "time": "10小时前",
+      "time": "16小时前",
       "published_ts": 1779038543,
-      "heat": "18.2K",
-      "views": "21.1K",
+      "heat": "15.4K",
+      "views": "18.2K",
       "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
       "tags": [],
       "body": "<p>Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos. AI is already a contentious topic, and it's not surprising that those about to enter a ravaged job market feel particularly negative about [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -72,7 +319,7 @@
       "cat": "L1 · 算力硬件",
       "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
       "src": "TechCrunch AI",
-      "time": "11小时前",
+      "time": "17小时前",
       "published_ts": 1779035524,
       "heat": "20.5K",
       "views": "23.8K",
@@ -85,10 +332,10 @@
       "cat": "L1 · 算力硬件",
       "title": "Japan can’t make robot wolves fast enough to counter the rise in bear attacks that have killed 13 humans this year — $4,000+ animatronic Monster Wolf features intense LEDs and makes loud noises",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "18小时前",
       "published_ts": 1779033964,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "7.8K",
+      "views": "9.6K",
       "url": "https://www.tomshardware.com/maker-stem/robot-kits/japan-cant-make-robot-wolves-fast-enough-to-counter-the-rise-in-bear-attacks-that-have-killed-13-humans-this-year-usd4-000-animatronic-monster-wolf-features-intense-leds-and-makes-loud-noises",
       "tags": [],
       "body": "<p>With record numbers of bear attacks on humans, Japan has been increasingly turning to high-tech solutions like the Monster Wolf robot. But production can't keep up with demand.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -98,7 +345,7 @@
       "cat": "L4 · 交互Agent",
       "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
       "src": "TechCrunch AI",
-      "time": "11小时前",
+      "time": "18小时前",
       "published_ts": 1779033900,
       "heat": "17.3K",
       "views": "20.5K",
@@ -111,7 +358,7 @@
       "cat": "L3 · 推理工程",
       "title": "GDS weighs in on the NHS's decision to retreat from Open Source",
       "src": "Simon Willison",
-      "time": "11小时前",
+      "time": "18小时前",
       "published_ts": 1779033581,
       "heat": "15.0K",
       "views": "15.0K",
@@ -124,78 +371,39 @@
       "cat": "L1 · 算力硬件",
       "title": "ASML to equip India’s first commercial chip fab — $11 billion Dholera project targets 50,000 wafers a month",
       "src": "Tom's Hardware",
-      "time": "12小时前",
+      "time": "19小时前",
       "published_ts": 1779030120,
-      "heat": "11.4K",
-      "views": "13.2K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://www.tomshardware.com/tech-industry/asml-partners-with-tata-electronics-to-equip-indias-first-commercial-semiconductor-fab",
       "tags": [],
       "body": "<p>ASML and Tata Electronics have signed a memorandum of understanding to deploy ASML's equipment at India's first fab.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a94117296": {
+    "af675d33c": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
-      "title": "LinkedIn user hides AI prompt injection in bio to force recruitment spam to be sent in Olde English prose — bots also manipulated to address user as ‘My Lord’",
-      "src": "Tom's Hardware",
-      "time": "13小时前",
-      "published_ts": 1779028085,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/linkedin-recruitment-spam-becomes-olde-english-prose-after-user-hides-ai-prompt-injection-in-bio-bots-also-also-manipulated-to-address-user-as-my-lord",
+      "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
+      "src": "IEEE Spectrum",
+      "time": "21小时前",
+      "published_ts": 1779022801,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
       "tags": [],
-      "body": "<p>One LinkedIn user has fought back against recruiter spam in a very unusual way.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>AI-powered voice and audio tools are becoming increasingly embedded in daily life, from digital assistants to smart speakers and customer service bots. Advances in large audio-language models (LALMs), which can both analyze and generate audio , now make it possible to control devices using voice commands, transcribe meetings automatically, or identify a song playing in the background. These models</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a641c2403": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "Fujifilm’s X Half is even more whimsical with a $300 price cut",
       "src": "The Verge",
-      "time": "14小时前",
-      "published_ts": 1779022800,
-      "heat": "12.5K",
-      "views": "15.4K",
-      "url": "https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale",
-      "tags": [],
-      "body": "<p>Fujifilm’s X Half digital camera wasn’t designed to replace your main camera, though you’d be forgiven for assuming it was with its ludicrous $850 price. However, the company recently reduced the MSRP to $649.99, and is now knocking an additional $100 off through June 28th. That means you can grab the X Half in its [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ac328ad79": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "ElliQ is a surprisingly helpful companion robot for older adults",
-      "src": "The Verge",
-      "time": "14小时前",
+      "time": "21小时前",
       "published_ts": 1779022800,
       "heat": "9.6K",
       "views": "12.5K",
-      "url": "https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on",
+      "url": "https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale",
       "tags": [],
-      "body": "<p>A week before the ElliQ robot arrived, a neurologist told me we need to rebalance my mom's life. Her Parkinson's disease medication had steadily become less effective over the previous month, and with it, she had slowly stopped doing many of the things crucial to managing the disease - exercising, socializing, and engaging in hobbies. [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a6bdeb05a": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Russia’s Mikron is selling framed test wafers with up to 120,000 processors as souvenirs — 12 designs, priced around $170 each, sold alongside $2 vials of cleanroom air",
-      "src": "Tom's Hardware",
-      "time": "15小时前",
-      "published_ts": 1779022500,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/russias-mikron-is-selling-framed-test-wafers-with-up-to-120-000-processors-as-souvenirs-12-designs-priced-around-usd170-each-sold-alongside-usd2-vials-of-cleanroom-air",
-      "tags": [],
-      "body": "<p>Russia’s Mikron is earning a bit of cash on the side by selling picture-framed test wafers as souvenirs with 12 designs to choose from, priced around $170.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a20176908": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Jay Forrester filed the first practical computer RAM patent 75 years ago this week — his Magnetic Core Memory patent would be granted five years later",
-      "src": "Tom's Hardware",
-      "time": "15小时前",
-      "published_ts": 1779020992,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://www.tomshardware.com/tech-industry/jay-forrester-filed-the-first-practical-ram-patent-75-years-ago-this-week",
-      "tags": [],
-      "body": "<p>Granted as U.S. Patent 2,736,880 in February 1956, Forrester's invention evolved from MIT's Project Whirlwind.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>Fujifilm’s X Half digital camera wasn’t designed to replace your main camera, though you’d be forgiven for assuming it was with its ludicrous $850 price. However, the company recently reduced the MSRP to $649.99, and is now knocking an additional $100 off through June 28th. That means you can grab the X Half in its [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a6e9b6465": {
       "layer": "l1",
@@ -256,8 +464,8 @@
       "src": "IEEE Spectrum",
       "time": "1天前",
       "published_ts": 1778936401,
-      "heat": "15.0K",
-      "views": "15.0K",
+      "heat": "9.6K",
+      "views": "11.4K",
       "url": "https://spectrum.ieee.org/sign-language-interpreter",
       "tags": [],
       "body": "<p>Electronic rings wirelessly connected to an AI system are capable of translating multiple sign languages into text, a new study finds. “I believe this is an important step toward making sign language translation systems more practical, lightweight, and usable in real-world environments,” says Ki Jun Yu , an associate professor of electrical and electronic engineering at Yonsei University in Korea.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -280,9 +488,9 @@
       "cat": "L4 · 交互Agent",
       "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
       "src": "Wired",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1778923800,
-      "heat": "16.5K",
+      "heat": "14.5K",
       "views": "16.5K",
       "url": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/",
       "tags": [],
@@ -293,7 +501,7 @@
       "cat": "L1 · 算力硬件",
       "title": "[AINews] Cerebras' $60B IPO: Slowly, then All at Once",
       "src": "Latent Space",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1778906210,
       "heat": "19.5K",
       "views": "19.5K",
@@ -347,8 +555,8 @@
       "src": "Wired",
       "time": "2天前",
       "published_ts": 1778864957,
-      "heat": "14.5K",
-      "views": "16.5K",
+      "heat": "12.5K",
+      "views": "14.5K",
       "url": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
       "tags": [],
       "body": "<p>OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -397,7 +605,7 @@
       "cat": "L5 · 生态商业",
       "title": "How Chinese short dramas became AI content machines",
       "src": "MIT Tech Review",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1778835600,
       "heat": "19.8K",
       "views": "22.5K",
@@ -410,10 +618,10 @@
       "cat": "L0 · 领袖观点",
       "title": "Mira Murati Wants Her AI to ‘Keep Humans in the Loop’",
       "src": "Wired",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1778835600,
-      "heat": "12.5K",
-      "views": "14.5K",
+      "heat": "10.6K",
+      "views": "12.5K",
       "url": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
       "tags": [],
       "body": "<p>The Thinking Machines Lab founder and former CTO of OpenAI tells WIRED she isn’t interested in automating people out of jobs. Instead, she’s building AI that can collaborate.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -423,7 +631,7 @@
       "cat": "L0 · 领袖观点",
       "title": "From policy to practice: supporting the future of AI in education",
       "src": "Google AI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1778832000,
       "heat": "30.4K",
       "views": "34.5K",
@@ -436,7 +644,7 @@
       "cat": "L2 · 基础模型",
       "title": "QR code generator",
       "src": "Simon Willison",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1778817649,
       "heat": "6.0K",
       "views": "7.8K",
@@ -451,8 +659,8 @@
       "src": "Wired",
       "time": "3天前",
       "published_ts": 1778806193,
-      "heat": "10.6K",
-      "views": "12.5K",
+      "heat": "8.6K",
+      "views": "10.6K",
       "url": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
       "tags": [],
       "body": "<p>A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -470,19 +678,6 @@
       "tags": [],
       "body": "<p>an ultra quiet day lets us highlight a smaller trend.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "af1469c51": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "src": "OpenAI Blog",
-      "time": "3天前",
-      "published_ts": 1778803200,
-      "heat": "34.2K",
-      "views": "39.6K",
-      "url": "https://openai.com/index/databricks",
-      "tags": [],
-      "body": "<p>Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "ab7347195": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
@@ -490,11 +685,24 @@
       "src": "OpenAI Blog",
       "time": "3天前",
       "published_ts": 1778803200,
-      "heat": "23.4K",
-      "views": "28.8K",
+      "heat": "39.6K",
+      "views": "45.0K",
       "url": "https://openai.com/index/personal-finance-chatgpt",
       "tags": [],
       "body": "<p>Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "af1469c51": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "src": "OpenAI Blog",
+      "time": "3天前",
+      "published_ts": 1778803200,
+      "heat": "28.8K",
+      "views": "34.2K",
+      "url": "https://openai.com/index/databricks",
+      "tags": [],
+      "body": "<p>Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a2335d573": {
       "layer": "l3",
@@ -516,8 +724,8 @@
       "src": "Wired",
       "time": "3天前",
       "published_ts": 1778790454,
-      "heat": "8.6K",
-      "views": "10.6K",
+      "heat": "6.6K",
+      "views": "8.6K",
       "url": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/",
       "tags": [],
       "body": "<p>Meta employees in the US and UK are organizing against corporate software that tracks workers’ keystrokes and mouse activity.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -542,8 +750,8 @@
       "src": "IEEE Spectrum",
       "time": "3天前",
       "published_ts": 1778774704,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "7.8K",
+      "views": "9.6K",
       "url": "https://spectrum.ieee.org/graphene-sensor-plant-neural-network",
       "tags": [],
       "body": "<p>A hydrated leaf is a healthy leaf. That’s true for the leaves of crop plants in a farmer’s field and for the leaves of trees in an area vulnerable to forest fires. But the traditional techniques to monitor leaf hydration require cutting them from their plants, which is time-consuming and cannot give live measurements. That’s why many researchers are building sensors that measure a plant’s health i</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -605,10 +813,10 @@
       "cat": "L1 · 算力硬件",
       "title": "Accelerating Chipmaking Innovation for the Energy-Efficient AI Era",
       "src": "IEEE Spectrum",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1778752801,
-      "heat": "11.4K",
-      "views": "13.2K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://spectrum.ieee.org/applied-materials-epic-center",
       "tags": [],
       "body": "<p>This sponsored article is brought to you by Applied Materials . At pivotal moments in history, progress has required more than individual brilliance. The most consequential breakthroughs — such as those achieved under the Human Genome Project — required a new operating paradigm: Concentrate the world’s best talent around a single mission, establish a common platform, share critical infrastructure,</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -618,7 +826,7 @@
       "cat": "L2 · 基础模型",
       "title": "Es Devlin’s ‘A National Portrait’ for the National Portrait Gallery",
       "src": "Google AI Blog",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1778745600,
       "heat": "26.2K",
       "views": "30.4K",
@@ -691,19 +899,6 @@
       "tags": [],
       "body": "<p>femme au chapeau painting</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a816e6ed2": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Can AI Chatbots Reason Like Doctors?",
-      "src": "IEEE Spectrum",
-      "time": "4天前",
-      "published_ts": 1778680802,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://spectrum.ieee.org/ai-clinical-decision-support",
-      "tags": [],
-      "body": "<p>One of the earliest stated goals for computing in medicine was to aid in clinical reasoning: the decision-making steps required to reach a diagnosis and form a treatment plan. And over the years, researchers have built many clinical decision support systems, which have typically been purpose-built, with painstakingly written rules about symptoms, test thresholds, and medication interactions. As ar</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a7d4a2cdf": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
@@ -743,19 +938,6 @@
       "tags": [],
       "body": "<p>Agentic AI is changing the way users get work done. Following the success of OpenClaw, the community is embracing new open source agentic frameworks. The latest is Hermes Agent, which crossed 140,000 GitHub stars in under three months.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a4f7a451a": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Archivists Turn to LLMs to Decipher Handwriting at Scale",
-      "src": "IEEE Spectrum",
-      "time": "4天前",
-      "published_ts": 1778673601,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://spectrum.ieee.org/ai-handwriting-transcription-transkribus-lecun",
-      "tags": [],
-      "body": "<p>When I sat down with bell hooks’ personal journals at an archive at Berea College in Kentucky, I expected an intimate peek into her private thoughts, her voice before the editing. What I got instead was frustration. Her handwriting was dense cursive, all loops that looked identical to my eye, and there were years of journals to go through. I found myself photographing pages and feeding them to Cha</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a6bbcc6e9": {
       "layer": "l3",
       "cat": "L3 · 推理工程",
@@ -768,19 +950,6 @@
       "url": "https://www.latent.space/p/ainews-the-end-of-finetuning",
       "tags": [],
       "body": "<p>a quiet day lets us reflect on whither finetuning</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "af61820fb": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Neutralizing the Gigascale Problem: How to Solve the Physical Power Paradox of Extreme AI Training Loads",
-      "src": "IEEE Spectrum",
-      "time": "5天前",
-      "published_ts": 1778606115,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://spectrum.ieee.org/gigascale-ai-datacenter-power",
-      "tags": [],
-      "body": "<p>This sponsored article is brought to you by Ampace . As AI workloads grow to gigascale levels, the global data center industry has hit a hidden physical wall. The real bottleneck is no longer just the thermal limit of the chip or the capacity of the cooling system — it is the dynamic resilience of the power chain. Modern AI computing clusters, driven by massive GPU clusters, generate high-frequenc</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a58c3031f": {
       "layer": "l2",
@@ -826,7 +995,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] Thinking Machines' Native Interaction Models - TML-Interaction-Small 276B-A12B - advances SOTA Realtime Voice and kills standard VAD",
       "src": "Latent Space",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1778560426,
       "heat": "7.8K",
       "views": "10.1K",
@@ -865,7 +1034,7 @@
       "cat": "L5 · 生态商业",
       "title": "Ben's Builds #3 - an email app",
       "src": "Ben's Bites",
-      "time": "8天前",
+      "time": "9天前",
       "published_ts": 1778318710,
       "heat": "12.5K",
       "views": "14.5K",
@@ -1255,7 +1424,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
       "src": "SemiAnalysis",
-      "time": "251天前",
+      "time": "252天前",
       "published_ts": 1757325297,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1281,7 +1450,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "270天前",
+      "time": "271天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1512,19 +1681,112 @@
     }
   },
   "by_layer": {
-    "l5": [
-      "a731ad02c",
-      "abac995da",
-      "a4fd827fd",
-      "a0f88cd4e",
-      "a82351661",
-      "a2549ac1d",
-      "a0196b7f4"
+    "l1": [
+      "af537ef93",
+      "a9949d3b0",
+      "a6385709c",
+      "a386a719e",
+      "a7bd42254",
+      "a59514e6a",
+      "a1ce401a1",
+      "ae453cd3b",
+      "a77033c65",
+      "af675d33c",
+      "a6e9b6465",
+      "a84caa11d",
+      "afa4928df",
+      "a478f3552",
+      "aac8f9867",
+      "aa40f26d3",
+      "a7d4a2cdf",
+      "a96b1c346",
+      "ac65f400b",
+      "aa226a7ec",
+      "ae26cebf0",
+      "aa916162d",
+      "a59c2fbb4",
+      "a6bee3694",
+      "a612b9eb6",
+      "a472cb971",
+      "a94a9a29d",
+      "a5236c597",
+      "a2ae2603b",
+      "afeb62ce7"
+    ],
+    "l4": [
+      "aa00f39b2",
+      "a7d85228f",
+      "acb3f01b7",
+      "a3e8b3cfd",
+      "afb5009c8",
+      "a237eec1e",
+      "a435994c9",
+      "a641c2403",
+      "a4fcf486e",
+      "abfab9579",
+      "a96ef834c",
+      "ab63b8883",
+      "aaa4f90e5",
+      "ab7347195",
+      "afba4ae59",
+      "a6612589e",
+      "a61e07a24",
+      "af3b20dd5",
+      "ad826bd68",
+      "ab59fe080",
+      "af25d02a4",
+      "a9560485f",
+      "a61a8adff",
+      "ad01feb8a"
+    ],
+    "l2": [
+      "a5559f74d",
+      "a2449210a",
+      "ae46f2d70",
+      "a0ecd760f",
+      "a915ab659",
+      "a2f484bd6",
+      "aca48b05a",
+      "a3f2c1a73",
+      "a8cd22f89",
+      "af1469c51",
+      "acb8f20f3",
+      "a1abb0110",
+      "a581e13f4",
+      "a4d4d6c90",
+      "a5bf973bf",
+      "a58c3031f",
+      "a41a1b31c",
+      "ae3d3b3e2",
+      "a1c025c0d",
+      "a306fec6a",
+      "a06dfbaf7",
+      "a7e4991c9",
+      "a95a70797",
+      "a0c4ebb65",
+      "a0b43a2bc",
+      "ab3119897",
+      "af0f189d1",
+      "a38ad1236"
+    ],
+    "l3": [
+      "a93943ff7",
+      "a3d39c211",
+      "ae4745a7e",
+      "a2cf6a266",
+      "a2335d573",
+      "a6bbcc6e9",
+      "acc7709a4",
+      "a774f3120",
+      "a23fdeba7",
+      "a1b552f8f",
+      "a28f84720"
     ],
     "l0": [
+      "a25c4cf5b",
+      "ac7b88e28",
       "a7e0fc1d2",
       "a19653ebe",
-      "ac328ad79",
       "a58adb0f1",
       "a5c2e8df2",
       "a885ce047",
@@ -1551,115 +1813,35 @@
       "a9173515c",
       "abcb7b0c4"
     ],
-    "l4": [
-      "ad84fbea2",
-      "a435994c9",
-      "a641c2403",
-      "a4fcf486e",
-      "abfab9579",
-      "a96ef834c",
-      "ab63b8883",
-      "aaa4f90e5",
-      "ab7347195",
-      "afba4ae59",
-      "a6612589e",
-      "a61e07a24",
-      "af3b20dd5",
-      "a816e6ed2",
-      "ad826bd68",
-      "ab59fe080",
-      "af25d02a4",
-      "a9560485f",
-      "a61a8adff",
-      "ad01feb8a"
-    ],
-    "l2": [
-      "a915ab659",
-      "a2f484bd6",
-      "aca48b05a",
-      "a3f2c1a73",
-      "a8cd22f89",
-      "af1469c51",
-      "acb8f20f3",
-      "a1abb0110",
-      "a581e13f4",
-      "a4d4d6c90",
-      "a5bf973bf",
-      "a58c3031f",
-      "a41a1b31c",
-      "ae3d3b3e2",
-      "a1c025c0d",
-      "a306fec6a",
-      "a06dfbaf7",
-      "a7e4991c9",
-      "a95a70797",
-      "a0c4ebb65",
-      "a0b43a2bc",
-      "ab3119897",
-      "af0f189d1",
-      "a38ad1236"
-    ],
-    "l1": [
-      "a1ce401a1",
-      "ae453cd3b",
-      "a77033c65",
-      "a94117296",
-      "a6bdeb05a",
-      "a20176908",
-      "a6e9b6465",
-      "a84caa11d",
-      "afa4928df",
-      "a478f3552",
-      "aac8f9867",
-      "aa40f26d3",
-      "a7d4a2cdf",
-      "a96b1c346",
-      "a4f7a451a",
-      "af61820fb",
-      "ac65f400b",
-      "aa226a7ec",
-      "ae26cebf0",
-      "aa916162d",
-      "a59c2fbb4",
-      "a6bee3694",
-      "a612b9eb6",
-      "a472cb971",
-      "a94a9a29d",
-      "a5236c597",
-      "a2ae2603b",
-      "afeb62ce7"
-    ],
-    "l3": [
-      "ae4745a7e",
-      "a2cf6a266",
-      "a2335d573",
-      "a6bbcc6e9",
-      "acc7709a4",
-      "a774f3120",
-      "a23fdeba7",
-      "a1b552f8f",
-      "a28f84720"
+    "l5": [
+      "a731ad02c",
+      "abac995da",
+      "a4fd827fd",
+      "a0f88cd4e",
+      "a82351661",
+      "a2549ac1d",
+      "a0196b7f4"
     ]
   },
   "top5": [
-    "a731ad02c",
-    "a7e0fc1d2",
-    "ad84fbea2",
-    "a915ab659",
-    "a19653ebe"
+    "af537ef93",
+    "a9949d3b0",
+    "aa00f39b2",
+    "a6385709c",
+    "a7d85228f"
   ],
   "layers": [
     {
-      "id": "l1",
-      "num": "LAYER 1",
-      "name": "算力硬件",
+      "id": "l0",
+      "num": "LAYER 0",
+      "name": "领袖观点",
       "vals": [
-        14,
-        32,
-        12,
-        8,
-        33,
-        22
+        25,
+        26,
+        11,
+        7,
+        26,
+        21
       ],
       "trend": [
         20,
@@ -1672,16 +1854,16 @@
       ]
     },
     {
-      "id": "l0",
-      "num": "LAYER 0",
-      "name": "领袖观点",
+      "id": "l1",
+      "num": "LAYER 1",
+      "name": "算力硬件",
       "vals": [
+        28,
         20,
-        22,
-        12,
-        8,
-        27,
-        22
+        11,
+        7,
+        21,
+        21
       ],
       "trend": [
         20,
@@ -1698,11 +1880,11 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        10,
-        30,
         19,
-        6,
-        20,
+        30,
+        5,
+        7,
+        23,
         20
       ],
       "trend": [
@@ -1716,16 +1898,38 @@
       ]
     },
     {
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
+      "vals": [
+        10,
+        17,
+        5,
+        5,
+        17,
+        10
+      ],
+      "trend": [
+        20,
+        18,
+        16,
+        14,
+        12,
+        10,
+        8
+      ]
+    },
+    {
       "id": "l4",
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
+        10,
         11,
-        28,
-        8,
-        15,
-        18,
-        18
+        9,
+        5,
+        13,
+        19
       ],
       "trend": [
         20,
@@ -1742,135 +1946,104 @@
       "num": "LAYER 3",
       "name": "推理工程",
       "vals": [
-        15,
-        12,
-        12,
+        10,
+        10,
         5,
-        13,
-        13
-      ],
-      "trend": [
-        20,
-        18,
-        16,
-        14,
-        12,
-        10,
-        8
-      ]
-    },
-    {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
-      "vals": [
-        10,
         17,
-        5,
-        5,
-        10,
-        18
+        14,
+        14
       ],
       "trend": [
         20,
+        19,
         18,
+        17,
         16,
-        14,
-        12,
-        10,
-        8
+        15,
+        14
       ]
     }
   ],
   "ticker": [
     {
-      "tag": "THE VERGE",
-      "col": "var(--l5)",
-      "text": "Microsoft is retiring Teams’ Together Mode"
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Samsung granted court injunction against imminent strike action i…"
     },
     {
-      "tag": "TECHCRUNC",
-      "col": "var(--l0)",
-      "text": "Why trust is a big question at the Elon Musk-OpenAI trial"
+      "tag": "IEEE SPEC",
+      "col": "var(--l1)",
+      "text": "How Melbourne’s AI and Data Center Flywheel Is Accelerating Resea…"
+    },
+    {
+      "tag": "IEEE SPEC",
+      "col": "var(--l4)",
+      "text": "Agentic AI for Robot Teams"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Samsung meeting transcripts show memory workers offered incredibl…"
     },
     {
       "tag": "THE VERGE",
       "col": "var(--l4)",
-      "text": "Revamped Siri will reportedly offer auto-deleting chats"
+      "text": "Disco Elysium’s spiritual successor can&#8217;t escape its phanto…"
     },
     {
-      "tag": "GOOGLE AI",
+      "tag": "WIRED",
       "col": "var(--l2)",
-      "text": "We’re launching the Google DeepMind Accelerator program in Asia P…"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l0)",
-      "text": "University of Arizona students boo Eric Schmidt’s AI cheerleading…"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l1)",
-      "text": "If you’re giving a commencement speech in 2026, maybe don’t menti…"
+      "text": "I’m a Normie. Can Normies Really Vibe Code?"
     },
     {
       "tag": "TOM'S HAR",
       "col": "var(--l1)",
-      "text": "Japan can’t make robot wolves fast enough to counter the rise in …"
+      "text": "Enthusiast crams reversed-engineered PS2 into a handheld, designs…"
     },
     {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "TechCrunch Mobility: The AI skills arms race is coming for automo…"
-    },
-    {
-      "tag": "SIMON WIL",
+      "tag": "ARXIV CS.",
       "col": "var(--l3)",
-      "text": "GDS weighs in on the NHS's decision to retreat from Open Source"
+      "text": "AgentStop: Terminating Local AI Agents Early to Save Energy in Co…"
     },
     {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "ASML to equip India’s first commercial chip fab — $11 billion Dho…"
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination"
     },
     {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "LinkedIn user hides AI prompt injection in bio to force recruitme…"
+      "tag": "ARXIV CS.",
+      "col": "var(--l3)",
+      "text": "Quantization Undoes Alignment: Bias Emergence in Compressed LLMs …"
     },
     {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "Fujifilm’s X Half is even more whimsical with a $300 price cut"
-    },
-    {
-      "tag": "THE VERGE",
+      "tag": "ARXIV CS.",
       "col": "var(--l0)",
-      "text": "ElliQ is a surprisingly helpful companion robot for older adults"
+      "text": "Mask-Morph Graph U-Net: A Generalisable Mesh-Based Surrogate for …"
     },
     {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Russia’s Mikron is selling framed test wafers with up to 120,000 …"
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "MuteBench: Modality Unavailability Tolerance Evaluation for Incom…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Reducing the Safety Tax in LLM Safety Alignment with On-Policy Se…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l4)",
+      "text": "DeepSlide: From Artifacts to Presentation Delivery"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-      "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
-      "votes": "133",
-      "comments": "110",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
       "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
       "url": "https://github.com/MinishLab/semble",
-      "votes": "205",
-      "comments": "57",
+      "votes": "331",
+      "comments": "112",
       "time": "近期"
     },
     {
@@ -1878,8 +2051,35 @@
       "badge": "pb-hn",
       "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
       "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
-      "votes": "20",
+      "votes": "142",
+      "comments": "31",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Multiple commencement speakers booed for AI comments during graduation speeches",
+      "url": "https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518",
+      "votes": "11",
       "comments": "1",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+      "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+      "votes": "196",
+      "comments": "196",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "The 30-Hour Shift That Turned a San Jose Robot Lab into a Global Spectacle",
+      "url": "https://beeble.com/en/blog/the-30-hour-shift-that-turned-a-san-jose-robot-lab-into-a-global-spectacle",
+      "votes": "4",
+      "comments": "2",
       "time": "近期"
     },
     {
@@ -1887,26 +2087,8 @@
       "badge": "pb-hn",
       "title": "Prolog Basics Explained with Pokémon",
       "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
-      "votes": "216",
-      "comments": "34",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "I don't think AI will make your processes go faster",
-      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-      "votes": "515",
-      "comments": "365",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
-      "url": "https://www.jdhodges.com/blog/thinkpad-history/",
-      "votes": "67",
-      "comments": "36",
+      "votes": "255",
+      "comments": "41",
       "time": "近期"
     }
   ]
