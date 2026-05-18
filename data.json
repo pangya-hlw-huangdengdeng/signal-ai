@@ -1,78 +1,195 @@
 {
-  "updated_at": "2026-05-18T15:39:04.110394+00:00",
-  "article_count": 122,
+  "updated_at": "2026-05-18T19:47:52.374425+00:00",
+  "article_count": 127,
   "articles": {
-    "a6f8bd6d5": {
+    "ac4721d51": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "Jury throws out Elon Musk's lawsuit against OpenAI after less than two hours of deliberation — Unanimous vote that Musk filed the lawsuit too late",
+      "src": "Tom's Hardware",
+      "time": "8分钟前",
+      "published_ts": 1779133126,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jury-throws-out-elon-musks-lawsuit-against-openai-after-less-than-two-hours-of-deliberation",
+      "tags": [],
+      "body": "<p>A federal jury in Oakland, California, on Monday unanimously rejected every claim in Elon Musk's lawsuit against OpenAI.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a7ffe44f1": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "src": "TechCrunch AI",
+      "time": "19分钟前",
+      "published_ts": 1779132472,
+      "heat": "27.0K",
+      "views": "27.0K",
+      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "tags": [],
+      "body": "<p>Stainless, a New York-based startup, will wind down all hosted products as part of the acquisition.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a553080b9": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "Musk v. Altman proved that AI is led by the wrong people",
+      "src": "The Verge",
+      "time": "47分钟前",
+      "published_ts": 1779130800,
+      "heat": "21.1K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
+      "tags": [],
+      "body": "<p>The tech trial of the year, Musk v. Altman, was ultimately a fight for control. Elon Musk argued that Sam Altman, with whom he helped found the now-massive company OpenAI, shouldn't direct the future of AI. Altman's lawyers, in turn, poked at Musk's own credibility. A jury came to a verdict on Monday after just [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a1c840c4a": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
-      "title": "Philips Hue smart lights and a whole lot more are over 20 percent off",
+      "title": "Dyson’s super-slim PencilWash just hit its best price to date for Memorial Day",
       "src": "The Verge",
-      "time": "35分钟前",
-      "published_ts": 1779116583,
-      "heat": "24.0K",
-      "views": "24.0K",
-      "url": "https://www.theverge.com/gadgets/932276/philips-hue-amazon-scribe-super-mario-rpg-deal-sale",
+      "time": "1小时前",
+      "published_ts": 1779129145,
+      "heat": "15.4K",
+      "views": "18.2K",
+      "url": "https://www.theverge.com/gadgets/932449/dyson-pencilwash-hard-floor-cleaner-memorial-day-2026-deal-sale",
       "tags": [],
-      "body": "<p>Woot is having a day-long sale on a range of tech, including a mix of new and open-box Philips Hue smart lighting. The retailer’s already-discounted prices are even cheaper today when you enter the code SAVETWENTY at checkout through midnight Central Time. The products included in the sale serve as a great introduction to setting [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>If Dyson’s PencilVac Fluffycones made you wish the company had built something similarly slim for scrubbing the hard floors in your home, enter the recently released Dyson PencilWash. The cordless cleaner is designed to tackle spills and stains on tile and other surfaces, and right now, it’s available for a new low price of $249.99 [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a54ee7ebf": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+      "src": "The Verge",
+      "time": "1小时前",
+      "published_ts": 1779126589,
+      "heat": "12.5K",
+      "views": "15.4K",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "tags": [],
+      "body": "<p>Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. After nearly a month [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a162d069f": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
+      "src": "Wired",
+      "time": "2小时前",
+      "published_ts": 1779126030,
+      "heat": "16.5K",
+      "views": "16.5K",
+      "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+      "tags": [],
+      "body": "<p>The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a836f9be6": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "Elon Musk loses his case against Sam Altman",
+      "src": "The Verge",
+      "time": "2小时前",
+      "published_ts": 1779125972,
+      "heat": "9.6K",
+      "views": "12.5K",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
+      "tags": [],
+      "body": "<p>After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year. The group found that two claims were barred by the statute of limitations, and a third failed thanks to the dismissal of one of these. The jury here is an advisory jury, [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a18fc1e8c": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "What to expect from Google this week",
+      "src": "MIT Tech Review",
+      "time": "2小时前",
+      "published_ts": 1779125743,
+      "heat": "22.5K",
+      "views": "22.5K",
+      "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+      "tags": [],
+      "body": "<p>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at Google I/O&#8230;</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ac506de92": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "src": "TechCrunch AI",
+      "time": "2小时前",
+      "published_ts": 1779125683,
+      "heat": "23.8K",
+      "views": "27.0K",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "tags": [],
+      "body": "<p>Elon Musk's claim that he was mistreated by his OpenAI cofounders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ac61cc9ca": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "College students drown out AI-praising commencement speeches with boos — 'deal with it' one speaker fires back as students heckle positive pitches for AI's role",
+      "src": "Tom's Hardware",
+      "time": "3小时前",
+      "published_ts": 1779122028,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role",
+      "tags": [],
+      "body": "<p>Ex-Google CEO Eric Schmidt found himself booed and jeered as he gave the commencement address at the University of Arizona, telling the students AI will \"shape the world.\"</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a065ea4d3": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Record-high pricing pushes SSD and memory makers to borrow $880 million just to afford buying chips — Adata, TeamGroup, and others take on substantial debt to survive shortages",
+      "src": "Tom's Hardware",
+      "time": "3小时前",
+      "published_ts": 1779120598,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://www.tomshardware.com/tech-industry/taiwanese-memory-module-makers-raise-880-million-to-stockpile-chips",
+      "tags": [],
+      "body": "<p>Adata is the largest single borrower in the group, having completed a NT$2 billion convertible bond issuance and secured NT$12 billion in bank loans.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a0e17d50b": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+      "src": "MIT Tech Review",
+      "time": "3小时前",
+      "published_ts": 1779120099,
+      "heat": "19.8K",
+      "views": "22.5K",
+      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+      "tags": [],
+      "body": "<p>The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands. Quay Barnett, who leads the efforts as a vice president at Anduril following a career in the Army’s Special Operations Command, says his fundamental&#8230;</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "af346f0f1": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
       "src": "TechCrunch AI",
-      "time": "42分钟前",
+      "time": "4小时前",
       "published_ts": 1779116207,
-      "heat": "27.0K",
-      "views": "27.0K",
+      "heat": "20.5K",
+      "views": "23.8K",
       "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
       "tags": [],
       "body": "<p>Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a1f89fb53": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Linus Torvalds says Linux security list is becoming ‘unmanageable’ due to AI bug reports",
-      "src": "The Verge",
-      "time": "1小时前",
-      "published_ts": 1779114070,
-      "heat": "18.2K",
-      "views": "21.1K",
-      "url": "https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs",
+    "a94cd6d02": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "China says 'world's first' offshore wind-powered underwater data center has entered full operation, houses 2,000 servers — 24 megawatt subsea AI facility uses ocean water for passive cooling and offshore wind for power",
+      "src": "Tom's Hardware",
+      "time": "5小时前",
+      "published_ts": 1779115427,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://www.tomshardware.com/tech-industry/china-says-worlds-first-offshore-wind-powered-underwater-data-center-has-entered-full-operation-houses-2-000-servers-24-megawatt-subsea-ai-facility-uses-ocean-water-for-passive-cooling-and-offshore-wind-for-power",
       "tags": [],
-      "body": "<p>Linux founder Linus Torvalds said in his most recent state of the kernel post that \"the continued flood of AI reports has basically made the security list almost entirely unmanageable, with enormous duplication due to different people finding the same things with the same tools,\" as The Register reports. That probably doesn't apply to stuff [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a055549e3": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Exclusive: Jonah Peretti explains why he sold BuzzFeed",
-      "src": "The Verge",
-      "time": "1小时前",
-      "published_ts": 1779113700,
-      "heat": "15.4K",
-      "views": "18.2K",
-      "url": "https://www.theverge.com/podcast/932154/peretti-allen-buzzfeed-ai-slop-social-media",
-      "tags": [],
-      "body": "<p>Today, I’m talking with Jonah Peretti, who is, technically, the CEO of BuzzFeed — although that will be coming to an end very soon. Just days before we spoke, Jonah agreed to sell 52 percent of BuzzFeed for a total of $120 million to Byron Allen, who owns The Weather Channel, a number of broadcast [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a08f441cb": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Starlink raises prices across satellite internet plans",
-      "src": "The Verge",
-      "time": "1小时前",
-      "published_ts": 1779113299,
-      "heat": "12.5K",
-      "views": "15.4K",
-      "url": "https://www.theverge.com/science/932294/starlink-price-increase-standby-mode",
-      "tags": [],
-      "body": "<p>Starlink is raising prices across its satellite internet plans in the US - including Standby Mode - with the cheapest 100Mbps Residential plan going from $50 to $55 / month, as reported earlier by PCMag. Meanwhile, Starlink's 200Mbps residential plan has jumped from $80 to $85 / month, while the Residential Max plan went from [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>China has begun full operations at a 24 MW underwater AI data center off Shanghai’s coast, using offshore wind power and seawater cooling to reduce energy consumption and improve efficiency</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "afaa4edb1": {
       "layer": "l0",
       "cat": "L0 · 领袖观点",
       "title": "The Next War Is Already Here. The West Isn't Ready. — Yaroslav Azhnyuk, The Fourth Law & Guest Host Noah Smith, Noahpinion",
       "src": "Latent Space",
-      "time": "1小时前",
+      "time": "6小时前",
       "published_ts": 1779111932,
       "heat": "19.5K",
       "views": "19.5K",
@@ -80,15 +197,28 @@
       "tags": [],
       "body": "<p>Ukrainian drone founder Yaroslav Azhnyuk went from pet cameras to AI-guided weapons. He and guest host Noah Smith make the case that the West is asleep at the wheel.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
+    "a1586fbdb": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Linus Torvalds says flood of duplicate AI-generated vulnerability reports have made Linux security mailing list 'almost entirely unmanageable' — private list 'a waste of time for everybody involved' in switch to new public system",
+      "src": "Tom's Hardware",
+      "time": "6小时前",
+      "published_ts": 1779111265,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://www.tomshardware.com/software/linux/linus-torvalds-says-ai-bug-reports-have-made-the-linux-security-mailing-list-almost-entirely-unmanageable",
+      "tags": [],
+      "body": "<p>\"AI detected bugs are pretty much by definition not secret, and treating them on some private list is a waste of time for everybody involved.\"</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a225e1d0b": {
       "layer": "l0",
       "cat": "L0 · 领袖观点",
       "title": "Researchers Wanted Preschool Teachers to Wear Cameras to Train AI",
       "src": "404 Media",
-      "time": "2小时前",
+      "time": "6小时前",
       "published_ts": 1779110264,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "11.4K",
+      "views": "13.2K",
       "url": "https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/",
       "tags": [],
       "body": "<p>“With your permission, your child’s lead teacher may wear a small teacher-worn camera that captures the teacher's approximate first-person perspective, and/or we may place a fixed video camera in the classroom,” a document given to parents and later shared with 404 Media reads.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -98,20 +228,20 @@
       "cat": "L5 · 生态商业",
       "title": "South Korea’s LetinAR is building optics behind AI glasses",
       "src": "TechCrunch AI",
-      "time": "4小时前",
+      "time": "8小时前",
       "published_ts": 1779102000,
-      "heat": "23.8K",
-      "views": "27.0K",
+      "heat": "17.3K",
+      "views": "20.5K",
       "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
       "tags": [],
-      "body": "<p>A lens the size of a thumbnail — and the South Korean startup that makes it could become the optical backbone of the AI glasses era.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a9949d3b0": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "How Melbourne’s AI and Data Center Flywheel Is Accelerating Research Innovation",
       "src": "IEEE Spectrum",
-      "time": "5小时前",
+      "time": "9小时前",
       "published_ts": 1779098401,
       "heat": "15.0K",
       "views": "15.0K",
@@ -124,7 +254,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Agentic AI for Robot Teams",
       "src": "IEEE Spectrum",
-      "time": "5小时前",
+      "time": "9小时前",
       "published_ts": 1779098401,
       "heat": "13.2K",
       "views": "15.0K",
@@ -132,14 +262,27 @@
       "tags": [],
       "body": "<p>This presentation highlights recent efforts at the Johns Hopkins Applied Physics Laboratory to advance agentic AI for collaborative robotic teams. It begins by framing the core challenges of enabling autonomy, coordination, and adaptability across heterogeneous systems, then introduces a scalable architecture designed to support agentic behaviors in multi-robot environments. The talk concludes wit</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
+    "a495a9444": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "src": "OpenAI Blog",
+      "time": "9小时前",
+      "published_ts": 1779098400,
+      "heat": "45.0K",
+      "views": "45.0K",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "tags": [],
+      "body": "<p>OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a5559f74d": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
       "title": "I’m a Normie. Can Normies Really Vibe Code?",
       "src": "Wired",
-      "time": "5小时前",
+      "time": "9小时前",
       "published_ts": 1779098400,
-      "heat": "16.5K",
+      "heat": "14.5K",
       "views": "16.5K",
       "url": "https://www.wired.com/story/normie-vibe-code/",
       "tags": [],
@@ -150,7 +293,7 @@
       "cat": "L3 · 推理工程",
       "title": "AgentStop: Terminating Local AI Agents Early to Save Energy in Consumer Devices",
       "src": "arXiv cs.LG",
-      "time": "11小时前",
+      "time": "15小时前",
       "published_ts": 1779076800,
       "heat": "15.0K",
       "views": "15.0K",
@@ -163,7 +306,7 @@
       "cat": "L2 · 基础模型",
       "title": "TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination",
       "src": "arXiv cs.LG",
-      "time": "11小时前",
+      "time": "15小时前",
       "published_ts": 1779076800,
       "heat": "13.2K",
       "views": "15.0K",
@@ -176,7 +319,7 @@
       "cat": "L3 · 推理工程",
       "title": "Quantization Undoes Alignment: Bias Emergence in Compressed LLMs Across Models and Precision Levels",
       "src": "arXiv cs.LG",
-      "time": "11小时前",
+      "time": "15小时前",
       "published_ts": 1779076800,
       "heat": "11.4K",
       "views": "13.2K",
@@ -189,7 +332,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Mask-Morph Graph U-Net: A Generalisable Mesh-Based Surrogate for Crashworthiness Field Prediction under Large Geometric Variation",
       "src": "arXiv cs.LG",
-      "time": "11小时前",
+      "time": "15小时前",
       "published_ts": 1779076800,
       "heat": "9.6K",
       "views": "11.4K",
@@ -202,7 +345,7 @@
       "cat": "L2 · 基础模型",
       "title": "MuteBench: Modality Unavailability Tolerance Evaluation for Incomplete Multimodal Fusion",
       "src": "arXiv cs.LG",
-      "time": "11小时前",
+      "time": "15小时前",
       "published_ts": 1779076800,
       "heat": "7.8K",
       "views": "9.6K",
@@ -215,7 +358,7 @@
       "cat": "L2 · 基础模型",
       "title": "Reducing the Safety Tax in LLM Safety Alignment with On-Policy Self-Distillation",
       "src": "arXiv cs.LG",
-      "time": "11小时前",
+      "time": "15小时前",
       "published_ts": 1779076800,
       "heat": "6.0K",
       "views": "7.8K",
@@ -228,7 +371,7 @@
       "cat": "L4 · 交互Agent",
       "title": "DeepSlide: From Artifacts to Presentation Delivery",
       "src": "arXiv cs.AI",
-      "time": "11小时前",
+      "time": "15小时前",
       "published_ts": 1779076800,
       "heat": "15.0K",
       "views": "15.0K",
@@ -241,7 +384,7 @@
       "cat": "L4 · 交互Agent",
       "title": "SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrained Dispatch",
       "src": "arXiv cs.AI",
-      "time": "11小时前",
+      "time": "15小时前",
       "published_ts": 1779076800,
       "heat": "13.2K",
       "views": "15.0K",
@@ -254,7 +397,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical Findings from Interactive Evaluations",
       "src": "arXiv cs.AI",
-      "time": "11小时前",
+      "time": "15小时前",
       "published_ts": 1779076800,
       "heat": "11.4K",
       "views": "13.2K",
@@ -267,7 +410,7 @@
       "cat": "L4 · 交互Agent",
       "title": "SkillSmith: Compiling Agent Skills into Boundary-Guided Runtime Interfaces",
       "src": "arXiv cs.AI",
-      "time": "11小时前",
+      "time": "15小时前",
       "published_ts": 1779076800,
       "heat": "9.6K",
       "views": "11.4K",
@@ -280,7 +423,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Fair outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions",
       "src": "arXiv cs.AI",
-      "time": "11小时前",
+      "time": "15小时前",
       "published_ts": 1779076800,
       "heat": "7.8K",
       "views": "9.6K",
@@ -293,7 +436,7 @@
       "cat": "L1 · 算力硬件",
       "title": "CAX-Agent: A Lightweight Agent Harness for Reliable APDL Automation",
       "src": "arXiv cs.AI",
-      "time": "11小时前",
+      "time": "15小时前",
       "published_ts": 1779076800,
       "heat": "6.0K",
       "views": "7.8K",
@@ -306,10 +449,10 @@
       "cat": "L0 · 领袖观点",
       "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
       "src": "TechCrunch AI",
-      "time": "19小时前",
+      "time": "1天前",
       "published_ts": 1779047194,
-      "heat": "17.3K",
-      "views": "20.5K",
+      "heat": "10.8K",
+      "views": "14.0K",
       "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
       "tags": [],
       "body": "<p>A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -319,7 +462,7 @@
       "cat": "L2 · 基础模型",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks.",
       "src": "Google AI Blog",
-      "time": "21小时前",
+      "time": "1天前",
       "published_ts": 1779040800,
       "heat": "34.5K",
       "views": "34.5K",
@@ -327,40 +470,14 @@
       "tags": [],
       "body": "<p>The Asia-Pacific region is a global engine for economic growth, but it's also highly vulnerable to climate change. While green technologies are gaining momentum, a recen…</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a1ce401a1": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
-      "src": "TechCrunch AI",
-      "time": "23小时前",
-      "published_ts": 1779035524,
-      "heat": "14.0K",
-      "views": "17.3K",
-      "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
-      "tags": [],
-      "body": "<p>It's tough to get graduating students excited about a future shaped by artificial intelligence.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a435994c9": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
-      "src": "TechCrunch AI",
-      "time": "23小时前",
-      "published_ts": 1779033900,
-      "heat": "10.8K",
-      "views": "14.0K",
-      "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
-      "tags": [],
-      "body": "<p>Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "ae4745a7e": {
       "layer": "l3",
       "cat": "L3 · 推理工程",
       "title": "GDS weighs in on the NHS's decision to retreat from Open Source",
       "src": "Simon Willison",
-      "time": "23小时前",
+      "time": "1天前",
       "published_ts": 1779033581,
-      "heat": "15.0K",
+      "heat": "13.2K",
       "views": "15.0K",
       "url": "https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything",
       "tags": [],
@@ -386,8 +503,8 @@
       "src": "Simon Willison",
       "time": "1天前",
       "published_ts": 1778963010,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "11.4K",
+      "views": "13.2K",
       "url": "https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything",
       "tags": [],
       "body": "<p>In preparation for a lightning talk I'm giving at PyCon US this afternoon I decided to figure out how many names OpenClaw has actually had since that first commit back in November. Thanks to this first_line_history.py tool ( code here ) the answer, according to the Git history of the OpenClaw README, is: Warelay → CLAWDIS → CLAWDBOT → Clawdbot → Moltbot →🦞 OpenClaw Or in detail (the output from th</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -397,7 +514,7 @@
       "cat": "L2 · 基础模型",
       "title": "Latest open artifacts (#21): Open model bonanza! Gemma 4, DeepSeek V4, Kimi K2.6, MiMo 2.5, GLM-5.1 & others. On CAISI's V4 assessment.",
       "src": "Interconnects",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1778950811,
       "heat": "18.0K",
       "views": "18.0K",
@@ -416,7 +533,7 @@
       "views": "11.4K",
       "url": "https://spectrum.ieee.org/sign-language-interpreter",
       "tags": [],
-      "body": "<p>Electronic rings wirelessly connected to an AI system are capable of translating multiple sign languages into text, a new study finds. “I believe this is an important step toward making sign language translation systems more practical, lightweight, and usable in real-world environments,” says Ki Jun Yu , an associate professor of electrical and electronic engineering at Yonsei University in Korea.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>Electronic rings wirelessly connected to an AI system are capable of translating multiple sign languages into text, a new study finds. “I believe this is an important step toward making sign language translation systems more practical, lightweight, and usable in real-world environments,” says Ki Jun Yu , an associate professor of electrical and electronic engineering at Yonsei University in Seoul,</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "aca48b05a": {
       "layer": "l2",
@@ -438,8 +555,8 @@
       "src": "Wired",
       "time": "2天前",
       "published_ts": 1778923800,
-      "heat": "14.5K",
-      "views": "16.5K",
+      "heat": "12.5K",
+      "views": "14.5K",
       "url": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/",
       "tags": [],
       "body": "<p>“I’ve got one hand on the keyboard, one hand down below,” an artist who role-plays with their chatbot tells WIRED. But some asexual advocates aren’t thrilled about the association.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -464,7 +581,7 @@
       "src": "OpenAI Blog",
       "time": "2天前",
       "published_ts": 1778889600,
-      "heat": "45.0K",
+      "heat": "39.6K",
       "views": "45.0K",
       "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
       "tags": [],
@@ -477,8 +594,8 @@
       "src": "Simon Willison",
       "time": "2天前",
       "published_ts": 1778889191,
-      "heat": "9.6K",
-      "views": "11.4K",
+      "heat": "7.8K",
+      "views": "9.6K",
       "url": "https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything",
       "tags": [],
       "body": "<p>Release: inaturalist-clumper 0.1 Part of the infrastructure I use for publishing my iNaturalist sightings on my blog . I've been running this in production for a few weeks now, inspiring some iterations on how it works, so I decided to ship a 0.1 release. You can see an example of the output in this JSON file . Tags: projects , inaturalist</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -490,21 +607,21 @@
       "src": "MIT Tech Review",
       "time": "2天前",
       "published_ts": 1778888375,
-      "heat": "22.5K",
-      "views": "22.5K",
+      "heat": "17.1K",
+      "views": "19.8K",
       "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
       "tags": [],
-      "body": "<p>In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who wanted to control the development&#8230;</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>Update: On Monday May 18, the jury sided with OpenAI, delivering an advisory verdict finding that Musk&#8217;s claims are barred by the statute of limitations. US District Judge Yvonne Gonzalez Rogers accepted the verdict. In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s&#8230;</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a885ce047": {
       "layer": "l0",
       "cat": "L0 · 领袖观点",
       "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
       "src": "Wired",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1778864957,
-      "heat": "12.5K",
-      "views": "14.5K",
+      "heat": "10.6K",
+      "views": "12.5K",
       "url": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
       "tags": [],
       "body": "<p>OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -514,26 +631,13 @@
       "cat": "L4 · 交互Agent",
       "title": "ArXiv to Ban Researchers for a Year if They Submit AI Slop",
       "src": "404 Media",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1778860332,
-      "heat": "7.8K",
-      "views": "9.6K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/",
       "tags": [],
       "body": "<p>The change comes as arXiv and others struggle to manage an influx of AI-generated materials masquerading as rigorous science.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a998f6c47": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Behind the Blog: New Music and a Crash Out",
-      "src": "404 Media",
-      "time": "3天前",
-      "published_ts": 1778858347,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://www.404media.co/behind-the-blog-new-music-and-a-crash-out/",
-      "tags": [],
-      "body": "<p>This week, we discuss developers' AI woes, how the magic happens, and the Beach Boys.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "abac995da": {
       "layer": "l5",
@@ -542,8 +646,8 @@
       "src": "MIT Tech Review",
       "time": "3天前",
       "published_ts": 1778835600,
-      "heat": "19.8K",
-      "views": "22.5K",
+      "heat": "14.4K",
+      "views": "17.1K",
       "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
       "tags": [],
       "body": "<p>In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. “Two months,” the man says. “Give me an heir, or&#8230;</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -555,8 +659,8 @@
       "src": "Wired",
       "time": "3天前",
       "published_ts": 1778835600,
-      "heat": "10.6K",
-      "views": "12.5K",
+      "heat": "8.6K",
+      "views": "10.6K",
       "url": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
       "tags": [],
       "body": "<p>The Thinking Machines Lab founder and former CTO of OpenAI tells WIRED she isn’t interested in automating people out of jobs. Instead, she’s building AI that can collaborate.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -574,19 +678,6 @@
       "tags": [],
       "body": "<p>Two people look at a computer</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a8cd22f89": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "QR code generator",
-      "src": "Simon Willison",
-      "time": "3天前",
-      "published_ts": 1778817649,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://simonwillison.net/2026/May/15/qr-code-generator/#atom-everything",
-      "tags": [],
-      "body": "<p>Tool: QR code generator Claude helped me build this tool for creating QR codes, for both text/URLs and for connecting to WiFi networks. Tags: vibe-coding , tools , generative-ai , ai , llms</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "ae289febc": {
       "layer": "l0",
       "cat": "L0 · 领袖观点",
@@ -594,8 +685,8 @@
       "src": "Wired",
       "time": "3天前",
       "published_ts": 1778806193,
-      "heat": "8.6K",
-      "views": "10.6K",
+      "heat": "6.6K",
+      "views": "8.6K",
       "url": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
       "tags": [],
       "body": "<p>A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -613,6 +704,19 @@
       "tags": [],
       "body": "<p>an ultra quiet day lets us highlight a smaller trend.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
+    "af1469c51": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "src": "OpenAI Blog",
+      "time": "3天前",
+      "published_ts": 1778803200,
+      "heat": "34.2K",
+      "views": "39.6K",
+      "url": "https://openai.com/index/databricks",
+      "tags": [],
+      "body": "<p>Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "ab7347195": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
@@ -625,19 +729,6 @@
       "url": "https://openai.com/index/personal-finance-chatgpt",
       "tags": [],
       "body": "<p>Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "af1469c51": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "src": "OpenAI Blog",
-      "time": "3天前",
-      "published_ts": 1778803200,
-      "heat": "18.0K",
-      "views": "23.4K",
-      "url": "https://openai.com/index/databricks",
-      "tags": [],
-      "body": "<p>Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a2335d573": {
       "layer": "l3",
@@ -652,25 +743,12 @@
       "tags": [],
       "body": "<p>How Abridge is quietly turning the patient and clinician conversation into the operating system of healthcare</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a4fd827fd": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta",
-      "src": "Wired",
-      "time": "3天前",
-      "published_ts": 1778790454,
-      "heat": "6.6K",
-      "views": "8.6K",
-      "url": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/",
-      "tags": [],
-      "body": "<p>Meta employees in the US and UK are organizing against corporate software that tracks workers’ keystrokes and mouse activity.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a478f3552": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "Graphene “Tattoos” for Plants Could Form Neural Networks",
       "src": "IEEE Spectrum",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1778774704,
       "heat": "7.8K",
       "views": "9.6K",
@@ -711,8 +789,8 @@
       "src": "MIT Tech Review",
       "time": "4天前",
       "published_ts": 1778763600,
-      "heat": "17.1K",
-      "views": "19.8K",
+      "heat": "11.7K",
+      "views": "14.4K",
       "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
       "tags": [],
       "body": "<p>Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of the system and more on&#8230;</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -724,8 +802,8 @@
       "src": "MIT Tech Review",
       "time": "4天前",
       "published_ts": 1778763600,
-      "heat": "14.4K",
-      "views": "17.1K",
+      "heat": "9.0K",
+      "views": "11.7K",
       "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
       "tags": [],
       "body": "<p>When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, under governance you do not set. The protections you rely&#8230;</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -782,25 +860,12 @@
       "tags": [],
       "body": "<p>Learn how YouTube is helping brands reach people across screens with AI-driven content tools, creator partnerships, and direct buying options on TV.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "af3b20dd5": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "AI chatbots are giving out people’s real phone numbers",
-      "src": "MIT Tech Review",
-      "time": "4天前",
-      "published_ts": 1778695743,
-      "heat": "9.0K",
-      "views": "11.7K",
-      "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
-      "tags": [],
-      "body": "<p>A Redditor recently wrote that he was “desperate for help”: for about a month, he said, his phone had been inundated by calls from “strangers” who were “looking for a lawyer, a product designer, a locksmith.” Callers were apparently misdirected by Google’s generative AI.&#160; In March, a software developer in Israel was contacted on WhatsApp&#8230;</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a581e13f4": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
       "title": "Start learning with Google’s new AI Educator Series.",
       "src": "Google AI Blog",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1778691600,
       "heat": "17.9K",
       "views": "22.1K",
@@ -878,7 +943,7 @@
       "cat": "L2 · 基础模型",
       "title": "Migrating Data Ingestion Systems at Meta Scale",
       "src": "Meta Engineering",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1778601657,
       "heat": "26.4K",
       "views": "30.0K",
@@ -891,7 +956,7 @@
       "cat": "L0 · 领袖观点",
       "title": "How open model ecosystems compound",
       "src": "Interconnects",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1778601287,
       "heat": "15.8K",
       "views": "18.0K",
@@ -917,7 +982,7 @@
       "cat": "L2 · 基础模型",
       "title": "Labyrinth 1.1: Making End-to-End Encrypted Backups Even More Reliable",
       "src": "Meta Engineering",
-      "time": "6天前",
+      "time": "7天前",
       "published_ts": 1778515255,
       "heat": "22.8K",
       "views": "26.4K",
@@ -956,7 +1021,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
       "src": "Ars Technica",
-      "time": "10天前",
+      "time": "11天前",
       "published_ts": 1778181496,
       "heat": "9.4K",
       "views": "11.5K",
@@ -969,7 +1034,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Powering the Next American Century: US Energy Secretary Chris Wright and NVIDIA’s Ian Buck on the Genesis Mission",
       "src": "NVIDIA Blog",
-      "time": "10天前",
+      "time": "11天前",
       "published_ts": 1778181278,
       "heat": "15.0K",
       "views": "19.5K",
@@ -982,7 +1047,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Notes from inside China's AI labs",
       "src": "Interconnects",
-      "time": "10天前",
+      "time": "11天前",
       "published_ts": 1778168563,
       "heat": "13.7K",
       "views": "15.8K",
@@ -1021,7 +1086,7 @@
       "cat": "L1 · 算力硬件",
       "title": "How Meta Is Strengthening End-to-End Encrypted Backups",
       "src": "Meta Engineering",
-      "time": "16天前",
+      "time": "17天前",
       "published_ts": 1777651258,
       "heat": "19.2K",
       "views": "22.8K",
@@ -1060,7 +1125,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Capacity Efficiency at Meta: How Unified AI Agents Optimize Performance at Hyperscale",
       "src": "Meta Engineering",
-      "time": "31天前",
+      "time": "32天前",
       "published_ts": 1776355234,
       "heat": "12.0K",
       "views": "15.6K",
@@ -1151,7 +1216,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Management as AI superpower",
       "src": "One Useful Thing",
-      "time": "110天前",
+      "time": "111天前",
       "published_ts": 1769532955,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1268,7 +1333,7 @@
       "cat": "L0 · 领袖观点",
       "title": "2025 LLM Year in Review",
       "src": "Andrej Karpathy",
-      "time": "149天前",
+      "time": "150天前",
       "published_ts": 1766167200,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1294,7 +1359,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Verifiability",
       "src": "Andrej Karpathy",
-      "time": "181天前",
+      "time": "182天前",
       "published_ts": 1763398800,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1307,7 +1372,7 @@
       "cat": "L1 · 算力硬件",
       "title": "xAI’s Colossus 2 – First Gigawatt Datacenter In The World, Unique RL Methodology, Capital Raise",
       "src": "SemiAnalysis",
-      "time": "243天前",
+      "time": "244天前",
       "published_ts": 1758044281,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1450,7 +1515,7 @@
       "cat": "L2 · 基础模型",
       "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
       "src": "The Gradient",
-      "time": "547天前",
+      "time": "548天前",
       "published_ts": 1731775575,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1463,7 +1528,7 @@
       "cat": "L2 · 基础模型",
       "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
       "src": "The Gradient",
-      "time": "615天前",
+      "time": "616天前",
       "published_ts": 1725902928,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1476,7 +1541,7 @@
       "cat": "L0 · 领袖观点",
       "title": "We Need Positive Visions for AI Grounded in Wellbeing",
       "src": "The Gradient",
-      "time": "652天前",
+      "time": "653天前",
       "published_ts": 1722704443,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1515,7 +1580,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Financial Market Applications of LLMs",
       "src": "The Gradient",
-      "time": "757天前",
+      "time": "758天前",
       "published_ts": 1713635859,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1590,31 +1655,24 @@
     }
   },
   "by_layer": {
-    "l4": [
-      "a6f8bd6d5",
-      "af346f0f1",
-      "a08f441cb",
-      "aa00f39b2",
-      "acb3f01b7",
-      "a3e8b3cfd",
-      "afb5009c8",
-      "a435994c9",
-      "a96ef834c",
-      "ab63b8883",
-      "ab7347195",
-      "a6612589e",
-      "a61e07a24",
-      "af3b20dd5",
-      "ad826bd68",
-      "ab59fe080",
-      "af25d02a4",
-      "a9560485f",
-      "a61a8adff",
-      "ad01feb8a"
+    "l5": [
+      "ac4721d51",
+      "a7ffe44f1",
+      "a162d069f",
+      "ac3c34bf1",
+      "abac995da",
+      "a0f88cd4e",
+      "a82351661",
+      "a2549ac1d",
+      "a0196b7f4"
     ],
     "l0": [
-      "a1f89fb53",
-      "a055549e3",
+      "a553080b9",
+      "a54ee7ebf",
+      "a836f9be6",
+      "ac506de92",
+      "ac61cc9ca",
+      "a0e17d50b",
       "afaa4edb1",
       "a225e1d0b",
       "a25c4cf5b",
@@ -1623,7 +1681,6 @@
       "a58adb0f1",
       "a5c2e8df2",
       "a885ce047",
-      "a998f6c47",
       "a21a4d4a6",
       "a8a1f602d",
       "ae289febc",
@@ -1646,20 +1703,63 @@
       "a9173515c",
       "abcb7b0c4"
     ],
-    "l5": [
-      "ac3c34bf1",
-      "abac995da",
-      "a4fd827fd",
-      "a0f88cd4e",
-      "a82351661",
-      "a2549ac1d",
-      "a0196b7f4"
+    "l4": [
+      "a1c840c4a",
+      "af346f0f1",
+      "aa00f39b2",
+      "a495a9444",
+      "acb3f01b7",
+      "a3e8b3cfd",
+      "afb5009c8",
+      "a96ef834c",
+      "ab63b8883",
+      "ab7347195",
+      "a6612589e",
+      "a61e07a24",
+      "ad826bd68",
+      "ab59fe080",
+      "af25d02a4",
+      "a9560485f",
+      "a61a8adff",
+      "ad01feb8a"
+    ],
+    "l2": [
+      "a18fc1e8c",
+      "a5559f74d",
+      "a2449210a",
+      "ae46f2d70",
+      "a0ecd760f",
+      "a915ab659",
+      "a2f484bd6",
+      "aca48b05a",
+      "a3f2c1a73",
+      "af1469c51",
+      "acb8f20f3",
+      "a1abb0110",
+      "a581e13f4",
+      "a4d4d6c90",
+      "a5bf973bf",
+      "a58c3031f",
+      "a41a1b31c",
+      "ae3d3b3e2",
+      "a1c025c0d",
+      "a306fec6a",
+      "a06dfbaf7",
+      "a7e4991c9",
+      "a95a70797",
+      "a0c4ebb65",
+      "a0b43a2bc",
+      "ab3119897",
+      "af0f189d1",
+      "a38ad1236"
     ],
     "l1": [
+      "a065ea4d3",
+      "a94cd6d02",
+      "a1586fbdb",
       "a9949d3b0",
       "a7bd42254",
       "a59514e6a",
-      "a1ce401a1",
       "af675d33c",
       "a6e9b6465",
       "a84caa11d",
@@ -1682,36 +1782,6 @@
       "a2ae2603b",
       "afeb62ce7"
     ],
-    "l2": [
-      "a5559f74d",
-      "a2449210a",
-      "ae46f2d70",
-      "a0ecd760f",
-      "a915ab659",
-      "a2f484bd6",
-      "aca48b05a",
-      "a3f2c1a73",
-      "a8cd22f89",
-      "af1469c51",
-      "acb8f20f3",
-      "a1abb0110",
-      "a581e13f4",
-      "a4d4d6c90",
-      "a5bf973bf",
-      "a58c3031f",
-      "a41a1b31c",
-      "ae3d3b3e2",
-      "a1c025c0d",
-      "a306fec6a",
-      "a06dfbaf7",
-      "a7e4991c9",
-      "a95a70797",
-      "a0c4ebb65",
-      "a0b43a2bc",
-      "ab3119897",
-      "af0f189d1",
-      "a38ad1236"
-    ],
     "l3": [
       "a93943ff7",
       "a3d39c211",
@@ -1726,89 +1796,23 @@
     ]
   },
   "top5": [
-    "a6f8bd6d5",
-    "af346f0f1",
-    "a1f89fb53",
-    "a055549e3",
-    "a08f441cb"
+    "ac4721d51",
+    "a7ffe44f1",
+    "a553080b9",
+    "a1c840c4a",
+    "a54ee7ebf"
   ],
   "layers": [
-    {
-      "id": "l0",
-      "num": "LAYER 0",
-      "name": "领袖观点",
-      "vals": [
-        29,
-        38,
-        13,
-        8,
-        38,
-        23
-      ],
-      "trend": [
-        20,
-        22,
-        24,
-        26,
-        28,
-        30,
-        32
-      ]
-    },
-    {
-      "id": "l4",
-      "num": "LAYER 4",
-      "name": "交互Agent",
-      "vals": [
-        16,
-        25,
-        8,
-        5,
-        12,
-        18
-      ],
-      "trend": [
-        20,
-        20,
-        20,
-        20,
-        20,
-        20,
-        20
-      ]
-    },
-    {
-      "id": "l1",
-      "num": "LAYER 1",
-      "name": "算力硬件",
-      "vals": [
-        14,
-        13,
-        10,
-        6,
-        24,
-        20
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
     {
       "id": "l2",
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        13,
-        12,
-        5,
+        31,
+        17,
+        31,
         7,
-        29,
+        17,
         21
       ],
       "trend": [
@@ -1822,25 +1826,69 @@
       ]
     },
     {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
+      "id": "l0",
+      "num": "LAYER 0",
+      "name": "领袖观点",
       "vals": [
-        10,
+        31,
+        19,
         13,
-        12,
-        6,
-        20,
-        14
+        9,
+        28,
+        23
       ],
       "trend": [
         20,
-        19,
+        22,
+        24,
+        26,
+        28,
+        30,
+        32
+      ]
+    },
+    {
+      "id": "l1",
+      "num": "LAYER 1",
+      "name": "算力硬件",
+      "vals": [
+        23,
         18,
+        10,
+        7,
         17,
-        16,
-        15,
-        14
+        20
+      ],
+      "trend": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "id": "l4",
+      "num": "LAYER 4",
+      "name": "交互Agent",
+      "vals": [
+        20,
+        10,
+        7,
+        5,
+        17,
+        17
+      ],
+      "trend": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
       ]
     },
     {
@@ -1848,12 +1896,34 @@
       "num": "LAYER 5",
       "name": "生态商业",
       "vals": [
+        10,
+        10,
+        5,
+        5,
+        20,
+        16
+      ],
+      "trend": [
+        20,
+        18,
+        16,
+        14,
+        12,
+        10,
+        8
+      ]
+    },
+    {
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
+      "vals": [
+        10,
+        10,
+        7,
+        5,
         13,
-        10,
-        5,
-        5,
-        10,
-        20
+        13
       ],
       "trend": [
         20,
@@ -1868,9 +1938,64 @@
   ],
   "ticker": [
     {
+      "tag": "TOM'S HAR",
+      "col": "var(--l5)",
+      "text": "Jury throws out Elon Musk's lawsuit against OpenAI after less tha…"
+    },
+    {
+      "tag": "TECHCRUNC",
+      "col": "var(--l5)",
+      "text": "Anthropic has acquired the dev tools startup used by OpenAI, Goog…"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l0)",
+      "text": "Musk v. Altman proved that AI is led by the wrong people"
+    },
+    {
       "tag": "THE VERGE",
       "col": "var(--l4)",
-      "text": "Philips Hue smart lights and a whole lot more are over 20 percent…"
+      "text": "Dyson’s super-slim PencilWash just hit its best price to date for…"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l0)",
+      "text": "All of the updates from Elon Musk and Sam Altman’s battle over Op…"
+    },
+    {
+      "tag": "WIRED",
+      "col": "var(--l5)",
+      "text": "Elon Musk Loses Landmark Lawsuit Against OpenAI"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l0)",
+      "text": "Elon Musk loses his case against Sam Altman"
+    },
+    {
+      "tag": "MIT TECH ",
+      "col": "var(--l2)",
+      "text": "What to expect from Google this week"
+    },
+    {
+      "tag": "TECHCRUNC",
+      "col": "var(--l0)",
+      "text": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l0)",
+      "text": "College students drown out AI-praising commencement speeches with…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Record-high pricing pushes SSD and memory makers to borrow $880 m…"
+    },
+    {
+      "tag": "MIT TECH ",
+      "col": "var(--l0)",
+      "text": "Inside Anduril and Meta’s quest to make smart glasses for warfare"
     },
     {
       "tag": "TECHCRUNC",
@@ -1878,119 +2003,64 @@
       "text": "Amazon’s new Alexa+ powered feature can generate podcast episodes"
     },
     {
-      "tag": "THE VERGE",
-      "col": "var(--l0)",
-      "text": "Linus Torvalds says Linux security list is becoming ‘unmanageable…"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l0)",
-      "text": "Exclusive: Jonah Peretti explains why he sold BuzzFeed"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "Starlink raises prices across satellite internet plans"
-    },
-    {
-      "tag": "LATENT SP",
-      "col": "var(--l0)",
-      "text": "The Next War Is Already Here. The West Isn't Ready. — Yaroslav Az…"
-    },
-    {
-      "tag": "404 MEDIA",
-      "col": "var(--l0)",
-      "text": "Researchers Wanted Preschool Teachers to Wear Cameras to Train AI"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l5)",
-      "text": "South Korea’s LetinAR is building optics behind AI glasses"
-    },
-    {
-      "tag": "IEEE SPEC",
+      "tag": "TOM'S HAR",
       "col": "var(--l1)",
-      "text": "How Melbourne’s AI and Data Center Flywheel Is Accelerating Resea…"
-    },
-    {
-      "tag": "IEEE SPEC",
-      "col": "var(--l4)",
-      "text": "Agentic AI for Robot Teams"
-    },
-    {
-      "tag": "WIRED",
-      "col": "var(--l2)",
-      "text": "I’m a Normie. Can Normies Really Vibe Code?"
-    },
-    {
-      "tag": "ARXIV CS.",
-      "col": "var(--l3)",
-      "text": "AgentStop: Terminating Local AI Agents Early to Save Energy in Co…"
-    },
-    {
-      "tag": "ARXIV CS.",
-      "col": "var(--l2)",
-      "text": "TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination"
-    },
-    {
-      "tag": "ARXIV CS.",
-      "col": "var(--l3)",
-      "text": "Quantization Undoes Alignment: Bias Emergence in Compressed LLMs …"
+      "text": "China says 'world's first' offshore wind-powered underwater data …"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
+      "title": "Haiku OS runs on M1 Macs now",
+      "url": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
+      "votes": "101",
+      "comments": "36",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Anthropic acquires Stainless",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "votes": "200",
+      "comments": "132",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
       "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
       "url": "https://archestra.ai/blog/only-responsible-ai",
-      "votes": "10",
-      "comments": "2",
+      "votes": "299",
+      "comments": "141",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "'We mould trees to grow into the shape of chairs'",
-      "url": "https://www.bbc.co.uk/news/articles/cvg0yy3gp71o",
-      "votes": "96",
-      "comments": "28",
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "votes": "406",
+      "comments": "200",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Linux security mailing list 'almost unmanageable'",
-      "url": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
-      "votes": "116",
-      "comments": "49",
+      "title": "Agora-1: The Multi-Agent World Model",
+      "url": "https://odyssey.ml/introducing-agora-1",
+      "votes": "20",
+      "comments": "4",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
-      "url": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840",
-      "votes": "94",
-      "comments": "47",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
-      "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
-      "votes": "11",
-      "comments": "1",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "AI eats the world (Spring 26) [pdf]",
-      "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
-      "votes": "119",
-      "comments": "67",
+      "title": "Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint",
+      "url": "https://modal.com/blog/truly-serverless-gpus",
+      "votes": "26",
+      "comments": "6",
       "time": "近期"
     }
   ]
