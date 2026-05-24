@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T03:55:16.691477+00:00",
+  "updated_at": "2026-05-24T08:33:08.068708+00:00",
   "article_count": 113,
   "articles": {
     "a20964141": {
@@ -7,7 +7,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Record Club is trying to be Letterboxd for music nerds",
       "src": "The Verge",
-      "time": "5小时前",
+      "time": "9小时前",
       "published_ts": 1779576071,
       "heat": "24.0K",
       "views": "24.0K",
@@ -20,7 +20,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Save almost $200 on a flagship AMD 9850X3D CPU and 9070 XT GPU with this Newegg combo bundle — AMD's Ryzen 9 9850X3D and Radeon RX 9070 XT can be yours at a great price",
       "src": "Tom's Hardware",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1779557484,
       "heat": "15.0K",
       "views": "15.0K",
@@ -33,7 +33,7 @@
       "cat": "L1 · 算力硬件",
       "title": "007: First Light drops last-minute Denuvo DRM bombshell, leaving pre-order customers and fans furious — Bond title risks FPS drops and strict online check-ins, Pirates eagerly await repack as day-one cracks become the norm",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1779552494,
       "heat": "13.2K",
       "views": "15.0K",
@@ -46,7 +46,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Ferrari is using IBM’s AI to create F1 superfans",
       "src": "TechCrunch AI",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1779548880,
       "heat": "27.0K",
       "views": "27.0K",
@@ -59,7 +59,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Here are 38 Memorial Day deals we recommend for $50 or less",
       "src": "The Verge",
-      "time": "13小时前",
+      "time": "18小时前",
       "published_ts": 1779544800,
       "heat": "18.2K",
       "views": "21.1K",
@@ -72,7 +72,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Samsung's $400,000 payout for memory workers sparks revolt as other divisions get only $4,000, fueling intentional production slowdowns — internal resentment disrupts packaging operations, major AI chip project decisions to a complete halt",
       "src": "Tom's Hardware",
-      "time": "14小时前",
+      "time": "18小时前",
       "published_ts": 1779544197,
       "heat": "11.4K",
       "views": "13.2K",
@@ -85,7 +85,7 @@
       "cat": "L4 · 交互Agent",
       "title": "AI cost crisis hits tech giants as employee 'tokenmaxxing' backfires, sparking corporate pullback at Microsoft, Meta, and Amazon — agentic AI eats up to 1000x more tokens than standard AI",
       "src": "Tom's Hardware",
-      "time": "14小时前",
+      "time": "18小时前",
       "published_ts": 1779543780,
       "heat": "9.6K",
       "views": "11.4K",
@@ -98,7 +98,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Hanging out in my favorite virtual coffee shop in Tokyo",
       "src": "The Verge",
-      "time": "14小时前",
+      "time": "19小时前",
       "published_ts": 1779541200,
       "heat": "15.4K",
       "views": "18.2K",
@@ -111,7 +111,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Elon Musk has given up on solar power (on Earth)",
       "src": "TechCrunch AI",
-      "time": "14小时前",
+      "time": "19小时前",
       "published_ts": 1779541200,
       "heat": "23.8K",
       "views": "27.0K",
@@ -124,7 +124,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Micron's Virginia fab begins producing America's most advanced DRAM memory — fab expansion to quadruple output, easing DDR4 shortage for automotive and defense sectors",
       "src": "Tom's Hardware",
-      "time": "15小时前",
+      "time": "20小时前",
       "published_ts": 1779537600,
       "heat": "6.0K",
       "views": "7.8K",
@@ -137,7 +137,7 @@
       "cat": "L2 · 基础模型",
       "title": "Google’s new anything-to-anything AI model is wild",
       "src": "The Verge",
-      "time": "16小时前",
+      "time": "21小时前",
       "published_ts": 1779534000,
       "heat": "9.6K",
       "views": "12.5K",
@@ -150,7 +150,7 @@
       "cat": "L4 · 交互Agent",
       "title": "[AINews] All Model Labs are now Agent Labs",
       "src": "Latent Space",
-      "time": "23小时前",
+      "time": "1天前",
       "published_ts": 1779510077,
       "heat": "19.5K",
       "views": "19.5K",
@@ -280,7 +280,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] New AI Infra unicorns: Exa, Modal, TurboPuffer",
       "src": "Latent Space",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1779429058,
       "heat": "17.2K",
       "views": "19.5K",
@@ -293,7 +293,7 @@
       "cat": "L3 · 推理工程",
       "title": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service",
       "src": "Simon Willison",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1779425312,
       "heat": "11.4K",
       "views": "13.2K",
@@ -566,7 +566,7 @@
       "cat": "L2 · 基础模型",
       "title": "[AINews] OpenAI GPT-next disproves 80 year old Erdős planar unit distance problem for under $1000",
       "src": "Latent Space",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1779348516,
       "heat": "12.5K",
       "views": "14.8K",
@@ -1242,7 +1242,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "276天前",
+      "time": "277天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1608,16 +1608,16 @@
   ],
   "layers": [
     {
-      "id": "l2",
-      "num": "LAYER 2",
-      "name": "基础模型",
+      "id": "l1",
+      "num": "LAYER 1",
+      "name": "算力硬件",
       "vals": [
-        32,
-        20,
-        17,
-        7,
-        37,
-        21
+        18,
+        26,
+        10,
+        6,
+        28,
+        20
       ],
       "trend": [
         20,
@@ -1634,11 +1634,11 @@
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        26,
-        30,
-        10,
-        10,
         18,
+        11,
+        10,
+        19,
+        25,
         20
       ],
       "trend": [
@@ -1652,16 +1652,16 @@
       ]
     },
     {
-      "id": "l1",
-      "num": "LAYER 1",
-      "name": "算力硬件",
+      "id": "l2",
+      "num": "LAYER 2",
+      "name": "基础模型",
       "vals": [
-        25,
-        17,
-        10,
-        6,
-        15,
-        20
+        14,
+        11,
+        14,
+        7,
+        37,
+        21
       ],
       "trend": [
         20,
@@ -1678,11 +1678,11 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        12,
-        15,
+        13,
+        10,
         10,
         6,
-        21,
+        17,
         20
       ],
       "trend": [
@@ -1703,7 +1703,7 @@
         10,
         10,
         5,
-        13,
+        5,
         10,
         12
       ],
@@ -1726,7 +1726,7 @@
         10,
         5,
         5,
-        18,
+        10,
         10
       ],
       "trend": [
@@ -1816,19 +1816,19 @@
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
-      "url": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
-      "votes": "89",
-      "comments": "18",
+      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
+      "votes": "78",
+      "comments": "49",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
-      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
-      "votes": "24",
-      "comments": "11",
+      "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
+      "url": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
+      "votes": "102",
+      "comments": "21",
       "time": "近期"
     },
     {
@@ -1836,8 +1836,8 @@
       "badge": "pb-hn",
       "title": "Making deep learning go brrrr from first principles (2022)",
       "url": "https://horace.io/brrr_intro.html",
-      "votes": "157",
-      "comments": "59",
+      "votes": "170",
+      "comments": "62",
       "time": "近期"
     },
     {
@@ -1845,8 +1845,17 @@
       "badge": "pb-hn",
       "title": "Italy moves to Airbus A330 tankers",
       "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
-      "votes": "240",
-      "comments": "95",
+      "votes": "255",
+      "comments": "100",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Local LLMs perform better when you teach them to ask before they answer",
+      "url": "https://www.xda-developers.com/local-llm-clarifying-questions-system-prompt/",
+      "votes": "9",
+      "comments": "3",
       "time": "近期"
     },
     {
@@ -1854,17 +1863,8 @@
       "badge": "pb-hn",
       "title": "A 1955 Los Alamos computer experiment changed our understanding of chaos",
       "url": "https://www.lanl.gov/media/publications/1663/science-of-unpredictability",
-      "votes": "52",
+      "votes": "57",
       "comments": "3",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "A self-powered computer in actual credit-card size (~1mm thick)",
-      "url": "https://old.reddit.com/r/electronics/comments/1td7yxl/i_built_a_fully_selfpowered_computer_in_actual/",
-      "votes": "64",
-      "comments": "6",
       "time": "近期"
     }
   ]
