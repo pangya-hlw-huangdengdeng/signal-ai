@@ -1,52 +1,143 @@
 {
-  "updated_at": "2026-05-24T08:33:08.068708+00:00",
-  "article_count": 113,
+  "updated_at": "2026-05-24T13:42:00.206178+00:00",
+  "article_count": 115,
   "articles": {
+    "a5a5e4704": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "First ever Cray T3D Supercomputer goes up for auction with $81,000 reserve — Europe’s fastest supercomputer in June 1996 goes on the block",
+      "src": "Tom's Hardware",
+      "time": "6分钟前",
+      "published_ts": 1779629729,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/tech-industry/supercomputers/first-ever-cray-t3d-supercomputer-goes-up-for-auction-with-usd81-000-reserve-europes-fastest-supercomputer-in-june-1996-goes-on-the-block",
+      "tags": [],
+      "body": "<p>The first Cray T3D supercomputer ever produced, serial number 6001, was recently put up for auction, with opening bids from £60,000 (~$81,000) invited.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a182dce2d": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Steam Machine appears in Vulkan’s conformant product database — upcoming Valve console is certified compliant with the graphics API",
+      "src": "Tom's Hardware",
+      "time": "24分钟前",
+      "published_ts": 1779628648,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/video-games/console-gaming/steam-machine-appears-in-vulkans-conformant-product-database-upcoming-valve-console-is-certified-compliant-with-the-graphics-api",
+      "tags": [],
+      "body": "<p>The Khronos Group, which created the Vulkan API standard and continues to develop and maintain it, added the Steam Machine to its list of conformant products. This does not indicate how far or soon a product will come to the market, but it's a step in the right direction showing that much-awaited console will arrive... someday.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ada641dba": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "We tested Advanced Shader Delivery on the RX 9070 XT in six games — up to 95% improvement in load times and 33 percent faster 1% Low FPS",
+      "src": "Tom's Hardware",
+      "time": "43分钟前",
+      "published_ts": 1779627490,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://www.tomshardware.com/pc-components/gpus/we-tested-advanced-shader-delivery-on-the-rx-9070-xt",
+      "tags": [],
+      "body": "<p>Today, we will take a look at Advanced Shader Delivery (ASD) – a new gaming feature aimed at improving the overall user experience by reducing load times dramatically and improving 1% low FPS. We tested six games, measuring up to a 95% improvement in game loading times and solid improvements in 1% Low FPS in some titles.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ae8b6d628": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Ubisoft reportedly testing generative AI in Far Cry 7, insider says it 'looks like sh*t' — company recently posted a record €1.3 billion loss",
+      "src": "Tom's Hardware",
+      "time": "57分钟前",
+      "published_ts": 1779626665,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ubisoft-reportedly-testing-generative-ai-in-far-cry-7-as-company-posts-record-1-3-billion-loss",
+      "tags": [],
+      "body": "<p>Ubisoft is using an early build of its unannounced Far Cry 7 as a testbed for generative AI tools, according to Tom Henderson of Insider Gaming.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a0bc966d2": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Researcher develops 'spray-on' stealth coating for drones — volcanic rock formulation claims to reduce radar return signals by up to 43dB, compared to 20 to 30dB for typical radar absorbent material",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1779625500,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://www.tomshardware.com/tech-industry/researcher-develops-spray-on-stealth-coating-for-drones-volcanic-rock-formulation-claims-to-reduce-radar-return-signals-by-up-to-43db-compared-to-20-to-30db-for-typical-radar-absorbent-material",
+      "tags": [],
+      "body": "<p>Users can easily spray on this radar absorbent material on any drone to increase their survivability in contested skies.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "adfe72929": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Autonomous ErgoChair Pro Review: Comfortable, but that's it",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1779624000,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://www.tomshardware.com/peripherals/gaming-chairs/autonomous-ergochair-pro-review",
+      "tags": [],
+      "body": "<p>The Autonomous ErgoChair Pro is a solid entry in the ErgoChair line, offering good back support and adjustability. However, it lacks any standout features that separate it from the wide range of office chairs available.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a7a7970dd": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
+      "src": "The Verge",
+      "time": "1小时前",
+      "published_ts": 1779624000,
+      "heat": "24.0K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+      "tags": [],
+      "body": "<p>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Hacking the first generation of AI chatbots was a laughably simple affair. [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a03ff7de8": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage",
+      "src": "The Verge",
+      "time": "2小时前",
+      "published_ts": 1779620400,
+      "heat": "21.1K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo",
+      "tags": [],
+      "body": "<p>Waymo is the undisputed leader in the robotaxi space, operating a fleet of over 3,000 driverless cars in at least 10 cities across the US. A number of companies, including Tesla, Zoox, Avride, and Motional, are racing to catch up with the Alphabet-owned firm. But what if being No. 2 was actually better? Nuro, the [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "afab85696": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin",
+      "src": "Wired",
+      "time": "3小时前",
+      "published_ts": 1779618600,
+      "heat": "16.5K",
+      "views": "16.5K",
+      "url": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
+      "tags": [],
+      "body": "<p>A nonprofit in the city’s most troubled district has turned to robotic meal prep tech to make up for a dearth of human volunteers.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a20964141": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "Record Club is trying to be Letterboxd for music nerds",
       "src": "The Verge",
-      "time": "9小时前",
+      "time": "15小时前",
       "published_ts": 1779576071,
-      "heat": "24.0K",
-      "views": "24.0K",
+      "heat": "18.2K",
+      "views": "21.1K",
       "url": "https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds",
       "tags": [],
       "body": "<p>There isn't really a solid equivalent to Goodreads or Letterboxd for music lovers, but Record Club is aiming to change that. Yes, we have Rate Your Music, but its interface is crowded, and it feels more geared towards longer-form reviews than cataloging your listening habits and connecting with other fans. Record Club is clean and [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a89b78ce7": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Save almost $200 on a flagship AMD 9850X3D CPU and 9070 XT GPU with this Newegg combo bundle — AMD's Ryzen 9 9850X3D and Radeon RX 9070 XT can be yours at a great price",
-      "src": "Tom's Hardware",
-      "time": "15小时前",
-      "published_ts": 1779557484,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://www.tomshardware.com/pc-components/save-almost-usd200-on-a-flagship-amd-9850x3d-cpu-and-9070-xt-gpu-with-this-newegg-combo-bundle-amds-ryzen-9-9850x3d-and-radeon-rx-9070-xt-can-be-yours-at-a-great-price",
-      "tags": [],
-      "body": "<p>If you've been looking to build a 4K-ready but the prices during the AI boom has scared you off, we've got just the deal to start you off. You can grab AMD's top-tier Ryzen 9 9850X3D CPU and RX 9070 XT GPU for less than $1,000 right now on Newegg. You're getting a combined savings of almost $200 across both items.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a53546be9": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "007: First Light drops last-minute Denuvo DRM bombshell, leaving pre-order customers and fans furious — Bond title risks FPS drops and strict online check-ins, Pirates eagerly await repack as day-one cracks become the norm",
-      "src": "Tom's Hardware",
-      "time": "16小时前",
-      "published_ts": 1779552494,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://www.tomshardware.com/video-games/pc-gaming/007-first-light-drops-last-minute-denuvo-drm-bombshell-leaving-pre-order-customers-and-fans-furious-bond-title-risks-fps-drops-and-strict-online-check-ins-pirates-eagerly-await-repack-as-day-one-cracks-become-the-norm",
-      "tags": [],
-      "body": "<p>IO Interative's latest James Bond adventure has been hit with the curse of Denuvo DRM, leaving many paying customers frustrated over a deliberate roadblock. With all versions of Denuvo now cracked anyways, there's a high chance 007: First Light will be cracked within a few days of its launch anyways.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a59f374d5": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "Ferrari is using IBM’s AI to create F1 superfans",
       "src": "TechCrunch AI",
-      "time": "17小时前",
+      "time": "22小时前",
       "published_ts": 1779548880,
       "heat": "27.0K",
       "views": "27.0K",
@@ -59,49 +150,23 @@
       "cat": "L4 · 交互Agent",
       "title": "Here are 38 Memorial Day deals we recommend for $50 or less",
       "src": "The Verge",
-      "time": "18小时前",
+      "time": "23小时前",
       "published_ts": 1779544800,
-      "heat": "18.2K",
-      "views": "21.1K",
+      "heat": "12.5K",
+      "views": "15.4K",
       "url": "https://www.theverge.com/gadgets/935751/memorial-day-2026-best-cheap-tech-deals-under-50",
       "tags": [],
       "body": "<p>Massive OLED TVs and Sonos speakers might be stealing the Memorial Day spotlight, but there are also plenty of great deals that won’t set you back nearly as much. In fact, some of the best discounts we’re seeing are on gadgets that retail for $50 or less, from portable chargers and 4K streaming devices to [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a8161df9c": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Samsung's $400,000 payout for memory workers sparks revolt as other divisions get only $4,000, fueling intentional production slowdowns — internal resentment disrupts packaging operations, major AI chip project decisions to a complete halt",
-      "src": "Tom's Hardware",
-      "time": "18小时前",
-      "published_ts": 1779544197,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://www.tomshardware.com/tech-industry/samsungs-bonus-dispute-spreads-to-chip-packaging-divisions-threatening-hbm-delivery-schedules",
-      "tags": [],
-      "body": "<p>It’s understood that meetings are being canceled across Samsung's non-memory and shared business units.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a3801417f": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "AI cost crisis hits tech giants as employee 'tokenmaxxing' backfires, sparking corporate pullback at Microsoft, Meta, and Amazon — agentic AI eats up to 1000x more tokens than standard AI",
-      "src": "Tom's Hardware",
-      "time": "18小时前",
-      "published_ts": 1779543780,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-cost-crisis-hits-tech-giants-as-employee-tokenmaxxing-backfires-agentic-ai-eats-up-to-1000x-more-tokens-than-standard-ai-sparks-corporate-pullback-at-microsoft-meta-and-amazon",
-      "tags": [],
-      "body": "<p>Agentic AI is consuming so many tokens that it's draining AI budgets way faster than expected. Jevons Paradox rings true 161 years after it was coined.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "aef099232": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "Hanging out in my favorite virtual coffee shop in Tokyo",
       "src": "The Verge",
-      "time": "19小时前",
+      "time": "1天前",
       "published_ts": 1779541200,
-      "heat": "15.4K",
-      "views": "18.2K",
+      "heat": "9.6K",
+      "views": "12.5K",
       "url": "https://www.theverge.com/entertainment/936278/coffee-talk-tokyo-review-switch-xbox-ps5-steam",
       "tags": [],
       "body": "<p>Finding a cafe that fits you can be a revelatory experience. For me at least, there are few places outside of my house that I can truly feel comfortable in. I'm lucky enough to have two options in walking distance: a coffee shop that's bright, airy, and full of art, and another that doubles as [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -111,39 +176,13 @@
       "cat": "L4 · 交互Agent",
       "title": "Elon Musk has given up on solar power (on Earth)",
       "src": "TechCrunch AI",
-      "time": "19小时前",
+      "time": "1天前",
       "published_ts": 1779541200,
       "heat": "23.8K",
       "views": "27.0K",
       "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
       "tags": [],
       "body": "<p>Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a95480527": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Micron's Virginia fab begins producing America's most advanced DRAM memory — fab expansion to quadruple output, easing DDR4 shortage for automotive and defense sectors",
-      "src": "Tom's Hardware",
-      "time": "20小时前",
-      "published_ts": 1779537600,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://www.tomshardware.com/tech-industry/micron-begins-producing-americas-most-advanced-dram-at-its-virginia-fab",
-      "tags": [],
-      "body": "<p>Micron is scaling up DDR4 production as the supply of the older memory standard has become unexpectedly tight.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a8ee51804": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Google’s new anything-to-anything AI model is wild",
-      "src": "The Verge",
-      "time": "21小时前",
-      "published_ts": 1779534000,
-      "heat": "9.6K",
-      "views": "12.5K",
-      "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
-      "tags": [],
-      "body": "<p>Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a4d4d38c3": {
       "layer": "l4",
@@ -230,7 +269,7 @@
       "src": "Wired",
       "time": "1天前",
       "published_ts": 1779462000,
-      "heat": "16.5K",
+      "heat": "14.5K",
       "views": "16.5K",
       "url": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
       "tags": [],
@@ -241,7 +280,7 @@
       "cat": "L1 · 算力硬件",
       "title": "A hacker group is poisoning open source code at an unprecedented scale",
       "src": "Ars Technica",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1779445814,
       "heat": "15.8K",
       "views": "18.0K",
@@ -254,7 +293,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Google I/O showed how the path for AI-driven science is shifting",
       "src": "MIT Tech Review",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1779444000,
       "heat": "22.5K",
       "views": "22.5K",
@@ -267,10 +306,10 @@
       "cat": "L5 · 生态商业",
       "title": "The Gulf’s AI Boom Has an Undersea Cable Problem",
       "src": "Wired",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1779440400,
-      "heat": "14.5K",
-      "views": "16.5K",
+      "heat": "12.5K",
+      "views": "14.5K",
       "url": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/",
       "tags": [],
       "body": "<p>Hyperscalers are pushing the Gulf to rethink internet infrastructure as AI raises the stakes of cable disruptions.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -308,8 +347,8 @@
       "src": "Wired",
       "time": "2天前",
       "published_ts": 1779408265,
-      "heat": "12.5K",
-      "views": "14.5K",
+      "heat": "10.6K",
+      "views": "12.5K",
       "url": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
       "tags": [],
       "body": "<p>Global affairs chief Chris Lehane wants to tone down the debate over AI’s societal impacts—and get states to pass laws that won’t derail OpenAI’s meteoric rise.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -347,8 +386,8 @@
       "src": "Wired",
       "time": "2天前",
       "published_ts": 1779396293,
-      "heat": "10.6K",
-      "views": "12.5K",
+      "heat": "8.6K",
+      "views": "10.6K",
       "url": "https://www.wired.com/story/uncanny-valley-podcast-meta-in-crisis-google-search-makeover-ai-booed-by-graduates/",
       "tags": [],
       "body": "<p>In this episode of Uncanny Valley, we unpack the mass layoffs at Meta, big announcements at Google I/O, and the latest backlash against AI.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -451,8 +490,8 @@
       "src": "Wired",
       "time": "2天前",
       "published_ts": 1779378504,
-      "heat": "8.6K",
-      "views": "10.6K",
+      "heat": "6.6K",
+      "views": "8.6K",
       "url": "https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/",
       "tags": [],
       "body": "<p>I used the Gemini app to generate lifelike videos featuring a digital clone of myself. Google sees this as the future of creation. I’m still creeped out.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -514,7 +553,7 @@
       "cat": "L0 · 领袖观点",
       "title": "This Archivist Has Saved 175,000 Articles from 30 Years of Writing about Magic: The Gathering",
       "src": "404 Media",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1779368927,
       "heat": "7.8K",
       "views": "9.6K",
@@ -527,7 +566,7 @@
       "cat": "L5 · 生态商业",
       "title": "Google's take on openclaw",
       "src": "Ben's Bites",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1779368603,
       "heat": "16.5K",
       "views": "16.5K",
@@ -540,7 +579,7 @@
       "cat": "L4 · 交互Agent",
       "title": "AdventHealth advances whole-person care with OpenAI",
       "src": "OpenAI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1779364800,
       "heat": "34.2K",
       "views": "39.6K",
@@ -553,7 +592,7 @@
       "cat": "L1 · 算力硬件",
       "title": "The Future of Physical AI Isn’t Smarter Robots, It’s Smarter Interfaces",
       "src": "IEEE Spectrum",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1779357602,
       "heat": "9.6K",
       "views": "11.4K",
@@ -573,19 +612,6 @@
       "url": "https://www.latent.space/p/ainews-openai-gpt-next-disproves",
       "tags": [],
       "body": "<p>a quiet day but a nice result in AI x mathematics</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a17cb0e68": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "SpaceX Listed Grok’s ‘Spicy’ Mode as a Risk in Its IPO Filing",
-      "src": "Wired",
-      "time": "3天前",
-      "published_ts": 1779324193,
-      "heat": "6.6K",
-      "views": "8.6K",
-      "url": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/",
-      "tags": [],
-      "body": "<p>The rocket company has set aside more than $500 million for potential litigation losses, in part to account for complaints alleging that Grok created sexualized images.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a188d4ccf": {
       "layer": "l4",
@@ -696,7 +722,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Can I get my agents on the phone?",
       "src": "Ben's Bites",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1779195685,
       "heat": "14.5K",
       "views": "16.5K",
@@ -748,7 +774,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Agentic AI for Robot Teams",
       "src": "IEEE Spectrum",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1779098401,
       "heat": "7.8K",
       "views": "9.6K",
@@ -761,7 +787,7 @@
       "cat": "L1 · 算力硬件",
       "title": "How Melbourne’s AI and Data Center Flywheel Is Accelerating Research Innovation",
       "src": "IEEE Spectrum",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1779098401,
       "heat": "6.0K",
       "views": "7.8K",
@@ -787,7 +813,7 @@
       "cat": "L2 · 基础模型",
       "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
       "src": "Ahead of AI",
-      "time": "7天前",
+      "time": "8天前",
       "published_ts": 1778931231,
       "heat": "15.0K",
       "views": "15.0K",
@@ -800,7 +826,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Agents feedback tip",
       "src": "Ben's Bites",
-      "time": "9天前",
+      "time": "10天前",
       "published_ts": 1778765463,
       "heat": "12.5K",
       "views": "14.5K",
@@ -813,7 +839,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Sea You in the Cloud: ‘Subnautica 2’ Early Access Dives Onto GeForce NOW",
       "src": "NVIDIA Blog",
-      "time": "9天前",
+      "time": "10天前",
       "published_ts": 1778763608,
       "heat": "15.0K",
       "views": "19.5K",
@@ -826,7 +852,7 @@
       "cat": "L2 · 基础模型",
       "title": "Reel Friends: Building Social Discovery that Scales to Billions",
       "src": "Meta Engineering",
-      "time": "10天前",
+      "time": "11天前",
       "published_ts": 1778677244,
       "heat": "30.0K",
       "views": "30.0K",
@@ -878,7 +904,7 @@
       "cat": "L5 · 生态商业",
       "title": "Ben's Builds #3 - an email app",
       "src": "Ben's Bites",
-      "time": "14天前",
+      "time": "15天前",
       "published_ts": 1778318710,
       "heat": "8.6K",
       "views": "10.6K",
@@ -904,7 +930,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Elon doubled limits",
       "src": "Ben's Bites",
-      "time": "16天前",
+      "time": "17天前",
       "published_ts": 1778158998,
       "heat": "6.6K",
       "views": "8.6K",
@@ -943,7 +969,7 @@
       "cat": "L2 · 基础模型",
       "title": "My Workflow for Understanding LLM Architectures",
       "src": "Ahead of AI",
-      "time": "35天前",
+      "time": "36天前",
       "published_ts": 1776511476,
       "heat": "13.2K",
       "views": "15.0K",
@@ -969,7 +995,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Components of A Coding Agent",
       "src": "Ahead of AI",
-      "time": "49天前",
+      "time": "50天前",
       "published_ts": 1775303137,
       "heat": "11.4K",
       "views": "13.2K",
@@ -995,7 +1021,7 @@
       "cat": "L3 · 推理工程",
       "title": "A Visual Guide to Attention Variants in Modern LLMs",
       "src": "Ahead of AI",
-      "time": "62天前",
+      "time": "63天前",
       "published_ts": 1774180540,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1008,7 +1034,7 @@
       "cat": "L3 · 推理工程",
       "title": "A Dream of Spring for Open-Weight LLMs: 10 Architectures from Jan-Feb 2026",
       "src": "Ahead of AI",
-      "time": "87天前",
+      "time": "88天前",
       "published_ts": 1772026016,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1060,7 +1086,7 @@
       "cat": "L3 · 推理工程",
       "title": "Categories of Inference-Time Scaling for Improved LLM Reasoning",
       "src": "Ahead of AI",
-      "time": "119天前",
+      "time": "120天前",
       "published_ts": 1769253798,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1112,7 +1138,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
       "src": "VentureBeat AI",
-      "time": "130天前",
+      "time": "131天前",
       "published_ts": 1768309200,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1125,7 +1151,7 @@
       "cat": "L2 · 基础模型",
       "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
       "src": "VentureBeat AI",
-      "time": "131天前",
+      "time": "132天前",
       "published_ts": 1768217400,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1216,7 +1242,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
       "src": "SemiAnalysis",
-      "time": "257天前",
+      "time": "258天前",
       "published_ts": 1757325297,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1473,36 +1499,13 @@
     }
   },
   "by_layer": {
-    "l4": [
-      "a20964141",
-      "a59f374d5",
-      "a0539708a",
-      "a3801417f",
-      "aef099232",
-      "ada3f7534",
-      "a4d4d38c3",
-      "a93ad15a4",
-      "a5f5e8f97",
-      "a34350f7f",
-      "ac0bedc8c",
-      "ad78f7af4",
-      "a6862d006",
-      "a188d4ccf",
-      "ad87452cd",
-      "aa00f39b2",
-      "a6612589e",
-      "ad826bd68",
-      "ab59fe080",
-      "af25d02a4",
-      "a9560485f",
-      "a61a8adff",
-      "ad01feb8a"
-    ],
     "l1": [
-      "a89b78ce7",
-      "a53546be9",
-      "a8161df9c",
-      "a95480527",
+      "a5a5e4704",
+      "a182dce2d",
+      "ada641dba",
+      "ae8b6d628",
+      "a0bc966d2",
+      "adfe72929",
       "a65d5da6e",
       "a9563274a",
       "a37f6f73e",
@@ -1523,35 +1526,34 @@
       "a2ae2603b",
       "afeb62ce7"
     ],
-    "l2": [
-      "a8ee51804",
-      "a746fc77b",
-      "a916307e1",
-      "a5f21356d",
-      "a3ba496e6",
-      "af87765bf",
-      "a79958ca8",
-      "ada9ca275",
-      "a20f2ab17",
-      "a157ece4f",
-      "a2f484bd6",
-      "aca48b05a",
-      "a5bf973bf",
-      "a58c3031f",
-      "a41a1b31c",
-      "ae3d3b3e2",
-      "a1c025c0d",
-      "a306fec6a",
-      "a06dfbaf7",
-      "a7e4991c9",
-      "a95a70797",
-      "a0c4ebb65",
-      "a0b43a2bc",
-      "ab3119897",
-      "af0f189d1",
-      "a38ad1236"
+    "l4": [
+      "a7a7970dd",
+      "a03ff7de8",
+      "a20964141",
+      "a59f374d5",
+      "a0539708a",
+      "aef099232",
+      "ada3f7534",
+      "a4d4d38c3",
+      "a93ad15a4",
+      "a5f5e8f97",
+      "a34350f7f",
+      "ac0bedc8c",
+      "ad78f7af4",
+      "a6862d006",
+      "a188d4ccf",
+      "ad87452cd",
+      "aa00f39b2",
+      "a6612589e",
+      "ad826bd68",
+      "ab59fe080",
+      "af25d02a4",
+      "a9560485f",
+      "a61a8adff",
+      "ad01feb8a"
     ],
     "l5": [
+      "afab85696",
       "a15bce32f",
       "a4df83ae7",
       "aa7a498a3",
@@ -1561,7 +1563,6 @@
       "a0de079c1",
       "a7f9ffe93",
       "a01588cfe",
-      "a17cb0e68",
       "aa92052a8",
       "a2549ac1d"
     ],
@@ -1597,48 +1598,53 @@
       "a23fdeba7",
       "a1b552f8f",
       "a28f84720"
+    ],
+    "l2": [
+      "a746fc77b",
+      "a916307e1",
+      "a5f21356d",
+      "a3ba496e6",
+      "af87765bf",
+      "a79958ca8",
+      "ada9ca275",
+      "a20f2ab17",
+      "a157ece4f",
+      "a2f484bd6",
+      "aca48b05a",
+      "a5bf973bf",
+      "a58c3031f",
+      "a41a1b31c",
+      "ae3d3b3e2",
+      "a1c025c0d",
+      "a306fec6a",
+      "a06dfbaf7",
+      "a7e4991c9",
+      "a95a70797",
+      "a0c4ebb65",
+      "a0b43a2bc",
+      "ab3119897",
+      "af0f189d1",
+      "a38ad1236"
     ]
   },
   "top5": [
-    "a20964141",
-    "a89b78ce7",
-    "a53546be9",
-    "a59f374d5",
-    "a0539708a"
+    "a5a5e4704",
+    "a182dce2d",
+    "ada641dba",
+    "ae8b6d628",
+    "a0bc966d2"
   ],
   "layers": [
-    {
-      "id": "l1",
-      "num": "LAYER 1",
-      "name": "算力硬件",
-      "vals": [
-        18,
-        26,
-        10,
-        6,
-        28,
-        20
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
     {
       "id": "l4",
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        18,
-        11,
+        28,
+        22,
         10,
-        19,
-        25,
+        5,
+        30,
         20
       ],
       "trend": [
@@ -1656,12 +1662,12 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        14,
-        11,
-        14,
+        22,
+        20,
+        16,
         7,
-        37,
-        21
+        19,
+        20
       ],
       "trend": [
         20,
@@ -1678,11 +1684,11 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        13,
-        10,
+        11,
+        28,
         10,
         6,
-        17,
+        20,
         20
       ],
       "trend": [
@@ -1696,11 +1702,55 @@
       ]
     },
     {
+      "id": "l1",
+      "num": "LAYER 1",
+      "name": "算力硬件",
+      "vals": [
+        12,
+        14,
+        10,
+        7,
+        32,
+        20
+      ],
+      "trend": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
+      "vals": [
+        11,
+        16,
+        5,
+        5,
+        18,
+        21
+      ],
+      "trend": [
+        20,
+        19,
+        18,
+        17,
+        16,
+        15,
+        14
+      ]
+    },
+    {
       "id": "l3",
       "num": "LAYER 3",
       "name": "推理工程",
       "vals": [
-        10,
+        13,
         10,
         5,
         5,
@@ -1716,45 +1766,58 @@
         10,
         8
       ]
-    },
-    {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
-      "vals": [
-        10,
-        10,
-        5,
-        5,
-        10,
-        10
-      ],
-      "trend": [
-        20,
-        19,
-        18,
-        17,
-        16,
-        15,
-        14
-      ]
     }
   ],
   "ticker": [
     {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "First ever Cray T3D Supercomputer goes up for auction with $81,00…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Steam Machine appears in Vulkan’s conformant product database — u…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "We tested Advanced Shader Delivery on the RX 9070 XT in six games…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Ubisoft reportedly testing generative AI in Far Cry 7, insider sa…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Researcher develops 'spray-on' stealth coating for drones — volca…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Autonomous ErgoChair Pro Review: Comfortable, but that's it"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l4)",
+      "text": "Hackers are learning to exploit chatbot &#8216;personalities&#821…"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l4)",
+      "text": "Why Nuro thinks being a robotaxi ‘second mover’ gives it an advan…"
+    },
+    {
+      "tag": "WIRED",
+      "col": "var(--l5)",
+      "text": "These Robots Are Making Meals for a Nonprofit in San Francisco’s …"
+    },
+    {
       "tag": "THE VERGE",
       "col": "var(--l4)",
       "text": "Record Club is trying to be Letterboxd for music nerds"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Save almost $200 on a flagship AMD 9850X3D CPU and 9070 XT GPU wi…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "007: First Light drops last-minute Denuvo DRM bombshell, leaving …"
     },
     {
       "tag": "TECHCRUNC",
@@ -1767,16 +1830,6 @@
       "text": "Here are 38 Memorial Day deals we recommend for $50 or less"
     },
     {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Samsung's $400,000 payout for memory workers sparks revolt as oth…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l4)",
-      "text": "AI cost crisis hits tech giants as employee 'tokenmaxxing' backfi…"
-    },
-    {
       "tag": "THE VERGE",
       "col": "var(--l4)",
       "text": "Hanging out in my favorite virtual coffee shop in Tokyo"
@@ -1785,41 +1838,16 @@
       "tag": "TECHCRUNC",
       "col": "var(--l4)",
       "text": "Elon Musk has given up on solar power (on Earth)"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Micron's Virginia fab begins producing America's most advanced DR…"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l2)",
-      "text": "Google’s new anything-to-anything AI model is wild"
-    },
-    {
-      "tag": "LATENT SP",
-      "col": "var(--l4)",
-      "text": "[AINews] All Model Labs are now Agent Labs"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "AI is being used to resurrect the voices of dead pilots"
-    },
-    {
-      "tag": "SIMON WIL",
-      "col": "var(--l1)",
-      "text": "The memory shortage is causing a repricing of consumer electronic…"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
-      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
-      "votes": "78",
-      "comments": "49",
+      "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
+      "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+      "votes": "96",
+      "comments": "58",
       "time": "近期"
     },
     {
@@ -1827,7 +1855,7 @@
       "badge": "pb-hn",
       "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
       "url": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
-      "votes": "102",
+      "votes": "105",
       "comments": "21",
       "time": "近期"
     },
@@ -1836,8 +1864,17 @@
       "badge": "pb-hn",
       "title": "Making deep learning go brrrr from first principles (2022)",
       "url": "https://horace.io/brrr_intro.html",
-      "votes": "170",
-      "comments": "62",
+      "votes": "175",
+      "comments": "63",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
+      "votes": "108",
+      "comments": "87",
       "time": "近期"
     },
     {
@@ -1845,8 +1882,8 @@
       "badge": "pb-hn",
       "title": "Italy moves to Airbus A330 tankers",
       "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
-      "votes": "255",
-      "comments": "100",
+      "votes": "266",
+      "comments": "103",
       "time": "近期"
     },
     {
@@ -1854,17 +1891,8 @@
       "badge": "pb-hn",
       "title": "Local LLMs perform better when you teach them to ask before they answer",
       "url": "https://www.xda-developers.com/local-llm-clarifying-questions-system-prompt/",
-      "votes": "9",
-      "comments": "3",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "A 1955 Los Alamos computer experiment changed our understanding of chaos",
-      "url": "https://www.lanl.gov/media/publications/1663/science-of-unpredictability",
-      "votes": "57",
-      "comments": "3",
+      "votes": "23",
+      "comments": "6",
       "time": "近期"
     }
   ]
