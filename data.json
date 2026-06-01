@@ -1,13 +1,182 @@
 {
-  "updated_at": "2026-06-01T04:22:00.179528+00:00",
-  "article_count": 125,
+  "updated_at": "2026-06-01T11:41:12.991487+00:00",
+  "article_count": 126,
   "articles": {
+    "a2a4358ba": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Save 78% on Nord's latest Complete VPN package — 27 months of online protection for $107",
+      "src": "Tom's Hardware",
+      "time": "4分钟前",
+      "published_ts": 1780313791,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/software/vpn/save-78-percent-on-nords-latest-complete-vpn-package-27-months-of-online-protection-for-usd107",
+      "tags": [],
+      "body": "<p>Pick up 27 months of NordVPN coverage for just $107. Fast VPN connections, anti-virus protection, and a password manager for only $3.99 per month.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a5062f561": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "US closes loophole that allowed Chinese-owned subsidiaries located outside China to buy AI chips — report claims that hundreds of thousands of advanced AI chips have been acquired through BIS blind spot",
+      "src": "Tom's Hardware",
+      "time": "8分钟前",
+      "published_ts": 1780313544,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/tech-industry/us-closes-loophole-that-allowed-chinese-owned-subsidiaries-located-outside-china-to-buy-ai-chips-report-claims-that-hundreds-of-thousands-of-advanced-ai-chips-have-been-acquired-through-bis-blind-spot",
+      "tags": [],
+      "body": "<p>The BIS just issued a clarification that Chinese-owned subsidiaries are included in U.S. export controls, even if they're based outside of China. However, one source said that some companies have been using this loophole to acquire AI chips that estimated to be in the hundreds of thousands.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a821f297e": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "These are the first Nvidia RTX Spark laptops",
+      "src": "The Verge",
+      "time": "11分钟前",
+      "published_ts": 1780313392,
+      "heat": "24.0K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/gadgets/940794/first-nvidia-rtx-spark-laptops-roundup-computex-2026",
+      "tags": [],
+      "body": "<p>Nvidia has officially entered the world of consumer laptop chips with the RTX Spark, and several device makers already have hardware lined up for it. Microsoft, Asus, HP, MSI, Lenovo, and Dell are expected to launch RTX Spark laptops sometime this fall, and some of those partner companies have shared details about what we can [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a8a9ff279": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "Norse Atlantic Airways Offers Dirt-Cheap Tickets. There’s a Catch",
+      "src": "Wired",
+      "time": "41分钟前",
+      "published_ts": 1780311600,
+      "heat": "16.5K",
+      "views": "16.5K",
+      "url": "https://www.wired.com/story/norse-airlines-ftc-complaints-ai-scams/",
+      "tags": [],
+      "body": "<p>Dozens of people have complained to the Federal Trade Commission about Norse Atlantic Airways’ tech-first customer service operation. Some said they lost thousands of dollars.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a3d6dc4d8": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Computex 2026 Live: Every update and announcement from day one in Taipei",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1780310377,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://www.tomshardware.com/news/live/computex-2026-",
+      "tags": [],
+      "body": "<p>Every update live from Taipei as Computex continues in Taiwan.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a6fcc2963": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand",
+      "src": "NVIDIA Blog",
+      "time": "6小时前",
+      "published_ts": 1780290056,
+      "heat": "37.5K",
+      "views": "37.5K",
+      "url": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/",
+      "tags": [],
+      "body": "<p>The NVIDIA AI Cloud ecosystem is accelerating the global buildout of AI factory infrastructure. Partners are expanding capacity to meet growing demand from enterprises, startups, nations, AI labs and developers scaling agentic AI applications. NVIDIA AI Clouds are a growing ecosystem of purpose-built clouds serving the exploding token demand behind today’s most popular AI applications. [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a8d0b57b1": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain",
+      "src": "NVIDIA Blog",
+      "time": "6小时前",
+      "published_ts": 1780290047,
+      "heat": "33.0K",
+      "views": "37.5K",
+      "url": "https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/",
+      "tags": [],
+      "body": "<p>As factories move from isolated automation to plant-wide intelligence, manufacturers need AI systems that can connect live machine signals, quality systems, work instructions and operational alerts into a unified decision layer. Today at GTC Taipei at COMPUTEX, NVIDIA announced the NVIDIA Factory Operations Blueprint (FOX) — a reference design for building an autonomous factory manager [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a9a48d2a1": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Taiwan’s Industry Titans Turbocharge World’s AI Infrastructure Buildout With NVIDIA",
+      "src": "NVIDIA Blog",
+      "time": "6小时前",
+      "published_ts": 1780290041,
+      "heat": "28.5K",
+      "views": "33.0K",
+      "url": "https://blogs.nvidia.com/blog/taiwan-ecosystem-ai-infrastructure/",
+      "tags": [],
+      "body": "<p>Taiwan is home to more than 500 NVIDIA ecosystem partners. More than 1 million NVIDIA MGX rack components for NVIDIA Vera Rubin infrastructure come together in Taiwan, from across 25 factory sites. As Vera Rubin ramps into full production to power agentic AI factories worldwide, that ecosystem spans the full supply chain — from key [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a2e21b067": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "How Cosmos 3 Helps Physical AI Think Before It Acts",
+      "src": "NVIDIA Blog",
+      "time": "6小时前",
+      "published_ts": 1780289107,
+      "heat": "24.0K",
+      "views": "28.5K",
+      "url": "https://blogs.nvidia.com/blog/cosmos-3-physical-ai-open-world-foundation-model/",
+      "tags": [],
+      "body": "<p>点击「查看原文」阅读完整内容。</p>"
+    },
+    "a710edd99": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "May 2026 newsletter",
+      "src": "Simon Willison",
+      "time": "6小时前",
+      "published_ts": 1780289100,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything",
+      "tags": [],
+      "body": "<p>I just sent out the May edition of my sponsors-only monthly newsletter . If you are a sponsor (or if you start a sponsorship now) you can access it here . This month: Al got expensive, and Anthropic had a really good month The model releases were a little disappointing Conferences and podcasts I launched Datasette Agent and made a lot of progress on Datasette What I'm using, May 2026 edition Misce</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a1b1a3ffd": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark",
+      "src": "The Verge",
+      "time": "7小时前",
+      "published_ts": 1780288601,
+      "heat": "18.2K",
+      "views": "21.1K",
+      "url": "https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures",
+      "tags": [],
+      "body": "<p>Once upon a time, Microsoft had to write off $900 million betting an Arm-based Nvidia chip could power its first flagship Windows portable, the original Microsoft Surface. But today, it's trying again. Microsoft and Nvidia have just announced the Surface Laptop Ultra, a computer with a new Arm-based Nvidia chip at its core. There's a [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a7e12853c": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "NVIDIA Levels Up Local AI Agents Across RTX PCs and DGX Spark",
+      "src": "NVIDIA Blog",
+      "time": "7小时前",
+      "published_ts": 1780288211,
+      "heat": "19.5K",
+      "views": "24.0K",
+      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-computex-spark-local-agents/",
+      "tags": [],
+      "body": "<p>Personal agents are exploding in popularity, with open source projects like OpenClaw and Hermes seeing rapid adoption by AI developer communities on GitHub. Built to adapt to individual preferences and workflows, these agents can interact with applications, generate content, automate repetitive processes and manage multi-step tasks — all while running locally on device. Today at [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aeb6d00e1": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Nvidia announces RTX Spark as ‘the most efficient PC chip ever built’",
+      "src": "The Verge",
+      "time": "7小时前",
+      "published_ts": 1780288133,
+      "heat": "15.4K",
+      "views": "18.2K",
+      "url": "https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date",
+      "tags": [],
+      "body": "<p>This fall, Nvidia will officially become a consumer PC chipmaker like Intel, AMD, Apple, and Qualcomm, putting a complete computing chip - not just graphics - into the very heart of laptops and mini-PCs. After many months of leaks, it's finally announcing the RTX Spark, the first in a family of chips that will meet [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a8d3e94bd": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "QASM-Eval: A Dataset to Train and Evaluate LLMs on OpenQASM-3 Beyond Quantum Circuits",
       "src": "arXiv cs.LG",
-      "time": "21分钟前",
+      "time": "7小时前",
       "published_ts": 1780286400,
       "heat": "15.0K",
       "views": "15.0K",
@@ -20,7 +189,7 @@
       "cat": "L2 · 基础模型",
       "title": "Gait2Hip-60: A Unified Deep Learning Benchmark for Predicting Hip Muscle Forces and Joint Moments from Multi-Cadence Gait Kinematics",
       "src": "arXiv cs.LG",
-      "time": "21分钟前",
+      "time": "7小时前",
       "published_ts": 1780286400,
       "heat": "13.2K",
       "views": "15.0K",
@@ -33,7 +202,7 @@
       "cat": "L2 · 基础模型",
       "title": "Unicorn: Scaling High-Dimensional Time Series Forecasting via Universal Correlation Modeling",
       "src": "arXiv cs.LG",
-      "time": "21分钟前",
+      "time": "7小时前",
       "published_ts": 1780286400,
       "heat": "11.4K",
       "views": "13.2K",
@@ -46,7 +215,7 @@
       "cat": "L1 · 算力硬件",
       "title": "When LLMs Learn to Be Consistently Wrong: A Multi-Model Study of Linear Representations of Synthetic Deception",
       "src": "arXiv cs.LG",
-      "time": "21分钟前",
+      "time": "7小时前",
       "published_ts": 1780286400,
       "heat": "9.6K",
       "views": "11.4K",
@@ -59,7 +228,7 @@
       "cat": "L2 · 基础模型",
       "title": "LLMs Without Deep Neural Networks: New Architecture, Benefits and Case Study",
       "src": "arXiv cs.LG",
-      "time": "21分钟前",
+      "time": "7小时前",
       "published_ts": 1780286400,
       "heat": "7.8K",
       "views": "9.6K",
@@ -72,7 +241,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Functional MRI Time Series Generation via Wavelet-Based Image Transform and Spectral Flow Matching for Brain Disorder Identification",
       "src": "arXiv cs.LG",
-      "time": "21分钟前",
+      "time": "7小时前",
       "published_ts": 1780286400,
       "heat": "6.0K",
       "views": "7.8K",
@@ -85,7 +254,7 @@
       "cat": "L1 · 算力硬件",
       "title": "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language",
       "src": "arXiv cs.AI",
-      "time": "21分钟前",
+      "time": "7小时前",
       "published_ts": 1780286400,
       "heat": "15.0K",
       "views": "15.0K",
@@ -98,7 +267,7 @@
       "cat": "L2 · 基础模型",
       "title": "Physically Viable World Models: A Case for Query-Conditioned Embodied AI",
       "src": "arXiv cs.AI",
-      "time": "21分钟前",
+      "time": "7小时前",
       "published_ts": 1780286400,
       "heat": "13.2K",
       "views": "15.0K",
@@ -111,7 +280,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Uncertainty-Aware and Temporally Regulated Expert Advice in Reinforcement Learning for Autonomous Driving",
       "src": "arXiv cs.AI",
-      "time": "21分钟前",
+      "time": "7小时前",
       "published_ts": 1780286400,
       "heat": "7.8K",
       "views": "9.6K",
@@ -124,7 +293,7 @@
       "cat": "L2 · 基础模型",
       "title": "Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents",
       "src": "arXiv cs.AI",
-      "time": "21分钟前",
+      "time": "7小时前",
       "published_ts": 1780286400,
       "heat": "6.0K",
       "views": "7.8K",
@@ -132,116 +301,38 @@
       "tags": [],
       "body": "<p>arXiv:2605.30621v1 Announce Type: new Abstract: LLM agents are increasingly deployed as systems built around editable external harnesses, including prompts, skills, memories and tools, that shape task execution without changing model parameters. Harness self-evolution adapts such agents by updating these harnesses from execution evidence. Yet it remains unclear whether a model's base capability in</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "af4c8a579": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Intel Xeon 6+ ‘Clearwater Forest’ puts 18A in the data center with up to 288 cores, 576 MB of L3 cache — new Xeon 6990E+ is 30% faster per thread than 192-core AMD Epyc 9965, says Intel",
-      "src": "Tom's Hardware",
-      "time": "1小时前",
-      "published_ts": 1780282800,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://www.tomshardware.com/pc-components/cpus/intel-xeon-6-clearwater-forest-puts-18a-in-the-data-center-with-up-to-288-cores-576-mb-of-l3-cache-new-xeon-6990e-is-30-percent-faster-per-thread-than-192-core-amd-epyc-9965-says-intel",
-      "tags": [],
-      "body": "<p>Intel is putting its 18A node into the data center with new Xeon 6+ Clearwater Forest CPUs, which pack up to 288 E-cores for dense compute.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ab752c111": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Intel Xeon 7 ‘Diamond Rapids’ CPUs officially launching in 2027 on Intel 18A-P — next-gen P-core Xeon features PCIe 6.0, 50% higher core counts, and twice the memory bandwidth",
-      "src": "Tom's Hardware",
-      "time": "1小时前",
-      "published_ts": 1780282800,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://www.tomshardware.com/pc-components/cpus/intel-xeon-7-diamond-rapids-cpus-officially-launching-in-2027-on-intel-18a-p-next-gen-p-core-xeon-features-pcie-6-0-50-percent-higher-core-counts-and-twice-the-memory-bandwidth",
-      "tags": [],
-      "body": "<p>Intel has officially confirmed its next-gen Xeon 7 Diamond Rapids CPUs are coming in 2027, featuring 50% higher core counts and twice the memory bandwidth of Xeon 6 in a bid to compete against AMD’s upcoming EPYC Venice CPUs.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ac3fe04b1": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Intel details long-awaited Crescent Island AI GPU at Computex, boasts up to 480 GB of LPDDR5X to combat memory shortages — company shares more details of its Xe3P inference accelerator at Computex",
-      "src": "Tom's Hardware",
-      "time": "1小时前",
-      "published_ts": 1780282800,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://www.tomshardware.com/pc-components/gpus/intel-details-long-awaited-crescent-island-ai-gpu-at-computex-boasts-up-to-480-gb-of-lpddr5x-to-combat-memory-shortages-company-shares-more-details-of-its-xe3p-inference-accelerator-at-computex",
-      "tags": [],
-      "body": "<p>Intel revealed more details of its next-gen Data Center GPU, code-named Crescent Island, at Computex 2026. This inference-optimized chip will feature up to 480GB of LPDDR5X memory for efficient handling of massive AI contexts.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a604dd54b": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "AMD’s formerly China-exclusive Radeon RX 9070 GRE goes global for $549 on June 2 — RDNA 4 GPU will bridge the gap between RX 9060 XT and RX 9070",
-      "src": "Tom's Hardware",
-      "time": "2小时前",
-      "published_ts": 1780279221,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://www.tomshardware.com/pc-components/gpus/amds-formerly-china-exclusive-radeon-rx-9070-gre-goes-global-for-usd549-on-june-2-rdna-4-gpu-will-bridge-the-gap-between-rx-9060-xt-and-rx-9070",
-      "tags": [],
-      "body": "<p>AMD has officially launched the Radeon RX 9070 GRE for $549, an RDNA 4 graphics card that was previously exclusive to the Chinese market.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a72fa3f82": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Watch Nvidia's Computex 2026 keynote here — Jensen Huang takes the stage for Computex and GTC Taipei at 8pm PT / 11pm ET on May 31",
-      "src": "Tom's Hardware",
-      "time": "4小时前",
-      "published_ts": 1780273299,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://www.tomshardware.com/tech-industry/nvidia-keynote-computex-2026-gtc-taipei-where-to-watch",
-      "tags": [],
-      "body": "<p>Nvidia CEO Jensen Huang is set to take the stage at Computex 2026 and GTC Taipei. Here's how to watch the keynote address, where we could hear more about the rumored N1X.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a70894128": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "AMD’s new pitch: our old tech is so good you should just keep using it",
       "src": "The Verge",
-      "time": "4小时前",
+      "time": "11小时前",
       "published_ts": 1780272000,
-      "heat": "24.0K",
-      "views": "24.0K",
+      "heat": "12.5K",
+      "views": "15.4K",
       "url": "https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d",
       "tags": [],
-      "body": "<p>Computex 2026 is underway in Taiwan, and we're expecting all manner of flashy computers with jaw-dropping prices (or no prices at all) as the entire industry navigates RAMageddon. But for desktop PC gamers, AMD has a different pitch. It's relaunching three old components alongside a big new promise: you won't need to buy a new [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>Computex 2026 is underway in Taiwan, and we're expecting all manner of flashy computers with jaw-dropping prices (or no prices at all) as the entire industry navigates RAMageddon. But for desktop PC gamers, AMD has a different pitch. It's relaunching three old components alongside a big new promise: You won't need to buy a new [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a5ecb3766": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "The QD-OLED gaming monitor that started it all got a big upgrade",
       "src": "The Verge",
-      "time": "5小时前",
+      "time": "12小时前",
       "published_ts": 1780268400,
-      "heat": "21.1K",
-      "views": "24.0K",
+      "heat": "9.6K",
+      "views": "12.5K",
       "url": "https://www.theverge.com/games/938956/alienware-computex-tandem-qd-oled-penta-rgb-stripe-gaming-monitors-specs",
       "tags": [],
       "body": "<p>Alienware is taking to this year's Computex 2026 in Taipei to announce some cool gaming monitors, most notably two exciting OLED options that are coming at different points this year. First off, the company is debuting the successor to its very first QD-OLED gaming monitor from 2022 with a refreshed design and high-end specs that's [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "af9bec4de": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Apple’s strategy for smart glasses is the same as smart watches",
-      "src": "The Verge",
-      "time": "6小时前",
-      "published_ts": 1780263191,
-      "heat": "15.4K",
-      "views": "18.2K",
-      "url": "https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches",
-      "tags": [],
-      "body": "<p>Apple isn't just looking to take on Meta in the smart glasses market; it's looking to upend eyewear as a whole, according to Bloomberg's Mark Gurman. When the Apple Watch launched, it wasn't simply competing against the Pebbles and the Motorolas of the world. The company also had Swatch, Fossil, and Seiko in its crosshairs. [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "ac673165a": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "Erin Brockovich takes aim at data center secrecy",
       "src": "TechCrunch AI",
-      "time": "7小时前",
+      "time": "14小时前",
       "published_ts": 1780261514,
       "heat": "27.0K",
       "views": "27.0K",
@@ -249,28 +340,15 @@
       "tags": [],
       "body": "<p>Environmental activist Erin Brockovich has a new mission.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a0b5fed5c": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "How to watch Nvidia&#8217;s Computex keynote",
-      "src": "The Verge",
-      "time": "8小时前",
-      "published_ts": 1780258835,
-      "heat": "12.5K",
-      "views": "15.4K",
-      "url": "https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote",
-      "tags": [],
-      "body": "<p>NVIDIA's CEO Jensen Huang is set to take the stage for his GTC Taipei keynote at 8PM PT / 11PM ET. You can watch all the announcements here and embedded below. Rumors have been flying about what to expect from today's presentation, but the big one is the possibility of a partnership with Microsoft and [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a40a53cfb": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
       "title": "The solution might be cancelling my AI subscription",
       "src": "Simon Willison",
-      "time": "11小时前",
+      "time": "19小时前",
       "published_ts": 1780245092,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "11.4K",
+      "views": "13.2K",
       "url": "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything",
       "tags": [],
       "body": "<p>The solution might be cancelling my AI subscription I find this post by David Wilson very relatable. David lists 16+ projects he's spun up with AI tooling, and concludes: I didn't mean to build most of these things. Usually the Claude session started with something like \" write a quick script for X \", and one hour later the result is not a quick script for X , nor in the usual case is my problem s</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -280,7 +358,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Making sense of the debate over AI psychosis",
       "src": "TechCrunch AI",
-      "time": "12小时前",
+      "time": "20小时前",
       "published_ts": 1780241400,
       "heat": "23.8K",
       "views": "27.0K",
@@ -293,9 +371,9 @@
       "cat": "L5 · 生态商业",
       "title": "How Turkey Hacked the Hair Transplant Industry",
       "src": "Wired",
-      "time": "19小时前",
+      "time": "1天前",
       "published_ts": 1780218000,
-      "heat": "16.5K",
+      "heat": "14.5K",
       "views": "16.5K",
       "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
       "tags": [],
@@ -308,8 +386,8 @@
       "src": "Simon Willison",
       "time": "1天前",
       "published_ts": 1780192092,
-      "heat": "11.4K",
-      "views": "13.2K",
+      "heat": "9.6K",
+      "views": "11.4K",
       "url": "https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything",
       "tags": [],
       "body": "<p>Anthropic defines “run-rate revenue” in two parts. Use the last 28 days of sales ⁠from customers charged on a consumption basis and multiply it by 13. Then, multiply the monthly subscription take by 12, ​and add the two together. &mdash; Karen Kwok for Reuters Breakingviews , citing \"a person familiar with the matter\" Tags: anthropic , ai</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -334,24 +412,11 @@
       "src": "Simon Willison",
       "time": "1天前",
       "published_ts": 1780176984,
-      "heat": "9.6K",
-      "views": "11.4K",
+      "heat": "7.8K",
+      "views": "9.6K",
       "url": "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
       "tags": [],
       "body": "<p>How we contain Claude across products A complaint I often have about sandboxing products is that they are rarely thoroughly documented , and in the absence of detailed documentation it's hard to know how much I can trust them. Anthropic just published a fantastic overview of how their various sandbox techniques work across Claude.ai , Claude Code, and Cowork. We constrain where and how an agent ca</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aacc3612b": {
-      "layer": "l3",
-      "cat": "L3 · 推理工程",
-      "title": "I Am Retiring from Tech to Live Offline",
-      "src": "Simon Willison",
-      "time": "1天前",
-      "published_ts": 1780169948,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything",
-      "tags": [],
-      "body": "<p>I Am Retiring from Tech to Live Offline I've seen a lot of posts on forums from people threatening to quit their careers over AI. This is not one of those: Chad Whitacre is taking concrete steps, starting with this typewritten, scanned letter I'm retiring from tech. Well, \"retiring\" is euphemistic. I'm stepping away from tech, and that includes Open Source. [...] AI was the last straw. Have you he</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "af0567d61": {
       "layer": "l4",
@@ -410,10 +475,10 @@
       "cat": "L5 · 生态商业",
       "title": "Do You Actually Need to Pay for Transcription Software?",
       "src": "Wired",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1780133400,
-      "heat": "14.5K",
-      "views": "16.5K",
+      "heat": "12.5K",
+      "views": "14.5K",
       "url": "https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/",
       "tags": [],
       "body": "<p>I tested Wispr Flow and various AI-powered transcription software to see whether you should bother subscribing or stick with free services.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -438,8 +503,8 @@
       "src": "Wired",
       "time": "2天前",
       "published_ts": 1780088219,
-      "heat": "12.5K",
-      "views": "14.5K",
+      "heat": "10.6K",
+      "views": "12.5K",
       "url": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/",
       "tags": [],
       "body": "<p>Loryn Brantz created The Good Advice Cupcake for BuzzFeed years ago. The company licensed the character for a new Amazon series—made with AI—without her consent.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -451,8 +516,8 @@
       "src": "Wired",
       "time": "2天前",
       "published_ts": 1780081666,
-      "heat": "10.6K",
-      "views": "12.5K",
+      "heat": "8.6K",
+      "views": "10.6K",
       "url": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
       "tags": [],
       "body": "<p>Google’s new AI agent combed through my emails, documents, and calendar to plan a birthday party and still didn’t clock the person most important to me.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -490,24 +555,11 @@
       "src": "Wired",
       "time": "2天前",
       "published_ts": 1780072200,
-      "heat": "8.6K",
-      "views": "10.6K",
+      "heat": "6.6K",
+      "views": "8.6K",
       "url": "https://www.wired.com/story/future-of-truth-ai-interview/",
       "tags": [],
       "body": "<p>A book about how AI shapes perceptions of reality came under fire for using AI-generated quotes. Its problems go beyond that.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ac1a846c4": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "The Vatican’s Man Inside Anthropic",
-      "src": "Wired",
-      "time": "2天前",
-      "published_ts": 1780066800,
-      "heat": "6.6K",
-      "views": "8.6K",
-      "url": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/",
-      "tags": [],
-      "body": "<p>Pope Leo XIV may not be able to disarm AI, but he’s got the attention of the industry.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a25bdfeba": {
       "layer": "l4",
@@ -566,7 +618,7 @@
       "cat": "L1 · 算力硬件",
       "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
       "src": "MIT Tech Review",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1780048800,
       "heat": "22.5K",
       "views": "22.5K",
@@ -672,8 +724,8 @@
       "src": "NVIDIA Blog",
       "time": "3天前",
       "published_ts": 1779973251,
-      "heat": "37.5K",
-      "views": "37.5K",
+      "heat": "15.0K",
+      "views": "19.5K",
       "url": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/",
       "tags": [],
       "body": "<p>Robotics is entering a new phase: moving from controlled demos and scripted automation toward generalizable, reliable embodied autonomy in the real world. At the International Conference on Robotics and Automation (ICRA), eight of NVIDIA Research’s 28 accepted papers show how simulation-to-real transfer is becoming a foundation for that shift, helping robots perceive, reason, plan and [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -722,7 +774,7 @@
       "cat": "L0 · 领袖观点",
       "title": "The AI Hype Index: AI gets booed in graduation season",
       "src": "MIT Tech Review",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1779961871,
       "heat": "19.8K",
       "views": "22.5K",
@@ -735,7 +787,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] Cognition raises $1B in $26B Series D",
       "src": "Latent Space",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1779953169,
       "heat": "12.5K",
       "views": "14.8K",
@@ -755,19 +807,6 @@
       "url": "https://openai.com/index/openai-frontier-governance-framework",
       "tags": [],
       "body": "<p>Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a4078092c": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "AI Factories: The New Infrastructure of Intelligence",
-      "src": "NVIDIA Blog",
-      "time": "4天前",
-      "published_ts": 1779897636,
-      "heat": "28.5K",
-      "views": "33.0K",
-      "url": "https://blogs.nvidia.com/blog/ai-factories-the-new-infrastructure-of-intelligence/",
-      "tags": [],
-      "body": "<p>AI factories are token factories, converting power into intelligence in real time. And as agentic AI scales and autonomous, always-on special agents are deployed in the enterprise, performance per watt and cost per token become the economics that matter.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a08809d85": {
       "layer": "l1",
@@ -794,19 +833,6 @@
       "url": "https://www.latent.space/p/ainews-new-ai-infra-decacorns-fireworks",
       "tags": [],
       "body": "<p>it's funding news, but it's good news.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ac678a161": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition",
-      "src": "NVIDIA Blog",
-      "time": "5天前",
-      "published_ts": 1779830115,
-      "heat": "24.0K",
-      "views": "28.5K",
-      "url": "https://blogs.nvidia.com/blog/vera-cpu-phoronix/",
-      "tags": [],
-      "body": "<p>The shift to agentic AI creates a new CPU requirement for the AI factory: fast cores, massive memory bandwidth and the ability to sustain high performance when all cores are active. Initial benchmark results published by Phoronix today show that the NVIDIA Vera CPU meets this need. For this first public look, the benchmark scope [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "afb4e7136": {
       "layer": "l4",
@@ -878,7 +904,7 @@
       "cat": "L5 · 生态商业",
       "title": "A reality check on the AI jobs hysteria",
       "src": "MIT Tech Review",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1779786000,
       "heat": "14.4K",
       "views": "17.1K",
@@ -891,7 +917,7 @@
       "cat": "L1 · 算力硬件",
       "title": "It’s time to address the looming crisis in entry-level work",
       "src": "MIT Tech Review",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1779786000,
       "heat": "11.7K",
       "views": "14.4K",
@@ -917,7 +943,7 @@
       "cat": "L2 · 基础模型",
       "title": "AI with Model-Based Design: Virtual Sensor Modeling",
       "src": "IEEE Spectrum",
-      "time": "6天前",
+      "time": "7天前",
       "published_ts": 1779703201,
       "heat": "7.8K",
       "views": "9.6K",
@@ -943,26 +969,13 @@
       "cat": "L0 · 领袖观点",
       "title": "Google I/O showed how the path for AI-driven science is shifting",
       "src": "MIT Tech Review",
-      "time": "9天前",
+      "time": "10天前",
       "published_ts": 1779444000,
       "heat": "9.0K",
       "views": "11.7K",
       "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
       "tags": [],
       "body": "<p>During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically transforms the world. But what struck me as I listened in the&#8230;</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a37f6f73e": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "NVIDIA GTC Taipei at COMPUTEX: Live Updates on What’s Next in AI",
-      "src": "NVIDIA Blog",
-      "time": "10天前",
-      "published_ts": 1779379217,
-      "heat": "19.5K",
-      "views": "24.0K",
-      "url": "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/",
-      "tags": [],
-      "body": "<p>At NVIDIA GTC Taipei at COMPUTEX, the world’s developers, researchers and industry leaders are converging to dive into the latest breakthroughs shaping every industry, covering topics spanning AI factories and scaling infrastructure to agentic and physical AI and more.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a01588cfe": {
       "layer": "l5",
@@ -1008,7 +1021,7 @@
       "cat": "L2 · 基础模型",
       "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
       "src": "Ahead of AI",
-      "time": "15天前",
+      "time": "16天前",
       "published_ts": 1778931231,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1125,7 +1138,7 @@
       "cat": "L2 · 基础模型",
       "title": "My Workflow for Understanding LLM Architectures",
       "src": "Ahead of AI",
-      "time": "43天前",
+      "time": "44天前",
       "published_ts": 1776511476,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1229,7 +1242,7 @@
       "cat": "L3 · 推理工程",
       "title": "Categories of Inference-Time Scaling for Improved LLM Reasoning",
       "src": "Ahead of AI",
-      "time": "127天前",
+      "time": "128天前",
       "published_ts": 1769253798,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1294,7 +1307,7 @@
       "cat": "L2 · 基础模型",
       "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
       "src": "VentureBeat AI",
-      "time": "139天前",
+      "time": "140天前",
       "published_ts": 1768217400,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1372,7 +1385,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
       "src": "SemiAnalysis",
-      "time": "265天前",
+      "time": "266天前",
       "published_ts": 1757325297,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1398,7 +1411,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "284天前",
+      "time": "285天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1630,25 +1643,28 @@
   },
   "by_layer": {
     "l1": [
+      "a2a4358ba",
+      "a5062f561",
+      "a821f297e",
+      "a3d6dc4d8",
+      "a6fcc2963",
+      "a8d0b57b1",
+      "a9a48d2a1",
+      "a2e21b067",
+      "a1b1a3ffd",
+      "aeb6d00e1",
       "a8d3e94bd",
       "aadff2e3a",
       "a633c7f2c",
-      "af4c8a579",
-      "ab752c111",
-      "ac3fe04b1",
-      "a604dd54b",
       "a70894128",
       "adc7fae96",
       "abfa9fb23",
       "a8a835508",
       "a7dca50b8",
       "ae72b6e52",
-      "a4078092c",
       "a08809d85",
-      "ac678a161",
       "a581a9371",
       "a5040c1c7",
-      "a37f6f73e",
       "ae26cebf0",
       "aa916162d",
       "a6bee3694",
@@ -1659,7 +1675,23 @@
       "a2ae2603b",
       "afeb62ce7"
     ],
+    "l5": [
+      "a8a9ff279",
+      "a74ae69dc",
+      "a1e23ef1a",
+      "aa608878c",
+      "a02ceb3eb",
+      "ab3edfce6",
+      "a5fe1aa8d",
+      "a3b8a8dab",
+      "a903b76d8",
+      "a33bfbd53",
+      "a80e44372",
+      "a4df83ae7",
+      "a01588cfe"
+    ],
     "l2": [
+      "a710edd99",
       "a510cecab",
       "aac262bdb",
       "a1cbc3c4d",
@@ -1695,10 +1727,30 @@
       "af0f189d1",
       "a38ad1236"
     ],
+    "l4": [
+      "a7e12853c",
+      "a586abeef",
+      "a5ecb3766",
+      "ac673165a",
+      "a99dde6f9",
+      "af0567d61",
+      "a9218d6b5",
+      "a25bdfeba",
+      "a40707b84",
+      "a998cea6c",
+      "a58ed7404",
+      "afb4e7136",
+      "a4383e9e3",
+      "ad87452cd",
+      "a6612589e",
+      "ab59fe080",
+      "af25d02a4",
+      "a9560485f",
+      "a61a8adff",
+      "ad01feb8a"
+    ],
     "l0": [
       "aa7ea220a",
-      "a72fa3f82",
-      "a0b5fed5c",
       "a6c663803",
       "a09e50690",
       "a48403ab0",
@@ -1721,45 +1773,7 @@
       "a9173515c",
       "abcb7b0c4"
     ],
-    "l4": [
-      "a586abeef",
-      "a5ecb3766",
-      "af9bec4de",
-      "ac673165a",
-      "a99dde6f9",
-      "af0567d61",
-      "a9218d6b5",
-      "a25bdfeba",
-      "a40707b84",
-      "a998cea6c",
-      "a58ed7404",
-      "afb4e7136",
-      "a4383e9e3",
-      "ad87452cd",
-      "a6612589e",
-      "ab59fe080",
-      "af25d02a4",
-      "a9560485f",
-      "a61a8adff",
-      "ad01feb8a"
-    ],
-    "l5": [
-      "a74ae69dc",
-      "a1e23ef1a",
-      "aa608878c",
-      "a02ceb3eb",
-      "ab3edfce6",
-      "ac1a846c4",
-      "a5fe1aa8d",
-      "a3b8a8dab",
-      "a903b76d8",
-      "a33bfbd53",
-      "a80e44372",
-      "a4df83ae7",
-      "a01588cfe"
-    ],
     "l3": [
-      "aacc3612b",
       "a0320514a",
       "a774f3120",
       "a23fdeba7",
@@ -1768,11 +1782,11 @@
     ]
   },
   "top5": [
-    "a8d3e94bd",
-    "a510cecab",
-    "aac262bdb",
-    "aadff2e3a",
-    "a1cbc3c4d"
+    "a2a4358ba",
+    "a5062f561",
+    "a821f297e",
+    "a8a9ff279",
+    "a3d6dc4d8"
   ],
   "layers": [
     {
@@ -1780,11 +1794,11 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        31,
-        29,
-        18,
+        35,
+        27,
+        27,
         9,
-        30,
+        23,
         23
       ],
       "trend": [
@@ -1802,12 +1816,12 @@
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        26,
+        15,
         29,
-        11,
-        7,
-        22,
-        21
+        12,
+        8,
+        25,
+        22
       ],
       "trend": [
         20,
@@ -1820,38 +1834,16 @@
       ]
     },
     {
-      "id": "l0",
-      "num": "LAYER 0",
-      "name": "领袖观点",
-      "vals": [
-        21,
-        26,
-        9,
-        6,
-        14,
-        19
-      ],
-      "trend": [
-        20,
-        20,
-        20,
-        20,
-        20,
-        20,
-        20
-      ]
-    },
-    {
       "id": "l4",
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        14,
+        18,
         10,
-        8,
-        25,
+        7,
         17,
-        18
+        17,
+        17
       ],
       "trend": [
         20,
@@ -1869,11 +1861,11 @@
       "name": "生态商业",
       "vals": [
         10,
-        18,
+        21,
         5,
         5,
         19,
-        10
+        11
       ],
       "trend": [
         20,
@@ -1886,16 +1878,38 @@
       ]
     },
     {
+      "id": "l0",
+      "num": "LAYER 0",
+      "name": "领袖观点",
+      "vals": [
+        10,
+        10,
+        8,
+        5,
+        21,
+        18
+      ],
+      "trend": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ]
+    },
+    {
       "id": "l3",
       "num": "LAYER 3",
       "name": "推理工程",
       "vals": [
         10,
-        13,
+        12,
         5,
         5,
         10,
-        12
+        11
       ],
       "trend": [
         20,
@@ -1910,93 +1924,84 @@
   ],
   "ticker": [
     {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Save 78% on Nord's latest Complete VPN package — 27 months of onl…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "US closes loophole that allowed Chinese-owned subsidiaries locate…"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l1)",
+      "text": "These are the first Nvidia RTX Spark laptops"
+    },
+    {
+      "tag": "WIRED",
+      "col": "var(--l5)",
+      "text": "Norse Atlantic Airways Offers Dirt-Cheap Tickets. There’s a Catch"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Computex 2026 Live: Every update and announcement from day one in…"
+    },
+    {
+      "tag": "NVIDIA BL",
+      "col": "var(--l1)",
+      "text": "NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Com…"
+    },
+    {
+      "tag": "NVIDIA BL",
+      "col": "var(--l1)",
+      "text": "NVIDIA Factory Operations Blueprint Gives Factories a New AI Brai…"
+    },
+    {
+      "tag": "NVIDIA BL",
+      "col": "var(--l1)",
+      "text": "Taiwan’s Industry Titans Turbocharge World’s AI Infrastructure Bu…"
+    },
+    {
+      "tag": "NVIDIA BL",
+      "col": "var(--l1)",
+      "text": "How Cosmos 3 Helps Physical AI Think Before It Acts"
+    },
+    {
+      "tag": "SIMON WIL",
+      "col": "var(--l2)",
+      "text": "May 2026 newsletter"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l1)",
+      "text": "This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark"
+    },
+    {
+      "tag": "NVIDIA BL",
+      "col": "var(--l4)",
+      "text": "NVIDIA Levels Up Local AI Agents Across RTX PCs and DGX Spark"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l1)",
+      "text": "Nvidia announces RTX Spark as ‘the most efficient PC chip ever bu…"
+    },
+    {
       "tag": "ARXIV CS.",
       "col": "var(--l1)",
       "text": "QASM-Eval: A Dataset to Train and Evaluate LLMs on OpenQASM-3 Bey…"
-    },
-    {
-      "tag": "ARXIV CS.",
-      "col": "var(--l2)",
-      "text": "Gait2Hip-60: A Unified Deep Learning Benchmark for Predicting Hip…"
-    },
-    {
-      "tag": "ARXIV CS.",
-      "col": "var(--l2)",
-      "text": "Unicorn: Scaling High-Dimensional Time Series Forecasting via Uni…"
-    },
-    {
-      "tag": "ARXIV CS.",
-      "col": "var(--l1)",
-      "text": "When LLMs Learn to Be Consistently Wrong: A Multi-Model Study of …"
-    },
-    {
-      "tag": "ARXIV CS.",
-      "col": "var(--l2)",
-      "text": "LLMs Without Deep Neural Networks: New Architecture, Benefits and…"
-    },
-    {
-      "tag": "ARXIV CS.",
-      "col": "var(--l0)",
-      "text": "Functional MRI Time Series Generation via Wavelet-Based Image Tra…"
-    },
-    {
-      "tag": "ARXIV CS.",
-      "col": "var(--l1)",
-      "text": "PhyDrawGen: Physically Grounded Diagram Generation from Natural L…"
-    },
-    {
-      "tag": "ARXIV CS.",
-      "col": "var(--l2)",
-      "text": "Physically Viable World Models: A Case for Query-Conditioned Embo…"
-    },
-    {
-      "tag": "ARXIV CS.",
-      "col": "var(--l4)",
-      "text": "Uncertainty-Aware and Temporally Regulated Expert Advice in Reinf…"
-    },
-    {
-      "tag": "ARXIV CS.",
-      "col": "var(--l2)",
-      "text": "Harness Updating Is Not Harness Benefit: Disentangling Evolution …"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Intel Xeon 6+ ‘Clearwater Forest’ puts 18A in the data center wit…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Intel Xeon 7 ‘Diamond Rapids’ CPUs officially launching in 2027 o…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Intel details long-awaited Crescent Island AI GPU at Computex, bo…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "AMD’s formerly China-exclusive Radeon RX 9070 GRE goes global for…"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-      "url": "https://prismml.com/news/bonsai-image-4b",
-      "votes": "318",
-      "comments": "111",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
-      "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
-      "votes": "303",
-      "comments": "481",
+      "title": "Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)",
+      "url": "https://surrealdb.com/blog/surrealdb-3-x-by-the-numbers",
+      "votes": "23",
+      "comments": "0",
       "time": "近期"
     },
     {
@@ -2004,35 +2009,44 @@
       "badge": "pb-hn",
       "title": "ChatGPT for Google Sheets exfiltrates workbooks",
       "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-      "votes": "115",
-      "comments": "39",
+      "votes": "239",
+      "comments": "85",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "The Speed of Prototyping in the Age of AI",
-      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-      "votes": "127",
-      "comments": "66",
+      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+      "url": "https://prismml.com/news/bonsai-image-4b",
+      "votes": "406",
+      "comments": "170",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "What if remote working, not AI, is to blame for weak junior hiring?",
-      "url": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
-      "votes": "117",
-      "comments": "161",
+      "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+      "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
+      "votes": "369",
+      "comments": "727",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Finding Success in Industry as a Chip Designer",
-      "url": "https://spectrum.ieee.org/chip-design-academic-vs-industry",
-      "votes": "7",
-      "comments": "0",
+      "title": "Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
+      "url": "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
+      "votes": "32",
+      "comments": "10",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Why are large language models so terrible at video games?",
+      "url": "https://spectrum.ieee.org/ai-video-games-llms-togelius",
+      "votes": "23",
+      "comments": "37",
       "time": "近期"
     }
   ]
