@@ -1,16 +1,120 @@
 {
-  "updated_at": "2026-06-06T03:46:31.485853+00:00",
-  "article_count": 131,
+  "updated_at": "2026-06-06T08:37:05.901056+00:00",
+  "article_count": 125,
   "articles": {
+    "ac8aab00b": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "[AINews] not much happened today",
+      "src": "Latent Space",
+      "time": "4小时前",
+      "published_ts": 1780720487,
+      "heat": "19.5K",
+      "views": "19.5K",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-6b8",
+      "tags": [],
+      "body": "<p>a quiet day of RSI.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a83d7be7d": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1780718400,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2606.05256",
+      "tags": [],
+      "body": "<p>arXiv:2606.05256v1 Announce Type: new Abstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The intervention, conducted by unknown, external researchers and halted following ethical backlash, involved undisclosed AI-generated accounts engaging users in live debate. After public disclosure, Reddit authorized moderators to release </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a3203d1e1": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1780718400,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2606.05304",
+      "tags": [],
+      "body": "<p>arXiv:2606.05304v1 Announce Type: new Abstract: Multi-agent systems (MAS) built on large language models are typically organized around roles, pipelines, and turn schedules, while the content that agents pass to one another is often left as unconstrained natural language. However, this free-form communication can rapidly inflate token usage, consume the shared context window, and ultimately affect</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a5e1ad5cc": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes through Open-World Knowledge Acquisition",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1780718400,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2606.05316",
+      "tags": [],
+      "body": "<p>arXiv:2606.05316v1 Announce Type: new Abstract: Multimodal memes are dynamic and often require up to date background knowledge for interpretation. Existing methods often overlook such knowledge or rely on fixed parametric knowledge of pretrained models that may be incomplete, outdated, or unavailable for emerging memes. We introduce Query Retrieve Conclude, a zero shot framework that identifies mi</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a24898102": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "GITCO: Gated Inference-Time Context Optimization in TSFMs",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1780718400,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2606.05332",
+      "tags": [],
+      "body": "<p>arXiv:2606.05332v1 Announce Type: new Abstract: Patch-based Time Series Foundation Models (TSFMs) suffer from context poisoning: structurally anomalous patches capture disproportionate attention and silently degrade zero-shot forecast quality. We propose improving TSFM accuracy at inference time by optimizing the input context rather than modifying model weights. We present GITCO (Gated Inference-</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a095ef23c": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "Uncertainty Aware Functional Behavior Prediction and Material Fatigue Assessment for Circular Factory",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1780718400,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2606.05334",
+      "tags": [],
+      "body": "<p>arXiv:2606.05334v1 Announce Type: new Abstract: Returned products in circular factories re-enter production with heterogeneous degradation states, usage histories, and remaining capability. Reuse cannot be decided from the current inspection alone, because future function fulfillment and component integrity may evolve differently under the next service scenario. Existing PHM approaches support deg</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ac9f09fc4": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "SentinelBench: A Benchmark for Long-Running Monitoring Agents",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1780718400,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2606.05342",
+      "tags": [],
+      "body": "<p>arXiv:2606.05342v1 Announce Type: new Abstract: AI agents are increasingly asked to carry out work that spans minutes, hours, or longer. Yet the default model of agent behavior is continuous action: issuing tool calls, refreshing pages, searching for alternatives, or otherwise trying to force progress. This is the wrong approach for many long-running tasks, which are better served by a strategy of</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a2a93ccd6": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Running Python code in a sandbox with MicroPython and WASM",
+      "src": "Simon Willison",
+      "time": "4小时前",
+      "published_ts": 1780718014,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
+      "tags": [],
+      "body": "<p>I've been experimenting with different approaches to running code in a sandbox for several years now, but my latest attempt feels like it might finally have all of the characteristics I've been looking for. I've released it as an alpha package called micropython-wasm , and I'm using it for a code execution sandbox plugin for Datasette Agent called datasette-agent-micropython . Why do I want a sand</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a66fa2333": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "OpenAI Help: Lockdown Mode",
       "src": "Simon Willison",
-      "time": "3小时前",
+      "time": "8小时前",
       "published_ts": 1780703800,
-      "heat": "15.0K",
-      "views": "15.0K",
+      "heat": "11.4K",
+      "views": "13.2K",
       "url": "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything",
       "tags": [],
       "body": "<p>OpenAI Help: Lockdown Mode OpenAI first teased this in February , but now it's live and \"rolling out to eligible personal accounts, including Free, Go, Plus, and Pro, and self-serve ChatGPT Business accounts\": Lockdown Mode is designed to help prevent the final stage of data exfiltration from a prompt injection attack by limiting outbound network requests that could transfer sensitive data to an a</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -20,7 +124,7 @@
       "cat": "L0 · 领袖观点",
       "title": "More than a decade later, the team behind N++ is back with a multiplayer sequel",
       "src": "The Verge",
-      "time": "4小时前",
+      "time": "9小时前",
       "published_ts": 1780701934,
       "heat": "24.0K",
       "views": "24.0K",
@@ -33,7 +137,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Grand Theft Auto VI is warping the video game release calendar",
       "src": "The Verge",
-      "time": "4小时前",
+      "time": "9小时前",
       "published_ts": 1780700727,
       "heat": "21.1K",
       "views": "24.0K",
@@ -46,7 +150,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Control Resonant is a sequel — and also a starting point",
       "src": "The Verge",
-      "time": "6小时前",
+      "time": "10小时前",
       "published_ts": 1780695944,
       "heat": "15.4K",
       "views": "18.2K",
@@ -59,7 +163,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Summer Game Fest Live 2026: The biggest news, trailers, and announcements",
       "src": "The Verge",
-      "time": "7小时前",
+      "time": "11小时前",
       "published_ts": 1780692000,
       "heat": "9.6K",
       "views": "12.5K",
@@ -72,7 +176,7 @@
       "cat": "L5 · 生态商业",
       "title": "Startup Battlefield 200 applications officially close in 3 days",
       "src": "TechCrunch AI",
-      "time": "7小时前",
+      "time": "12小时前",
       "published_ts": 1780689600,
       "heat": "27.0K",
       "views": "27.0K",
@@ -85,7 +189,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Google will pay SpaceX $920M per month for compute",
       "src": "TechCrunch AI",
-      "time": "8小时前",
+      "time": "13小时前",
       "published_ts": 1780685840,
       "heat": "23.8K",
       "views": "27.0K",
@@ -98,7 +202,7 @@
       "cat": "L0 · 领袖观点",
       "title": "The most interesting startups right now want to get you off your phone",
       "src": "TechCrunch AI",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1780679826,
       "heat": "20.5K",
       "views": "23.8K",
@@ -111,7 +215,7 @@
       "cat": "L2 · 基础模型",
       "title": "NSA using Claude Mythos for 'offensive cyber operations,' report claims — says 'half-a-dozen' Anthropic engineers embedded inside the agency",
       "src": "Tom's Hardware",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1780678426,
       "heat": "15.0K",
       "views": "15.0K",
@@ -124,7 +228,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Intel will reportedly upgrade its Wildcat Lake refresh to an 8-core config next year, leak claims — top-end silicon tipped to feature 4 P-cores and 4 LP-E cores as part of 'Core 400' series",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1780675356,
       "heat": "11.4K",
       "views": "13.2K",
@@ -137,7 +241,7 @@
       "cat": "L2 · 基础模型",
       "title": "Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency",
       "src": "Google AI Blog",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1780675200,
       "heat": "34.5K",
       "views": "34.5K",
@@ -150,7 +254,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Seattle to pass one-year AI data center moratorium next week — will use window to study community impact of AI buildouts",
       "src": "Tom's Hardware",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1780673377,
       "heat": "7.8K",
       "views": "9.6K",
@@ -163,7 +267,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Nvidia is reportedly still planning fabled RTX 50 Super series for 2026, leak claims — lineup could now include a potential 'RTX 5060 Super' with 12GB of VRAM",
       "src": "Tom's Hardware",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1780672679,
       "heat": "6.0K",
       "views": "7.8K",
@@ -176,7 +280,7 @@
       "cat": "L5 · 生态商业",
       "title": "Has Microsoft Lost Its Mojo (Again)?",
       "src": "Wired",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1780671600,
       "heat": "16.5K",
       "views": "16.5K",
@@ -189,7 +293,7 @@
       "cat": "L4 · 交互Agent",
       "title": "K-pop Fans Are Calling Out Creepy Deepfakes of Idols",
       "src": "404 Media",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1780671150,
       "heat": "9.6K",
       "views": "11.4K",
@@ -202,7 +306,7 @@
       "cat": "L4 · 交互Agent",
       "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
       "src": "TechCrunch AI",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1780670952,
       "heat": "17.3K",
       "views": "20.5K",
@@ -215,7 +319,7 @@
       "cat": "L2 · 基础模型",
       "title": "The latest AI news we announced in May 2026",
       "src": "Google AI Blog",
-      "time": "13小时前",
+      "time": "17小时前",
       "published_ts": 1780670700,
       "heat": "30.4K",
       "views": "34.5K",
@@ -228,7 +332,7 @@
       "cat": "L0 · 领袖观点",
       "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
       "src": "TechCrunch AI",
-      "time": "13小时前",
+      "time": "18小时前",
       "published_ts": 1780668000,
       "heat": "14.0K",
       "views": "17.3K",
@@ -241,7 +345,7 @@
       "cat": "L4 · 交互Agent",
       "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
       "src": "TechCrunch AI",
-      "time": "14小时前",
+      "time": "19小时前",
       "published_ts": 1780664590,
       "heat": "10.8K",
       "views": "14.0K",
@@ -254,10 +358,10 @@
       "cat": "L3 · 推理工程",
       "title": "Quoting Andreas Kling",
       "src": "Simon Willison",
-      "time": "16小时前",
+      "time": "21小时前",
       "published_ts": 1780657805,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "9.6K",
+      "views": "11.4K",
       "url": "https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything",
       "tags": [],
       "body": "<p>We will no longer accept public pull requests. [...] A substantial patch used to imply substantial effort, and that effort was a reasonable proxy for good faith. That assumption no longer holds. [...] Whether code was typed by hand is beside the point. What matters is who is responsible for it once it enters the browser. Ladybird is becoming a browser for real users. The people introducing changes</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -267,7 +371,7 @@
       "cat": "L5 · 生态商业",
       "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
       "src": "Wired",
-      "time": "17小时前",
+      "time": "22小时前",
       "published_ts": 1780655400,
       "heat": "14.5K",
       "views": "16.5K",
@@ -280,7 +384,7 @@
       "cat": "L5 · 生态商业",
       "title": "Why Apple Might Put Cameras Into Its Next AirPods",
       "src": "Wired",
-      "time": "17小时前",
+      "time": "22小时前",
       "published_ts": 1780653600,
       "heat": "12.5K",
       "views": "14.5K",
@@ -293,7 +397,7 @@
       "cat": "L4 · 交互Agent",
       "title": "The Meta hack shows there’s more to AI security than Mythos",
       "src": "MIT Tech Review",
-      "time": "18小时前",
+      "time": "23小时前",
       "published_ts": 1780650000,
       "heat": "22.5K",
       "views": "22.5K",
@@ -306,7 +410,7 @@
       "cat": "L5 · 生态商业",
       "title": "AI Has Come for Serif Fonts",
       "src": "Wired",
-      "time": "18小时前",
+      "time": "23小时前",
       "published_ts": 1780650000,
       "heat": "10.6K",
       "views": "12.5K",
@@ -314,174 +418,18 @@
       "tags": [],
       "body": "<p>AI companies are using serif to project humanity. Critics are calling it “tasteslop.”</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "ac8aab00b": {
-      "layer": "l3",
-      "cat": "L3 · 推理工程",
-      "title": "[AINews] not much happened today",
-      "src": "Latent Space",
-      "time": "21小时前",
-      "published_ts": 1780641889,
-      "heat": "17.2K",
-      "views": "19.5K",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-7a8",
-      "tags": [],
-      "body": "<p>a quiet day</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a1c488346": {
       "layer": "l0",
       "cat": "L0 · 领袖观点",
       "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
       "src": "NVIDIA Blog",
-      "time": "22小时前",
+      "time": "1天前",
       "published_ts": 1780637917,
       "heat": "37.5K",
       "views": "37.5K",
       "url": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/",
       "tags": [],
       "body": "<p>Home to cutting-edge sovereign AI infrastructure and robotics innovators, as well as one of the world’s most passionate gaming communities, South Korea is one of the world’s centers of AI. NVIDIA founder and CEO Jensen Huang is in Seoul this week to meet the partners and builders behind that work. Stay tuned here for live [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a17301fd5": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "The Evaluation Blind Spot: A Stereological Theory of Benchmark Coverage for Large Language Models",
-      "src": "arXiv cs.LG",
-      "time": "23小时前",
-      "published_ts": 1780632000,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2606.05169",
-      "tags": [],
-      "body": "<p>arXiv:2606.05169v1 Announce Type: new Abstract: We give a stereological theory of LLM benchmark coverage. For any suite with effective dimensionality d_eff, the visible Hausdorff distance between two convex capability profiles consistent with the same scores is bounded by epsilon + C R m^(-1/(d_eff-1)), with matching Lipschitz lower bound. Empirically, three independent leaderboards (Open LLM v2, </p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a81856dfe": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "ERRORQUAKE: Heavy-Tailed Error Severity Distributions in Open-Weight Large Language Models",
-      "src": "arXiv cs.LG",
-      "time": "23小时前",
-      "published_ts": 1780632000,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2606.05170",
-      "tags": [],
-      "body": "<p>arXiv:2606.05170v1 Announce Type: new Abstract: At matched accuracy, open-weight LLMs differ substantially in the shape of their error severity distribution -- a difference invisible to the scalar error rate. Hallucination benchmarks report a single error count and treat all errors as equivalent, yet a wrong date and a fabricated court ruling differ by orders of magnitude. We introduce Errorquake-</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "af3a87455": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Staged Factorial Screening for Budget-Constrained Micro-Pretraining",
-      "src": "arXiv cs.LG",
-      "time": "23小时前",
-      "published_ts": 1780632000,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://arxiv.org/abs/2606.05186",
-      "tags": [],
-      "body": "<p>arXiv:2606.05186v1 Announce Type: new Abstract: Budget-constrained micro-pretraining often requires triaging many candidate recipes on a shared accelerator before larger search budgets are spent. We study whether a staged fractional-factorial workflow can recover stable early effect structure in this setting. On a fixed autoresearch-derived single-GPU training loop, we run 613 experiments across p</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ae687147f": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Temporal Preference Concepts and their Functions in a Large Language Model",
-      "src": "arXiv cs.LG",
-      "time": "23小时前",
-      "published_ts": 1780632000,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://arxiv.org/abs/2606.05194",
-      "tags": [],
-      "body": "<p>arXiv:2606.05194v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly being deployed to make decisions that require trading off near-term gains against long-term consequences, yet little is known about how they internally represent or resolve these tradeoffs. In this work, we causally localize an underlying subgraph for temporal preference in a distilled LLM (Qwen3-4B-Instr</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "abe663a67": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "State commitment learning: training language models to distinguish computation from memory",
-      "src": "arXiv cs.LG",
-      "time": "23小时前",
-      "published_ts": 1780632000,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://arxiv.org/abs/2606.05201",
-      "tags": [],
-      "body": "<p>arXiv:2606.05201v1 Announce Type: new Abstract: Reasoning language models do not distinguish tokens used for computation from tokens that constitute persistent state: once generated, all hidden thoughts remain in context and influence future predictions. As a result, downstream reasoning may depend on failed attempts, dead ends, and private scratch work that should not be safely relied on later. W</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ae4d5ca2c": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
-      "src": "arXiv cs.AI",
-      "time": "23小时前",
-      "published_ts": 1780632000,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2606.04037",
-      "tags": [],
-      "body": "<p>arXiv:2606.04037v2 Announce Type: new Abstract: Pre-deployment verification of enterprise artificial intelligence (AI) agents remains a critical gap between large language model (LLM) capability benchmarking and production deployment. Post-deployment monitoring, human-in-the-loop controls, and prompt-level guardrails offer limited assurance once an agent is operating in production. We present an o</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a915b2660": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection",
-      "src": "arXiv cs.AI",
-      "time": "23小时前",
-      "published_ts": 1780632000,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2606.04150",
-      "tags": [],
-      "body": "<p>arXiv:2606.04150v1 Announce Type: new Abstract: Public discourse and emerging policy typically assume that AI emotional support is a deliberate act: a lonely user consciously seeking comfort from a dedicated companion chatbot. In this paper, we draw on emerging empirical evidence and argue that this picture is inaccurate on two accounts, both in how AI emotional support arises and how it shapes fu</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a619c3ff0": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research",
-      "src": "arXiv cs.AI",
-      "time": "23小时前",
-      "published_ts": 1780632000,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://arxiv.org/abs/2606.04152",
-      "tags": [],
-      "body": "<p>arXiv:2606.04152v1 Announce Type: new Abstract: Large language models are reshaping research practice while quietly eroding researchers epistemic accountability. This commentary introduces PEEL - Protocols for Epistemically Engaged Literacy in AI, a working scaffolding that combines deterministic distant reading via Voyant Tools with LLM interpretation via Claude, grounded in Peircean semiotics an</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a6478b879": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models",
-      "src": "arXiv cs.AI",
-      "time": "23小时前",
-      "published_ts": 1780632000,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://arxiv.org/abs/2606.04202",
-      "tags": [],
-      "body": "<p>arXiv:2606.04202v1 Announce Type: new Abstract: As LLMs become more widely deployed, they are increasingly expected to work alongside other AI agents rather than operating in isolation. Effective coordination in these settings requires agents to communicate, share information and make decisions under uncertainty. We introduce SMAC-Talk, a natural language extension of the StarCraft Multi-Agent Cha</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a78d0d4cf": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal",
-      "src": "arXiv cs.AI",
-      "time": "23小时前",
-      "published_ts": 1780632000,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://arxiv.org/abs/2606.04223",
-      "tags": [],
-      "body": "<p>arXiv:2606.04223v1 Announce Type: new Abstract: Multi-agent systems are commonly designed to reduce disagreement through voting, consensus protocols, debate, or fault-tolerant aggregation. We argue that this objective is insufficient for value-laden tasks, where disagreement may reflect genuine normative uncertainty rather than agent error. Building on prior work on reasoning-trace disagreement in</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a56d758b9": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "VAMPS: Visual-Assisted Mathematical Problem Solving Benchmark",
-      "src": "arXiv cs.AI",
-      "time": "23小时前",
-      "published_ts": 1780632000,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://arxiv.org/abs/2606.04244",
-      "tags": [],
-      "body": "<p>arXiv:2606.04244v1 Announce Type: new Abstract: Multimodal large language models are increasingly capable of complex reasoning, yet their performance often degrades when they must externalize a problem through a tool and then reason over the tool's output, specifically when they rely on visual aids. This gap is especially important because real engineering and scientific workflows often rely on vi</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "ad0b76b40": {
       "layer": "l0",
@@ -490,8 +438,8 @@
       "src": "Simon Willison",
       "time": "1天前",
       "published_ts": 1780617327,
-      "heat": "11.4K",
-      "views": "13.2K",
+      "heat": "7.8K",
+      "views": "9.6K",
       "url": "https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything",
       "tags": [],
       "body": "<p>AI enthusiasts are in a race against time, AI skeptics are in a race against entropy Charity Majors neatly captures the dynamic between AI enthusiasts and AI skeptics, both of whom are trying to build great software, often in the same teams: The enthusiasts are not wrong . We are starting to see real, non-imaginary, discontinuous leaps in capabilities from teams that lean in hard to working with A</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -542,8 +490,8 @@
       "src": "Latent Space",
       "time": "1天前",
       "published_ts": 1780605558,
-      "heat": "14.8K",
-      "views": "17.2K",
+      "heat": "12.5K",
+      "views": "14.8K",
       "url": "https://www.latent.space/p/andon",
       "tags": [],
       "body": "<p>We talk with the VendingBench authors on evaling Claudes from Haiku to Mythos, and how they build leading, and lasting, frontier evals from scratch.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -594,8 +542,8 @@
       "src": "Simon Willison",
       "time": "1天前",
       "published_ts": 1780591109,
-      "heat": "9.6K",
-      "views": "11.4K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything",
       "tags": [],
       "body": "<p>After this story was published Google's spokesperson reached out and asked us to publish a slightly different version of that statement. The new statement no longer stated that \"it's critical that we maintain humans in the loop.\" &mdash; Emanuel Maiberg, 404 Media , Google Employees Internally Share Memes About How Its AI Sucks Tags: ai-ethics , journalism , ai , google</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -685,8 +633,8 @@
       "src": "Latent Space",
       "time": "2天前",
       "published_ts": 1780543447,
-      "heat": "12.5K",
-      "views": "14.8K",
+      "heat": "10.1K",
+      "views": "12.5K",
       "url": "https://www.latent.space/p/ainews-reve-2-and-ideogram-4-layouts",
       "tags": [],
       "body": "<p>a quiet day.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -724,8 +672,8 @@
       "src": "Latent Space",
       "time": "2天前",
       "published_ts": 1780514869,
-      "heat": "10.1K",
-      "views": "12.5K",
+      "heat": "7.8K",
+      "views": "10.1K",
       "url": "https://www.latent.space/p/axiom",
       "tags": [],
       "body": "<p>Verified Generation and Compounding Intelligence</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -795,19 +743,6 @@
       "tags": [],
       "body": "<p>GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "af16c992f": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
-      "src": "Simon Willison",
-      "time": "2天前",
-      "published_ts": 1780488087,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything",
-      "tags": [],
-      "body": "<p>Uber Caps Usage of AI Tools Like Claude Code to Manage Costs I wrote the other day about Uber blowing its 2026 AI budget in four months, and how that wasn't particularly surprising given they would have set that budget in 2025, before anyone could have predicted how popular token-burning coding agents were about to become. Natalie Lung for Bloomberg: The rideshare giant is limiting all employees t</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a97f9fa4c": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
@@ -821,31 +756,18 @@
       "tags": [],
       "body": "<p>See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a4d34dfc2": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "OpenAI public policy agenda",
+    "a77e51c60": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "A blueprint for democratic governance of frontier AI",
       "src": "OpenAI Blog",
       "time": "2天前",
       "published_ts": 1780480800,
       "heat": "18.0K",
       "views": "23.4K",
-      "url": "https://openai.com/index/public-policy-agenda",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
       "tags": [],
-      "body": "<p>OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ab3be569a": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Microsoft's new MAI models",
-      "src": "Simon Willison",
-      "time": "3天前",
-      "published_ts": 1780438912,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything",
-      "tags": [],
-      "body": "<p>Microsoft announced two new text LLMs this morning - MAI-Thinking-1 (reasoning, 1T parameters, 35B active, available to \"select early partners\") and MAI-Code-1-Flash (137B Parameters, 5B active, \"purpose-built for GitHub Copilot and VS Code to deliver high performance and lower cost [...] rolling out to GitHub Copilot individual users in Visual Studio Code\"). I've not been able to try either of th</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a432a6f0a": {
       "layer": "l1",
@@ -1476,7 +1398,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "289天前",
+      "time": "290天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1707,35 +1629,27 @@
     }
   },
   "by_layer": {
-    "l4": [
-      "a66fa2333",
-      "a23b2e2d6",
-      "a765905eb",
-      "afbd225fe",
-      "afec8ca26",
-      "a6c661fed",
-      "ad1c47022",
-      "a99f8ff23",
-      "a915b2660",
-      "a6478b879",
-      "a78d0d4cf",
-      "a64e9d195",
-      "ab837ea53",
-      "a6b9104a1",
-      "a60d56675",
-      "ad87452cd",
-      "ab59fe080",
-      "af25d02a4",
-      "a61a8adff",
-      "ad01feb8a"
+    "l3": [
+      "ac8aab00b",
+      "a44b7374b",
+      "ac072d4e5",
+      "a3eca39f5",
+      "a8e1cd44f",
+      "ac1ee6323",
+      "aeef26eb4",
+      "a774f3120",
+      "a23fdeba7",
+      "a1b552f8f",
+      "a28f84720"
     ],
     "l0": [
+      "a83d7be7d",
+      "a095ef23c",
       "a08690fb3",
       "a68b5caf1",
       "a6aa547b4",
       "ad4ec0743",
       "a1c488346",
-      "abe663a67",
       "ad0b76b40",
       "ae76c6fe0",
       "a84b65ba9",
@@ -1759,34 +1673,19 @@
       "a9173515c",
       "abcb7b0c4"
     ],
-    "l5": [
-      "a54665e86",
-      "a087d06a4",
-      "a9d357350",
-      "a4cb68fc6",
-      "ac7e03999",
-      "ade09f15f",
-      "a0d10a7c7",
-      "a4d34dfc2",
-      "a514deb95",
-      "a33bfbd53",
-      "a01588cfe"
-    ],
     "l2": [
+      "a3203d1e1",
+      "a24898102",
+      "ac9f09fc4",
       "a0f34b375",
       "aae5ecbda",
       "a385bbbf9",
-      "a17301fd5",
-      "af3a87455",
-      "ae687147f",
-      "a619c3ff0",
       "a7e14e302",
       "ab447f619",
       "a02c297d1",
       "aaa379382",
-      "af16c992f",
       "a97f9fa4c",
-      "ab3be569a",
+      "a77e51c60",
       "adef81074",
       "aa96421d4",
       "a2f484bd6",
@@ -1805,13 +1704,43 @@
       "af0f189d1",
       "a38ad1236"
     ],
+    "l5": [
+      "a5e1ad5cc",
+      "a54665e86",
+      "a087d06a4",
+      "a9d357350",
+      "a4cb68fc6",
+      "ac7e03999",
+      "ade09f15f",
+      "a0d10a7c7",
+      "a514deb95",
+      "a33bfbd53",
+      "a01588cfe"
+    ],
+    "l4": [
+      "a2a93ccd6",
+      "a66fa2333",
+      "a23b2e2d6",
+      "a765905eb",
+      "afbd225fe",
+      "afec8ca26",
+      "a6c661fed",
+      "ad1c47022",
+      "a99f8ff23",
+      "a64e9d195",
+      "ab837ea53",
+      "a6b9104a1",
+      "a60d56675",
+      "ad87452cd",
+      "ab59fe080",
+      "af25d02a4",
+      "a61a8adff",
+      "ad01feb8a"
+    ],
     "l1": [
       "a1eca760f",
       "a8d8b5da7",
       "ae462b317",
-      "a81856dfe",
-      "ae4d5ca2c",
-      "a56d758b9",
       "ad44677e2",
       "a6fa783e0",
       "a06552dbe",
@@ -1836,84 +1765,49 @@
       "a5236c597",
       "a2ae2603b",
       "afeb62ce7"
-    ],
-    "l3": [
-      "a44b7374b",
-      "ac8aab00b",
-      "ac072d4e5",
-      "a3eca39f5",
-      "a8e1cd44f",
-      "ac1ee6323",
-      "aeef26eb4",
-      "a774f3120",
-      "a23fdeba7",
-      "a1b552f8f",
-      "a28f84720"
     ]
   },
   "top5": [
-    "a66fa2333",
-    "a08690fb3",
-    "a68b5caf1",
-    "a23b2e2d6",
-    "a765905eb"
+    "ac8aab00b",
+    "a83d7be7d",
+    "a3203d1e1",
+    "a5e1ad5cc",
+    "a24898102"
   ],
   "layers": [
-    {
-      "id": "l2",
-      "num": "LAYER 2",
-      "name": "基础模型",
-      "vals": [
-        14,
-        31,
-        31,
-        7,
-        33,
-        21
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
-    {
-      "id": "l1",
-      "num": "LAYER 1",
-      "name": "算力硬件",
-      "vals": [
-        27,
-        26,
-        11,
-        7,
-        19,
-        21
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
     {
       "id": "l0",
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        17,
-        27,
-        10,
-        7,
         30,
-        20
+        15,
+        11,
+        7,
+        21,
+        21
+      ],
+      "trend": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "id": "l2",
+      "num": "LAYER 2",
+      "name": "基础模型",
+      "vals": [
+        21,
+        12,
+        5,
+        7,
+        34,
+        21
       ],
       "trend": [
         20,
@@ -1930,11 +1824,11 @@
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        14,
+        19,
         11,
         7,
-        5,
-        25,
+        20,
+        21,
         17
       ],
       "trend": [
@@ -1948,16 +1842,38 @@
       ]
     },
     {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
+      "id": "l1",
+      "num": "LAYER 1",
+      "name": "算力硬件",
       "vals": [
+        11,
+        14,
         10,
+        7,
+        29,
+        20
+      ],
+      "trend": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
+      "vals": [
+        16,
         10,
         5,
-        17,
-        11,
-        14
+        5,
+        10,
+        18
       ],
       "trend": [
         20,
@@ -1970,16 +1886,16 @@
       ]
     },
     {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
       "vals": [
+        12,
         10,
+        6,
+        15,
         10,
-        5,
-        5,
-        10,
-        15
+        14
       ],
       "trend": [
         20,
@@ -1993,6 +1909,46 @@
     }
   ],
   "ticker": [
+    {
+      "tag": "LATENT SP",
+      "col": "var(--l3)",
+      "text": "[AINews] not much happened today"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l0)",
+      "text": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents …"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "What Should Agents Say? Action-state Communication for Efficient …"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l5)",
+      "text": "I Know What You Meme, Even If it Emerged Today: Understanding Evo…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "GITCO: Gated Inference-Time Context Optimization in TSFMs"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l0)",
+      "text": "Uncertainty Aware Functional Behavior Prediction and Material Fat…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "SentinelBench: A Benchmark for Long-Running Monitoring Agents"
+    },
+    {
+      "tag": "SIMON WIL",
+      "col": "var(--l4)",
+      "text": "Running Python code in a sandbox with MicroPython and WASM"
+    },
     {
       "tag": "SIMON WIL",
       "col": "var(--l4)",
@@ -2022,74 +1978,34 @@
       "tag": "TECHCRUNC",
       "col": "var(--l5)",
       "text": "Startup Battlefield 200 applications officially close in 3 days"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "Google will pay SpaceX $920M per month for compute"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l0)",
-      "text": "The most interesting startups right now want to get you off your …"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l2)",
-      "text": "NSA using Claude Mythos for 'offensive cyber operations,' report …"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Intel will reportedly upgrade its Wildcat Lake refresh to an 8-co…"
-    },
-    {
-      "tag": "GOOGLE AI",
-      "col": "var(--l2)",
-      "text": "Gemma 4 QAT models: Optimizing model compression for mobile and l…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Seattle to pass one-year AI data center moratorium next week — wi…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Nvidia is reportedly still planning fabled RTX 50 Super series fo…"
-    },
-    {
-      "tag": "WIRED",
-      "col": "var(--l5)",
-      "text": "Has Microsoft Lost Its Mojo (Again)?"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
+      "title": "How LLMs work",
+      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+      "votes": "278",
+      "comments": "80",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
       "title": "The intracies of modern camera lens repair (2024)",
       "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-      "votes": "90",
-      "comments": "26",
+      "votes": "158",
+      "comments": "53",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "How LLMs Work",
-      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-      "votes": "41",
-      "comments": "4",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "OpenAI Help: Lockdown Mode",
-      "url": "https://help.openai.com/en/articles/20001061-lockdown-mode",
-      "votes": "6",
-      "comments": "0",
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "votes": "340",
+      "comments": "99",
       "time": "近期"
     },
     {
@@ -2097,26 +2013,26 @@
       "badge": "pb-hn",
       "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
       "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-      "votes": "366",
-      "comments": "240",
+      "votes": "388",
+      "comments": "249",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Did Claude increase bugs in rsync?",
-      "url": "https://alexispurslane.github.io/rsync-analysis/",
-      "votes": "337",
-      "comments": "347",
+      "title": "The back cover of C++: The Language raises questions not answered by front cover",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
+      "votes": "79",
+      "comments": "22",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "My Agent Skill for Test-Driven Development",
-      "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
-      "votes": "147",
-      "comments": "59",
+      "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+      "url": "https://news.ycombinator.com/item?id=48406174",
+      "votes": "313",
+      "comments": "582",
       "time": "近期"
     }
   ]
