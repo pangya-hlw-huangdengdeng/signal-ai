@@ -1,13 +1,26 @@
 {
-  "updated_at": "2026-06-07T04:13:19.926609+00:00",
+  "updated_at": "2026-06-07T09:17:52.731322+00:00",
   "article_count": 114,
   "articles": {
+    "a2024add6": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs",
+      "src": "NVIDIA Blog",
+      "time": "2小时前",
+      "published_ts": 1780815615,
+      "heat": "37.5K",
+      "views": "37.5K",
+      "url": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/",
+      "tags": [],
+      "body": "<p>At GTC Taipei at COMPUTEX last week, NVIDIA unveiled RTX Spark, the superchip that reinvents Windows PCs for the era of personal AI agents. On the heels of this announcement, NVIDIA founder and CEO Jensen Huang headed to South Korea, where he introduced RTX Spark to the nation’s passionate gaming community. Leading game developers — [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a8151dd44": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
       "src": "TechCrunch AI",
-      "time": "7小时前",
+      "time": "12小时前",
       "published_ts": 1780777944,
       "heat": "27.0K",
       "views": "27.0K",
@@ -20,10 +33,10 @@
       "cat": "L4 · 交互Agent",
       "title": "GOG apologizes for emailing people Nazi symbols",
       "src": "The Verge",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1780768777,
-      "heat": "21.1K",
-      "views": "24.0K",
+      "heat": "18.2K",
+      "views": "21.1K",
       "url": "https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun",
       "tags": [],
       "body": "<p>GOG sent a newsletter about the game The End of the Sun on June 5th that included symbols associated with the Nazi SS. The Steam competitor issued a statement attributing the inclusion to a \"series of mistakes,\" including miscommunication with the German QA team, inconsistent font rendering, and being understaffed during a bank holiday, among [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -33,7 +46,7 @@
       "cat": "L5 · 生态商业",
       "title": "Sriram Krishnan is leaving his role as White House AI advisor",
       "src": "TechCrunch AI",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1780767735,
       "heat": "20.5K",
       "views": "23.8K",
@@ -46,7 +59,7 @@
       "cat": "L1 · 算力硬件",
       "title": "AMD B650 expansion cards hit retail starting at $199 — add four M.2 PCIe 4.0 slots and 11 USB ports to any PC with a PCIe slot",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1780763386,
       "heat": "15.0K",
       "views": "15.0K",
@@ -59,7 +72,7 @@
       "cat": "L4 · 交互Agent",
       "title": "The Trump administration might take an equity stake in OpenAI",
       "src": "TechCrunch AI",
-      "time": "11小时前",
+      "time": "17小时前",
       "published_ts": 1780762641,
       "heat": "17.3K",
       "views": "20.5K",
@@ -72,7 +85,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Gaming soundbar can be hijacked from over 16 yards away without touch or pairing — the company allegedly refuses to label the blatant security flaw a cybersecurity risk",
       "src": "Tom's Hardware",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1780761979,
       "heat": "13.2K",
       "views": "15.0K",
@@ -85,7 +98,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Upgrade your PC with a 2TB PCIe 4.0 SSD, 750W power supply, and 240mm AIO for $300 — hardware bundle saves you nearly $200",
       "src": "Tom's Hardware",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1780759998,
       "heat": "11.4K",
       "views": "13.2K",
@@ -98,7 +111,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Scientists Discover Hidden Symmetry on Earth That Nobody Can Explain",
       "src": "404 Media",
-      "time": "14小时前",
+      "time": "19小时前",
       "published_ts": 1780753016,
       "heat": "15.0K",
       "views": "15.0K",
@@ -111,7 +124,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Nvidia’s AI Hardware Comes to Windows in RTX Spark PCs",
       "src": "IEEE Spectrum",
-      "time": "16小时前",
+      "time": "21小时前",
       "published_ts": 1780747201,
       "heat": "15.0K",
       "views": "15.0K",
@@ -124,7 +137,7 @@
       "cat": "L3 · 推理工程",
       "title": "LLM Research Papers: The 2026 List (January to May)",
       "src": "Ahead of AI",
-      "time": "16小时前",
+      "time": "22小时前",
       "published_ts": 1780744582,
       "heat": "15.0K",
       "views": "15.0K",
@@ -137,7 +150,7 @@
       "cat": "L5 · 生态商业",
       "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
       "src": "Wired",
-      "time": "17小时前",
+      "time": "22小时前",
       "published_ts": 1780741800,
       "heat": "16.5K",
       "views": "16.5K",
@@ -150,7 +163,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] not much happened today",
       "src": "Latent Space",
-      "time": "23小时前",
+      "time": "1天前",
       "published_ts": 1780720487,
       "heat": "19.5K",
       "views": "19.5K",
@@ -306,7 +319,7 @@
       "cat": "L4 · 交互Agent",
       "title": "The Meta hack shows there’s more to AI security than Mythos",
       "src": "MIT Tech Review",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1780650000,
       "heat": "22.5K",
       "views": "22.5K",
@@ -319,7 +332,7 @@
       "cat": "L5 · 生态商业",
       "title": "AI Has Come for Serif Fonts",
       "src": "Wired",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1780650000,
       "heat": "8.6K",
       "views": "10.6K",
@@ -332,9 +345,9 @@
       "cat": "L0 · 领袖观点",
       "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
       "src": "NVIDIA Blog",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1780637917,
-      "heat": "37.5K",
+      "heat": "33.0K",
       "views": "37.5K",
       "url": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/",
       "tags": [],
@@ -501,7 +514,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Dreaming: Better memory for a more helpful ChatGPT",
       "src": "OpenAI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1780563600,
       "heat": "39.6K",
       "views": "45.0K",
@@ -594,8 +607,8 @@
       "src": "NVIDIA Blog",
       "time": "3天前",
       "published_ts": 1780498857,
-      "heat": "28.5K",
-      "views": "33.0K",
+      "heat": "24.0K",
+      "views": "28.5K",
       "url": "https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/",
       "tags": [],
       "body": "<p>What makes a robot gripper useful isn’t that it can pick up one object — it’s that it can pick up the next one, and the one after that, with a tool it’s never held before. What makes an autonomous vehicle system safe isn’t just that it can reason through a situation — it’s that [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -607,8 +620,8 @@
       "src": "NVIDIA Blog",
       "time": "3天前",
       "published_ts": 1780498835,
-      "heat": "24.0K",
-      "views": "28.5K",
+      "heat": "19.5K",
+      "views": "24.0K",
       "url": "https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/",
       "tags": [],
       "body": "<p>At CVPR, NVIDIA is unveiling new physical AI agent skills that help researchers and developers speed the development of autonomous vehicles, robots and vision AI systems. The core challenge in physical AI research isn’t simply developing stronger models. It’s building a full workflow around them — reconstructing real-world scenes, generating edge-case scenarios, training policies, evaluating [&#82</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -659,24 +672,11 @@
       "src": "NVIDIA Blog",
       "time": "4天前",
       "published_ts": 1780437658,
-      "heat": "19.5K",
-      "views": "24.0K",
+      "heat": "15.0K",
+      "views": "19.5K",
       "url": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/",
       "tags": [],
       "body": "<p>Accelerated computing has revolutionized industrial engineering, compressing simulation times from weeks to hours. Today’s remaining challenges sit in the end-to-end workflow surrounding the simulations: computer-aided design, meshing, simulation setup and debugging, as well as post-processing and generating summary reports of these processes. At GTC Taipei at COMPUTEX, NVIDIA and more than a doze</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a74a75283": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
-      "src": "NVIDIA Blog",
-      "time": "4天前",
-      "published_ts": 1780426808,
-      "heat": "15.0K",
-      "views": "19.5K",
-      "url": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/",
-      "tags": [],
-      "body": "<p>The agentic AI moment has arrived, but delivering on its promise requires more than good models. It also takes fast hardware, secure runtimes, a responsive data layer and models tuned for long-running reasoning. NVIDIA and Microsoft are bringing that full stack to developers across Windows devices, Azure cloud and local deployments. At Microsoft Build, NVIDIA [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "ac1ee6323": {
       "layer": "l3",
@@ -735,7 +735,7 @@
       "cat": "L5 · 生态商业",
       "title": "How small businesses can leverage AI",
       "src": "MIT Tech Review",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1780390800,
       "heat": "14.4K",
       "views": "17.1K",
@@ -1255,7 +1255,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "290天前",
+      "time": "291天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1486,6 +1486,32 @@
     }
   },
   "by_layer": {
+    "l0": [
+      "a2024add6",
+      "a1c488346",
+      "ad0b76b40",
+      "ae76c6fe0",
+      "a84b65ba9",
+      "a91dca43f",
+      "a42855367",
+      "ae6862488",
+      "a4b46426c",
+      "a4c70e437",
+      "a5e2d779c",
+      "a0a86adb8",
+      "a6eadb995",
+      "a2f2fbafa",
+      "aa27891e5",
+      "a57fda39f",
+      "a187a50d6",
+      "a040f39c9",
+      "a0ab4dd7d",
+      "a375099f0",
+      "a6a5b4a81",
+      "a253e0446",
+      "a9173515c",
+      "abcb7b0c4"
+    ],
     "l4": [
       "a8151dd44",
       "a6619ef8d",
@@ -1530,7 +1556,6 @@
       "a0f5aae89",
       "abcdfeb75",
       "a432a6f0a",
-      "a74a75283",
       "a71e48aae",
       "a3d7e9af1",
       "abfa9fb23",
@@ -1586,39 +1611,14 @@
       "ab3119897",
       "af0f189d1",
       "a38ad1236"
-    ],
-    "l0": [
-      "a1c488346",
-      "ad0b76b40",
-      "ae76c6fe0",
-      "a84b65ba9",
-      "a91dca43f",
-      "a42855367",
-      "ae6862488",
-      "a4b46426c",
-      "a4c70e437",
-      "a5e2d779c",
-      "a0a86adb8",
-      "a6eadb995",
-      "a2f2fbafa",
-      "aa27891e5",
-      "a57fda39f",
-      "a187a50d6",
-      "a040f39c9",
-      "a0ab4dd7d",
-      "a375099f0",
-      "a6a5b4a81",
-      "a253e0446",
-      "a9173515c",
-      "abcb7b0c4"
     ]
   },
   "top5": [
+    "a2024add6",
     "a8151dd44",
     "a6619ef8d",
     "ab51fb57e",
-    "a011f02d0",
-    "ae1845d31"
+    "a011f02d0"
   ],
   "layers": [
     {
@@ -1626,12 +1626,12 @@
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        22,
-        20,
-        12,
-        8,
-        29,
-        22
+        28,
+        32,
+        11,
+        7,
+        28,
+        21
       ],
       "trend": [
         20,
@@ -1648,33 +1648,11 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        16,
-        22,
+        27,
+        26,
         10,
         7,
-        32,
-        20
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
-    {
-      "id": "l0",
-      "num": "LAYER 0",
-      "name": "领袖观点",
-      "vals": [
-        12,
-        20,
-        10,
-        6,
-        34,
+        18,
         20
       ],
       "trend": [
@@ -1693,10 +1671,10 @@
       "name": "交互Agent",
       "vals": [
         10,
-        10,
+        25,
         7,
-        16,
-        22,
+        5,
+        24,
         17
       ],
       "trend": [
@@ -1715,10 +1693,10 @@
       "name": "推理工程",
       "vals": [
         16,
-        10,
+        16,
         5,
         5,
-        11,
+        22,
         14
       ],
       "trend": [
@@ -1732,16 +1710,38 @@
       ]
     },
     {
+      "id": "l0",
+      "num": "LAYER 0",
+      "name": "领袖观点",
+      "vals": [
+        13,
+        10,
+        10,
+        7,
+        28,
+        20
+      ],
+      "trend": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
       "id": "l5",
       "num": "LAYER 5",
       "name": "生态商业",
       "vals": [
-        10,
-        16,
+        15,
+        13,
         5,
         5,
-        10,
-        20
+        12,
+        10
       ],
       "trend": [
         20,
@@ -1755,6 +1755,11 @@
     }
   ],
   "ticker": [
+    {
+      "tag": "NVIDIA BL",
+      "col": "var(--l0)",
+      "text": "NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1…"
+    },
     {
       "tag": "TECHCRUNC",
       "col": "var(--l4)",
@@ -1819,21 +1824,25 @@
       "tag": "SIMON WIL",
       "col": "var(--l4)",
       "text": "Running Python code in a sandbox with MicroPython and WASM"
-    },
-    {
-      "tag": "SIMON WIL",
-      "col": "var(--l4)",
-      "text": "OpenAI Help: Lockdown Mode"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
+      "title": "I design with Claude more than Figma now",
+      "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+      "votes": "138",
+      "comments": "102",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
       "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
       "url": "https://arxiv.org/abs/2601.14470",
-      "votes": "46",
-      "comments": "8",
+      "votes": "98",
+      "comments": "32",
       "time": "近期"
     },
     {
@@ -1841,8 +1850,8 @@
       "badge": "pb-hn",
       "title": "Harness engineering: Leveraging Codex in an agent-first world",
       "url": "https://openai.com/index/harness-engineering/",
-      "votes": "118",
-      "comments": "66",
+      "votes": "190",
+      "comments": "118",
       "time": "近期"
     },
     {
@@ -1850,17 +1859,17 @@
       "badge": "pb-hn",
       "title": "Public Domain Image Archive",
       "url": "https://pdimagearchive.org/",
-      "votes": "58",
-      "comments": "11",
+      "votes": "114",
+      "comments": "17",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-      "votes": "478",
-      "comments": "169",
+      "title": "Arithmetic Without Numbers – How LLMs Do Math",
+      "url": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html",
+      "votes": "20",
+      "comments": "6",
       "time": "近期"
     },
     {
@@ -1868,17 +1877,8 @@
       "badge": "pb-hn",
       "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
       "url": "https://twitter.com/lemire/status/2062880075117113739",
-      "votes": "251",
-      "comments": "444",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
-      "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
-      "votes": "178",
-      "comments": "763",
+      "votes": "279",
+      "comments": "472",
       "time": "近期"
     }
   ]
