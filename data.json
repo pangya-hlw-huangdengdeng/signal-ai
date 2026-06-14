@@ -1,29 +1,94 @@
 {
-  "updated_at": "2026-06-14T14:09:28.266802+00:00",
-  "article_count": 115,
+  "updated_at": "2026-06-14T19:40:27.164367+00:00",
+  "article_count": 117,
   "articles": {
+    "ad6ab8a40": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "China may have accessed Mythos",
+      "src": "The Verge",
+      "time": "1小时前",
+      "published_ts": 1781461675,
+      "heat": "24.0K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+      "tags": [],
+      "body": "<p>According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a85f38e1c": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "Welcome to the AGI era of AI governance",
+      "src": "Interconnects",
+      "time": "1小时前",
+      "published_ts": 1781459022,
+      "heat": "18.0K",
+      "views": "18.0K",
+      "url": "https://www.interconnects.ai/p/welcome-to-the-agi-era-of-ai-governance",
+      "tags": [],
+      "body": "<p>It's a one-way door and we weren't ready for it.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a30ade1db": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Read Sundar Pichai’s 2026 Commencement Address at Stanford University",
+      "src": "Google AI Blog",
+      "time": "2小时前",
+      "published_ts": 1781458200,
+      "heat": "34.5K",
+      "views": "34.5K",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/stanford-commencement-speech-2026/",
+      "tags": [],
+      "body": "<p>a gradient G</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "acfa8ff86": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "As AI companies race to go public, who else is along for the ride?",
+      "src": "TechCrunch AI",
+      "time": "3小时前",
+      "published_ts": 1781455089,
+      "heat": "27.0K",
+      "views": "27.0K",
+      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "tags": [],
+      "body": "<p>Startups are trying to \"ride that SpaceX IPO wave.\"</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a6d5f8ea9": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Intel's upcoming 'Raptor Lake Next' will reportedly top out at 20 cores and retain Core 200 branding — Lineup may include a special 10-core SKU with 24MB of L3 cache",
+      "src": "Tom's Hardware",
+      "time": "4小时前",
+      "published_ts": 1781449027,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intels-upcoming-raptor-lake-next-will-reportedly-top-out-at-20-cores-and-retain-core-200-branding-lineup-may-include-a-special-10-core-sku-with-24mb-of-l3-cache",
+      "tags": [],
+      "body": "<p>Intel's Raptor Lake family might be coming back for a third time and sit alongside Nova Lake on shelves as the budget-oriented offering from the company.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "acab9f92a": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "Computer History Museum recalls ‘astonishing’ retro haul recovered from abandoned German warehouse — over 2,000 artifacts spanning the 1930s to 1980s required seven tractor-trailers after a WWII bomb scare",
       "src": "Tom's Hardware",
-      "time": "9分钟前",
+      "time": "5小时前",
       "published_ts": 1781445600,
-      "heat": "15.0K",
-      "views": "15.0K",
+      "heat": "11.4K",
+      "views": "13.2K",
       "url": "https://www.tomshardware.com/tech-industry/computer-history-museum-recalls-astonishing-retro-haul-recovered-from-abandoned-german-warehouse-over-2-000-artifacts-spanning-the-1930s-to-1980s-required-seven-tractor-trailers-after-a-wwii-bomb-scare",
       "tags": [],
       "body": "<p>The Computer History Museum recalls one of its biggest ever retro treasure troves. This ‘astonishing’ haul was rescued from an abandoned warehouse in the town of Castrop-Rauxel, Germany.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a158fc2ab": {
+    "a0d4c8563": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
-      "title": "Apple made marketing gold from the Power Mac G4 'supercomputer' export ban in 1999 — Pentagon banned sales of the 400 MHz G4 in 50 countries when it launched and became the first PC to be classed as a weapon",
+      "title": "Apple made marketing gold from the export ban on Power Mac G4 'supercomputer' in 1999, 'for the first time in history a personal computer has been classified as a weapon' — Pentagon banned sales of the 400 MHz G4 in 50 countries when it launched",
       "src": "Tom's Hardware",
-      "time": "9分钟前",
+      "time": "5小时前",
       "published_ts": 1781445600,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "9.6K",
+      "views": "11.4K",
       "url": "https://www.tomshardware.com/tech-industry/apple-made-marketing-gold-from-the-power-mac-g4-supercomputer-export-ban-in-1999-pentagon-banned-sales-of-the-400-mhz-g4-in-50-countries-when-it-launched-and-became-the-first-pc-to-be-classed-as-a-weapon",
       "tags": [],
       "body": "<p>In the context of the recent tech export bans, we look back at the Apple PowerMac G4 export ban from 1999 and Steve Jobs making marketing gold from the situation.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -33,48 +98,22 @@
       "cat": "L4 · 交互Agent",
       "title": "The impossible dream of the universal remote",
       "src": "The Verge",
-      "time": "27分钟前",
+      "time": "5小时前",
       "published_ts": 1781444527,
-      "heat": "24.0K",
-      "views": "24.0K",
+      "heat": "15.4K",
+      "views": "18.2K",
       "url": "https://www.theverge.com/podcast/949620/harmony-universal-remote-version-history",
       "tags": [],
       "body": "<p>You don't really ever have to explain why a universal remote is a good idea. You have a bunch of stuff that needs controlling; this thing controls them all. Many companies have set out to build a product worthy of this idea, and one product came much closer than most. It was called the Harmony, [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a7ad78ce9": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Grab this MSI Codex Z2 16-thread gaming Ryzen PC with a 2TB SSD at a $400 discount — system packs a Ryzen 8700F, 16GB DDR5, and RTX 5060 Ti 8GB for $1,499",
-      "src": "Tom's Hardware",
-      "time": "41分钟前",
-      "published_ts": 1781443693,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://www.tomshardware.com/pc-components/grab-this-msi-codex-z2-16-thread-gaming-ryzen-pc-with-a-2tb-ssd-at-a-usd400-discount-system-packs-a-ryzen-8700f-16gb-ddr5-and-rtx-5060-ti-8gb-for-usd1-499",
-      "tags": [],
-      "body": "<p>MSI's prebuilt gaming desktop pairs a Zen 4 processor with Nvidia's latest RTX 5060 Ti graphics card and comes housed in an airflow-focused chassis with ARGB lighting.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a483468b7": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "New 3D printer tech uses elliptical laser beams to stir molten metal and create ‘alloys-on-demand’ — existing machinery can implement technique in software meaning for more convenient, stronger alloy printing",
-      "src": "Tom's Hardware",
-      "time": "1小时前",
-      "published_ts": 1781442146,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://www.tomshardware.com/3d-printing/nist-gets-metal-3d-printers-to-mix-alloys-mid-print-by-rewriting-the-lasers-path",
-      "tags": [],
-      "body": "<p>NIST has demonstrated a metal 3D printing method that stirs molten metal during the print by sending the laser along looping elliptical paths instead of straight lines.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "aa6b3f3bd": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "As Anthropic suspends access to new models, India debates its AI future",
       "src": "TechCrunch AI",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1781406000,
-      "heat": "27.0K",
+      "heat": "23.8K",
       "views": "27.0K",
       "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
       "tags": [],
@@ -85,10 +124,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
       "src": "TechCrunch AI",
-      "time": "14小时前",
+      "time": "19小时前",
       "published_ts": 1781395429,
-      "heat": "23.8K",
-      "views": "27.0K",
+      "heat": "20.5K",
+      "views": "23.8K",
       "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
       "tags": [],
       "body": "<p>Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -98,7 +137,7 @@
       "cat": "L3 · 推理工程",
       "title": "Publishing WASM wheels to PyPI for use with Pyodide",
       "src": "Simon Willison",
-      "time": "14小时前",
+      "time": "19小时前",
       "published_ts": 1781394918,
       "heat": "15.0K",
       "views": "15.0K",
@@ -111,7 +150,7 @@
       "cat": "L3 · 推理工程",
       "title": "luau-wasm 0.1a0",
       "src": "Simon Willison",
-      "time": "14小时前",
+      "time": "20小时前",
       "published_ts": 1781392470,
       "heat": "13.2K",
       "views": "15.0K",
@@ -124,10 +163,10 @@
       "cat": "L0 · 领袖观点",
       "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
       "src": "The Verge",
-      "time": "16小时前",
+      "time": "22小时前",
       "published_ts": 1781386766,
-      "heat": "18.2K",
-      "views": "21.1K",
+      "heat": "9.6K",
+      "views": "12.5K",
       "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
       "tags": [],
       "body": "<p>According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -137,10 +176,10 @@
       "cat": "L4 · 交互Agent",
       "title": "KPMG pulls report on AI usage due to apparent hallucinations",
       "src": "TechCrunch AI",
-      "time": "17小时前",
+      "time": "22小时前",
       "published_ts": 1781383351,
-      "heat": "20.5K",
-      "views": "23.8K",
+      "heat": "17.3K",
+      "views": "20.5K",
       "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
       "tags": [],
       "body": "<p>Once again, AI proves to be an unreliable source of information about AI.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -150,10 +189,10 @@
       "cat": "L0 · 领袖观点",
       "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
       "src": "TechCrunch AI",
-      "time": "18小时前",
+      "time": "1天前",
       "published_ts": 1781377901,
-      "heat": "17.3K",
-      "views": "20.5K",
+      "heat": "14.0K",
+      "views": "17.3K",
       "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
       "tags": [],
       "body": "<p>Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -163,7 +202,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Scientists Discover Vast Ancient ‘Necropolis’ Teeming With Strange New Creatures",
       "src": "404 Media",
-      "time": "18小时前",
+      "time": "1天前",
       "published_ts": 1781377827,
       "heat": "15.0K",
       "views": "15.0K",
@@ -176,10 +215,10 @@
       "cat": "L4 · 交互Agent",
       "title": "OpenAI faces investigation from state attorneys general",
       "src": "TechCrunch AI",
-      "time": "21小时前",
+      "time": "1天前",
       "published_ts": 1781369238,
-      "heat": "14.0K",
-      "views": "17.3K",
+      "heat": "10.8K",
+      "views": "14.0K",
       "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
       "tags": [],
       "body": "<p>It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -306,7 +345,7 @@
       "cat": "L5 · 生态商业",
       "title": "Quoting Andrew Singleton",
       "src": "Simon Willison",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1781287761,
       "heat": "6.0K",
       "views": "7.8K",
@@ -319,7 +358,7 @@
       "cat": "L5 · 生态商业",
       "title": "China Didn’t Make Americans Hate Data Centers",
       "src": "Wired",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1781284630,
       "heat": "8.6K",
       "views": "10.6K",
@@ -332,7 +371,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Behind the Blog: World Cup Madness and Film Reviews",
       "src": "404 Media",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1781276470,
       "heat": "11.4K",
       "views": "13.2K",
@@ -373,7 +412,7 @@
       "src": "Google AI Blog",
       "time": "2天前",
       "published_ts": 1781254800,
-      "heat": "34.5K",
+      "heat": "30.4K",
       "views": "34.5K",
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/combatting-ai-scams/",
       "tags": [],
@@ -410,7 +449,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Software Update Automatically Turns off Amazon Delivery Drivers’ AC During Dangerous Summer Heat",
       "src": "404 Media",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1781204351,
       "heat": "9.6K",
       "views": "11.4K",
@@ -423,7 +462,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Amazon Data Centers In Mississippi Have Already Raised Electricity Rates for Local Customers, Report Suggests",
       "src": "404 Media",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1781193137,
       "heat": "7.8K",
       "views": "9.6K",
@@ -436,10 +475,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
       "src": "Google AI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1781190000,
-      "heat": "26.2K",
-      "views": "30.4K",
+      "heat": "22.1K",
+      "views": "26.2K",
       "url": "https://blog.google/products/ads-commerce/new-real-estate-ads-formats/",
       "tags": [],
       "body": "<p>When buyers search for homes, they get critical property details — and they can contact an agent right from the ad.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -477,8 +516,8 @@
       "src": "Google AI Blog",
       "time": "3天前",
       "published_ts": 1781179200,
-      "heat": "22.1K",
-      "views": "26.2K",
+      "heat": "17.9K",
+      "views": "22.1K",
       "url": "https://blog.google/products/marketingplatform/360/walmart-connect/",
       "tags": [],
       "body": "<p>The new partnership will help brands reach high-intent shoppers through YouTube campaigns and measure their results.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -509,19 +548,6 @@
       "tags": [],
       "body": "<p>a quiet day lets us reflect on a great essay</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "af0bf166c": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "OpenAI to acquire Ona",
-      "src": "OpenAI Blog",
-      "time": "3天前",
-      "published_ts": 1781136000,
-      "heat": "34.2K",
-      "views": "39.6K",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "tags": [],
-      "body": "<p>OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a296b42f6": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
@@ -529,8 +555,8 @@
       "src": "OpenAI Blog",
       "time": "3天前",
       "published_ts": 1781136000,
-      "heat": "28.8K",
-      "views": "34.2K",
+      "heat": "34.2K",
+      "views": "39.6K",
       "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "tags": [],
       "body": "<p>OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -542,18 +568,31 @@
       "src": "OpenAI Blog",
       "time": "3天前",
       "published_ts": 1781136000,
-      "heat": "18.0K",
-      "views": "23.4K",
+      "heat": "23.4K",
+      "views": "28.8K",
       "url": "https://openai.com/index/bbva",
       "tags": [],
       "body": "<p>Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "af0bf166c": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "OpenAI to acquire Ona",
+      "src": "OpenAI Blog",
+      "time": "3天前",
+      "published_ts": 1781136000,
+      "heat": "18.0K",
+      "views": "23.4K",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "tags": [],
+      "body": "<p>OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a177b1251": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "For Robotaxis, Safety Must Be Built In, Not Bolted On",
       "src": "NVIDIA Blog",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1781118012,
       "heat": "28.5K",
       "views": "33.0K",
@@ -566,7 +605,7 @@
       "cat": "L1 · 算力硬件",
       "title": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI",
       "src": "NVIDIA Blog",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1781108120,
       "heat": "24.0K",
       "views": "28.5K",
@@ -607,7 +646,7 @@
       "src": "Interconnects",
       "time": "4天前",
       "published_ts": 1781045975,
-      "heat": "18.0K",
+      "heat": "15.8K",
       "views": "18.0K",
       "url": "https://www.interconnects.ai/p/claude-fable-5-and-new-ai-safety",
       "tags": [],
@@ -631,7 +670,7 @@
       "cat": "L1 · 算力硬件",
       "title": "What it feels like to work with Mythos",
       "src": "One Useful Thing",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1781025082,
       "heat": "15.0K",
       "views": "15.0K",
@@ -709,7 +748,7 @@
       "cat": "L4 · 交互Agent",
       "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
       "src": "Ars Technica",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1780943663,
       "heat": "11.5K",
       "views": "13.7K",
@@ -839,7 +878,7 @@
       "cat": "L2 · 基础模型",
       "title": "Lights Out, Systems On: Validating Instant Power Loss Readiness",
       "src": "Meta Engineering",
-      "time": "10天前",
+      "time": "11天前",
       "published_ts": 1780506044,
       "heat": "30.0K",
       "views": "30.0K",
@@ -852,10 +891,10 @@
       "cat": "L3 · 推理工程",
       "title": "Farewell Ai2",
       "src": "Interconnects",
-      "time": "11天前",
+      "time": "12天前",
       "published_ts": 1780409759,
-      "heat": "15.8K",
-      "views": "18.0K",
+      "heat": "13.7K",
+      "views": "15.8K",
       "url": "https://www.interconnects.ai/p/farewell-ai2",
       "tags": [],
       "body": "<p>This was my last week at the Allen Institute for AI (Ai2), where I got the great privilege to work on the Olmo models, to grow, to learn, and to have broad lasting impacts.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -904,7 +943,7 @@
       "cat": "L0 · 领袖观点",
       "title": "SilverTorch: Index as Model — A New Retrieval Paradigm for Recommendation Systems",
       "src": "Meta Engineering",
-      "time": "18天前",
+      "time": "19天前",
       "published_ts": 1779811201,
       "heat": "26.4K",
       "views": "30.0K",
@@ -917,10 +956,10 @@
       "cat": "L2 · 基础模型",
       "title": "Some ideas for what comes next, May 2026",
       "src": "Interconnects",
-      "time": "18天前",
+      "time": "19天前",
       "published_ts": 1779809942,
-      "heat": "11.5K",
-      "views": "13.7K",
+      "heat": "9.4K",
+      "views": "11.5K",
       "url": "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may",
       "tags": [],
       "body": "<p>Gemini Flash 3.5, Mythos, open-closed balance, America's open-source surge, emerging power struggles and more.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -930,10 +969,10 @@
       "cat": "L2 · 基础模型",
       "title": "Latest open artifacts (#21): Open model bonanza! Gemma 4, DeepSeek V4, Kimi K2.6, MiMo 2.5, GLM-5.1 & others. On CAISI's V4 assessment.",
       "src": "Interconnects",
-      "time": "28天前",
+      "time": "29天前",
       "published_ts": 1778950811,
-      "heat": "9.4K",
-      "views": "11.5K",
+      "heat": "7.2K",
+      "views": "9.4K",
       "url": "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
       "tags": [],
       "body": "<p>An eventful month with one flagship release after another</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -969,7 +1008,7 @@
       "cat": "L2 · 基础模型",
       "title": "Migrating Data Ingestion Systems at Meta Scale",
       "src": "Meta Engineering",
-      "time": "32天前",
+      "time": "33天前",
       "published_ts": 1778601657,
       "heat": "19.2K",
       "views": "22.8K",
@@ -977,25 +1016,12 @@
       "tags": [],
       "body": "<p>Meta’s data ingestion system, which our engineering teams leverage for up-to-date snapshots of the social graph, has recently undergone a significant revamp to enhance its reliability at scale. Moving from our legacy system to our new architecture required a large-scale migration of our entire data ingestion system. We’re sharing the solutions and strategies that enabled [...] Read More... The pos</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a4c70e437": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "How open model ecosystems compound",
-      "src": "Interconnects",
-      "time": "32天前",
-      "published_ts": 1778601287,
-      "heat": "7.2K",
-      "views": "9.4K",
-      "url": "https://www.interconnects.ai/p/how-open-model-ecosystems-compound",
-      "tags": [],
-      "body": "<p>Further reflections on China's high-participation, open-first AI ecosystem.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a41a1b31c": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
       "title": "Labyrinth 1.1: Making End-to-End Encrypted Backups Even More Reliable",
       "src": "Meta Engineering",
-      "time": "33天前",
+      "time": "34天前",
       "published_ts": 1778515255,
       "heat": "15.6K",
       "views": "19.2K",
@@ -1008,7 +1034,7 @@
       "cat": "L1 · 算力硬件",
       "title": "How Meta Is Strengthening End-to-End Encrypted Backups",
       "src": "Meta Engineering",
-      "time": "43天前",
+      "time": "44天前",
       "published_ts": 1777651258,
       "heat": "12.0K",
       "views": "15.6K",
@@ -1177,7 +1203,7 @@
       "cat": "L0 · 领袖观点",
       "title": "2025 LLM Year in Review",
       "src": "Andrej Karpathy",
-      "time": "176天前",
+      "time": "177天前",
       "published_ts": 1766167200,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1190,7 +1216,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Auto-grading decade-old Hacker News discussions with hindsight",
       "src": "Andrej Karpathy",
-      "time": "185天前",
+      "time": "186天前",
       "published_ts": 1765378800,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1203,7 +1229,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Verifiability",
       "src": "Andrej Karpathy",
-      "time": "208天前",
+      "time": "209天前",
       "published_ts": 1763398800,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1216,7 +1242,7 @@
       "cat": "L1 · 算力硬件",
       "title": "xAI’s Colossus 2 – First Gigawatt Datacenter In The World, Unique RL Methodology, Capital Raise",
       "src": "SemiAnalysis",
-      "time": "270天前",
+      "time": "271天前",
       "published_ts": 1758044281,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1359,7 +1385,7 @@
       "cat": "L2 · 基础模型",
       "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
       "src": "The Gradient",
-      "time": "574天前",
+      "time": "575天前",
       "published_ts": 1731775575,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1372,7 +1398,7 @@
       "cat": "L2 · 基础模型",
       "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
       "src": "The Gradient",
-      "time": "642天前",
+      "time": "643天前",
       "published_ts": 1725902928,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1385,7 +1411,7 @@
       "cat": "L0 · 领袖观点",
       "title": "We Need Positive Visions for AI Grounded in Wellbeing",
       "src": "The Gradient",
-      "time": "679天前",
+      "time": "680天前",
       "published_ts": 1722704443,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1424,7 +1450,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Financial Market Applications of LLMs",
       "src": "The Gradient",
-      "time": "784天前",
+      "time": "785天前",
       "published_ts": 1713635859,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1500,10 +1526,10 @@
   },
   "by_layer": {
     "l1": [
+      "ad6ab8a40",
+      "a6d5f8ea9",
       "acab9f92a",
-      "a158fc2ab",
-      "a7ad78ce9",
-      "a483468b7",
+      "a0d4c8563",
       "acb0f5f2a",
       "a1c4e7623",
       "a217a71b2",
@@ -1532,38 +1558,8 @@
       "a2ae2603b",
       "afeb62ce7"
     ],
-    "l4": [
-      "acdf68048",
-      "aa6b3f3bd",
-      "ad7dfa7e6",
-      "aecef512e",
-      "a94a11c07",
-      "aa016a5cb",
-      "a391c74df",
-      "a2c7dd800",
-      "a3338cd2e",
-      "afc5a673d",
-      "af0bf166c",
-      "a57225e7f",
-      "a07d139e1",
-      "a19fbe91f",
-      "a99f8ff23",
-      "ab59fe080",
-      "a61a8adff",
-      "ad01feb8a"
-    ],
-    "l3": [
-      "a16cfface",
-      "a8923330c",
-      "ae4a6ba89",
-      "a32296677",
-      "ac8aab00b",
-      "ac1ee6323",
-      "a774f3120",
-      "a23fdeba7",
-      "a28f84720"
-    ],
     "l0": [
+      "a85f38e1c",
       "a3c836d0e",
       "a88c0c236",
       "a9dfb3f5d",
@@ -1575,7 +1571,6 @@
       "af16d0614",
       "a42855367",
       "a4b46426c",
-      "a4c70e437",
       "a0a86adb8",
       "a6eadb995",
       "a2f2fbafa",
@@ -1590,18 +1585,8 @@
       "a9173515c",
       "abcb7b0c4"
     ],
-    "l5": [
-      "a53c5bd91",
-      "ae35f0d41",
-      "aba8909c8",
-      "a66c84b76",
-      "a19595c3a",
-      "acc0f759e",
-      "a7156f96f",
-      "af81f7dc7",
-      "a69bf1370"
-    ],
     "l2": [
+      "a30ade1db",
       "a752f18db",
       "a3d51c038",
       "a296b42f6",
@@ -1625,14 +1610,57 @@
       "ab3119897",
       "af0f189d1",
       "a38ad1236"
+    ],
+    "l5": [
+      "acfa8ff86",
+      "a53c5bd91",
+      "ae35f0d41",
+      "aba8909c8",
+      "a66c84b76",
+      "a19595c3a",
+      "acc0f759e",
+      "a7156f96f",
+      "af81f7dc7",
+      "a69bf1370"
+    ],
+    "l4": [
+      "acdf68048",
+      "aa6b3f3bd",
+      "ad7dfa7e6",
+      "aecef512e",
+      "a94a11c07",
+      "aa016a5cb",
+      "a391c74df",
+      "a2c7dd800",
+      "a3338cd2e",
+      "afc5a673d",
+      "a57225e7f",
+      "af0bf166c",
+      "a07d139e1",
+      "a19fbe91f",
+      "a99f8ff23",
+      "ab59fe080",
+      "a61a8adff",
+      "ad01feb8a"
+    ],
+    "l3": [
+      "a16cfface",
+      "a8923330c",
+      "ae4a6ba89",
+      "a32296677",
+      "ac8aab00b",
+      "ac1ee6323",
+      "a774f3120",
+      "a23fdeba7",
+      "a28f84720"
     ]
   },
   "top5": [
-    "acab9f92a",
-    "a158fc2ab",
-    "acdf68048",
-    "a7ad78ce9",
-    "a483468b7"
+    "ad6ab8a40",
+    "a85f38e1c",
+    "a30ade1db",
+    "acfa8ff86",
+    "a6d5f8ea9"
   ],
   "layers": [
     {
@@ -1640,8 +1668,8 @@
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
+        24,
         25,
-        22,
         13,
         8,
         26,
@@ -1658,37 +1686,15 @@
       ]
     },
     {
-      "id": "l0",
-      "num": "LAYER 0",
-      "name": "领袖观点",
-      "vals": [
-        17,
-        24,
-        10,
-        7,
-        30,
-        20
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
-    {
       "id": "l2",
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        21,
-        11,
-        17,
+        18,
+        24,
+        8,
         6,
-        21,
+        29,
         20
       ],
       "trend": [
@@ -1702,25 +1708,25 @@
       ]
     },
     {
-      "id": "l4",
-      "num": "LAYER 4",
-      "name": "交互Agent",
+      "id": "l0",
+      "num": "LAYER 0",
+      "name": "领袖观点",
       "vals": [
-        15,
+        14,
+        14,
         10,
         7,
-        21,
-        25,
-        17
+        34,
+        20
       ],
       "trend": [
         20,
-        20,
-        20,
-        20,
-        20,
-        20,
-        20
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
       ]
     },
     {
@@ -1729,10 +1735,10 @@
       "name": "推理工程",
       "vals": [
         10,
-        10,
         12,
+        15,
         5,
-        12,
+        10,
         13
       ],
       "trend": [
@@ -1751,24 +1757,71 @@
       "name": "生态商业",
       "vals": [
         10,
-        10,
+        19,
         5,
         5,
         10,
-        14
+        15
       ],
       "trend": [
         20,
+        19,
         18,
+        17,
         16,
-        14,
-        12,
+        15,
+        14
+      ]
+    },
+    {
+      "id": "l4",
+      "num": "LAYER 4",
+      "name": "交互Agent",
+      "vals": [
         10,
-        8
+        15,
+        7,
+        5,
+        11,
+        17
+      ],
+      "trend": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
       ]
     }
   ],
   "ticker": [
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l1)",
+      "text": "China may have accessed Mythos"
+    },
+    {
+      "tag": "INTERCONN",
+      "col": "var(--l0)",
+      "text": "Welcome to the AGI era of AI governance"
+    },
+    {
+      "tag": "GOOGLE AI",
+      "col": "var(--l2)",
+      "text": "Read Sundar Pichai’s 2026 Commencement Address at Stanford Univer…"
+    },
+    {
+      "tag": "TECHCRUNC",
+      "col": "var(--l5)",
+      "text": "As AI companies race to go public, who else is along for the ride…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Intel's upcoming 'Raptor Lake Next' will reportedly top out at 20…"
+    },
     {
       "tag": "TOM'S HAR",
       "col": "var(--l1)",
@@ -1777,22 +1830,12 @@
     {
       "tag": "TOM'S HAR",
       "col": "var(--l1)",
-      "text": "Apple made marketing gold from the Power Mac G4 'supercomputer' e…"
+      "text": "Apple made marketing gold from the export ban on Power Mac G4 'su…"
     },
     {
       "tag": "THE VERGE",
       "col": "var(--l4)",
       "text": "The impossible dream of the universal remote"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Grab this MSI Codex Z2 16-thread gaming Ryzen PC with a 2TB SSD a…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "New 3D printer tech uses elliptical laser beams to stir molten me…"
     },
     {
       "tag": "TECHCRUNC",
@@ -1823,31 +1866,52 @@
       "tag": "TECHCRUNC",
       "col": "var(--l4)",
       "text": "KPMG pulls report on AI usage due to apparent hallucinations"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l0)",
-      "text": "Amazon CEO reportedly raised Anthropic model concerns before gove…"
-    },
-    {
-      "tag": "404 MEDIA",
-      "col": "var(--l4)",
-      "text": "Scientists Discover Vast Ancient ‘Necropolis’ Teeming With Strang…"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "OpenAI faces investigation from state attorneys general"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Making Claude a Chemist",
-      "url": "https://www.anthropic.com/research/making-claude-a-chemist",
-      "votes": "62",
-      "comments": "57",
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "votes": "180",
+      "comments": "103",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "No, everyone is not using AI for everything",
+      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+      "votes": "321",
+      "comments": "333",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
+      "url": "https://news.ycombinator.com/item?id=48528029",
+      "votes": "142",
+      "comments": "31",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks",
+      "url": "https://twitter.com/zenmagnets/status/2065796012820848699",
+      "votes": "120",
+      "comments": "31",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "votes": "97",
+      "comments": "16",
       "time": "近期"
     },
     {
@@ -1855,44 +1919,8 @@
       "badge": "pb-hn",
       "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
       "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
-      "votes": "739",
-      "comments": "548",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
-      "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
-      "votes": "267",
-      "comments": "93",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "The adder at the heart of Intel's 8087 floating-point chip",
-      "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
-      "votes": "123",
-      "comments": "28",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-      "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
-      "votes": "347",
-      "comments": "176",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "url": "https://github.com/tensorzero/tensorzero",
-      "votes": "269",
-      "comments": "166",
+      "votes": "767",
+      "comments": "572",
       "time": "近期"
     }
   ]
