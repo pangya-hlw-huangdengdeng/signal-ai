@@ -1,16 +1,94 @@
 {
-  "updated_at": "2026-06-13T19:40:49.792811+00:00",
+  "updated_at": "2026-06-14T04:22:08.230679+00:00",
   "article_count": 118,
   "articles": {
+    "aa6b3f3bd": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "As Anthropic suspends access to new models, India debates its AI future",
+      "src": "TechCrunch AI",
+      "time": "1小时前",
+      "published_ts": 1781406000,
+      "heat": "27.0K",
+      "views": "27.0K",
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "tags": [],
+      "body": "<p>Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ad7dfa7e6": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+      "src": "TechCrunch AI",
+      "time": "4小时前",
+      "published_ts": 1781395429,
+      "heat": "23.8K",
+      "views": "27.0K",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "tags": [],
+      "body": "<p>Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a16cfface": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "Publishing WASM wheels to PyPI for use with Pyodide",
+      "src": "Simon Willison",
+      "time": "4小时前",
+      "published_ts": 1781394918,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything",
+      "tags": [],
+      "body": "<p>The Pyodide 314.0 release announcement (via Hacker News ) includes news I've been looking forward to for a long time: You can now publish Python packages built for Pyodide (or any Python runtime compatible with the PyEmscripten platform defined in PEP 783 ) directly to PyPI and install them at runtime. Previously, the Pyodide maintainers had to maintain, build, and host over 300 packages ourselves</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a8923330c": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "luau-wasm 0.1a0",
+      "src": "Simon Willison",
+      "time": "5小时前",
+      "published_ts": 1781392470,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything",
+      "tags": [],
+      "body": "<p>Release: luau-wasm 0.1a0 See Publishing WASM wheels to PyPI for use with Pyodide for details. Tags: lua , webassembly , pyodide</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a3c836d0e": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+      "src": "The Verge",
+      "time": "6小时前",
+      "published_ts": 1781386766,
+      "heat": "24.0K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+      "tags": [],
+      "body": "<p>According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aecef512e": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "src": "TechCrunch AI",
+      "time": "7小时前",
+      "published_ts": 1781383351,
+      "heat": "20.5K",
+      "views": "23.8K",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "tags": [],
+      "body": "<p>Once again, AI proves to be an unreliable source of information about AI.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a88c0c236": {
       "layer": "l0",
       "cat": "L0 · 领袖观点",
       "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
       "src": "TechCrunch AI",
-      "time": "29分钟前",
+      "time": "9小时前",
       "published_ts": 1781377901,
-      "heat": "27.0K",
-      "views": "27.0K",
+      "heat": "17.3K",
+      "views": "20.5K",
       "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
       "tags": [],
       "body": "<p>Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -20,7 +98,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Scientists Discover Vast Ancient ‘Necropolis’ Teeming With Strange New Creatures",
       "src": "404 Media",
-      "time": "30分钟前",
+      "time": "9小时前",
       "published_ts": 1781377827,
       "heat": "15.0K",
       "views": "15.0K",
@@ -33,10 +111,10 @@
       "cat": "L4 · 交互Agent",
       "title": "OpenAI faces investigation from state attorneys general",
       "src": "TechCrunch AI",
-      "time": "2小时前",
+      "time": "11小时前",
       "published_ts": 1781369238,
-      "heat": "23.8K",
-      "views": "27.0K",
+      "heat": "14.0K",
+      "views": "17.3K",
       "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
       "tags": [],
       "body": "<p>It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -46,10 +124,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Bose’s latest QuietComfort Ultra are $70 off, marking a new low price",
       "src": "The Verge",
-      "time": "3小时前",
+      "time": "12小时前",
       "published_ts": 1781366400,
-      "heat": "18.2K",
-      "views": "21.1K",
+      "heat": "12.5K",
+      "views": "15.4K",
       "url": "https://www.theverge.com/gadgets/949190/bose-quietcomfort-ultra-headphones-deal-sale",
       "tags": [],
       "body": "<p>If you’re planning on traveling anytime soon, Bose&#8217;s second-generation QuietComfort Ultra headphones are a great companion for long flights and train rides. Not only do they offer excellent noise cancellation, but they also retain the foldable design of their predecessor, making them easy to pack in a carry-on. They’re even easier to recommend today, now [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -59,10 +137,10 @@
       "cat": "L1 · 算力硬件",
       "title": "My first 24 hours with Siri AI on the Mac",
       "src": "The Verge",
-      "time": "4小时前",
+      "time": "13小时前",
       "published_ts": 1781362800,
-      "heat": "15.4K",
-      "views": "18.2K",
+      "heat": "9.6K",
+      "views": "12.5K",
       "url": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence",
       "tags": [],
       "body": "<p>I turned off Siri on the Mac years ago and never looked back. Similarly, I found Apple Intelligence so fruitless I never engage with it. But the new Siri AI coming to macOS 27 Golden Gate has at least got me slightly rethinking things. I'm still early in testing Siri AI, as I've only had [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -72,7 +150,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Save $500 on this beastly gaming rig with an RTX 5060 Ti 16GB, Ryzen 7800X3D, and 32GB of RAM — Skytech's desktop gaming PC now just $1,499",
       "src": "Tom's Hardware",
-      "time": "5小时前",
+      "time": "13小时前",
       "published_ts": 1781360977,
       "heat": "15.0K",
       "views": "15.0K",
@@ -80,12 +158,12 @@
       "tags": [],
       "body": "<p>Looking for a solid gaming PC but tired of seeing exorbitant prices on every retailer's website? We've got you covered with this prebuilt, equipped with high-quality components ready for 1440p gaming and more, with a clear upgrade path once prices settle down.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a88a0fd81": {
+    "af5ca87d8": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
-      "title": "More than 75 data center build-outs worth $130 billion have been successfully blocked in the first four months of 2026 — bipartisan opposition mounts nationwide over fears of soaring power and water costs",
+      "title": "More than 75 data center build-outs worth $130 billion have been successfully blocked in the first three months of 2026 — bipartisan opposition mounts nationwide over fears of soaring power and water costs",
       "src": "Tom's Hardware",
-      "time": "5小时前",
+      "time": "14小时前",
       "published_ts": 1781360002,
       "heat": "13.2K",
       "views": "15.0K",
@@ -98,7 +176,7 @@
       "cat": "L1 · 算力硬件",
       "title": "AMD challenges Nvidia's DGX Spark with $3,999 Ryzen AI Halo with Windows 11 support — Strix Halo desktop undercuts Nvidia by $700, packs 128GB of unified memory",
       "src": "Tom's Hardware",
-      "time": "5小时前",
+      "time": "14小时前",
       "published_ts": 1781359954,
       "heat": "11.4K",
       "views": "13.2K",
@@ -111,7 +189,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Netgear countersues TP-Link, saying firm 'remains, at its core, a Chinese company selling Chinese-made products' — alleges its 'American company' rebrand is false advertising",
       "src": "Tom's Hardware",
-      "time": "5小时前",
+      "time": "14小时前",
       "published_ts": 1781358449,
       "heat": "9.6K",
       "views": "11.4K",
@@ -124,7 +202,7 @@
       "cat": "L5 · 生态商业",
       "title": "Visual Language Models Train Robots to Read Human Emotions",
       "src": "IEEE Spectrum",
-      "time": "6小时前",
+      "time": "15小时前",
       "published_ts": 1781355601,
       "heat": "15.0K",
       "views": "15.0K",
@@ -132,25 +210,12 @@
       "tags": [],
       "body": "<p>This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore. As robots advance in terms of dexterity and other physical capabilities , it becomes more likely that humans may find themselves working alongside them. If that happens, how will robots’ emotional capabilities need to advance for them to successfully work with people? In a recent study, researchers tra</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a330dbdda": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "My yard is dying, so I made an app for that",
-      "src": "The Verge",
-      "time": "6小时前",
-      "published_ts": 1781355600,
-      "heat": "9.6K",
-      "views": "12.5K",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
-      "tags": [],
-      "body": "<p>When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "afc7ced7f": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "Nvidia raises RTX Pro 6000 Blackwell GPU pricing to $13,250 — 55% increase over MSRP in a year's time",
       "src": "Tom's Hardware",
-      "time": "7小时前",
+      "time": "15小时前",
       "published_ts": 1781353800,
       "heat": "7.8K",
       "views": "9.6K",
@@ -163,7 +228,7 @@
       "cat": "L5 · 生态商业",
       "title": "AI costs spike as subscriptions hit pricing wall — firms turn towards Chinese LLMs, open-source models to extend budget",
       "src": "Tom's Hardware",
-      "time": "7小时前",
+      "time": "16小时前",
       "published_ts": 1781352000,
       "heat": "6.0K",
       "views": "7.8K",
@@ -176,7 +241,7 @@
       "cat": "L5 · 生态商业",
       "title": "A Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
       "src": "Wired",
-      "time": "10小时前",
+      "time": "19小时前",
       "published_ts": 1781341200,
       "heat": "16.5K",
       "views": "16.5K",
@@ -189,7 +254,7 @@
       "cat": "L1 · 算力硬件",
       "title": "[AINews] Fable and Mythos officially too dangerous to release",
       "src": "Latent Space",
-      "time": "15小时前",
+      "time": "23小时前",
       "published_ts": 1781325052,
       "heat": "19.5K",
       "views": "19.5K",
@@ -197,25 +262,12 @@
       "tags": [],
       "body": "<p>We are in the strangest timeline.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a608c2edc": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-      "src": "TechCrunch AI",
-      "time": "17小时前",
-      "published_ts": 1781317590,
-      "heat": "17.3K",
-      "views": "20.5K",
-      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-      "tags": [],
-      "body": "<p>Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a1c4e7623": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
       "src": "Wired",
-      "time": "17小时前",
+      "time": "1天前",
       "published_ts": 1781317570,
       "heat": "14.5K",
       "views": "16.5K",
@@ -228,10 +280,10 @@
       "cat": "L1 · 算力硬件",
       "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
       "src": "Simon Willison",
-      "time": "18小时前",
+      "time": "1天前",
       "published_ts": 1781312510,
-      "heat": "15.0K",
-      "views": "15.0K",
+      "heat": "9.6K",
+      "views": "11.4K",
       "url": "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything",
       "tags": [],
       "body": "<p>Statement on the US government directive to suspend access to Fable 5 and Mythos 5 Well this is nuts : The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees. The net effect of this order is that </p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -241,10 +293,10 @@
       "cat": "L3 · 推理工程",
       "title": "OpenAI WebRTC Audio Session, now with document context",
       "src": "Simon Willison",
-      "time": "19小时前",
+      "time": "1天前",
       "published_ts": 1781308384,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "7.8K",
+      "views": "9.6K",
       "url": "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything",
       "tags": [],
       "body": "<p>OpenAI WebRTC Audio Session, now with document context I built the first version of this tool in December 2024 to try out the then-new OpenAI WebRTC API for interacting with their realtime audio models. Last month OpenAI introduced a brand new model to that API called GPT‑Realtime‑2 , which they promoted as \"our first voice model with GPT‑5‑class reasoning\" - with a Sep 30, 2024 knowledge cut-off.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -254,7 +306,7 @@
       "cat": "L5 · 生态商业",
       "title": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
       "src": "Wired",
-      "time": "19小时前",
+      "time": "1天前",
       "published_ts": 1781307926,
       "heat": "12.5K",
       "views": "14.5K",
@@ -262,38 +314,12 @@
       "tags": [],
       "body": "<p>“I’m not sure that this company supports a hackathon culture anymore,” one employee posted in a forum open to the entire staff.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a36c83352": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "SpaceX IPO: Live updates on everything you need to know",
-      "src": "TechCrunch AI",
-      "time": "20小时前",
-      "published_ts": 1781306114,
-      "heat": "14.0K",
-      "views": "17.3K",
-      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
-      "tags": [],
-      "body": "<p>TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a0a730f6c": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
-      "src": "TechCrunch AI",
-      "time": "20小时前",
-      "published_ts": 1781305254,
-      "heat": "10.8K",
-      "views": "14.0K",
-      "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-      "tags": [],
-      "body": "<p>A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a66c84b76": {
       "layer": "l5",
       "cat": "L5 · 生态商业",
       "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
       "src": "Wired",
-      "time": "22小时前",
+      "time": "1天前",
       "published_ts": 1781298985,
       "heat": "10.6K",
       "views": "12.5K",
@@ -306,7 +332,7 @@
       "cat": "L1 · 算力硬件",
       "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
       "src": "NVIDIA Blog",
-      "time": "22小时前",
+      "time": "1天前",
       "published_ts": 1781298008,
       "heat": "37.5K",
       "views": "37.5K",
@@ -321,8 +347,8 @@
       "src": "Simon Willison",
       "time": "1天前",
       "published_ts": 1781287761,
-      "heat": "11.4K",
-      "views": "13.2K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything",
       "tags": [],
       "body": "<p>Jenny owns a crematorium. John’s propane company gives her a $20 billion investment in return for 5 percent of her operation. Jenny throws $10 billion into the incinerator, then pays John $10 billion to buy propane to burn that money to ashes. John reports that his AI investments have generated $10 billion in revenue this quarter and that he owns 5 percent of a $100 billion business. A reporter fr</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -410,26 +436,13 @@
       "cat": "L2 · 基础模型",
       "title": "How Preply combines AI and human tutors to personalize learning",
       "src": "OpenAI Blog",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1781222400,
       "heat": "39.6K",
       "views": "45.0K",
       "url": "https://openai.com/index/preply",
       "tags": [],
       "body": "<p>Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a40f5f8cf": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Claude Fable is relentlessly proactive",
-      "src": "Simon Willison",
-      "time": "1天前",
-      "published_ts": 1781220917,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
-      "tags": [],
-      "body": "<p>After two days of experience with Claude Fable 5 I think the best way to describe it is relentlessly proactive . It knows a whole lot of tricks and it will deploy pretty much any of them to get to its goal. I'll illustrate this with an example. I was hacking on Datasette Agent today when I noticed a glitch: a horizontal scrollbar that shouldn't be there in the jump menu chat prompt. I snapped this</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a2c7dd800": {
       "layer": "l4",
@@ -522,25 +535,12 @@
       "tags": [],
       "body": "<p>Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other&#8230;</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "ad391dd79": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "asyncinject 0.7",
-      "src": "Simon Willison",
-      "time": "2天前",
-      "published_ts": 1781159289,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything",
-      "tags": [],
-      "body": "<p>Release: asyncinject 0.7 I built this utility library to support an asyncio dependency injection pattern a few years ago. I was using it with Datasette and Claude Fable 5 spotted some bugs in the dependency which it then fixed for me. It's a very proactive model! Tags: async , projects , python , claude-mythos</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a2daffe22": {
       "layer": "l0",
       "cat": "L0 · 领袖观点",
       "title": "[AINews] Open Models, Model Labs vs Agent Labs, and What's Untrainable — Sarah Guo",
       "src": "Latent Space",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1781147666,
       "heat": "14.8K",
       "views": "17.2K",
@@ -553,7 +553,7 @@
       "cat": "L2 · 基础模型",
       "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
       "src": "OpenAI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1781136000,
       "heat": "34.2K",
       "views": "39.6K",
@@ -566,7 +566,7 @@
       "cat": "L4 · 交互Agent",
       "title": "BBVA puts AI at the core of banking with OpenAI",
       "src": "OpenAI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1781136000,
       "heat": "28.8K",
       "views": "34.2K",
@@ -579,7 +579,7 @@
       "cat": "L4 · 交互Agent",
       "title": "OpenAI to acquire Ona",
       "src": "OpenAI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1781136000,
       "heat": "23.4K",
       "views": "28.8K",
@@ -631,7 +631,7 @@
       "cat": "L1 · 算力硬件",
       "title": "[AINews] Anthropic Claude Fable 5 — Mythos but Safe, with Controversial Terms",
       "src": "Latent Space",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1781063421,
       "heat": "12.5K",
       "views": "14.8K",
@@ -644,7 +644,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Claude Fable 5 and new AI safety fables",
       "src": "Interconnects",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1781045975,
       "heat": "18.0K",
       "views": "18.0K",
@@ -657,7 +657,7 @@
       "cat": "L1 · 算力硬件",
       "title": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
       "src": "NVIDIA Blog",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1781044467,
       "heat": "19.5K",
       "views": "24.0K",
@@ -826,7 +826,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Co-Existence and the End of Co-Intelligence",
       "src": "One Useful Thing",
-      "time": "8天前",
+      "time": "9天前",
       "published_ts": 1780607622,
       "heat": "13.2K",
       "views": "15.0K",
@@ -839,7 +839,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Dashlane explains how attackers managed to download encrypted password vaults",
       "src": "Ars Technica",
-      "time": "8天前",
+      "time": "9天前",
       "published_ts": 1780603324,
       "heat": "7.2K",
       "views": "9.4K",
@@ -865,7 +865,7 @@
       "cat": "L0 · 领袖观点",
       "title": "The Classical Advances Needed to Make Quantum Computers Tick",
       "src": "IEEE Spectrum",
-      "time": "9天前",
+      "time": "10天前",
       "published_ts": 1780517160,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1060,7 +1060,7 @@
       "cat": "L2 · 基础模型",
       "title": "Sign of the future: GPT-5.5",
       "src": "One Useful Thing",
-      "time": "50天前",
+      "time": "51天前",
       "published_ts": 1776974438,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1099,7 +1099,7 @@
       "cat": "L2 · 基础模型",
       "title": "Claude Dispatch and the Power of Interfaces",
       "src": "One Useful Thing",
-      "time": "73天前",
+      "time": "74天前",
       "published_ts": 1774996477,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1138,7 +1138,7 @@
       "cat": "L0 · 领袖观点",
       "title": "After Orthogonality: Virtue-Ethical Agency and AI Alignment",
       "src": "The Gradient",
-      "time": "114天前",
+      "time": "115天前",
       "published_ts": 1771457152,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1268,7 +1268,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack",
       "src": "SemiAnalysis",
-      "time": "275天前",
+      "time": "276天前",
       "published_ts": 1757534238,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1294,7 +1294,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Amazon’s AI Resurgence: AWS & Anthropic’s Multi-Gigawatt Trainium Expansion",
       "src": "SemiAnalysis",
-      "time": "282天前",
+      "time": "283天前",
       "published_ts": 1756932946,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1320,7 +1320,7 @@
       "cat": "L2 · 基础模型",
       "title": "GPT-5 Set the Stage for Ad Monetization and the SuperApp",
       "src": "SemiAnalysis",
-      "time": "304天前",
+      "time": "305天前",
       "published_ts": 1755044834,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1346,7 +1346,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Why We Think",
       "src": "Lilian Weng",
-      "time": "408天前",
+      "time": "409天前",
       "published_ts": 1746057600,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1359,7 +1359,7 @@
       "cat": "L2 · 基础模型",
       "title": "Common pitfalls when building generative AI applications",
       "src": "Chip Huyen",
-      "time": "513天前",
+      "time": "514天前",
       "published_ts": 1736985600,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1372,7 +1372,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Agents",
       "src": "Chip Huyen",
-      "time": "522天前",
+      "time": "523天前",
       "published_ts": 1736208000,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1385,7 +1385,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Reward Hacking in Reinforcement Learning",
       "src": "Lilian Weng",
-      "time": "562天前",
+      "time": "563天前",
       "published_ts": 1732752000,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1437,7 +1437,7 @@
       "cat": "L3 · 推理工程",
       "title": "Building A Generative AI Platform",
       "src": "Chip Huyen",
-      "time": "688天前",
+      "time": "689天前",
       "published_ts": 1721865600,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1450,7 +1450,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Extrinsic Hallucinations in LLMs",
       "src": "Lilian Weng",
-      "time": "706天前",
+      "time": "707天前",
       "published_ts": 1720310400,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1476,7 +1476,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Diffusion Models for Video Generation",
       "src": "Lilian Weng",
-      "time": "792天前",
+      "time": "793天前",
       "published_ts": 1712880000,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1489,7 +1489,7 @@
       "cat": "L0 · 领袖观点",
       "title": "What I learned from looking at 900 most popular open source AI tools",
       "src": "Chip Huyen",
-      "time": "821天前",
+      "time": "822天前",
       "published_ts": 1710374400,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1502,7 +1502,7 @@
       "cat": "L2 · 基础模型",
       "title": "Predictive Human Preference: From Model Ranking to Model Routing",
       "src": "Chip Huyen",
-      "time": "836天前",
+      "time": "837天前",
       "published_ts": 1709078400,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1515,7 +1515,7 @@
       "cat": "L2 · 基础模型",
       "title": "Thinking about High-Quality Human Data",
       "src": "Lilian Weng",
-      "time": "859天前",
+      "time": "860天前",
       "published_ts": 1707091200,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1528,7 +1528,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Adversarial Attacks on LLMs",
       "src": "Lilian Weng",
-      "time": "962天前",
+      "time": "963天前",
       "published_ts": 1698192000,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1538,7 +1538,39 @@
     }
   },
   "by_layer": {
+    "l4": [
+      "aa6b3f3bd",
+      "ad7dfa7e6",
+      "aecef512e",
+      "a94a11c07",
+      "aa016a5cb",
+      "a3835a226",
+      "a391c74df",
+      "a2c7dd800",
+      "a3338cd2e",
+      "afc5a673d",
+      "a57225e7f",
+      "af0bf166c",
+      "a07d139e1",
+      "a19fbe91f",
+      "a99f8ff23",
+      "ab59fe080",
+      "a61a8adff",
+      "ad01feb8a"
+    ],
+    "l3": [
+      "a16cfface",
+      "a8923330c",
+      "ae4a6ba89",
+      "a32296677",
+      "ac8aab00b",
+      "ac1ee6323",
+      "a774f3120",
+      "a23fdeba7",
+      "a28f84720"
+    ],
     "l0": [
+      "a3c836d0e",
       "a88c0c236",
       "a9dfb3f5d",
       "a6904cde9",
@@ -1564,29 +1596,10 @@
       "a9173515c",
       "abcb7b0c4"
     ],
-    "l4": [
-      "a94a11c07",
-      "aa016a5cb",
-      "a3835a226",
-      "a608c2edc",
-      "a0a730f6c",
-      "a391c74df",
-      "a2c7dd800",
-      "a3338cd2e",
-      "afc5a673d",
-      "a57225e7f",
-      "af0bf166c",
-      "a07d139e1",
-      "a19fbe91f",
-      "a99f8ff23",
-      "ab59fe080",
-      "a61a8adff",
-      "ad01feb8a"
-    ],
     "l1": [
       "ababecf0e",
       "a09e3d36c",
-      "a88a0fd81",
+      "af5ca87d8",
       "ab365a0d2",
       "a516f9e6d",
       "afc7ced7f",
@@ -1594,11 +1607,9 @@
       "a1c4e7623",
       "a217a71b2",
       "aba8d1a5a",
-      "a40f5f8cf",
       "acbd55050",
       "ad5aa6262",
       "ac828bc81",
-      "ad391dd79",
       "a177b1251",
       "a38a5b85b",
       "ad8c82e1c",
@@ -1625,7 +1636,6 @@
       "a3fa36a87",
       "ae35f0d41",
       "aba8909c8",
-      "a36c83352",
       "a66c84b76",
       "a19595c3a",
       "acc0f759e",
@@ -1634,7 +1644,6 @@
       "a69bf1370"
     ],
     "l2": [
-      "a330dbdda",
       "a752f18db",
       "a3d51c038",
       "a296b42f6",
@@ -1658,23 +1667,14 @@
       "ab3119897",
       "af0f189d1",
       "a38ad1236"
-    ],
-    "l3": [
-      "ae4a6ba89",
-      "a32296677",
-      "ac8aab00b",
-      "ac1ee6323",
-      "a774f3120",
-      "a23fdeba7",
-      "a28f84720"
     ]
   },
   "top5": [
-    "a88c0c236",
-    "a94a11c07",
-    "aa016a5cb",
-    "a3835a226",
-    "ababecf0e"
+    "aa6b3f3bd",
+    "ad7dfa7e6",
+    "a16cfface",
+    "a8923330c",
+    "a3c836d0e"
   ],
   "layers": [
     {
@@ -1682,12 +1682,12 @@
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        19,
-        34,
-        14,
+        35,
+        27,
+        13,
         9,
-        29,
-        24
+        40,
+        23
       ],
       "trend": [
         20,
@@ -1700,60 +1700,38 @@
       ]
     },
     {
+      "id": "l0",
+      "num": "LAYER 0",
+      "name": "领袖观点",
+      "vals": [
+        25,
+        33,
+        10,
+        7,
+        25,
+        20
+      ],
+      "trend": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
       "id": "l2",
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
         27,
-        30,
+        11,
+        5,
         6,
-        6,
-        32,
-        20
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
-    {
-      "id": "l0",
-      "num": "LAYER 0",
-      "name": "领袖观点",
-      "vals": [
-        22,
-        32,
-        10,
-        6,
-        31,
-        20
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
-    {
-      "id": "l4",
-      "num": "LAYER 4",
-      "name": "交互Agent",
-      "vals": [
-        12,
-        10,
-        7,
-        7,
-        28,
-        17
+        16,
+        19
       ],
       "trend": [
         20,
@@ -1771,11 +1749,11 @@
       "name": "推理工程",
       "vals": [
         10,
-        11,
-        7,
-        5,
         16,
-        12
+        15,
+        13,
+        10,
+        13
       ],
       "trend": [
         20,
@@ -1788,16 +1766,38 @@
       ]
     },
     {
+      "id": "l4",
+      "num": "LAYER 4",
+      "name": "交互Agent",
+      "vals": [
+        10,
+        10,
+        7,
+        17,
+        25,
+        17
+      ],
+      "trend": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ]
+    },
+    {
       "id": "l5",
       "num": "LAYER 5",
       "name": "生态商业",
       "vals": [
         10,
-        10,
+        14,
         5,
         5,
         18,
-        10
+        16
       ],
       "trend": [
         20,
@@ -1811,6 +1811,36 @@
     }
   ],
   "ticker": [
+    {
+      "tag": "TECHCRUNC",
+      "col": "var(--l4)",
+      "text": "As Anthropic suspends access to new models, India debates its AI …"
+    },
+    {
+      "tag": "TECHCRUNC",
+      "col": "var(--l4)",
+      "text": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s de…"
+    },
+    {
+      "tag": "SIMON WIL",
+      "col": "var(--l3)",
+      "text": "Publishing WASM wheels to PyPI for use with Pyodide"
+    },
+    {
+      "tag": "SIMON WIL",
+      "col": "var(--l3)",
+      "text": "luau-wasm 0.1a0"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l0)",
+      "text": "Amazon security research reportedly led to the White House’s Anth…"
+    },
+    {
+      "tag": "TECHCRUNC",
+      "col": "var(--l4)",
+      "text": "KPMG pulls report on AI usage due to apparent hallucinations"
+    },
     {
       "tag": "TECHCRUNC",
       "col": "var(--l0)",
@@ -1850,46 +1880,34 @@
       "tag": "TOM'S HAR",
       "col": "var(--l1)",
       "text": "AMD challenges Nvidia's DGX Spark with $3,999 Ryzen AI Halo with …"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Netgear countersues TP-Link, saying firm 'remains, at its core, a…"
-    },
-    {
-      "tag": "IEEE SPEC",
-      "col": "var(--l5)",
-      "text": "Visual Language Models Train Robots to Read Human Emotions"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l2)",
-      "text": "My yard is dying, so I made an app for that"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Nvidia raises RTX Pro 6000 Blackwell GPU pricing to $13,250 — 55%…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l5)",
-      "text": "AI costs spike as subscriptions hit pricing wall — firms turn tow…"
-    },
-    {
-      "tag": "WIRED",
-      "col": "var(--l5)",
-      "text": "A Court Has Ruled That Google Is Liable for False Statements Gene…"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "AI Coding at Home Without Going Broke",
-      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-      "votes": "122",
-      "comments": "113",
+      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+      "votes": "599",
+      "comments": "442",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+      "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+      "votes": "261",
+      "comments": "124",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Ancient genome duplications laid the foundations of complex brains",
+      "url": "https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains",
+      "votes": "24",
+      "comments": "1",
       "time": "近期"
     },
     {
@@ -1897,8 +1915,8 @@
       "badge": "pb-hn",
       "title": "The adder at the heart of Intel's 8087 floating-point chip",
       "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
-      "votes": "46",
-      "comments": "4",
+      "votes": "100",
+      "comments": "25",
       "time": "近期"
     },
     {
@@ -1906,35 +1924,17 @@
       "badge": "pb-hn",
       "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
       "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
-      "votes": "136",
-      "comments": "46",
+      "votes": "211",
+      "comments": "70",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "url": "https://github.com/tensorzero/tensorzero",
-      "votes": "203",
-      "comments": "140",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models",
-      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
-      "votes": "197",
-      "comments": "177",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
-      "url": "https://github.com/Paca-AI/paca",
-      "votes": "112",
-      "comments": "44",
+      "title": "AI coding at home without going broke",
+      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+      "votes": "257",
+      "comments": "222",
       "time": "近期"
     }
   ]
