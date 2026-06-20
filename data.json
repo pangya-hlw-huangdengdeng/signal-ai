@@ -1,26 +1,117 @@
 {
-  "updated_at": "2026-06-20T14:10:08.094773+00:00",
-  "article_count": 119,
+  "updated_at": "2026-06-20T19:41:28.156083+00:00",
+  "article_count": 122,
   "articles": {
-    "a0b519d5f": {
+    "af95dc9a1": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "In the Weights is your new AI-centric vanity search",
+      "src": "TechCrunch AI",
+      "time": "0分钟前",
+      "published_ts": 1781984471,
+      "heat": "27.0K",
+      "views": "27.0K",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "tags": [],
+      "body": "<p>So ... what's your In the Weights score?</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ac25ab2be": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
-      "title": "The best 3D scanners 2026 — the top performing models we've benchmarked",
+      "title": "The Atlantic created a searchable database of the music used to train AI",
+      "src": "The Verge",
+      "time": "54分钟前",
+      "published_ts": 1781981208,
+      "heat": "24.0K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "tags": [],
+      "body": "<p>Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ac789b7ac": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Get AMD's flagship Ryzen 7 9800X3D with 32GB of DDR5 memory and an MSI B850 Wi-Fi 7 motherboard at a discount — Micro Center bundles are now available on Amazon",
       "src": "Tom's Hardware",
-      "time": "52分钟前",
-      "published_ts": 1781961442,
+      "time": "1小时前",
+      "published_ts": 1781978255,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/pc-components/get-amds-flagship-ryzen-7-9800x3d-with-32gb-of-ddr5-memory-and-an-msi-b850-wi-fi-7-motherboard-at-a-discount-micro-center-bundles-are-now-available-on-amazon",
+      "tags": [],
+      "body": "<p>Micro Center is now selling some of its bundles on Amazon, including this 9800X3D combo that gives you an excellent motherboard and fast RAM without breaking the bank.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "af3dce9ac": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "src": "TechCrunch AI",
+      "time": "3小时前",
+      "published_ts": 1781973597,
+      "heat": "23.8K",
+      "views": "27.0K",
+      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "tags": [],
+      "body": "<p>Jumper isn't the only big name leaving Google DeepMind.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "afc18e3ad": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Save $300 on this 1440p-ready gaming PC with 32GB DDR5 RAM — grab the Asus ROG GM700 with AMD's Ryzen 7 8700F and RX 9060 XT for just $1,199",
+      "src": "Tom's Hardware",
+      "time": "4小时前",
+      "published_ts": 1781969158,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd300-on-this-1440p-ready-gaming-pc-with-32gb-ddr5-ram-grab-the-asus-rog-gm700-with-amds-ryzen-7-8700f-and-rx-9060-xt-for-just-usd1-199",
+      "tags": [],
+      "body": "<p>Asus' ROG GM700 is a great prebuilt, packing powerful components for a solid price without compromising on the details. It just happens to look nice, too, if you're into the gamer aesthetic.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aad43d573": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives",
+      "src": "The Verge",
+      "time": "4小时前",
+      "published_ts": 1781968800,
+      "heat": "21.1K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview",
+      "tags": [],
+      "body": "<p>Stefan Paul Goetsch, better known as Hainbach, is a German experimental composer, artist, and YouTuber who is perhaps most famous for making music with laboratory equipment and scientific instruments. He describes it as being like the \"Dark Souls of synthesis.\" Despite using \"hard mode\" production techniques that often rely on telephone line testing equipment and [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "abccb6f4c": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Award-winning resin 3D printer for beginners is 36% off — grab the Anycubic Photon P1 with dual-color material kit for $619.99",
+      "src": "Tom's Hardware",
+      "time": "4小时前",
+      "published_ts": 1781967764,
       "heat": "9.6K",
       "views": "11.4K",
-      "url": "https://www.tomshardware.com/3d-printing/3d-scanning/best-3d-scanners",
+      "url": "https://www.tomshardware.com/3d-printing/award-winning-resin-3d-printer-for-beginners-is-36-percent-off-grab-the-anycubic-photon-p1-with-dual-color-material-kit-for-usd619-99",
       "tags": [],
-      "body": "<p>We help you find the best 3D scanners for high accuracy, portability, and more.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>Featuring a precision steel build plate, wireless printing support, and excellent print quality, the Anycubic Photon P1 is now available with a dual-color material kit at its lowest advertised price yet.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aa1b812f9": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "China unifies tech sector to build grid-free orbiting satellite AI data centers, challenging Elon Musk's SpaceX — Beijing's forced chip and satellite alliance announced a week before Musk’s AI1 reveal",
+      "src": "Tom's Hardware",
+      "time": "4小时前",
+      "published_ts": 1781967222,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/china-unifies-tech-sector-to-build-grid-free-orbiting-satellite-ai-data-centers-challenging-elon-musks-spacex-beijings-forced-chip-and-satellite-alliance-announced-a-week-before-musks-ai1-reveal",
+      "tags": [],
+      "body": "<p>Beijing says the Space Computing Industry Innovation Center will bring together rocket and satellite manufacturers, chip manufacturers, and AI labs to develop a space-based data center system.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a1cb891d0": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "Scientists Propose Black Holes Don’t Exist, Are Something Much Stranger",
       "src": "404 Media",
-      "time": "1小时前",
+      "time": "6小时前",
       "published_ts": 1781960439,
       "heat": "15.0K",
       "views": "15.0K",
@@ -28,38 +119,12 @@
       "tags": [],
       "body": "<p>A seismic wave from the 2011 Tohoku-Oki earthquake bounced off the Earth’s core and hit Japan from below, shifting the entire mainland a quarter-inch eastward.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "ae05c9b49": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Intel and AMD's new ACE CPU extensions bring an efficient AI-oriented instruction set to x86 — a new design makes matrix multiplication more power- and density-efficient",
-      "src": "Tom's Hardware",
-      "time": "2小时前",
-      "published_ts": 1781956800,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://www.tomshardware.com/pc-components/cpus/intel-and-amds-new-ace-cpu-extensions-bring-an-efficient-ai-oriented-instruction-set-to-x86-a-new-design-makes-matrix-multiplication-more-power-and-density-efficient",
-      "tags": [],
-      "body": "<p>ACE CPU extensions bring an efficient AI-oriented instruction set to x86 — new design makes matrix multiplication more power- and density-efficient</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a08d5a58c": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Unlucky PC builder sent RTX 5070 from Amazon, gets DVD rewriter and a busted logic board from an early 2000's Kenwood AV receiver instead — $700 GPU turns out to be e-waste thanks to return scam",
-      "src": "Tom's Hardware",
-      "time": "2小时前",
-      "published_ts": 1781955000,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://www.tomshardware.com/pc-components/gpus/unlucky-pc-builder-sent-rtx-5070-from-amazon-gets-dvd-rewriter-and-a-busted-logic-board-from-an-early-2000s-kenwood-av-receiver-instead-usd700-gpu-turns-out-to-be-e-waste-thanks-to-return-scam",
-      "tags": [],
-      "body": "<p>Another person has fallen victim to Amazon's generous return policy, as they received a disc drive, a mousepad, and an AV receiver instead of the $700 RTX 5070 they ordered.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "aadef6a07": {
       "layer": "l5",
       "cat": "L5 · 生态商业",
       "title": "Siri AI Hands On: A Smart, Helpful Assistant",
       "src": "Wired",
-      "time": "4小时前",
+      "time": "9小时前",
       "published_ts": 1781949600,
       "heat": "16.5K",
       "views": "16.5K",
@@ -72,7 +137,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] not much happened today",
       "src": "Latent Space",
-      "time": "6小时前",
+      "time": "11小时前",
       "published_ts": 1781942765,
       "heat": "19.5K",
       "views": "19.5K",
@@ -85,7 +150,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
       "src": "arXiv cs.AI",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1781928000,
       "heat": "15.0K",
       "views": "15.0K",
@@ -98,7 +163,7 @@
       "cat": "L2 · 基础模型",
       "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
       "src": "arXiv cs.AI",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1781928000,
       "heat": "13.2K",
       "views": "15.0K",
@@ -111,7 +176,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Diffusion Language Models: An Experimental Analysis",
       "src": "arXiv cs.AI",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1781928000,
       "heat": "11.4K",
       "views": "13.2K",
@@ -124,7 +189,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
       "src": "arXiv cs.AI",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1781928000,
       "heat": "9.6K",
       "views": "11.4K",
@@ -137,7 +202,7 @@
       "cat": "L0 · 领袖观点",
       "title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
       "src": "arXiv cs.AI",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1781928000,
       "heat": "7.8K",
       "views": "9.6K",
@@ -150,7 +215,7 @@
       "cat": "L2 · 基础模型",
       "title": "LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind Spots via Cross-Model Attribution Divergence on Clinical Tabular Data",
       "src": "arXiv cs.AI",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1781928000,
       "heat": "6.0K",
       "views": "7.8K",
@@ -163,7 +228,7 @@
       "cat": "L2 · 基础模型",
       "title": "Quoting Sean Lynch",
       "src": "Simon Willison",
-      "time": "15小时前",
+      "time": "20小时前",
       "published_ts": 1781909149,
       "heat": "15.0K",
       "views": "15.0K",
@@ -176,10 +241,10 @@
       "cat": "L0 · 领袖观点",
       "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
       "src": "TechCrunch AI",
-      "time": "15小时前",
+      "time": "21小时前",
       "published_ts": 1781908814,
-      "heat": "27.0K",
-      "views": "27.0K",
+      "heat": "20.5K",
+      "views": "23.8K",
       "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
       "tags": [],
       "body": "<p>For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -189,7 +254,7 @@
       "cat": "L2 · 基础模型",
       "title": "IEEE Rolls Out Large Language Models Virtual Training Course",
       "src": "IEEE Spectrum",
-      "time": "20小时前",
+      "time": "1天前",
       "published_ts": 1781892001,
       "heat": "15.0K",
       "views": "15.0K",
@@ -202,10 +267,10 @@
       "cat": "L0 · 领袖观点",
       "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
       "src": "TechCrunch AI",
-      "time": "22小时前",
+      "time": "1天前",
       "published_ts": 1781885297,
-      "heat": "23.8K",
-      "views": "27.0K",
+      "heat": "17.3K",
+      "views": "20.5K",
       "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
       "tags": [],
       "body": "<p>Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since signed an open letter&#160;calling&#160;the move dangerous, and Anthropic itself noted the same jail</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -215,10 +280,10 @@
       "cat": "L0 · 领袖观点",
       "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
       "src": "TechCrunch AI",
-      "time": "22小时前",
+      "time": "1天前",
       "published_ts": 1781884863,
-      "heat": "20.5K",
-      "views": "23.8K",
+      "heat": "14.0K",
+      "views": "17.3K",
       "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
       "tags": [],
       "body": "<p>Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since signed an open letter&#160;calling&#160;the move dangerous, and Anthropic itself noted the same jail</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -228,10 +293,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Billionaire Ambani wants AI in every call, app, and home",
       "src": "TechCrunch AI",
-      "time": "22小时前",
+      "time": "1天前",
       "published_ts": 1781882608,
-      "heat": "17.3K",
-      "views": "20.5K",
+      "heat": "10.8K",
+      "views": "14.0K",
       "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
       "tags": [],
       "body": "<p>Reliance is weaving AI into telecom services used by more than 500 million people.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -249,19 +314,6 @@
       "tags": [],
       "body": "<p>This post was originally an op-ed co-authored with Kevin Xu of Interconnected for a general, non-technical audience.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a87145fa5": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
-      "src": "TechCrunch AI",
-      "time": "1天前",
-      "published_ts": 1781874000,
-      "heat": "14.0K",
-      "views": "17.3K",
-      "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-      "tags": [],
-      "body": "<p>Call it a startup with a sole founder and a very large seed round, but what's next is less clear.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "ab1afbd77": {
       "layer": "l5",
       "cat": "L5 · 生态商业",
@@ -274,19 +326,6 @@
       "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
       "tags": [],
       "body": "<p>Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the&#8230;</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a22637e0f": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "The US says ASML’s top chip tool may be in China, but how?",
-      "src": "TechCrunch AI",
-      "time": "1天前",
-      "published_ts": 1781855952,
-      "heat": "10.8K",
-      "views": "14.0K",
-      "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
-      "tags": [],
-      "body": "<p>There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a6302973f": {
       "layer": "l1",
@@ -345,7 +384,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump",
       "src": "Wired",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1781810991,
       "heat": "10.6K",
       "views": "12.5K",
@@ -358,7 +397,7 @@
       "cat": "L4 · 交互Agent",
       "title": "datasette-acl 0.6a0",
       "src": "Simon Willison",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1781809393,
       "heat": "11.4K",
       "views": "13.2K",
@@ -371,7 +410,7 @@
       "cat": "L1 · 算力硬件",
       "title": "The Professor of Outputmaxxing — Anjney Midha, AMP",
       "src": "Latent Space",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1781803800,
       "heat": "14.8K",
       "views": "17.2K",
@@ -384,7 +423,7 @@
       "cat": "L4 · 交互Agent",
       "title": "New usage analytics and updated spend controls for enterprises",
       "src": "OpenAI Blog",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1781802000,
       "heat": "45.0K",
       "views": "45.0K",
@@ -397,7 +436,7 @@
       "cat": "L5 · 生态商业",
       "title": "3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers",
       "src": "Wired",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1781798607,
       "heat": "8.6K",
       "views": "10.6K",
@@ -410,7 +449,7 @@
       "cat": "L2 · 基础模型",
       "title": "Powering the world’s first AI arts museum",
       "src": "Google AI Blog",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1781794800,
       "heat": "34.5K",
       "views": "34.5K",
@@ -423,7 +462,7 @@
       "cat": "L4 · 交互Agent",
       "title": "If AI Is Sentient Then So Is ‘Age of Empires II’",
       "src": "404 Media",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1781792578,
       "heat": "9.6K",
       "views": "11.4K",
@@ -592,7 +631,7 @@
       "cat": "L3 · 推理工程",
       "title": "🔬 The Self-Driving Lab — Joseph Krause, Radical AI",
       "src": "Latent Space",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1781719086,
       "heat": "10.1K",
       "views": "12.5K",
@@ -605,7 +644,7 @@
       "cat": "L1 · 算力硬件",
       "title": "\"Dangerous\" AI models are coming no matter what",
       "src": "Ars Technica",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1781718646,
       "heat": "7.2K",
       "views": "9.4K",
@@ -618,7 +657,7 @@
       "cat": "L3 · 推理工程",
       "title": "Quoting Charity Majors",
       "src": "Simon Willison",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1781716361,
       "heat": "7.8K",
       "views": "9.6K",
@@ -631,7 +670,7 @@
       "cat": "L2 · 基础模型",
       "title": "How universities are preparing students for an AI-powered future",
       "src": "Google AI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1781712000,
       "heat": "22.1K",
       "views": "26.2K",
@@ -644,7 +683,7 @@
       "cat": "L2 · 基础模型",
       "title": "How Musicians Can Get Paid for Training AI",
       "src": "IEEE Spectrum",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1781708663,
       "heat": "11.4K",
       "views": "13.2K",
@@ -657,7 +696,7 @@
       "cat": "L2 · 基础模型",
       "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
       "src": "Google AI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1781708400,
       "heat": "17.9K",
       "views": "22.1K",
@@ -787,7 +826,7 @@
       "cat": "L5 · 生态商业",
       "title": "Why do South Koreans love AI so much?",
       "src": "MIT Tech Review",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1781549168,
       "heat": "17.1K",
       "views": "19.8K",
@@ -800,7 +839,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Welcome to the AGI era of AI governance",
       "src": "Interconnects",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1781459022,
       "heat": "11.5K",
       "views": "13.7K",
@@ -878,7 +917,7 @@
       "cat": "L1 · 算力硬件",
       "title": "What it feels like to work with Mythos",
       "src": "One Useful Thing",
-      "time": "10天前",
+      "time": "11天前",
       "published_ts": 1781025082,
       "heat": "15.0K",
       "views": "15.0K",
@@ -956,7 +995,7 @@
       "cat": "L2 · 基础模型",
       "title": "Lights Out, Systems On: Validating Instant Power Loss Readiness",
       "src": "Meta Engineering",
-      "time": "16天前",
+      "time": "17天前",
       "published_ts": 1780506044,
       "heat": "30.0K",
       "views": "30.0K",
@@ -969,7 +1008,7 @@
       "cat": "L3 · 推理工程",
       "title": "Farewell Ai2",
       "src": "Interconnects",
-      "time": "17天前",
+      "time": "18天前",
       "published_ts": 1780409759,
       "heat": "7.2K",
       "views": "9.4K",
@@ -995,7 +1034,7 @@
       "cat": "L0 · 领袖观点",
       "title": "SilverTorch: Index as Model — A New Retrieval Paradigm for Recommendation Systems",
       "src": "Meta Engineering",
-      "time": "24天前",
+      "time": "25天前",
       "published_ts": 1779811201,
       "heat": "26.4K",
       "views": "30.0K",
@@ -1034,7 +1073,7 @@
       "cat": "L2 · 基础模型",
       "title": "Migrating Data Ingestion Systems at Meta Scale",
       "src": "Meta Engineering",
-      "time": "38天前",
+      "time": "39天前",
       "published_ts": 1778601657,
       "heat": "19.2K",
       "views": "22.8K",
@@ -1047,7 +1086,7 @@
       "cat": "L2 · 基础模型",
       "title": "Labyrinth 1.1: Making End-to-End Encrypted Backups Even More Reliable",
       "src": "Meta Engineering",
-      "time": "39天前",
+      "time": "40天前",
       "published_ts": 1778515255,
       "heat": "15.6K",
       "views": "19.2K",
@@ -1060,7 +1099,7 @@
       "cat": "L1 · 算力硬件",
       "title": "How Meta Is Strengthening End-to-End Encrypted Backups",
       "src": "Meta Engineering",
-      "time": "49天前",
+      "time": "50天前",
       "published_ts": 1777651258,
       "heat": "12.0K",
       "views": "15.6K",
@@ -1229,7 +1268,7 @@
       "cat": "L0 · 领袖观点",
       "title": "2025 LLM Year in Review",
       "src": "Andrej Karpathy",
-      "time": "182天前",
+      "time": "183天前",
       "published_ts": 1766167200,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1242,7 +1281,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Auto-grading decade-old Hacker News discussions with hindsight",
       "src": "Andrej Karpathy",
-      "time": "191天前",
+      "time": "192天前",
       "published_ts": 1765378800,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1255,7 +1294,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Verifiability",
       "src": "Andrej Karpathy",
-      "time": "214天前",
+      "time": "215天前",
       "published_ts": 1763398800,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1268,7 +1307,7 @@
       "cat": "L1 · 算力硬件",
       "title": "xAI’s Colossus 2 – First Gigawatt Datacenter In The World, Unique RL Methodology, Capital Raise",
       "src": "SemiAnalysis",
-      "time": "276天前",
+      "time": "277天前",
       "published_ts": 1758044281,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1411,7 +1450,7 @@
       "cat": "L2 · 基础模型",
       "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
       "src": "The Gradient",
-      "time": "580天前",
+      "time": "581天前",
       "published_ts": 1731775575,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1424,7 +1463,7 @@
       "cat": "L2 · 基础模型",
       "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
       "src": "The Gradient",
-      "time": "648天前",
+      "time": "649天前",
       "published_ts": 1725902928,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1437,7 +1476,7 @@
       "cat": "L0 · 领袖观点",
       "title": "We Need Positive Visions for AI Grounded in Wellbeing",
       "src": "The Gradient",
-      "time": "685天前",
+      "time": "686天前",
       "published_ts": 1722704443,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1476,7 +1515,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Financial Market Applications of LLMs",
       "src": "The Gradient",
-      "time": "790天前",
+      "time": "791天前",
       "published_ts": 1713635859,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1551,8 +1590,27 @@
     }
   },
   "by_layer": {
+    "l4": [
+      "af95dc9a1",
+      "af3dce9ac",
+      "aad43d573",
+      "a1cb891d0",
+      "aa9969fc3",
+      "abbae8e8f",
+      "a54e26242",
+      "a058310ef",
+      "a591e10f4",
+      "a593119d7",
+      "a01917b48",
+      "a2ccda8a2",
+      "a93c52b46",
+      "a07d139e1",
+      "ab59fe080",
+      "a61a8adff",
+      "ad01feb8a"
+    ],
     "l2": [
-      "a0b519d5f",
+      "ac25ab2be",
       "a230dc22b",
       "adbbae2fe",
       "a133237ee",
@@ -1581,27 +1639,12 @@
       "af0f189d1",
       "a38ad1236"
     ],
-    "l4": [
-      "a1cb891d0",
-      "aa9969fc3",
-      "abbae8e8f",
-      "a54e26242",
-      "a058310ef",
-      "a591e10f4",
-      "a593119d7",
-      "a01917b48",
-      "a2ccda8a2",
-      "a93c52b46",
-      "a07d139e1",
-      "ab59fe080",
-      "a61a8adff",
-      "ad01feb8a"
-    ],
     "l1": [
-      "ae05c9b49",
-      "a08d5a58c",
+      "ac789b7ac",
+      "afc18e3ad",
+      "abccb6f4c",
+      "aa1b812f9",
       "abe6ec8a8",
-      "a22637e0f",
       "a6302973f",
       "af9e1a040",
       "a8556df17",
@@ -1661,7 +1704,6 @@
       "a16429436",
       "a463315e2",
       "ae2e31108",
-      "a87145fa5",
       "a0fcad4bd",
       "ae67cae52",
       "a4a690bf4",
@@ -1684,45 +1726,23 @@
     ]
   },
   "top5": [
-    "a0b519d5f",
-    "a1cb891d0",
-    "ae05c9b49",
-    "a08d5a58c",
-    "aadef6a07"
+    "af95dc9a1",
+    "ac25ab2be",
+    "ac789b7ac",
+    "af3dce9ac",
+    "afc18e3ad"
   ],
   "layers": [
-    {
-      "id": "l2",
-      "num": "LAYER 2",
-      "name": "基础模型",
-      "vals": [
-        32,
-        33,
-        20,
-        7,
-        36,
-        21
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
     {
       "id": "l1",
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        24,
-        37,
+        32,
+        21,
         13,
-        8,
-        34,
+        9,
+        38,
         23
       ],
       "trend": [
@@ -1736,15 +1756,37 @@
       ]
     },
     {
+      "id": "l2",
+      "num": "LAYER 2",
+      "name": "基础模型",
+      "vals": [
+        18,
+        15,
+        26,
+        7,
+        18,
+        21
+      ],
+      "trend": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
       "id": "l0",
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        21,
-        15,
+        16,
+        13,
         10,
-        7,
-        24,
+        6,
+        25,
         20
       ],
       "trend": [
@@ -1758,38 +1800,16 @@
       ]
     },
     {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
-      "vals": [
-        13,
-        16,
-        5,
-        5,
-        17,
-        14
-      ],
-      "trend": [
-        20,
-        19,
-        18,
-        17,
-        16,
-        15,
-        14
-      ]
-    },
-    {
       "id": "l4",
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        10,
-        10,
+        12,
+        17,
+        6,
         5,
-        14,
-        14,
-        15
+        16,
+        16
       ],
       "trend": [
         20,
@@ -1807,11 +1827,11 @@
       "name": "生态商业",
       "vals": [
         10,
-        10,
-        5,
-        5,
         18,
-        15
+        5,
+        5,
+        10,
+        10
       ],
       "trend": [
         20,
@@ -1822,28 +1842,75 @@
         10,
         8
       ]
+    },
+    {
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
+      "vals": [
+        11,
+        10,
+        5,
+        11,
+        16,
+        14
+      ],
+      "trend": [
+        20,
+        19,
+        18,
+        17,
+        16,
+        15,
+        14
+      ]
     }
   ],
   "ticker": [
     {
-      "tag": "TOM'S HAR",
+      "tag": "TECHCRUNC",
+      "col": "var(--l4)",
+      "text": "In the Weights is your new AI-centric vanity search"
+    },
+    {
+      "tag": "THE VERGE",
       "col": "var(--l2)",
-      "text": "The best 3D scanners 2026 — the top performing models we've bench…"
+      "text": "The Atlantic created a searchable database of the music used to t…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Get AMD's flagship Ryzen 7 9800X3D with 32GB of DDR5 memory and a…"
+    },
+    {
+      "tag": "TECHCRUNC",
+      "col": "var(--l4)",
+      "text": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropi…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Save $300 on this 1440p-ready gaming PC with 32GB DDR5 RAM — grab…"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l4)",
+      "text": "Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss …"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Award-winning resin 3D printer for beginners is 36% off — grab th…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "China unifies tech sector to build grid-free orbiting satellite A…"
     },
     {
       "tag": "404 MEDIA",
       "col": "var(--l4)",
       "text": "Scientists Propose Black Holes Don’t Exist, Are Something Much St…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Intel and AMD's new ACE CPU extensions bring an efficient AI-orie…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Unlucky PC builder sent RTX 5070 from Amazon, gets DVD rewriter a…"
     },
     {
       "tag": "WIRED",
@@ -1869,50 +1936,43 @@
       "tag": "ARXIV CS.",
       "col": "var(--l0)",
       "text": "Diffusion Language Models: An Experimental Analysis"
-    },
-    {
-      "tag": "ARXIV CS.",
-      "col": "var(--l0)",
-      "text": "Hidden Anchors in Multi-Agent LLM Deliberation"
-    },
-    {
-      "tag": "ARXIV CS.",
-      "col": "var(--l0)",
-      "text": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision"
-    },
-    {
-      "tag": "ARXIV CS.",
-      "col": "var(--l2)",
-      "text": "LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind …"
-    },
-    {
-      "tag": "SIMON WIL",
-      "col": "var(--l2)",
-      "text": "Quoting Sean Lynch"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l0)",
-      "text": "From PGP to Mythos: a brief history of export controls that didn’…"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
-      "url": "https://bootimus.com",
-      "votes": "26",
-      "comments": "5",
+      "title": "Show HN: We post-trained a model that pen tests instead of refusing",
+      "url": "https://www.argusred.com/cli",
+      "votes": "31",
+      "comments": "9",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Data Compression Explained (2012)",
-      "url": "https://mattmahoney.net/dc/dce.html",
-      "votes": "158",
-      "comments": "24",
+      "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
+      "url": "https://clickhouse.com/blog/postgresbench",
+      "votes": "4",
+      "comments": "0",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Temporary Cloudflare accounts for AI agents",
+      "url": "https://blog.cloudflare.com/temporary-accounts/",
+      "votes": "92",
+      "comments": "69",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
+      "url": "https://bootimus.com",
+      "votes": "89",
+      "comments": "33",
       "time": "近期"
     },
     {
@@ -1920,35 +1980,17 @@
       "badge": "pb-hn",
       "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
       "url": "https://arrowtsx.dev/bigger-models/",
-      "votes": "324",
-      "comments": "132",
+      "votes": "457",
+      "comments": "221",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Computed goto for efficient dispatch tables (2012)",
-      "url": "https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables",
-      "votes": "7",
-      "comments": "2",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "A 1969 camera operators' strike created Upstairs Downstairs multiverse",
-      "url": "https://ironicsans.ghost.io/the-color-strike/",
-      "votes": "53",
-      "comments": "14",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "LLMs Are Complicated Now",
-      "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
-      "votes": "80",
-      "comments": "22",
+      "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
+      "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/",
+      "votes": "132",
+      "comments": "68",
       "time": "近期"
     }
   ]
