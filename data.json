@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T04:39:35.631288+00:00",
+  "updated_at": "2026-06-21T09:54:09.078599+00:00",
   "article_count": 116,
   "articles": {
     "a0e96617d": {
@@ -7,7 +7,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
       "src": "TechCrunch AI",
-      "time": "8小时前",
+      "time": "13小时前",
       "published_ts": 1781987549,
       "heat": "27.0K",
       "views": "27.0K",
@@ -20,7 +20,7 @@
       "cat": "L4 · 交互Agent",
       "title": "In the Weights is your new AI-centric vanity search",
       "src": "TechCrunch AI",
-      "time": "8小时前",
+      "time": "14小时前",
       "published_ts": 1781984471,
       "heat": "23.8K",
       "views": "27.0K",
@@ -33,7 +33,7 @@
       "cat": "L2 · 基础模型",
       "title": "The Atlantic created a searchable database of the music used to train AI",
       "src": "The Verge",
-      "time": "9小时前",
+      "time": "15小时前",
       "published_ts": 1781981208,
       "heat": "24.0K",
       "views": "24.0K",
@@ -46,7 +46,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Get AMD's flagship Ryzen 7 9800X3D with 32GB of DDR5 memory and an MSI B850 Wi-Fi 7 motherboard at a discount — Micro Center bundles are now available on Amazon",
       "src": "Tom's Hardware",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1781978255,
       "heat": "15.0K",
       "views": "15.0K",
@@ -59,7 +59,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
       "src": "TechCrunch AI",
-      "time": "11小时前",
+      "time": "17小时前",
       "published_ts": 1781973597,
       "heat": "20.5K",
       "views": "23.8K",
@@ -72,7 +72,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Save $300 on this 1440p-ready gaming PC with 32GB DDR5 RAM — grab the Asus ROG GM700 with AMD's Ryzen 7 8700F and RX 9060 XT for just $1,199",
       "src": "Tom's Hardware",
-      "time": "13小时前",
+      "time": "18小时前",
       "published_ts": 1781969158,
       "heat": "11.4K",
       "views": "13.2K",
@@ -85,7 +85,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives",
       "src": "The Verge",
-      "time": "13小时前",
+      "time": "18小时前",
       "published_ts": 1781968800,
       "heat": "21.1K",
       "views": "24.0K",
@@ -98,7 +98,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Award-winning resin 3D printer for beginners is 36% off — grab the Anycubic Photon P1 with dual-color material kit for $619.99",
       "src": "Tom's Hardware",
-      "time": "13小时前",
+      "time": "18小时前",
       "published_ts": 1781967764,
       "heat": "9.6K",
       "views": "11.4K",
@@ -111,7 +111,7 @@
       "cat": "L1 · 算力硬件",
       "title": "China unifies tech sector to build grid-free orbiting satellite AI data centers, challenging Elon Musk's SpaceX — Beijing's forced chip and satellite alliance announced a week before Musk’s AI1 reveal",
       "src": "Tom's Hardware",
-      "time": "13小时前",
+      "time": "19小时前",
       "published_ts": 1781967222,
       "heat": "7.8K",
       "views": "9.6K",
@@ -124,7 +124,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Scientists Propose Black Holes Don’t Exist, Are Something Much Stranger",
       "src": "404 Media",
-      "time": "15小时前",
+      "time": "20小时前",
       "published_ts": 1781960439,
       "heat": "15.0K",
       "views": "15.0K",
@@ -137,7 +137,7 @@
       "cat": "L5 · 生态商业",
       "title": "Siri AI Hands On: A Smart, Helpful Assistant",
       "src": "Wired",
-      "time": "18小时前",
+      "time": "23小时前",
       "published_ts": 1781949600,
       "heat": "16.5K",
       "views": "16.5K",
@@ -150,7 +150,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] not much happened today",
       "src": "Latent Space",
-      "time": "20小时前",
+      "time": "1天前",
       "published_ts": 1781942765,
       "heat": "19.5K",
       "views": "19.5K",
@@ -254,7 +254,7 @@
       "cat": "L1 · 算力硬件",
       "title": "[AINews] GLM > GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
       "src": "Latent Space",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1781848434,
       "heat": "17.2K",
       "views": "19.5K",
@@ -488,7 +488,7 @@
       "cat": "L2 · 基础模型",
       "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
       "src": "OpenAI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1781769600,
       "heat": "34.2K",
       "views": "39.6K",
@@ -501,7 +501,7 @@
       "cat": "L1 · 算力硬件",
       "title": "France Advances Europe’s AI Future With NVIDIA Technologies",
       "src": "NVIDIA Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1781762459,
       "heat": "24.0K",
       "views": "28.5K",
@@ -657,7 +657,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding",
       "src": "Latent Space",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1781674660,
       "heat": "7.8K",
       "views": "10.1K",
@@ -878,7 +878,7 @@
       "cat": "L5 · 生态商业",
       "title": "Five things you need to know about AI",
       "src": "MIT Tech Review",
-      "time": "11天前",
+      "time": "12天前",
       "published_ts": 1780996605,
       "heat": "9.0K",
       "views": "11.7K",
@@ -1281,7 +1281,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "304天前",
+      "time": "305天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1654,11 +1654,11 @@
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        37,
-        35,
+        21,
+        28,
         14,
         9,
-        36,
+        37,
         24
       ],
       "trend": [
@@ -1676,11 +1676,11 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        26,
-        19,
-        17,
+        23,
+        21,
+        14,
         7,
-        30,
+        28,
         21
       ],
       "trend": [
@@ -1694,37 +1694,15 @@
       ]
     },
     {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
-      "vals": [
-        15,
-        21,
-        5,
-        16,
-        11,
-        14
-      ],
-      "trend": [
-        20,
-        19,
-        18,
-        17,
-        16,
-        15,
-        14
-      ]
-    },
-    {
       "id": "l0",
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        13,
         21,
+        17,
         9,
         6,
-        13,
+        14,
         19
       ],
       "trend": [
@@ -1742,12 +1720,34 @@
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        10,
-        14,
-        6,
-        21,
         20,
+        10,
+        6,
+        5,
+        24,
         16
+      ],
+      "trend": [
+        20,
+        19,
+        18,
+        17,
+        16,
+        15,
+        14
+      ]
+    },
+    {
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
+      "vals": [
+        10,
+        18,
+        5,
+        5,
+        20,
+        14
       ],
       "trend": [
         20,
@@ -1764,11 +1764,11 @@
       "num": "LAYER 5",
       "name": "生态商业",
       "vals": [
-        15,
-        11,
+        10,
+        10,
         5,
         5,
-        14,
+        13,
         10
       ],
       "trend": [
@@ -1860,8 +1860,8 @@
       "badge": "pb-hn",
       "title": "Loupe – A iOS app that raises awareness about what native apps can see",
       "url": "https://github.com/mysk-research/loupe",
-      "votes": "134",
-      "comments": "34",
+      "votes": "283",
+      "comments": "105",
       "time": "近期"
     },
     {
@@ -1869,26 +1869,17 @@
       "badge": "pb-hn",
       "title": "Slow breathing modulates brain function and risk behavior",
       "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-      "votes": "101",
+      "votes": "203",
+      "comments": "50",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Building reliable agentic AI systems",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "votes": "105",
       "comments": "21",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "When I reject AI code even if it works",
-      "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
-      "votes": "89",
-      "comments": "51",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Semiconductor Lifeline Keeps Fighter Jets in the Air",
-      "url": "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems",
-      "votes": "55",
-      "comments": "17",
       "time": "近期"
     },
     {
@@ -1896,17 +1887,26 @@
       "badge": "pb-hn",
       "title": "Your brain was never designed for this much bad news",
       "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
-      "votes": "20",
-      "comments": "3",
+      "votes": "193",
+      "comments": "127",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
-      "url": "https://clickhouse.com/blog/postgresbench",
-      "votes": "89",
-      "comments": "22",
+      "title": "When I reject AI code even if it works",
+      "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+      "votes": "180",
+      "comments": "99",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Temporary Cloudflare accounts for AI agents",
+      "url": "https://blog.cloudflare.com/temporary-accounts/",
+      "votes": "209",
+      "comments": "110",
       "time": "近期"
     }
   ]
