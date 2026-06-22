@@ -1,13 +1,91 @@
 {
-  "updated_at": "2026-06-22T04:45:03.900029+00:00",
-  "article_count": 117,
+  "updated_at": "2026-06-22T12:09:38.883223+00:00",
+  "article_count": 116,
   "articles": {
+    "a9a17c597": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Ludicrous $999 Steam game lasts just 10 minutes — ‘Congratulations On Your Purchase’ is pure conspicuous consumption with its golden ticket Steam Achievement",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1782125772,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/video-games/pc-gaming/ludicrous-usd999-steam-game-lasts-just-10-minutes-congratulations-on-your-purchase-is-pure-conspicuous-consumption-with-its-golden-ticket-steam-achievement",
+      "tags": [],
+      "body": "<p>'Congratulations On Your Purchase' recently appeared on PC digital marketplaces priced at $999. Its main claim to fame is that it is proudly 'the most expensive game on Steam.' Buyers get a golden ticket Steam Achievement.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aea99b339": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Get a 4TB SSD for $399 this Prime Day — 9.7 cents per GB is as good as it gets thanks to the AI pricing crisis",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1782125598,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://www.tomshardware.com/pc-components/ssds/get-a-4tb-ssd-for-usd399-this-prime-day-9-7-cents-per-gb-is-as-good-as-it-gets-thanks-to-the-ai-pricing-crisis",
+      "tags": [],
+      "body": "<p>Get a 4TB SSD for $399 ahead of Prime Day, the cheapest one you can buy.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ad58dd6fd": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Save hundreds during this storage pricing hellscape by turning an SSD or hard drive you aren’t using into a useful external drive for as little as $8 – put an old drive to good use as external storage",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1782124114,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://www.tomshardware.com/pc-components/storage/save-hundreds-during-this-storage-pricing-hellscape-by-turning-an-ssd-or-hard-drive-you-arent-using-into-a-useful-external-drive-for-as-little-as-usd8-put-an-old-drive-to-good-use-as-external-storage",
+      "tags": [],
+      "body": "<p>Good storage deals are sadly dead, but an affordable enclosure can bring an old drive back to useful life.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a715c221d": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "World Cup Scams Are Getting Harder to Spot",
+      "src": "Wired",
+      "time": "2小时前",
+      "published_ts": 1782120600,
+      "heat": "14.5K",
+      "views": "16.5K",
+      "url": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
+      "tags": [],
+      "body": "<p>From fake tickets to cloned websites, AI is magnifying World Cup scams. Can fans distinguish between what’s real and what’s not?</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a056b7b4f": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "M3 MacBook Air plunges to $799 in early Amazon Prime Day sale — 38% discount blows the MacBook Neo out of the water",
+      "src": "Tom's Hardware",
+      "time": "2小时前",
+      "published_ts": 1782120285,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://www.tomshardware.com/laptops/macbooks/m3-macbook-air-plunges-to-usd799-in-early-amazon-prime-day-sale-38-percent-discount-blows-the-macbook-neo-out-of-the-water",
+      "tags": [],
+      "body": "<p>The M3 MacBook Air from 2024 is now just $799 at Amazon.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ab8290606": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines",
+      "src": "NVIDIA Blog",
+      "time": "7小时前",
+      "published_ts": 1782104422,
+      "heat": "37.5K",
+      "views": "37.5K",
+      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+      "tags": [],
+      "body": "<p>Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes. NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113 degrees Fahrenheit. That higher temperature limit is precisely what makes them more energy efficient. [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a88a803b6": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "Samsung Electronics brings ChatGPT and Codex to employees",
       "src": "OpenAI Blog",
-      "time": "5小时前",
+      "time": "13小时前",
       "published_ts": 1782082800,
       "heat": "45.0K",
       "views": "45.0K",
@@ -20,7 +98,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Temporary Cloudflare Accounts for AI agents",
       "src": "Simon Willison",
-      "time": "6小时前",
+      "time": "14小时前",
       "published_ts": 1782079264,
       "heat": "11.4K",
       "views": "13.2K",
@@ -28,25 +106,12 @@
       "tags": [],
       "body": "<p>Temporary Cloudflare Accounts for AI agents The announcement says this is \"for AI agents\" but (as is pretty common these days) the AI hook isn't really necessary, this is an interesting feature for everyone else as well. Short version: you can now create a Cloudflare Workers project and run this, without even creating a Cloudflare account: npx wrangler deploy --temporary Cloudflare will deploy the</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "ae2609004": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Corsair’s tiny touchscreen display is on sale at 20% off ahead of Prime Day — get the Xeneon Edge 14.5-inch LCD touchscreen for just $199.99.",
-      "src": "Tom's Hardware",
-      "time": "13小时前",
-      "published_ts": 1782056478,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://www.tomshardware.com/pc-components/corsairs-tiny-touchscreen-display-is-on-sale-at-20-percent-off-ahead-of-prime-day-get-the-xeneon-edge-14-5-inch-lcd-touchscreen-for-just-usd199-99",
-      "tags": [],
-      "body": "<p>Corsair just put a 20% discount on the 14.5-inch Xeneon Edge touchscreen display. This brings its price down to just $199.99, saving you $50 from its original purchase price.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "aa87b486d": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "When the Trump administration cracks down on Anthropic, who benefits?",
       "src": "TechCrunch AI",
-      "time": "13小时前",
+      "time": "20小时前",
       "published_ts": 1782055697,
       "heat": "27.0K",
       "views": "27.0K",
@@ -59,7 +124,7 @@
       "cat": "L3 · 推理工程",
       "title": "[Exclusive] $250 off AI Engineer tix til Monday",
       "src": "Latent Space",
-      "time": "13小时前",
+      "time": "21小时前",
       "published_ts": 1782054083,
       "heat": "19.5K",
       "views": "19.5K",
@@ -72,7 +137,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
       "src": "TechCrunch AI",
-      "time": "14小时前",
+      "time": "21小时前",
       "published_ts": 1782052828,
       "heat": "23.8K",
       "views": "27.0K",
@@ -80,67 +145,28 @@
       "tags": [],
       "body": "<p>Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a65a569a4": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Ingenious modder converts countertop ice machine into an RTX 3060 GPU cooler with a beer fridge thermostat — mod reduces temps by up to 62% in games, Cyberpunk 2077 runs at 22°C",
-      "src": "Tom's Hardware",
-      "time": "14小时前",
-      "published_ts": 1782052814,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://www.tomshardware.com/pc-components/gpus/ingenious-modder-converts-countertop-ice-machine-into-an-rtx-3060-gpu-cooler-with-a-beer-fridge-thermostat-mod-reduces-temps-by-up-to-62-percent-in-games-cyberpunk-2077-runs-at-22-c",
-      "tags": [],
-      "body": "<p>Turns out, an ice machine can cool a GPU perfectly fine as long as you're willing to modify it to the extreme and are patient enough to deal with the leaks.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a3e0b2b47": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Open-source Vulkan driver NVK gains experimental DLSS support — bringing Nvidia’s upscaling tech to Linux via imported CUDA binaries",
-      "src": "Tom's Hardware",
-      "time": "14小时前",
-      "published_ts": 1782052039,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://www.tomshardware.com/pc-components/gpu-drivers/open-source-nvidia-vulkan-driver-nvk-gains-experimental-dlss-support-by-importing-pre-baked-cuda-binaries",
-      "tags": [],
-      "body": "<p>NVK, the community-built open-source Vulkan driver for Nvidia GPUs in Mesa, has gained experimental DLSS support.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a74e3a0e9": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "Polymarket reportedly paid people to post fake videos of themselves placing bets",
       "src": "The Verge",
-      "time": "14小时前",
+      "time": "21小时前",
       "published_ts": 1782051586,
-      "heat": "18.2K",
-      "views": "21.1K",
+      "heat": "15.4K",
+      "views": "18.2K",
       "url": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
       "tags": [],
       "body": "<p>According to a Wall Street Journal investigation, Polymarket has been paying people to film themselves placing fake bets and celebrating fake wins on social media. WSJ identified over 1,100 deceptive clips and talked to creators who, despite not stating as such in their videos, confirmed the company paid them to create the clips. The videos [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "adf1a39c4": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Ubisoft co-founder Claude Guillemot dies in plane crash —  French publisher established in 1986 became one of the biggest entertainment companies in the world",
-      "src": "Tom's Hardware",
-      "time": "14小时前",
-      "published_ts": 1782050660,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://www.tomshardware.com/video-games/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash-french-publisher-established-in-1986-became-one-of-the-biggest-entertainment-companies-in-the-world",
-      "tags": [],
-      "body": "<p>Ubisoft co-founder Claude Guillemot was killed when his twin-engine private plane crashed enroute to an airshow. Aside from building the French gaming empire, Guillemot was also a licensed and avid pilot.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a26027ae4": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "How Roomba started a robot revolution",
       "src": "The Verge",
-      "time": "16小时前",
+      "time": "23小时前",
       "published_ts": 1782044941,
-      "heat": "15.4K",
-      "views": "18.2K",
+      "heat": "12.5K",
+      "views": "15.4K",
       "url": "https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history",
       "tags": [],
       "body": "<p>If you had a Roomba, especially in the early days of the robot vacuum, it was in many ways a fairly unsophisticated machine. It would just bump around your house, looking for something to suck up, until its battery died or its (way too small) tank filled up. Not that it mattered, though. You probably [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -150,10 +176,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Electric air taxis are stuck in the courtroom",
       "src": "The Verge",
-      "time": "16小时前",
+      "time": "1天前",
       "published_ts": 1782043200,
-      "heat": "12.5K",
-      "views": "15.4K",
+      "heat": "9.6K",
+      "views": "12.5K",
       "url": "https://www.theverge.com/column/950975/electric-air-taxis-lawsuits",
       "tags": [],
       "body": "<p>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on aviation, air taxis, and Wi-Fi speeds at 30,000 feet, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Last year, [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -163,10 +189,10 @@
       "cat": "L4 · 交互Agent",
       "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
       "src": "Wired",
-      "time": "18小时前",
+      "time": "1天前",
       "published_ts": 1782037800,
-      "heat": "16.5K",
-      "views": "16.5K",
+      "heat": "12.5K",
+      "views": "14.5K",
       "url": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
       "tags": [],
       "body": "<p>Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -228,10 +254,10 @@
       "cat": "L5 · 生态商业",
       "title": "Siri AI Hands On: A Smart, Helpful Assistant",
       "src": "Wired",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1781949600,
-      "heat": "14.5K",
-      "views": "16.5K",
+      "heat": "10.6K",
+      "views": "12.5K",
       "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
       "tags": [],
       "body": "<p>The new Siri AI is conversational, omnipresent, and actually helpful.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -241,7 +267,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] not much happened today",
       "src": "Latent Space",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1781942765,
       "heat": "17.2K",
       "views": "19.5K",
@@ -306,7 +332,7 @@
       "cat": "L5 · 生态商业",
       "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
       "src": "MIT Tech Review",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1781865624,
       "heat": "22.5K",
       "views": "22.5K",
@@ -319,7 +345,7 @@
       "cat": "L1 · 算力硬件",
       "title": "[AINews] GLM > GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
       "src": "Latent Space",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1781848434,
       "heat": "14.8K",
       "views": "17.2K",
@@ -347,8 +373,8 @@
       "src": "Wired",
       "time": "3天前",
       "published_ts": 1781816623,
-      "heat": "10.6K",
-      "views": "12.5K",
+      "heat": "6.6K",
+      "views": "8.6K",
       "url": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
       "tags": [],
       "body": "<p>Anthropic still can’t distribute Claude Mythos or Fable 5 after running afoul of the Trump administration. But no one can say exactly what the company did wrong.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -360,24 +386,11 @@
       "src": "NVIDIA Blog",
       "time": "3天前",
       "published_ts": 1781812827,
-      "heat": "37.5K",
+      "heat": "33.0K",
       "views": "37.5K",
       "url": "https://blogs.nvidia.com/blog/ferc-large-load-interconnection/",
       "tags": [],
       "body": "<p>In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor fabrication support systems and advanced manufacturing facilities can connect to the grid. In the era of AI, which NVIDIA founder and CEO Jensen Huang has described as a [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a0fcad4bd": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump",
-      "src": "Wired",
-      "time": "3天前",
-      "published_ts": 1781810991,
-      "heat": "8.6K",
-      "views": "10.6K",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/",
-      "tags": [],
-      "body": "<p>On today’s Uncanny Valley, we dive into the dysfunction in Meta’s newly formed AI unit and why it’s been driving already-low employee morale even further into the ground.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a058310ef": {
       "layer": "l4",
@@ -418,19 +431,6 @@
       "tags": [],
       "body": "<p>OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "aba24f25e": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers",
-      "src": "Wired",
-      "time": "3天前",
-      "published_ts": 1781798607,
-      "heat": "6.6K",
-      "views": "8.6K",
-      "url": "https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/",
-      "tags": [],
-      "body": "<p>The software engineers filed a complaint with Seattle’s civil rights office accusing Amazon of illegally retaliating against them for expressing their personal political beliefs.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a96b34e1d": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
@@ -438,7 +438,7 @@
       "src": "Google AI Blog",
       "time": "3天前",
       "published_ts": 1781794800,
-      "heat": "34.5K",
+      "heat": "30.4K",
       "views": "34.5K",
       "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/dataland-ai-art-museum/",
       "tags": [],
@@ -490,8 +490,8 @@
       "src": "NVIDIA Blog",
       "time": "3天前",
       "published_ts": 1781787643,
-      "heat": "33.0K",
-      "views": "37.5K",
+      "heat": "28.5K",
+      "views": "33.0K",
       "url": "https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/",
       "tags": [],
       "body": "<p>The digital era gave the advertising and marketing industry speed; the AI era is giving it autonomous operations. For companies building next-generation technologies for advertising and marketing, the question is no longer whether to adopt AI but whether their infrastructure can support it at the speed and scale the industry demands. At Cannes Lions, running [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -516,8 +516,8 @@
       "src": "Google AI Blog",
       "time": "3天前",
       "published_ts": 1781787600,
-      "heat": "30.4K",
-      "views": "34.5K",
+      "heat": "26.2K",
+      "views": "30.4K",
       "url": "https://blog.google/products/admanager/ask-ad-manager/",
       "tags": [],
       "body": "<p>An animated sequence on a white background introducing \"Agentic AI in Google Ad Manager\". The animation transitions to show a blue magnifying glass paired with a spark icon, accompanied by the black text \"Ask Ad Manager.”</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -527,7 +527,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Improving health intelligence in ChatGPT",
       "src": "OpenAI Blog",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1781780400,
       "heat": "34.2K",
       "views": "39.6K",
@@ -540,10 +540,10 @@
       "cat": "L2 · 基础模型",
       "title": "Splash Canvas: Create abstract art (with an attitude)",
       "src": "Google AI Blog",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1781776800,
-      "heat": "26.2K",
-      "views": "30.4K",
+      "heat": "22.1K",
+      "views": "26.2K",
       "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/splash-canvas/",
       "tags": [],
       "body": "<p>A digital canvas showing a colorful abstract painting being created by 3D animated sea creatures, including octopuses, a squid, and turtles</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -553,7 +553,7 @@
       "cat": "L2 · 基础模型",
       "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
       "src": "OpenAI Blog",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1781769600,
       "heat": "28.8K",
       "views": "34.2K",
@@ -566,10 +566,10 @@
       "cat": "L1 · 算力硬件",
       "title": "France Advances Europe’s AI Future With NVIDIA Technologies",
       "src": "NVIDIA Blog",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1781762459,
-      "heat": "24.0K",
-      "views": "28.5K",
+      "heat": "19.5K",
+      "views": "24.0K",
       "url": "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/",
       "tags": [],
       "body": "<p>A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity to open frontier models and industrial platforms. Now, that AI infrastructure is coming online. AI agents are running in production, startups are deploying applications and the French AI ecosystem [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -633,8 +633,8 @@
       "src": "Google AI Blog",
       "time": "4天前",
       "published_ts": 1781712000,
-      "heat": "22.1K",
-      "views": "26.2K",
+      "heat": "17.9K",
+      "views": "22.1K",
       "url": "https://blog.google/products-and-platforms/products/education/higher-education-gemini-notebooklm/",
       "tags": [],
       "body": "<p>Several students seated in a lecture hall</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -659,8 +659,8 @@
       "src": "Google AI Blog",
       "time": "4天前",
       "published_ts": 1781708400,
-      "heat": "17.9K",
-      "views": "22.1K",
+      "heat": "13.8K",
+      "views": "17.9K",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
       "tags": [],
       "body": "<p>Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -683,7 +683,7 @@
       "cat": "L2 · 基础模型",
       "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
       "src": "OpenAI Blog",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1781690400,
       "heat": "23.4K",
       "views": "28.8K",
@@ -711,24 +711,11 @@
       "src": "NVIDIA Blog",
       "time": "5天前",
       "published_ts": 1781649041,
-      "heat": "19.5K",
-      "views": "24.0K",
+      "heat": "15.0K",
+      "views": "19.5K",
       "url": "https://blogs.nvidia.com/blog/nvidia-xr-ai/",
       "tags": [],
       "body": "<p>NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices. &#160;</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ac4587168": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone",
-      "src": "NVIDIA Blog",
-      "time": "5天前",
-      "published_ts": 1781647856,
-      "heat": "15.0K",
-      "views": "19.5K",
-      "url": "https://blogs.nvidia.com/blog/coherent-texas-ai-optical/",
-      "tags": [],
-      "body": "<p>AI runs at the speed of light. More and more, that light is made in Texas. Coherent broke ground today on an expanded manufacturing building in Sherman, Texas. The company makes the lasers, optical components and compound semiconductors that wire AI systems together — and runs what it calls the world’s first 6-inch indium phosphide [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a4a690bf4": {
       "layer": "l0",
@@ -813,7 +800,7 @@
       "cat": "L1 · 算力硬件",
       "title": "How a Google DeepMind Spin-off Hunts Hidden Drug Targets",
       "src": "IEEE Spectrum",
-      "time": "10天前",
+      "time": "11天前",
       "published_ts": 1781179201,
       "heat": "6.0K",
       "views": "7.8K",
@@ -826,7 +813,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
       "src": "MIT Tech Review",
-      "time": "10天前",
+      "time": "11天前",
       "published_ts": 1781175645,
       "heat": "14.4K",
       "views": "17.1K",
@@ -878,7 +865,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Learning to lead in a hybrid human-AI enterprise",
       "src": "MIT Tech Review",
-      "time": "12天前",
+      "time": "13天前",
       "published_ts": 1781000406,
       "heat": "11.7K",
       "views": "14.4K",
@@ -891,7 +878,7 @@
       "cat": "L5 · 生态商业",
       "title": "Five things you need to know about AI",
       "src": "MIT Tech Review",
-      "time": "12天前",
+      "time": "13天前",
       "published_ts": 1780996605,
       "heat": "9.0K",
       "views": "11.7K",
@@ -904,7 +891,7 @@
       "cat": "L3 · 推理工程",
       "title": "LLM Research Papers: The 2026 List (January to May)",
       "src": "Ahead of AI",
-      "time": "15天前",
+      "time": "16天前",
       "published_ts": 1780744582,
       "heat": "15.0K",
       "views": "15.0K",
@@ -982,7 +969,7 @@
       "cat": "L2 · 基础模型",
       "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
       "src": "Ahead of AI",
-      "time": "36天前",
+      "time": "37天前",
       "published_ts": 1778931231,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1060,7 +1047,7 @@
       "cat": "L2 · 基础模型",
       "title": "My Workflow for Understanding LLM Architectures",
       "src": "Ahead of AI",
-      "time": "64天前",
+      "time": "65天前",
       "published_ts": 1776511476,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1073,7 +1060,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Components of A Coding Agent",
       "src": "Ahead of AI",
-      "time": "78天前",
+      "time": "79天前",
       "published_ts": 1775303137,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1099,7 +1086,7 @@
       "cat": "L3 · 推理工程",
       "title": "A Visual Guide to Attention Variants in Modern LLMs",
       "src": "Ahead of AI",
-      "time": "91天前",
+      "time": "92天前",
       "published_ts": 1774180540,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1190,7 +1177,7 @@
       "cat": "L2 · 基础模型",
       "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
       "src": "VentureBeat AI",
-      "time": "160天前",
+      "time": "161天前",
       "published_ts": 1768217400,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1268,7 +1255,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
       "src": "SemiAnalysis",
-      "time": "286天前",
+      "time": "287天前",
       "published_ts": 1757325297,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1294,7 +1281,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "305天前",
+      "time": "306天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1526,10 +1513,12 @@
   },
   "by_layer": {
     "l1": [
+      "a9a17c597",
+      "aea99b339",
+      "ad58dd6fd",
+      "a056b7b4f",
+      "ab8290606",
       "a88a803b6",
-      "ae2609004",
-      "a65a569a4",
-      "a3e0b2b47",
       "abe6ec8a8",
       "a6302973f",
       "af9e1a040",
@@ -1542,7 +1531,6 @@
       "adec02287",
       "a28b930c1",
       "ac6bde5d1",
-      "ac4587168",
       "a2cc48d0a",
       "acbd55050",
       "ad5aa6262",
@@ -1559,6 +1547,16 @@
       "a5236c597",
       "a2ae2603b",
       "afeb62ce7"
+    ],
+    "l5": [
+      "a715c221d",
+      "aadef6a07",
+      "ab1afbd77",
+      "a50ddf6dd",
+      "a19712fae",
+      "a53c5bd91",
+      "af81f7dc7",
+      "a69bf1370"
     ],
     "l4": [
       "a1627f218",
@@ -1595,38 +1593,6 @@
       "a23fdeba7",
       "a28f84720"
     ],
-    "l0": [
-      "adf1a39c4",
-      "a16429436",
-      "a0fcad4bd",
-      "a4a690bf4",
-      "a85f38e1c",
-      "a78495516",
-      "a4b46426c",
-      "a0a86adb8",
-      "a6eadb995",
-      "a2f2fbafa",
-      "aa27891e5",
-      "a57fda39f",
-      "a187a50d6",
-      "a040f39c9",
-      "a0ab4dd7d",
-      "a375099f0",
-      "a6a5b4a81",
-      "a253e0446",
-      "a9173515c",
-      "abcb7b0c4"
-    ],
-    "l5": [
-      "aadef6a07",
-      "ab1afbd77",
-      "aba24f25e",
-      "a50ddf6dd",
-      "a19712fae",
-      "a53c5bd91",
-      "af81f7dc7",
-      "a69bf1370"
-    ],
     "l2": [
       "a133237ee",
       "a47ad578f",
@@ -1653,14 +1619,34 @@
       "ab3119897",
       "af0f189d1",
       "a38ad1236"
+    ],
+    "l0": [
+      "a16429436",
+      "a4a690bf4",
+      "a85f38e1c",
+      "a78495516",
+      "a4b46426c",
+      "a0a86adb8",
+      "a6eadb995",
+      "a2f2fbafa",
+      "aa27891e5",
+      "a57fda39f",
+      "a187a50d6",
+      "a040f39c9",
+      "a0ab4dd7d",
+      "a375099f0",
+      "a6a5b4a81",
+      "a253e0446",
+      "a9173515c",
+      "abcb7b0c4"
     ]
   },
   "top5": [
-    "a88a803b6",
-    "a1627f218",
-    "ae2609004",
-    "aa87b486d",
-    "af62dc493"
+    "a9a17c597",
+    "aea99b339",
+    "ad58dd6fd",
+    "a715c221d",
+    "a056b7b4f"
   ],
   "layers": [
     {
@@ -1668,11 +1654,11 @@
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        31,
-        40,
+        33,
+        18,
         14,
         9,
-        38,
+        28,
         24
       ],
       "trend": [
@@ -1690,11 +1676,11 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        25,
-        15,
-        10,
+        28,
+        26,
+        12,
         7,
-        33,
+        17,
         20
       ],
       "trend": [
@@ -1712,34 +1698,12 @@
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        19,
-        14,
+        16,
+        22,
         9,
-        13,
         18,
+        24,
         19
-      ],
-      "trend": [
-        20,
-        20,
-        20,
-        20,
-        20,
-        20,
-        20
-      ]
-    },
-    {
-      "id": "l0",
-      "num": "LAYER 0",
-      "name": "领袖观点",
-      "vals": [
-        17,
-        10,
-        8,
-        5,
-        21,
-        18
       ],
       "trend": [
         20,
@@ -1756,10 +1720,10 @@
       "num": "LAYER 3",
       "name": "推理工程",
       "vals": [
-        11,
-        14,
+        10,
+        18,
         5,
-        5,
+        7,
         10,
         13
       ],
@@ -1774,16 +1738,38 @@
       ]
     },
     {
+      "id": "l0",
+      "num": "LAYER 0",
+      "name": "领袖观点",
+      "vals": [
+        11,
+        11,
+        7,
+        5,
+        15,
+        17
+      ],
+      "trend": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ]
+    },
+    {
       "id": "l5",
       "num": "LAYER 5",
       "name": "生态商业",
       "vals": [
         10,
-        13,
-        5,
-        5,
         10,
-        13
+        5,
+        5,
+        11,
+        10
       ],
       "trend": [
         20,
@@ -1798,6 +1784,36 @@
   ],
   "ticker": [
     {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Ludicrous $999 Steam game lasts just 10 minutes — ‘Congratulation…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Get a 4TB SSD for $399 this Prime Day — 9.7 cents per GB is as go…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Save hundreds during this storage pricing hellscape by turning an…"
+    },
+    {
+      "tag": "WIRED",
+      "col": "var(--l5)",
+      "text": "World Cup Scams Are Getting Harder to Spot"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "M3 MacBook Air plunges to $799 in early Amazon Prime Day sale — 3…"
+    },
+    {
+      "tag": "NVIDIA BL",
+      "col": "var(--l1)",
+      "text": "Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest…"
+    },
+    {
       "tag": "OPENAI BL",
       "col": "var(--l1)",
       "text": "Samsung Electronics brings ChatGPT and Codex to employees"
@@ -1806,11 +1822,6 @@
       "tag": "SIMON WIL",
       "col": "var(--l4)",
       "text": "Temporary Cloudflare Accounts for AI agents"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Corsair’s tiny touchscreen display is on sale at 20% off ahead of…"
     },
     {
       "tag": "TECHCRUNC",
@@ -1828,24 +1839,9 @@
       "text": "Beyond Siri: Here are the practical AI features coming to your iP…"
     },
     {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Ingenious modder converts countertop ice machine into an RTX 3060…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Open-source Vulkan driver NVK gains experimental DLSS support — b…"
-    },
-    {
       "tag": "THE VERGE",
       "col": "var(--l4)",
       "text": "Polymarket reportedly paid people to post fake videos of themselv…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l0)",
-      "text": "Ubisoft co-founder Claude Guillemot dies in plane crash —  French…"
     },
     {
       "tag": "THE VERGE",
@@ -1856,16 +1852,6 @@
       "tag": "THE VERGE",
       "col": "var(--l4)",
       "text": "Electric air taxis are stuck in the courtroom"
-    },
-    {
-      "tag": "WIRED",
-      "col": "var(--l4)",
-      "text": "28 Tips to Take Your ChatGPT Prompts to the Next Level"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "Signal’s Meredith Whittaker wants you to remember that AI chatbot…"
     }
   ],
   "community": [
@@ -1874,26 +1860,26 @@
       "badge": "pb-hn",
       "title": "Apertus – Open Foundation Model for Sovereign AI",
       "url": "https://apertvs.ai/",
-      "votes": "275",
-      "comments": "98",
+      "votes": "436",
+      "comments": "141",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-      "votes": "60",
-      "comments": "10",
+      "title": "Munich 1991: The Roots of the Current AI Boom",
+      "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+      "votes": "102",
+      "comments": "37",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "JSON-LD explained for personal websites",
-      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-      "votes": "186",
-      "comments": "56",
+      "title": "Britain's prime minister to step down, Burnham puts himself forward as successor",
+      "url": "https://www.reuters.com/world/uk-politics-live-starmer-expected-announce-he-will-resign-prime-minister-2026-06-22/",
+      "votes": "24",
+      "comments": "17",
       "time": "近期"
     },
     {
@@ -1901,26 +1887,26 @@
       "badge": "pb-hn",
       "title": "Identity verification on Claude",
       "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-      "votes": "635",
-      "comments": "552",
+      "votes": "789",
+      "comments": "658",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Show HN: Recall – fully-local project memory for Claude Code",
-      "url": "https://github.com/raiyanyahya/recall",
-      "votes": "90",
-      "comments": "61",
+      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+      "votes": "154",
+      "comments": "30",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "You're probably using Agent Skills wrong",
-      "url": "https://notes.ansonbiggs.com/youre-probably-using-agent-skills-wrong/",
-      "votes": "17",
-      "comments": "2",
+      "title": "My 1992 view of the problems of computer programming in 1992",
+      "url": "https://blog.plover.com/prog/fortran-i.html",
+      "votes": "33",
+      "comments": "8",
       "time": "近期"
     }
   ]
