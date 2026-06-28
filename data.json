@@ -1,16 +1,29 @@
 {
-  "updated_at": "2026-06-28T04:06:02.285693+00:00",
+  "updated_at": "2026-06-28T08:56:35.044918+00:00",
   "article_count": 120,
   "articles": {
+    "ac54a868b": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "TMD’s keyless bike lock is a $280 solution to a $60 problem",
+      "src": "The Verge",
+      "time": "1小时前",
+      "published_ts": 1782630000,
+      "heat": "24.0K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
+      "tags": [],
+      "body": "<p>I've seen lots of so-called \"smart\" bike locks over the years, but none so far could justify the added cost. A newcomer that got its start securing ATMs for banks is trying to change that. There's nothing wholly unique about the TMD Chain Lock, but the combination of materials, performance, and insurance-friendly ART-2 certification makes [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "ad597a407": {
       "layer": "l0",
       "cat": "L0 · 领袖观点",
       "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
       "src": "The Verge",
-      "time": "9小时前",
+      "time": "14小时前",
       "published_ts": 1782585572,
-      "heat": "21.1K",
-      "views": "24.0K",
+      "heat": "18.2K",
+      "views": "21.1K",
       "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
       "tags": [],
       "body": "<p>Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood said she'd used an AI [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -20,10 +33,10 @@
       "cat": "L1 · 算力硬件",
       "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
       "src": "The Verge",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1782581298,
-      "heat": "18.2K",
-      "views": "21.1K",
+      "heat": "15.4K",
+      "views": "18.2K",
       "url": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
       "tags": [],
       "body": "<p>Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army, according to the Financial Times. The skyrocketing prices of RAM and storage have driven Apple [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -33,7 +46,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
       "src": "TechCrunch AI",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1782578709,
       "heat": "23.8K",
       "views": "27.0K",
@@ -46,10 +59,10 @@
       "cat": "L4 · 交互Agent",
       "title": "The Guardian&#8217;s Kai Wright refuses to buy a new phone",
       "src": "The Verge",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1782573300,
-      "heat": "15.4K",
-      "views": "18.2K",
+      "heat": "12.5K",
+      "views": "15.4K",
       "url": "https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire",
       "tags": [],
       "body": "<p>Kai Wright is the co-host of Stateside with Kai and Carter over at the Guardian. But Wright has been bringing his unique insights to listeners for years. He's also hosted Notes From America, The United States of Anxiety, and Indivisible. He's a Peabody Award-winning journalist who has profiled powerful men, explored what it means to [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -59,7 +72,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Apple reportedly lobbies Uncle Sam for access to Chinese memory chips — tech giant allegedly wants to buy from blacklisted CXMT",
       "src": "Tom's Hardware",
-      "time": "13小时前",
+      "time": "18小时前",
       "published_ts": 1782571889,
       "heat": "13.2K",
       "views": "15.0K",
@@ -72,10 +85,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Indie developers got tired of waiting for a new Star Fox, so they’re making their own",
       "src": "The Verge",
-      "time": "14小时前",
+      "time": "18小时前",
       "published_ts": 1782568800,
-      "heat": "12.5K",
-      "views": "15.4K",
+      "heat": "9.6K",
+      "views": "12.5K",
       "url": "https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games",
       "tags": [],
       "body": "<p>Nostalgia remains a powerful force. So much so that, in exploring the echoes of a late-'90s childhood spent skimming the water of Corneria and sneering \"cocky little freaks!\" in time with a monkey encased in a Gundam suit, I'm simultaneously describing playing Star Fox 64 (Lylat Wars if you're nasty) in 1997 and streaming it [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -85,7 +98,7 @@
       "cat": "L0 · 领袖观点",
       "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
       "src": "TechCrunch AI",
-      "time": "14小时前",
+      "time": "18小时前",
       "published_ts": 1782568800,
       "heat": "20.5K",
       "views": "23.8K",
@@ -93,25 +106,12 @@
       "tags": [],
       "body": "<p>When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a9cda9fde": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
-      "src": "The Verge",
-      "time": "14小时前",
-      "published_ts": 1782567000,
-      "heat": "9.6K",
-      "views": "12.5K",
-      "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
-      "tags": [],
-      "body": "<p>Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet of the [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a539e7451": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "Best Amazon Prime Day tech deals you can still get LIVE, last chance for hot deals — PC hardware deals on GPUs, CPUs, SSDs, and more",
       "src": "Tom's Hardware",
-      "time": "14小时前",
+      "time": "19小时前",
       "published_ts": 1782566306,
       "heat": "7.8K",
       "views": "9.6K",
@@ -124,7 +124,7 @@
       "cat": "L0 · 领袖观点",
       "title": "ConlangCrafter Turns AI to Imagining Languages",
       "src": "IEEE Spectrum",
-      "time": "15小时前",
+      "time": "19小时前",
       "published_ts": 1782565201,
       "heat": "15.0K",
       "views": "15.0K",
@@ -137,7 +137,7 @@
       "cat": "L5 · 生态商业",
       "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
       "src": "TechCrunch AI",
-      "time": "16小时前",
+      "time": "20小时前",
       "published_ts": 1782561600,
       "heat": "17.3K",
       "views": "20.5K",
@@ -150,7 +150,7 @@
       "cat": "L2 · 基础模型",
       "title": "Using Local Coding Agents",
       "src": "Ahead of AI",
-      "time": "16小时前",
+      "time": "21小时前",
       "published_ts": 1782559318,
       "heat": "15.0K",
       "views": "15.0K",
@@ -163,7 +163,7 @@
       "cat": "L2 · 基础模型",
       "title": "[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners",
       "src": "Latent Space",
-      "time": "22小时前",
+      "time": "1天前",
       "published_ts": 1782537802,
       "heat": "19.5K",
       "views": "19.5K",
@@ -631,7 +631,7 @@
       "cat": "L2 · 基础模型",
       "title": "[AINews] Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack",
       "src": "Latent Space",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1782285266,
       "heat": "10.1K",
       "views": "12.5K",
@@ -644,7 +644,7 @@
       "cat": "L1 · 算力硬件",
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "src": "OpenAI Blog",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1782280800,
       "heat": "34.2K",
       "views": "39.6K",
@@ -787,7 +787,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] SpaceX is already a $28B/yr Neocloud",
       "src": "Latent Space",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1782195589,
       "heat": "7.8K",
       "views": "10.1K",
@@ -800,7 +800,7 @@
       "cat": "L1 · 算力硬件",
       "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
       "src": "NVIDIA Blog",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1782194409,
       "heat": "19.5K",
       "views": "24.0K",
@@ -1346,7 +1346,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "311天前",
+      "time": "312天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1564,11 +1564,26 @@
     }
   },
   "by_layer": {
+    "l4": [
+      "ac54a868b",
+      "ab5da8ff3",
+      "a033ce595",
+      "a83909ef3",
+      "a4723a022",
+      "abf77bd36",
+      "a4a821cc5",
+      "a9864c5a1",
+      "ad12e0d29",
+      "a90eff2d8",
+      "a272de4e1",
+      "ab59fe080",
+      "a61a8adff",
+      "ad01feb8a"
+    ],
     "l0": [
       "ad597a407",
       "a83d39c4b",
       "a3c2b964d",
-      "a9cda9fde",
       "a44a58122",
       "a04794c1b",
       "a7db8c407",
@@ -1621,21 +1636,6 @@
       "a94a9a29d",
       "a5236c597",
       "a2ae2603b"
-    ],
-    "l4": [
-      "ab5da8ff3",
-      "a033ce595",
-      "a83909ef3",
-      "a4723a022",
-      "abf77bd36",
-      "a4a821cc5",
-      "a9864c5a1",
-      "ad12e0d29",
-      "a90eff2d8",
-      "a272de4e1",
-      "ab59fe080",
-      "a61a8adff",
-      "ad01feb8a"
     ],
     "l5": [
       "a211e7e65",
@@ -1698,45 +1698,23 @@
     ]
   },
   "top5": [
+    "ac54a868b",
     "ad597a407",
     "aca858565",
     "a83d39c4b",
-    "ab5da8ff3",
-    "a4530fde7"
+    "ab5da8ff3"
   ],
   "layers": [
-    {
-      "id": "l1",
-      "num": "LAYER 1",
-      "name": "算力硬件",
-      "vals": [
-        28,
-        16,
-        12,
-        8,
-        26,
-        22
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
     {
       "id": "l2",
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        17,
-        14,
-        14,
-        8,
         25,
+        33,
+        12,
+        8,
+        23,
         22
       ],
       "trend": [
@@ -1754,11 +1732,11 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        12,
-        20,
+        15,
+        31,
         10,
         6,
-        31,
+        26,
         20
       ],
       "trend": [
@@ -1772,16 +1750,38 @@
       ]
     },
     {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
+      "id": "l1",
+      "num": "LAYER 1",
+      "name": "算力硬件",
+      "vals": [
+        14,
+        22,
+        12,
+        8,
+        27,
+        22
+      ],
+      "trend": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
       "vals": [
         10,
-        16,
+        22,
         5,
         5,
-        21,
-        14
+        13,
+        21
       ],
       "trend": [
         20,
@@ -1798,10 +1798,10 @@
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        10,
+        19,
         13,
         5,
-        16,
+        5,
         10,
         15
       ],
@@ -1816,16 +1816,16 @@
       ]
     },
     {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
       "vals": [
-        15,
+        11,
         10,
         5,
         5,
-        10,
-        18
+        19,
+        14
       ],
       "trend": [
         20,
@@ -1839,6 +1839,11 @@
     }
   ],
   "ticker": [
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l4)",
+      "text": "TMD’s keyless bike lock is a $280 solution to a $60 problem"
+    },
     {
       "tag": "THE VERGE",
       "col": "var(--l0)",
@@ -1875,11 +1880,6 @@
       "text": "The fittest founder in the room got cancer. Here’s how he used AI…"
     },
     {
-      "tag": "THE VERGE",
-      "col": "var(--l0)",
-      "text": "Why is Apple asking me to pay more for Big Tech’s AI obsession?"
-    },
-    {
       "tag": "TOM'S HAR",
       "col": "var(--l1)",
       "text": "Best Amazon Prime Day tech deals you can still get LIVE, last cha…"
@@ -1914,10 +1914,19 @@
     {
       "platform": "HN",
       "badge": "pb-hn",
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "url": "https://github.com/itsthelore/wayfinder-router",
+      "votes": "60",
+      "comments": "11",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
       "title": "Ford hired AI and sacked humans. It backfired badly",
       "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
-      "votes": "27",
-      "comments": "4",
+      "votes": "176",
+      "comments": "98",
       "time": "近期"
     },
     {
@@ -1925,26 +1934,17 @@
       "badge": "pb-hn",
       "title": "AI learns the “dark art” of RFIC design",
       "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-      "votes": "205",
-      "comments": "134",
+      "votes": "231",
+      "comments": "149",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Response to AI slop is from Robin Williams",
+      "title": "The best response to AI slop and online noise is from Robin Williams",
       "url": "https://jayacunzo.com/blog/your-move-chief",
-      "votes": "93",
-      "comments": "55",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Asian AI startups launch Mythos-like models",
-      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "votes": "173",
-      "comments": "143",
+      "votes": "207",
+      "comments": "117",
       "time": "近期"
     },
     {
@@ -1952,17 +1952,17 @@
       "badge": "pb-hn",
       "title": "Reducing tick density along recreational trails in Ottawa, Canada",
       "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
-      "votes": "172",
-      "comments": "95",
+      "votes": "196",
+      "comments": "102",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
-      "url": "https://thedailyeconomy.org/article/ancient-clay-tablets-show-markets-worked-4000-years-before-economists-explained-them/",
-      "votes": "4",
-      "comments": "0",
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "votes": "758",
+      "comments": "319",
       "time": "近期"
     }
   ]
