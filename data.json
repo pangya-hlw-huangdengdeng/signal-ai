@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T03:41:24.477243+00:00",
+  "updated_at": "2026-07-05T08:56:24.164795+00:00",
   "article_count": 113,
   "articles": {
     "a85c16ba5": {
@@ -7,7 +7,7 @@
       "cat": "L1 · 算力硬件",
       "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
       "src": "Simon Willison",
-      "time": "2小时前",
+      "time": "7小时前",
       "published_ts": 1783213248,
       "heat": "15.0K",
       "views": "15.0K",
@@ -15,15 +15,28 @@
       "tags": [],
       "body": "<p>I wrote about the sqlite-utils 4.0rc1 release a couple of weeks ago. Since we only have Claude Fable on our Max subscriptions for a few more days, I decided to see if it could help me get to a 4.0 stable release that I felt truly comfortable about, since I try to keep to SemVer and like my incompatible major versions to be as rare as possible. I started with this prompt, in Claude Code for web on </p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
+    "a5dadaba0": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "sqlite-utils 4.0rc2",
+      "src": "Simon Willison",
+      "time": "8小时前",
+      "published_ts": 1783212458,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything",
+      "tags": [],
+      "body": "<p>Release: sqlite-utils 4.0rc2 See sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25) .</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a9b2f0b85": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
       "title": "Better Models: Worse Tools",
       "src": "Simon Willison",
-      "time": "4小时前",
+      "time": "10小时前",
       "published_ts": 1783205632,
-      "heat": "11.4K",
-      "views": "13.2K",
+      "heat": "9.6K",
+      "views": "11.4K",
       "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
       "tags": [],
       "body": "<p>Better Models: Worse Tools Armin reports on a weird problem he ran into while hacking on Pi: The short version is that newer Claude models sometimes call Pi’s edit tool with extra, invented fields in the nested edits[] array. And not Haiku or some small model: Opus 4.8. The edit itself is usually correct but the arguments do not match the schema as the model invents made-up keys and Pi thus reject</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -33,7 +46,7 @@
       "cat": "L0 · 领袖观点",
       "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
       "src": "TechCrunch AI",
-      "time": "6小时前",
+      "time": "12小时前",
       "published_ts": 1783198525,
       "heat": "27.0K",
       "views": "27.0K",
@@ -46,7 +59,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
       "src": "TechCrunch AI",
-      "time": "9小时前",
+      "time": "14小时前",
       "published_ts": 1783188005,
       "heat": "23.8K",
       "views": "27.0K",
@@ -59,7 +72,7 @@
       "cat": "L2 · 基础模型",
       "title": "Alibaba reportedly bans employees from using Claude Code",
       "src": "TechCrunch AI",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1783182728,
       "heat": "20.5K",
       "views": "23.8K",
@@ -72,7 +85,7 @@
       "cat": "L1 · 算力硬件",
       "title": "White House deletes thousands of web pages about energy conservation as heatwave slams US",
       "src": "The Verge",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1783181946,
       "heat": "21.1K",
       "views": "24.0K",
@@ -85,7 +98,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Matic’s robot vacuum is getting a $250 price hike in September",
       "src": "The Verge",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1783180800,
       "heat": "18.2K",
       "views": "21.1K",
@@ -98,7 +111,7 @@
       "cat": "L2 · 基础模型",
       "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
       "src": "TechCrunch AI",
-      "time": "11小时前",
+      "time": "17小时前",
       "published_ts": 1783180292,
       "heat": "17.3K",
       "views": "20.5K",
@@ -111,7 +124,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Chinese YMTC SSDs make their way into retail Lenovo laptops — media outlet slams YMTC PCIe 4.0 drive for 'below average for an SSD in an office laptop' in review",
       "src": "Tom's Hardware",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1783177628,
       "heat": "11.4K",
       "views": "13.2K",
@@ -124,7 +137,7 @@
       "cat": "L4 · 交互Agent",
       "title": "SOLVED: The Case of the Missing Megalodon",
       "src": "404 Media",
-      "time": "17小时前",
+      "time": "22小时前",
       "published_ts": 1783159209,
       "heat": "15.0K",
       "views": "15.0K",
@@ -139,8 +152,8 @@
       "src": "Simon Willison",
       "time": "1天前",
       "published_ts": 1783116271,
-      "heat": "9.6K",
-      "views": "11.4K",
+      "heat": "7.8K",
+      "views": "9.6K",
       "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
       "tags": [],
       "body": "<p>Open Source AI Gap Map Current AI is \"a global partnership building a public option for AI\", founded as a non-profit at the AI Action Summit in Paris in February 2025 and backed by serious capital ($400m already committed). They launched their Gap Map a couple of days ago - an attempt at indexing the current state of open source AI: The Gap Map v0.1 details 421 products in depth: 266 software tool</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -152,8 +165,8 @@
       "src": "Simon Willison",
       "time": "1天前",
       "published_ts": 1783113952,
-      "heat": "7.8K",
-      "views": "9.6K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything",
       "tags": [],
       "body": "<p>I just launched my third course, Whimsical Animations, and so far, it’s on track to sell roughly ⅓ as many copies as a typical course launch. It’s a similar story with my two existing courses. Sales are down significantly from last year. There are likely a lot of reasons for this, but I think the biggest is AI. There’s sort of a double whammy with AI: Many people are wondering whether developer jo</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -170,19 +183,6 @@
       "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "tags": [],
       "body": "<p>The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aa9488cec": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Fable's judgement",
-      "src": "Simon Willison",
-      "time": "1天前",
-      "published_ts": 1783104666,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
-      "tags": [],
-      "body": "<p>One of the most interesting tips I got from the Fireside Chat I hosted with Cat Wu and Thariq Shihipar from the Claude Code team at AIE on Wednesday was to let Fable (and to a certain extent Opus) use their own judgement rather than dictating how they should work. The example they gave was testing. You can tell Fable \"only use automated testing for larger features, don't update and run tests for s</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "adb125735": {
       "layer": "l4",
@@ -241,7 +241,7 @@
       "cat": "L0 · 领袖观点",
       "title": "AIEWF Daily Dispatch: The great loops debate and the state of AI engineering",
       "src": "Latent Space",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1783055503,
       "heat": "19.5K",
       "views": "19.5K",
@@ -358,7 +358,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] not much happened today",
       "src": "Latent Space",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1782976214,
       "heat": "10.1K",
       "views": "12.5K",
@@ -371,7 +371,7 @@
       "cat": "L0 · 领袖观点",
       "title": "AIEWF Daily Dispatch: Autoresearch and the tension between AI and human agency",
       "src": "Latent Space",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1782972829,
       "heat": "7.8K",
       "views": "10.1K",
@@ -761,7 +761,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Mapping Europe’s AI Workforce Opportunity",
       "src": "OpenAI Blog",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1782716400,
       "heat": "23.4K",
       "views": "28.8K",
@@ -1255,7 +1255,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "318天前",
+      "time": "319天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1475,9 +1475,9 @@
   "by_layer": {
     "l1": [
       "a85c16ba5",
+      "a5dadaba0",
       "aca347395",
       "a1809f1ed",
-      "aa9488cec",
       "ac5e1f10c",
       "abcc4f716",
       "a901cdfd5",
@@ -1601,22 +1601,22 @@
   },
   "top5": [
     "a85c16ba5",
+    "a5dadaba0",
     "a9b2f0b85",
     "ae0450b9e",
-    "a34aaf5d8",
-    "a5f39133c"
+    "a34aaf5d8"
   ],
   "layers": [
     {
-      "id": "l2",
-      "num": "LAYER 2",
-      "name": "基础模型",
+      "id": "l1",
+      "num": "LAYER 1",
+      "name": "算力硬件",
       "vals": [
-        17,
-        32,
+        22,
+        35,
+        12,
         8,
-        8,
-        33,
+        25,
         22
       ],
       "trend": [
@@ -1634,7 +1634,7 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        23,
+        19,
         25,
         10,
         7,
@@ -1652,13 +1652,13 @@
       ]
     },
     {
-      "id": "l1",
-      "num": "LAYER 1",
-      "name": "算力硬件",
+      "id": "l2",
+      "num": "LAYER 2",
+      "name": "基础模型",
       "vals": [
-        17,
-        24,
-        12,
+        16,
+        19,
+        18,
         8,
         35,
         22
@@ -1678,11 +1678,11 @@
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        11,
-        10,
+        19,
+        20,
         9,
-        11,
-        25,
+        7,
+        21,
         19
       ],
       "trend": [
@@ -1701,11 +1701,11 @@
       "name": "生态商业",
       "vals": [
         10,
-        10,
+        17,
         5,
         5,
-        13,
-        11
+        16,
+        10
       ],
       "trend": [
         20,
@@ -1726,7 +1726,7 @@
         10,
         5,
         5,
-        10,
+        15,
         12
       ],
       "trend": [
@@ -1745,6 +1745,11 @@
       "tag": "SIMON WIL",
       "col": "var(--l1)",
       "text": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $1…"
+    },
+    {
+      "tag": "SIMON WIL",
+      "col": "var(--l1)",
+      "text": "sqlite-utils 4.0rc2"
     },
     {
       "tag": "SIMON WIL",
@@ -1805,21 +1810,25 @@
       "tag": "TECHCRUNC",
       "col": "var(--l4)",
       "text": "The only AI glossary you’ll need this year"
-    },
-    {
-      "tag": "SIMON WIL",
-      "col": "var(--l1)",
-      "text": "Fable's judgement"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
+      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
+      "votes": "38",
+      "comments": "31",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
       "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
       "url": "https://github.com/openai/codex/issues/30364",
-      "votes": "177",
-      "comments": "55",
+      "votes": "260",
+      "comments": "98",
       "time": "近期"
     },
     {
@@ -1827,44 +1836,35 @@
       "badge": "pb-hn",
       "title": "Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
       "url": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
-      "votes": "19",
-      "comments": "1",
+      "votes": "69",
+      "comments": "5",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
-      "url": "https://arxiv.org/abs/2606.26967",
-      "votes": "20",
-      "comments": "1",
+      "title": "The Log Is the Agent",
+      "url": "https://arxiv.org/abs/2605.21997",
+      "votes": "38",
+      "comments": "7",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Mapping with In-Memory Layers to Reduce LLM Overload",
-      "url": "https://ridgetext.com/blog/mapbox-llm-composition",
-      "votes": "12",
-      "comments": "0",
+      "title": "Record-breaking solo rower Kelsey Pfendler arrives in Hawaii",
+      "url": "https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/",
+      "votes": "45",
+      "comments": "5",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "$85,000 in tokens later: What I learned from scaling agentic coding at Lovable",
-      "url": "https://lovable.dev/blog/85000-in-tokens-later-scaling-agentic-coding-at-lovable",
-      "votes": "9",
-      "comments": "13",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Heuristics for lab robotics, and where its future may go",
-      "url": "https://www.owlposting.com/p/heuristics-for-lab-robotics-and-where",
-      "votes": "10",
-      "comments": "2",
+      "title": "Mouse: Precision Editing Tools for AI Coding Agents",
+      "url": "https://hic-ai.com",
+      "votes": "32",
+      "comments": "37",
       "time": "近期"
     }
   ]
