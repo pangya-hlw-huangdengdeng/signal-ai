@@ -1,84 +1,110 @@
 {
-  "updated_at": "2026-07-12T08:21:28.096415+00:00",
-  "article_count": 117,
+  "updated_at": "2026-07-12T13:25:26.111149+00:00",
+  "article_count": 118,
   "articles": {
+    "a1412550e": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Blue Prince became a bonding — and learning — experience for my family",
+      "src": "The Verge",
+      "time": "25分钟前",
+      "published_ts": 1783861200,
+      "heat": "24.0K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/games/964262/blue-prince-family-bonding",
+      "tags": [],
+      "body": "<p>I've always been the gamer in the family. When my son was born nearly 11 years ago, gaming was one of the things I looked forward to sharing with him. Pulling up a chair next to me, he would watch as I played Sea of Thieves with friends, often wearing the too-big-for-his-head headset to talk [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ad93744fd": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "FCC approves orbital space mirrors, first test satellites will launch this year — large spacecraft reflects sunlight to Earth’s surface for construction sites, search-and-rescue lighting, and more",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1783858820,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://www.tomshardware.com/tech-industry/fcc-approves-orbital-space-mirrors-first-test-satellites-will-launch-this-year-large-spacecraft-reflects-sunlight-to-earths-surface-for-construction-sites-search-and-rescue-lighting-and-more",
+      "tags": [],
+      "body": "<p>A startup that aims to bring sunlight on Earth after dark just received approval from the FCC to launch its experimental satellite. Critics say that the project could adversely affect astronomy and the environment, but the regulator says that their complaints are outside of its jursidiction.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a3b92967b": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "Cooler Master MWE Gold 750 V4 power supply review: Verified Gold efficiency with mainstream pricing",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1783857900,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://www.tomshardware.com/pc-components/power-supplies/cooler-master-mwe-gold-750-v4-power-supply-review",
+      "tags": [],
+      "body": "<p>The fourth revision of Cooler Master’s renowned mainstream series, coming with verified Gold efficiency, a native 12V-2x6 connector, and GPU Shield current monitoring in a compact 140 mm chassis at a mainstream price.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "abff12ba5": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "The fight against AI data centers is just beginning",
+      "src": "The Verge",
+      "time": "1小时前",
+      "published_ts": 1783857600,
+      "heat": "21.1K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "tags": [],
+      "body": "<p>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Years before the AI boom threatened local power [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a4611b4a5": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+      "src": "Wired",
+      "time": "3小时前",
+      "published_ts": 1783850400,
+      "heat": "16.5K",
+      "views": "16.5K",
+      "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+      "tags": [],
+      "body": "<p>Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a3469a680": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "Hotspot temperature sensor on Nvidia's Blackwell gaming GPUs is still accessible if you have access to Nvidia's internal MODS tool — Nvidia RTX 5070 Ti caught throttling at 107°C over poor TIM application",
       "src": "Tom's Hardware",
-      "time": "16小时前",
+      "time": "21小时前",
       "published_ts": 1783786739,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://www.tomshardware.com/pc-components/gpus/hotspot-temperature-sensor-on-nvidias-blackwell-gaming-gpus-is-still-accessible-if-you-have-access-to-nvidias-internal-mods-tool-nvidia-rtx-5070-ti-caught-throttling-at-107-c-over-poor-tim-application",
       "tags": [],
       "body": "<p>Nvidia decided to hide the hotspot temperature on its RTX 50 series, but internal diagnostic tools, such as Nvidia's own \"MODS,\" can still read it. The resulting data reveals how some GPUs can overheat and throttle easily, which could be why the sensor was kept hidden in the first place.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a86149e3c": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Newegg packs Ryzen 5 9600X and 16GB DDR5 into a $520 combo — bundles also include a B650 motherboard and 240mm AIO liquid cooler",
-      "src": "Tom's Hardware",
-      "time": "16小时前",
-      "published_ts": 1783783757,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://www.tomshardware.com/pc-components/newegg-packs-ryzen-5-9600x-and-16gb-ddr5-into-a-usd520-combo-bundles-also-include-a-b650-motherboard-and-240mm-aio-liquid-cooler",
-      "tags": [],
-      "body": "<p>Gamers looking to build a budget-friendly AM5 PC can pick up a Ryzen 5 9600X, a Gigabyte B650M motherboard, and a Corsair DDR5 memory bundle, with a free 240mm liquid cooler included.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "aa13b7566": {
       "layer": "l0",
       "cat": "L0 · 领袖观点",
       "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
       "src": "The Verge",
-      "time": "17小时前",
+      "time": "22小时前",
       "published_ts": 1783782000,
-      "heat": "18.2K",
-      "views": "21.1K",
+      "heat": "12.5K",
+      "views": "15.4K",
       "url": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
       "tags": [],
       "body": "<p>If you're a music maker of a certain age, then you probably once dabbled with a pirated copy of a little app called Fruity Loops. These days it's called FL Studio, and Constantin Koehncke, is the man responsible for shepherding the pioneering digital audio workstation (DAW) through the modern age. As CEO of Image Line, [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a193f7431": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "AMD RX 9070 GRE collapses to $499 to save 1440p gaming — RDNA 4 price slips 9% to steal a piece of Nvidia's mid-range pie",
-      "src": "Tom's Hardware",
-      "time": "17小时前",
-      "published_ts": 1783779837,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://www.tomshardware.com/pc-components/gpus/amd-rx-9070-gre-collapses-to-usd499-to-save-1440p-gaming-rdna-4-price-slips-9-percent-to-steal-a-piece-of-nvidias-mid-range-pie",
-      "tags": [],
-      "body": "<p>AMD's Radeon RX 9070 GRE has received its first price cut since launching outside China, making the 1440p-focused RDNA 4 graphics card a more compelling alternative to Nvidia's RTX 5060 Ti 16GB.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a20a3e3ea": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
       "src": "TechCrunch AI",
-      "time": "18小时前",
+      "time": "23小时前",
       "published_ts": 1783779180,
       "heat": "27.0K",
       "views": "27.0K",
       "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
       "tags": [],
       "body": "<p>ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aadf3346f": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "ICE are heavily armed killers. They’re also huge losers",
-      "src": "The Verge",
-      "time": "19小时前",
-      "published_ts": 1783774800,
-      "heat": "9.6K",
-      "views": "12.5K",
-      "url": "https://www.theverge.com/policy/964302/ice-donald-trump-killings",
-      "tags": [],
-      "body": "<p>Donald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks. In the first, federal agents shot and killed a man and quickly got to work justifying the use of force under the flimsiest of pretenses. In the other, it made house calls to people who said [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "ac8aab00b": {
       "layer": "l2",
@@ -100,7 +126,7 @@
       "src": "Wired",
       "time": "1天前",
       "published_ts": 1783732046,
-      "heat": "16.5K",
+      "heat": "14.5K",
       "views": "16.5K",
       "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
       "tags": [],
@@ -139,8 +165,8 @@
       "src": "Wired",
       "time": "1天前",
       "published_ts": 1783716245,
-      "heat": "14.5K",
-      "views": "16.5K",
+      "heat": "12.5K",
+      "views": "14.5K",
       "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
       "tags": [],
       "body": "<p>The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -241,10 +267,10 @@
       "cat": "L5 · 生态商业",
       "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
       "src": "Wired",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1783679400,
-      "heat": "12.5K",
-      "views": "14.5K",
+      "heat": "10.6K",
+      "views": "12.5K",
       "url": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
       "tags": [],
       "body": "<p>Billed as the “world’s first museum of AI arts,” Dataland uses wearables and troves of material from the Amazon to merge nature, biometrics, and art.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -282,8 +308,8 @@
       "src": "Wired",
       "time": "2天前",
       "published_ts": 1783663200,
-      "heat": "10.6K",
-      "views": "12.5K",
+      "heat": "8.6K",
+      "views": "10.6K",
       "url": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
       "tags": [],
       "body": "<p>Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an urgent question: Can global governance catch up before the technology races beyond its control?</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -308,8 +334,8 @@
       "src": "Wired",
       "time": "2天前",
       "published_ts": 1783638798,
-      "heat": "8.6K",
-      "views": "10.6K",
+      "heat": "6.6K",
+      "views": "8.6K",
       "url": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
       "tags": [],
       "body": "<p>The move comes after Simo took significant medical leave. She will stay on as a part-time adviser.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -352,19 +378,6 @@
       "url": "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything",
       "tags": [],
       "body": "<p>OpenAI's latest flagship model hit general availability this morning , and comes in three sizes: Luna, Terra, and Sol (from smallest to largest). The new models are priced per 1M input/output tokens as Luna $1/$6, Terra $2.50/$15, Sol $5/$30. For comparison, the Claude Opus series are $5/$25 and the Claude Fable 5 is $10/$50, but price-per-million tokens doesn't tell us much now that the number of</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ab95b54d8": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
-      "src": "Wired",
-      "time": "2天前",
-      "published_ts": 1783621800,
-      "heat": "6.6K",
-      "views": "8.6K",
-      "url": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
-      "tags": [],
-      "body": "<p>Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is ending.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a4c25ef82": {
       "layer": "l4",
@@ -436,7 +449,7 @@
       "cat": "L4 · 交互Agent",
       "title": "LinkedIn and X Are Flooded With AI Spam, Browsing Data Suggests",
       "src": "404 Media",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1783603331,
       "heat": "6.0K",
       "views": "7.8K",
@@ -449,7 +462,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Grok x Cursor",
       "src": "Ben's Bites",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1783602165,
       "heat": "16.5K",
       "views": "16.5K",
@@ -462,7 +475,7 @@
       "cat": "L2 · 基础模型",
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
       "src": "OpenAI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1783602000,
       "heat": "39.6K",
       "views": "45.0K",
@@ -475,7 +488,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Large Tabular Models Excel Where LLMs Fail",
       "src": "IEEE Spectrum",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1783598401,
       "heat": "15.0K",
       "views": "15.0K",
@@ -488,7 +501,7 @@
       "cat": "L1 · 算力硬件",
       "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
       "src": "OpenAI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1783591200,
       "heat": "34.2K",
       "views": "39.6K",
@@ -501,7 +514,7 @@
       "cat": "L4 · 交互Agent",
       "title": "ChatGPT is now a partner for your most ambitious work",
       "src": "OpenAI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1783591200,
       "heat": "28.8K",
       "views": "34.2K",
@@ -514,7 +527,7 @@
       "cat": "L2 · 基础模型",
       "title": "GPT-5.5 Bio Bug Bounty",
       "src": "OpenAI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1783591200,
       "heat": "23.4K",
       "views": "28.8K",
@@ -618,7 +631,7 @@
       "cat": "L1 · 算力硬件",
       "title": "AI Models Overthink Problems—and It’s a Security Risk",
       "src": "IEEE Spectrum",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1783508401,
       "heat": "13.2K",
       "views": "15.0K",
@@ -683,7 +696,7 @@
       "cat": "L4 · 交互Agent",
       "title": "The foundational elements of AI architecture that IT leaders need to scale",
       "src": "MIT Tech Review",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1783422652,
       "heat": "19.8K",
       "views": "22.5K",
@@ -787,7 +800,7 @@
       "cat": "L1 · 算力硬件",
       "title": "AI’s Volatile Power Use Quietly Tests Grid Limits",
       "src": "IEEE Spectrum",
-      "time": "8天前",
+      "time": "9天前",
       "published_ts": 1783080001,
       "heat": "7.8K",
       "views": "9.6K",
@@ -813,7 +826,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Building the foundation for an autonomous enterprise",
       "src": "MIT Tech Review",
-      "time": "9天前",
+      "time": "10天前",
       "published_ts": 1782996704,
       "heat": "11.7K",
       "views": "14.4K",
@@ -891,7 +904,7 @@
       "cat": "L2 · 基础模型",
       "title": "Using Local Coding Agents",
       "src": "Ahead of AI",
-      "time": "14天前",
+      "time": "15天前",
       "published_ts": 1782559318,
       "heat": "15.0K",
       "views": "15.0K",
@@ -917,7 +930,7 @@
       "cat": "L2 · 基础模型",
       "title": "Claude Code in Slack",
       "src": "Ben's Bites",
-      "time": "16天前",
+      "time": "17天前",
       "published_ts": 1782392643,
       "heat": "8.6K",
       "views": "10.6K",
@@ -982,7 +995,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Banning Open Source AI Would Be A Mistake",
       "src": "Interconnects",
-      "time": "22天前",
+      "time": "23天前",
       "published_ts": 1781874167,
       "heat": "13.7K",
       "views": "15.8K",
@@ -1034,7 +1047,7 @@
       "cat": "L3 · 推理工程",
       "title": "LLM Research Papers: The 2026 List (January to May)",
       "src": "Ahead of AI",
-      "time": "35天前",
+      "time": "36天前",
       "published_ts": 1780744582,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1073,7 +1086,7 @@
       "cat": "L2 · 基础模型",
       "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
       "src": "Ahead of AI",
-      "time": "56天前",
+      "time": "57天前",
       "published_ts": 1778931231,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1099,7 +1112,7 @@
       "cat": "L2 · 基础模型",
       "title": "My Workflow for Understanding LLM Architectures",
       "src": "Ahead of AI",
-      "time": "84天前",
+      "time": "85天前",
       "published_ts": 1776511476,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1112,7 +1125,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Components of A Coding Agent",
       "src": "Ahead of AI",
-      "time": "98天前",
+      "time": "99天前",
       "published_ts": 1775303137,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1138,7 +1151,7 @@
       "cat": "L3 · 推理工程",
       "title": "A Visual Guide to Attention Variants in Modern LLMs",
       "src": "Ahead of AI",
-      "time": "111天前",
+      "time": "112天前",
       "published_ts": 1774180540,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1203,7 +1216,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
       "src": "VentureBeat AI",
-      "time": "179天前",
+      "time": "180天前",
       "published_ts": 1768309200,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1216,7 +1229,7 @@
       "cat": "L2 · 基础模型",
       "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
       "src": "VentureBeat AI",
-      "time": "180天前",
+      "time": "181天前",
       "published_ts": 1768217400,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1294,7 +1307,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
       "src": "SemiAnalysis",
-      "time": "306天前",
+      "time": "307天前",
       "published_ts": 1757325297,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1525,16 +1538,71 @@
     }
   },
   "by_layer": {
+    "l4": [
+      "a1412550e",
+      "abff12ba5",
+      "a20a3e3ea",
+      "a364fc733",
+      "a2e21c2fd",
+      "af1dafa7a",
+      "aa4fc908c",
+      "a9372b29c",
+      "a4c25ef82",
+      "ac2cea53b",
+      "aed4d6d26",
+      "a76703f56",
+      "a28707d2f",
+      "a60dc3fc4",
+      "abec9cfcc",
+      "a272de4e1",
+      "ab59fe080",
+      "a61a8adff",
+      "ad01feb8a"
+    ],
+    "l5": [
+      "ad93744fd",
+      "a4611b4a5",
+      "a03cbf0e9",
+      "a0df0deef",
+      "aa3737fc5",
+      "a04dbd8b1",
+      "a2baa3fb5",
+      "a065c82cd"
+    ],
+    "l0": [
+      "a3b92967b",
+      "aa13b7566",
+      "ac7c6a26f",
+      "af4fc66aa",
+      "af4750bd6",
+      "a46de14b4",
+      "a3c48a691",
+      "af3e2250e",
+      "a096f6a55",
+      "a54ec61f8",
+      "a4a690bf4",
+      "a85f38e1c",
+      "a0a86adb8",
+      "a6eadb995",
+      "a2f2fbafa",
+      "aa27891e5",
+      "a57fda39f",
+      "a187a50d6",
+      "a040f39c9",
+      "a0ab4dd7d",
+      "a375099f0",
+      "a6a5b4a81",
+      "a253e0446",
+      "a9173515c",
+      "abcb7b0c4"
+    ],
     "l1": [
       "a3469a680",
-      "a86149e3c",
-      "a193f7431",
       "a2621a62b",
       "a4aef1879",
       "ac20af209",
       "a75283333",
       "a1fe2e1bd",
-      "ab95b54d8",
       "a92ef852b",
       "a8a7435a9",
       "a0fd22316",
@@ -1561,52 +1629,6 @@
       "a94a9a29d",
       "a5236c597",
       "a2ae2603b"
-    ],
-    "l0": [
-      "aa13b7566",
-      "ac7c6a26f",
-      "af4fc66aa",
-      "af4750bd6",
-      "a46de14b4",
-      "a3c48a691",
-      "af3e2250e",
-      "a096f6a55",
-      "a54ec61f8",
-      "a4a690bf4",
-      "a85f38e1c",
-      "a0a86adb8",
-      "a6eadb995",
-      "a2f2fbafa",
-      "aa27891e5",
-      "a57fda39f",
-      "a187a50d6",
-      "a040f39c9",
-      "a0ab4dd7d",
-      "a375099f0",
-      "a6a5b4a81",
-      "a253e0446",
-      "a9173515c",
-      "abcb7b0c4"
-    ],
-    "l4": [
-      "a20a3e3ea",
-      "aadf3346f",
-      "a364fc733",
-      "a2e21c2fd",
-      "af1dafa7a",
-      "aa4fc908c",
-      "a9372b29c",
-      "a4c25ef82",
-      "ac2cea53b",
-      "aed4d6d26",
-      "a76703f56",
-      "a28707d2f",
-      "a60dc3fc4",
-      "abec9cfcc",
-      "a272de4e1",
-      "ab59fe080",
-      "a61a8adff",
-      "ad01feb8a"
     ],
     "l2": [
       "ac8aab00b",
@@ -1640,14 +1662,6 @@
       "ab3119897",
       "af0f189d1"
     ],
-    "l5": [
-      "a03cbf0e9",
-      "a0df0deef",
-      "aa3737fc5",
-      "a04dbd8b1",
-      "a2baa3fb5",
-      "a065c82cd"
-    ],
     "l3": [
       "a2a632504",
       "a32296677",
@@ -1656,11 +1670,11 @@
     ]
   },
   "top5": [
-    "a3469a680",
-    "a86149e3c",
-    "aa13b7566",
-    "a193f7431",
-    "a20a3e3ea"
+    "a1412550e",
+    "ad93744fd",
+    "a3b92967b",
+    "abff12ba5",
+    "a4611b4a5"
   ],
   "layers": [
     {
@@ -1668,11 +1682,11 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        27,
-        37,
-        24,
+        17,
+        33,
+        31,
         8,
-        28,
+        31,
         22
       ],
       "trend": [
@@ -1690,12 +1704,12 @@
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        28,
-        23,
-        14,
+        33,
+        17,
+        13,
         9,
-        41,
-        24
+        32,
+        23
       ],
       "trend": [
         20,
@@ -1712,11 +1726,11 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        20,
-        14,
+        18,
+        24,
         10,
-        6,
-        22,
+        7,
+        30,
         20
       ],
       "trend": [
@@ -1734,12 +1748,12 @@
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
+        24,
         10,
-        11,
-        7,
-        5,
-        18,
-        17
+        8,
+        6,
+        17,
+        18
       ],
       "trend": [
         20,
@@ -1752,12 +1766,34 @@
       ]
     },
     {
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
+      "vals": [
+        10,
+        10,
+        5,
+        9,
+        11,
+        11
+      ],
+      "trend": [
+        20,
+        18,
+        16,
+        14,
+        12,
+        10,
+        8
+      ]
+    },
+    {
       "id": "l5",
       "num": "LAYER 5",
       "name": "生态商业",
       "vals": [
         10,
-        16,
+        10,
         5,
         5,
         13,
@@ -1772,40 +1808,38 @@
         10,
         8
       ]
-    },
-    {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
-      "vals": [
-        10,
-        10,
-        5,
-        5,
-        10,
-        11
-      ],
-      "trend": [
-        20,
-        18,
-        16,
-        14,
-        12,
-        10,
-        8
-      ]
     }
   ],
   "ticker": [
     {
+      "tag": "THE VERGE",
+      "col": "var(--l4)",
+      "text": "Blue Prince became a bonding — and learning — experience for my f…"
+    },
+    {
       "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Hotspot temperature sensor on Nvidia's Blackwell gaming GPUs is s…"
+      "col": "var(--l5)",
+      "text": "FCC approves orbital space mirrors, first test satellites will la…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l0)",
+      "text": "Cooler Master MWE Gold 750 V4 power supply review: Verified Gold …"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l4)",
+      "text": "The fight against AI data centers is just beginning"
+    },
+    {
+      "tag": "WIRED",
+      "col": "var(--l5)",
+      "text": "Scientists’ Side Hustle? Using AI and Quantum Computing to Genera…"
     },
     {
       "tag": "TOM'S HAR",
       "col": "var(--l1)",
-      "text": "Newegg packs Ryzen 5 9600X and 16GB DDR5 into a $520 combo — bund…"
+      "text": "Hotspot temperature sensor on Nvidia's Blackwell gaming GPUs is s…"
     },
     {
       "tag": "THE VERGE",
@@ -1813,19 +1847,9 @@
       "text": "FL Studio head Constantin Koehncke turns to Reddit for feedback a…"
     },
     {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "AMD RX 9070 GRE collapses to $499 to save 1440p gaming — RDNA 4 p…"
-    },
-    {
       "tag": "TECHCRUNC",
       "col": "var(--l4)",
       "text": "OpenAI bets on families as ChatGPT goes deeper into households"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "ICE are heavily armed killers. They’re also huge losers"
     },
     {
       "tag": "LATENT SP",
@@ -1856,26 +1880,16 @@
       "tag": "TECHCRUNC",
       "col": "var(--l0)",
       "text": "Open source AI matters more than ever, according to Hugging Face’…"
-    },
-    {
-      "tag": "404 MEDIA",
-      "col": "var(--l2)",
-      "text": "AI Fiction Is Easy to Detect Because It's Stupid and Bad, Researc…"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l1)",
-      "text": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, …"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Mesh LLM: distributed AI computing on iroh",
-      "url": "https://www.iroh.computer/blog/mesh-llm",
-      "votes": "228",
-      "comments": "51",
+      "title": "Old and new apps, via modern coding agents by Terry Tao",
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "votes": "101",
+      "comments": "19",
       "time": "近期"
     },
     {
@@ -1883,17 +1897,17 @@
       "badge": "pb-hn",
       "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
       "url": "https://github.com/cosmtrek/mindwalk",
-      "votes": "13",
-      "comments": "1",
+      "votes": "99",
+      "comments": "46",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "An agent in 100 lines of Lisp",
-      "url": "https://thebeach.dev/posts/lisp-agent/",
-      "votes": "128",
-      "comments": "14",
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "votes": "285",
+      "comments": "65",
       "time": "近期"
     },
     {
@@ -1901,26 +1915,26 @@
       "badge": "pb-hn",
       "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
       "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-      "votes": "247",
-      "comments": "83",
+      "votes": "300",
+      "comments": "120",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
-      "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
-      "votes": "66",
-      "comments": "108",
+      "title": "An agent in 100 lines of Lisp",
+      "url": "https://thebeach.dev/posts/lisp-agent/",
+      "votes": "182",
+      "comments": "50",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
-      "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
-      "votes": "54",
-      "comments": "22",
+      "title": "Modern decor may be straining people's brains",
+      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+      "votes": "221",
+      "comments": "220",
       "time": "近期"
     }
   ]
