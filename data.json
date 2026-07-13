@@ -1,13 +1,208 @@
 {
-  "updated_at": "2026-07-13T03:17:45.136543+00:00",
-  "article_count": 118,
+  "updated_at": "2026-07-13T09:32:16.594270+00:00",
+  "article_count": 133,
   "articles": {
+    "ae6aaaaef": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Social media limits are coming for teens across Europe",
+      "src": "The Verge",
+      "time": "9分钟前",
+      "published_ts": 1783934572,
+      "heat": "24.0K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules",
+      "tags": [],
+      "body": "<p>The European Union is weighing sweeping new restrictions on children's and teenagers' access to social media, including age limits, an outright ban, and phased access. Social media platforms could also be forced to prove their services are not harmful before young people are allowed to use them. European Commission President Ursula von der Leyen said [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ad9cfd0f6": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Waze rolls out new customization features and more Gemini updates",
+      "src": "Google AI Blog",
+      "time": "32分钟前",
+      "published_ts": 1783933200,
+      "heat": "34.5K",
+      "views": "34.5K",
+      "url": "https://blog.google/waze/waze-updates-gemini-motorcycle-mode/",
+      "tags": [],
+      "body": "<p>Waze motorcycle mode</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ae624a510": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Waze is getting a bunch of new AI-powered features",
+      "src": "The Verge",
+      "time": "32分钟前",
+      "published_ts": 1783933200,
+      "heat": "21.1K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "tags": [],
+      "body": "<p>Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new updates, only two are being described as involving Gemini. Waze says its updating its conversation reporting feature, first introduced in 2024, [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a09386769": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "A Unified Approach to Interpreting Knowledge Distillation for Large Language Models via Interactions",
+      "src": "arXiv cs.LG",
+      "time": "5小时前",
+      "published_ts": 1783915200,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2607.08776",
+      "tags": [],
+      "body": "<p>arXiv:2607.08776v1 Announce Type: new Abstract: Despite the success of knowledge distillation (KD) in Large Language Models (LLMs), the underlying mechanism behind its efficacy remains unclear. In this paper, we propose a unified approach to explore the common mechanism of various KD methods using interactions. Specifically, we decompose the output score of the LLM into the sum of numerous interac</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a09152903": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "iLENS: Interpretable LLM-Guided Mixture-of-Experts for Neuroimaging Survival Analysis",
+      "src": "arXiv cs.LG",
+      "time": "5小时前",
+      "published_ts": 1783915200,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2607.08778",
+      "tags": [],
+      "body": "<p>arXiv:2607.08778v1 Announce Type: new Abstract: Alzheimer's Disease (AD) is a complex neurodegenerative disorder that continues to impact millions of people worldwide. Predicting AD conversion during the prodromal stage remains critical for disease understanding and patient care. As such, survival models are widely used for AD risk prediction, yet they are typically static predictors with limited </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a6b564140": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "Signed Symmetric Quantization for Few-Bit Integers",
+      "src": "arXiv cs.LG",
+      "time": "5小时前",
+      "published_ts": 1783915200,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2607.08779",
+      "tags": [],
+      "body": "<p>arXiv:2607.08779v1 Announce Type: new Abstract: The signed integer alphabet contains one more negative representable value than positive. Yet, by convention, the standard symmetric integer quantizer fixes its scale to be strictly positive, which assigns this extra representable value to the negative tail and can force clipping of positive outliers. In this work, we show that, at few-bit precision,</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a646481cc": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Sticky Routing: Training MoE Models for Memory-Efficient Inference",
+      "src": "arXiv cs.LG",
+      "time": "5小时前",
+      "published_ts": 1783915200,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2607.08780",
+      "tags": [],
+      "body": "<p>arXiv:2607.08780v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) models activate only a sparse subset of experts per token, yet consecutive tokens frequently activate different experts -- causing constant weight swapping between slow storage and fast memory on edge devices. Existing remedies are either system-level (caching heuristics) or post-hoc (router fine-tuning), leaving the root cau</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a6b0374a8": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Reward Transport: Property Control in Flow Matching via Noise-Space Alignment",
+      "src": "arXiv cs.LG",
+      "time": "5小时前",
+      "published_ts": 1783915200,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2607.08781",
+      "tags": [],
+      "body": "<p>arXiv:2607.08781v1 Announce Type: new Abstract: The coupling in flow matching -- the rule pairing noise vectors with data points -- is typically treated as a computational choice. We show that this coupling can instead serve as an alignment interface: by matching noise and data according to a target molecular property, it embeds controllable structure directly into the learned flow field. Building</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a82c5dac4": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "Director: Accelerating Distributed MoE Serving via Online Proactive Expert Placement",
+      "src": "arXiv cs.LG",
+      "time": "5小时前",
+      "published_ts": 1783915200,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2607.08782",
+      "tags": [],
+      "body": "<p>arXiv:2607.08782v1 Announce Type: new Abstract: Expert parallelism has become the prevailing paradigm to serve Mixture-of-Experts (MoE) models. Its efficiency depends on the communication and computation latencies of the GPUs, which are linked to the placement of experts in the GPUs. Existing works for optimizing expert placement focus on leveraging past requests' expert activation patterns. Howev</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a439c5055": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
+      "src": "arXiv cs.AI",
+      "time": "5小时前",
+      "published_ts": 1783915200,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2607.08773",
+      "tags": [],
+      "body": "<p>arXiv:2607.08773v1 Announce Type: new Abstract: In this work we present a rigorous theoretical framework to a foundational problem of AI safety, namely adversarial robustness. In particular, we show that the adversarial robustness problem can be reduced to a lattice traversal problem. Each element of this lattice corresponds to an interval, i.e., an axis-aligned hyper-rectangle, containing an inpu</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "af880628b": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
+      "src": "arXiv cs.AI",
+      "time": "5小时前",
+      "published_ts": 1783915200,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2607.08774",
+      "tags": [],
+      "body": "<p>arXiv:2607.08774v1 Announce Type: new Abstract: Reliability in large language model (LLM) systems is typically framed as a function of model capability. We challenge this by demonstrating that reliability is significantly influenced by \\emph{inference-time control} -- the computational layer governing task framing and context selection. We introduce \\emph{CogniConsole}, an architectural instantiat</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "acf5eb847": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
+      "src": "arXiv cs.AI",
+      "time": "5小时前",
+      "published_ts": 1783915200,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2607.08894",
+      "tags": [],
+      "body": "<p>arXiv:2607.08894v1 Announce Type: new Abstract: Large Language Model (LLM) agents have shown promise in multi-step planning tasks, but existing approaches like LATS (Language Agent Tree Search) and ReAct rely heavily on LLM inference during planning, leading to high computational costs and stochastic behavior. We present \\textbf{GATS} (Graph-Augmented Tree Search), a planning framework that combin</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "acb1e702c": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
+      "src": "arXiv cs.AI",
+      "time": "5小时前",
+      "published_ts": 1783915200,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2607.08964",
+      "tags": [],
+      "body": "<p>arXiv:2607.08964v1 Announce Type: new Abstract: AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple problems that finish within minutes and are evaluated only by their final outcome. This setup overlooks intermediate progress and partial solutions, yielding sparse reward signals and an incomplete pictur</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ad0cc3c7b": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "A Formalization of the Mean-Field Derivation of the Vlasov Equation: AI-Assisted Lean Formalization as a Strategy Game",
+      "src": "arXiv cs.AI",
+      "time": "5小时前",
+      "published_ts": 1783915200,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2607.08986",
+      "tags": [],
+      "body": "<p>arXiv:2607.08986v1 Announce Type: new Abstract: We formalize a research result in the Lean 4 proof assistant by having a mathematician direct an AI system, and frame the activity as a formalization game. The objective is to turn a LaTeX document into Lean. The game is won when the development compiles, contains no sorry, and a machine check shows the target theorems rest on Lean's foundational axi</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a059367a5": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "ARCANA: A Reflective Multi-Agent Program Synthesis Framework for ARC-AGI-2 Reasoning",
+      "src": "arXiv cs.AI",
+      "time": "5小时前",
+      "published_ts": 1783915200,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2607.09059",
+      "tags": [],
+      "body": "<p>arXiv:2607.09059v1 Announce Type: new Abstract: We present ARCANA, a collaborative multi agent framework for solving ARC AGI 2 tasks under strict test time and hardware constraints. ARCANA decomposes each task into iterative perception, hypothesis generation, symbolic execution, and reflective refinement. A perceptual grounding agent builds object centric scene graphs from raw grids, a latent prog</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a1c32d46f": {
       "layer": "l3",
       "cat": "L3 · 推理工程",
       "title": "Directly Responsible Individuals (DRI)",
       "src": "Simon Willison",
-      "time": "3小时前",
+      "time": "9小时前",
       "published_ts": 1783900634,
       "heat": "15.0K",
       "views": "15.0K",
@@ -20,7 +215,7 @@
       "cat": "L3 · 推理工程",
       "title": "shot-scraper 1.11",
       "src": "Simon Willison",
-      "time": "3小时前",
+      "time": "9小时前",
       "published_ts": 1783900012,
       "heat": "13.2K",
       "views": "15.0K",
@@ -33,7 +228,7 @@
       "cat": "L2 · 基础模型",
       "title": "Fable gets another bump",
       "src": "Simon Willison",
-      "time": "5小时前",
+      "time": "12小时前",
       "published_ts": 1783891207,
       "heat": "11.4K",
       "views": "13.2K",
@@ -46,7 +241,7 @@
       "cat": "L2 · 基础模型",
       "title": "sqlite-utils 4.1.1",
       "src": "Simon Willison",
-      "time": "6小时前",
+      "time": "12小时前",
       "published_ts": 1783889730,
       "heat": "9.6K",
       "views": "11.4K",
@@ -59,10 +254,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
       "src": "The Verge",
-      "time": "7小时前",
+      "time": "13小时前",
       "published_ts": 1783887019,
-      "heat": "24.0K",
-      "views": "24.0K",
+      "heat": "18.2K",
+      "views": "21.1K",
       "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
       "tags": [],
       "body": "<p>Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smartglasses. [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -72,7 +267,7 @@
       "cat": "L3 · 推理工程",
       "title": "6 months to live for open models",
       "src": "Interconnects",
-      "time": "10小时前",
+      "time": "16小时前",
       "published_ts": 1783874862,
       "heat": "18.0K",
       "views": "18.0K",
@@ -85,10 +280,10 @@
       "cat": "L1 · 算力硬件",
       "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
       "src": "The Verge",
-      "time": "10小时前",
+      "time": "17小时前",
       "published_ts": 1783873626,
-      "heat": "18.2K",
-      "views": "21.1K",
+      "heat": "12.5K",
+      "views": "15.4K",
       "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
       "tags": [],
       "body": "<p>Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished, as Mark Gurman details [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -98,7 +293,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Lenovo's Legion 7a gaming laptop now comes with an RTX 5070 12GB GPU option — but it costs $3,375 paired with a Ryzen AI 9 CPU, SKU was previously limited to RTX 5060",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "17小时前",
       "published_ts": 1783871178,
       "heat": "15.0K",
       "views": "15.0K",
@@ -111,10 +306,10 @@
       "cat": "L4 · 交互Agent",
       "title": "One of SteelSeries&#8217; best gaming headsets is over $100 off",
       "src": "The Verge",
-      "time": "12小时前",
+      "time": "18小时前",
       "published_ts": 1783868400,
-      "heat": "15.4K",
-      "views": "18.2K",
+      "heat": "9.6K",
+      "views": "12.5K",
       "url": "https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale",
       "tags": [],
       "body": "<p>SteelSeries has the Arctis Nova Pro Wireless gaming headset on sale for $239.99 (currently between $300 and $350 at other retailers). The Xbox version that supports a host of other platforms including PlayStation, PC, and Switch is available in both black and white. The PlayStation version, which supports the same platforms except for Xbox, is [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -124,7 +319,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Sega Dreamcast driver fixes appear in Linux 7.2-rc3 — fabled console remains in favor while iconic computing architectures like i486 fall by the wayside",
       "src": "Tom's Hardware",
-      "time": "12小时前",
+      "time": "18小时前",
       "published_ts": 1783867913,
       "heat": "11.4K",
       "views": "13.2K",
@@ -137,7 +332,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Grab a blazing-fast dual-interface M.2 SSD enclosure for just $59 on Amazon — Asus' tool-less ROG Strix Aiolos is 14% off right now, featuring transfer speeds up to 20 Gbps",
       "src": "Tom's Hardware",
-      "time": "13小时前",
+      "time": "19小时前",
       "published_ts": 1783864930,
       "heat": "9.6K",
       "views": "11.4K",
@@ -150,7 +345,7 @@
       "cat": "L5 · 生态商业",
       "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
       "src": "Wired",
-      "time": "17小时前",
+      "time": "23小时前",
       "published_ts": 1783850400,
       "heat": "16.5K",
       "views": "16.5K",
@@ -295,7 +490,7 @@
       "src": "Google AI Blog",
       "time": "2天前",
       "published_ts": 1783699920,
-      "heat": "34.5K",
+      "heat": "30.4K",
       "views": "34.5K",
       "url": "https://blog.google/products-and-platforms/products/google-health/bryson-dechambeau/",
       "tags": [],
@@ -308,8 +503,8 @@
       "src": "Google AI Blog",
       "time": "2天前",
       "published_ts": 1783699200,
-      "heat": "30.4K",
-      "views": "34.5K",
+      "heat": "26.2K",
+      "views": "30.4K",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-make-gemini-study-notebooks/",
       "tags": [],
       "body": "<p>Studying for a test, but not sure where to start? Study notebooks, a new feature in the Gemini app, can help you get organized and learn more efficiently.Think of study …</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -345,7 +540,7 @@
       "cat": "L4 · 交互Agent",
       "title": "How Deutsche Telekom is rewiring telecommunications with AI",
       "src": "OpenAI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1783666800,
       "heat": "45.0K",
       "views": "45.0K",
@@ -358,7 +553,7 @@
       "cat": "L4 · 交互Agent",
       "title": "[AINews] OpenAI launches GPT 5.6 Sol/Terra/Luna, Codex becomes ChatGPT superapp",
       "src": "Latent Space",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1783664380,
       "heat": "17.2K",
       "views": "19.5K",
@@ -371,7 +566,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
       "src": "Wired",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1783663200,
       "heat": "8.6K",
       "views": "10.6K",
@@ -418,19 +613,6 @@
       "tags": [],
       "body": "<p>The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or&#8230;</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a92ef852b": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.",
-      "src": "Google AI Blog",
-      "time": "3天前",
-      "published_ts": 1783612800,
-      "heat": "26.2K",
-      "views": "30.4K",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/",
-      "tags": [],
-      "body": "<p>Finding the most efficient algorithm — whether designing a microchip, routing a logistics network or accelerating medical research — can be challenging, with many possib…</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a02ed457a": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
@@ -443,6 +625,19 @@
       "url": "https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/",
       "tags": [],
       "body": "<p>Search windows</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a92ef852b": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.",
+      "src": "Google AI Blog",
+      "time": "3天前",
+      "published_ts": 1783612800,
+      "heat": "17.9K",
+      "views": "22.1K",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/",
+      "tags": [],
+      "body": "<p>Finding the most efficient algorithm — whether designing a microchip, routing a logistics network or accelerating medical research — can be challenging, with many possib…</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "ac2cea53b": {
       "layer": "l4",
@@ -553,10 +748,10 @@
       "cat": "L2 · 基础模型",
       "title": "Building the future of global health, together",
       "src": "Google AI Blog",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1783584000,
-      "heat": "17.9K",
-      "views": "22.1K",
+      "heat": "13.8K",
+      "views": "17.9K",
       "url": "https://blog.google/innovation-and-ai/technology/health/open-health-stack-software-foundation/",
       "tags": [],
       "body": "<p>Collage of different pairs of people interacting</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -566,7 +761,7 @@
       "cat": "L5 · 生态商业",
       "title": "[AINews] SpaceXAI launches Grok 4.5, first Opus-class model post Cursor acquisition",
       "src": "Latent Space",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1783577141,
       "heat": "14.8K",
       "views": "17.2K",
@@ -657,7 +852,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
       "src": "Ars Technica",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1783494051,
       "heat": "7.2K",
       "views": "9.4K",
@@ -722,7 +917,7 @@
       "cat": "L1 · 算力硬件",
       "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
       "src": "NVIDIA Blog",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1783404026,
       "heat": "24.0K",
       "views": "28.5K",
@@ -735,7 +930,7 @@
       "cat": "L1 · 算力硬件",
       "title": "[AINews] The Field Guide to Fable",
       "src": "Latent Space",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1783399493,
       "heat": "7.8K",
       "views": "10.1K",
@@ -1333,7 +1528,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "326天前",
+      "time": "327天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1538,15 +1733,34 @@
     }
   },
   "by_layer": {
-    "l3": [
-      "a1c32d46f",
-      "ae586be86",
-      "ac18efa26",
-      "a32296677",
-      "a774f3120",
-      "a28f84720"
+    "l4": [
+      "ae6aaaaef",
+      "ae624a510",
+      "ac8db75ac",
+      "a4dfdc368",
+      "a20a3e3ea",
+      "a364fc733",
+      "a2e21c2fd",
+      "af1dafa7a",
+      "aa4fc908c",
+      "ac2cea53b",
+      "aed4d6d26",
+      "a76703f56",
+      "a28707d2f",
+      "a60dc3fc4",
+      "abec9cfcc",
+      "a272de4e1",
+      "ab59fe080",
+      "a61a8adff",
+      "ad01feb8a"
     ],
     "l2": [
+      "ad9cfd0f6",
+      "a646481cc",
+      "a6b0374a8",
+      "a439c5055",
+      "acb1e702c",
+      "ad0cc3c7b",
       "a6b442289",
       "a4815099b",
       "ac8aab00b",
@@ -1580,26 +1794,8 @@
       "ab3119897",
       "af0f189d1"
     ],
-    "l4": [
-      "ac8db75ac",
-      "a4dfdc368",
-      "a20a3e3ea",
-      "a364fc733",
-      "a2e21c2fd",
-      "af1dafa7a",
-      "aa4fc908c",
-      "ac2cea53b",
-      "aed4d6d26",
-      "a76703f56",
-      "a28707d2f",
-      "a60dc3fc4",
-      "abec9cfcc",
-      "a272de4e1",
-      "ab59fe080",
-      "a61a8adff",
-      "ad01feb8a"
-    ],
     "l1": [
+      "a09386769",
       "acf167ed9",
       "af4ebc0c2",
       "a53e7fe7b",
@@ -1635,16 +1831,10 @@
       "a5236c597",
       "a2ae2603b"
     ],
-    "l5": [
-      "a4611b4a5",
-      "a03cbf0e9",
-      "a0df0deef",
-      "aa3737fc5",
-      "a04dbd8b1",
-      "a2baa3fb5",
-      "a065c82cd"
-    ],
     "l0": [
+      "a09152903",
+      "a82c5dac4",
+      "a059367a5",
       "ac7c6a26f",
       "af4fc66aa",
       "af4750bd6",
@@ -1667,14 +1857,34 @@
       "a253e0446",
       "a9173515c",
       "abcb7b0c4"
+    ],
+    "l3": [
+      "a6b564140",
+      "af880628b",
+      "acf5eb847",
+      "a1c32d46f",
+      "ae586be86",
+      "ac18efa26",
+      "a32296677",
+      "a774f3120",
+      "a28f84720"
+    ],
+    "l5": [
+      "a4611b4a5",
+      "a03cbf0e9",
+      "a0df0deef",
+      "aa3737fc5",
+      "a04dbd8b1",
+      "a2baa3fb5",
+      "a065c82cd"
     ]
   },
   "top5": [
-    "a1c32d46f",
-    "ae586be86",
-    "a6b442289",
-    "a4815099b",
-    "ac8db75ac"
+    "ae6aaaaef",
+    "ad9cfd0f6",
+    "ae624a510",
+    "a09386769",
+    "a09152903"
   ],
   "layers": [
     {
@@ -1682,12 +1892,12 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        26,
-        38,
-        31,
+        25,
+        34,
+        8,
         9,
-        30,
-        23
+        36,
+        24
       ],
       "trend": [
         20,
@@ -1704,12 +1914,12 @@
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        18,
-        18,
-        14,
-        9,
-        40,
-        24
+        27,
+        17,
+        13,
+        8,
+        31,
+        23
       ],
       "trend": [
         20,
@@ -1726,11 +1936,11 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        23,
-        10,
+        24,
+        25,
         9,
         6,
-        30,
+        29,
         19
       ],
       "trend": [
@@ -1744,34 +1954,12 @@
       ]
     },
     {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
-      "vals": [
-        14,
-        10,
-        5,
-        5,
-        10,
-        12
-      ],
-      "trend": [
-        20,
-        18,
-        16,
-        14,
-        12,
-        10,
-        8
-      ]
-    },
-    {
       "id": "l4",
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        10,
-        10,
+        13,
+        20,
         7,
         5,
         11,
@@ -1788,6 +1976,28 @@
       ]
     },
     {
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
+      "vals": [
+        10,
+        11,
+        7,
+        6,
+        15,
+        13
+      ],
+      "trend": [
+        20,
+        18,
+        16,
+        14,
+        12,
+        10,
+        8
+      ]
+    },
+    {
       "id": "l5",
       "num": "LAYER 5",
       "name": "生态商业",
@@ -1796,8 +2006,8 @@
         10,
         5,
         5,
-        10,
-        20
+        19,
+        10
       ],
       "trend": [
         20,
@@ -1812,93 +2022,111 @@
   ],
   "ticker": [
     {
-      "tag": "SIMON WIL",
-      "col": "var(--l3)",
-      "text": "Directly Responsible Individuals (DRI)"
+      "tag": "THE VERGE",
+      "col": "var(--l4)",
+      "text": "Social media limits are coming for teens across Europe"
     },
     {
-      "tag": "SIMON WIL",
-      "col": "var(--l3)",
-      "text": "shot-scraper 1.11"
-    },
-    {
-      "tag": "SIMON WIL",
+      "tag": "GOOGLE AI",
       "col": "var(--l2)",
-      "text": "Fable gets another bump"
-    },
-    {
-      "tag": "SIMON WIL",
-      "col": "var(--l2)",
-      "text": "sqlite-utils 4.1.1"
+      "text": "Waze rolls out new customization features and more Gemini updates"
     },
     {
       "tag": "THE VERGE",
       "col": "var(--l4)",
-      "text": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’"
+      "text": "Waze is getting a bunch of new AI-powered features"
     },
     {
-      "tag": "INTERCONN",
+      "tag": "ARXIV CS.",
+      "col": "var(--l1)",
+      "text": "A Unified Approach to Interpreting Knowledge Distillation for Lar…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l0)",
+      "text": "iLENS: Interpretable LLM-Guided Mixture-of-Experts for Neuroimagi…"
+    },
+    {
+      "tag": "ARXIV CS.",
       "col": "var(--l3)",
-      "text": "6 months to live for open models"
+      "text": "Signed Symmetric Quantization for Few-Bit Integers"
     },
     {
-      "tag": "THE VERGE",
-      "col": "var(--l1)",
-      "text": "Apple’s failed self-driving car program left a legacy of powerful…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Lenovo's Legion 7a gaming laptop now comes with an RTX 5070 12GB …"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "One of SteelSeries&#8217; best gaming headsets is over $100 off"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Sega Dreamcast driver fixes appear in Linux 7.2-rc3 — fabled cons…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Grab a blazing-fast dual-interface M.2 SSD enclosure for just $59…"
-    },
-    {
-      "tag": "WIRED",
-      "col": "var(--l5)",
-      "text": "Scientists’ Side Hustle? Using AI and Quantum Computing to Genera…"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "OpenAI bets on families as ChatGPT goes deeper into households"
-    },
-    {
-      "tag": "LATENT SP",
+      "tag": "ARXIV CS.",
       "col": "var(--l2)",
-      "text": "[AINews] not much happened today"
+      "text": "Sticky Routing: Training MoE Models for Memory-Efficient Inferenc…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Reward Transport: Property Control in Flow Matching via Noise-Spa…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l0)",
+      "text": "Director: Accelerating Distributed MoE Serving via Online Proacti…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Interval Certifications for Multilayered Perceptrons via Lattice …"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l3)",
+      "text": "CogniConsole: Externalizing Inference-Time Control as a Formal Ab…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l3)",
+      "text": "GATS: Graph-Augmented Tree Search with Layered World Models for E…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "A Formalization of the Mean-Field Derivation of the Vlasov Equati…"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Ask HN: Add flag for AI-generated articles",
-      "url": "https://news.ycombinator.com/item?id=48886741",
-      "votes": "132",
-      "comments": "89",
+      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+      "votes": "87",
+      "comments": "45",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Old and new apps, via modern coding agents",
-      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "votes": "420",
-      "comments": "124",
+      "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
+      "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
+      "votes": "28",
+      "comments": "16",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Frieve Vinyl Explained – Microscopic stylus/groove physics simulation",
+      "url": "https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html",
+      "votes": "10",
+      "comments": "1",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Ask HN: Add flag for AI-generated articles",
+      "url": "https://news.ycombinator.com/item?id=48886741",
+      "votes": "652",
+      "comments": "300",
       "time": "近期"
     },
     {
@@ -1906,8 +2134,8 @@
       "badge": "pb-hn",
       "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
       "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-      "votes": "150",
-      "comments": "50",
+      "votes": "204",
+      "comments": "88",
       "time": "近期"
     },
     {
@@ -1915,26 +2143,8 @@
       "badge": "pb-hn",
       "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
       "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "votes": "484",
-      "comments": "274",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "I Learned to Read Again",
-      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
-      "votes": "108",
-      "comments": "47",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Automation Without Understanding",
-      "url": "https://arxiv.org/abs/2607.06377",
-      "votes": "100",
-      "comments": "43",
+      "votes": "586",
+      "comments": "322",
       "time": "近期"
     }
   ]
