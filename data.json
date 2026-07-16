@@ -1,13 +1,208 @@
 {
-  "updated_at": "2026-07-16T02:47:43.263105+00:00",
-  "article_count": 127,
+  "updated_at": "2026-07-16T08:18:27.116889+00:00",
+  "article_count": 131,
   "articles": {
+    "a76e2786c": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "We’re partnering with Screwfix to help the nation's tradespeople nail admin and grow their businesses using AI.",
+      "src": "Google AI Blog",
+      "time": "1小时前",
+      "published_ts": 1784185200,
+      "heat": "34.5K",
+      "views": "34.5K",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/were-partnering-with-screwfix-to-help-the-nations-tradespeople-nail-admin-and-grow-their-businesses-using-ai/",
+      "tags": [],
+      "body": "<p>Four men in workwear interact at a Google promotional booth outside a hardware store. The setup features a barista serving coffee, tall Gemini banners, and a digital screen showing the Gemini AI interface inside a partially constructed room.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ae72b605c": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "[AINews] Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
+      "src": "Latent Space",
+      "time": "2小时前",
+      "published_ts": 1784182685,
+      "heat": "19.5K",
+      "views": "19.5K",
+      "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
+      "tags": [],
+      "body": "<p>Thinky's first full LLM release is a banger and bonus: it's open weights!</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a782ce3b8": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Automatic Differentiation from Scratch: How PyTorch Computes Gradients in Physics-Informed Neural Networks",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1784174400,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2607.13042",
+      "tags": [],
+      "body": "<p>arXiv:2607.13042v1 Announce Type: new Abstract: This paper traces, with explicit numerical values, how PyTorch's automatic differentiation (AD) engine computes gradients for Physics-Informed Neural Network (PINN) training -- a setting that requires two levels of differentiation: computing the physics derivative $\\hat{y}'(t)=d\\hat{y}/dt$ through the network, and computing parameter gradients $\\nabl</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a4f08b34b": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Beyond Backbone Backpropagation: A Decoupled Strategy for Efficient Transfer Learning",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1784174400,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2607.13043",
+      "tags": [],
+      "body": "<p>arXiv:2607.13043v1 Announce Type: new Abstract: Deep learning models achieve state-of-the-art image classification but face deployment challenges due to computational costs and energy demands. We propose a lightweight training strategy that adapts normalization layers of the model to the new domain and decouples feature extraction from classifier optimization, reducing overhead by precomputing fea</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a971e7e4f": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Federated Explainable Artificial Intelligence: Roles, Architectures, Evaluation, and Open Challenges",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1784174400,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2607.13045",
+      "tags": [],
+      "body": "<p>arXiv:2607.13045v1 Announce Type: new Abstract: Federated Learning (FL) has emerged as a key paradigm for privacy-preserving collaborative model training across distributed and heterogeneous data sources. By keeping raw data local, FL addresses data confidentiality concerns, yet it does not resolve the opacity of modern machine learning models. In parallel, Explainable Artificial Intelligence (XAI</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a2d53ae45": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "What Your Model Threw Away and Why You'll Want It Back: Masking, Fingerprinting, and Privacy from Discarded Geometry",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1784174400,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2607.13046",
+      "tags": [],
+      "body": "<p>arXiv:2607.13046v1 Announce Type: new Abstract: We develop a framework for the information discarded by machine learning models whose inputs carry a Lie group action. Given a representation $\\pi$ of a Lie group $G$ on a space $V$ and a learned function $f\\colon V \\to \\mathbb{R}$, we define two objects measuring the symmetry invisible to $f$. The null fiber at a point $x \\in V$ is the set $N_G(f,x)</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a59008c71": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Targeted Recovery of Weight-Space Mechanisms From Neural Networks",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1784174400,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2607.13047",
+      "tags": [],
+      "body": "<p>arXiv:2607.13047v1 Announce Type: new Abstract: Parameter decomposition (PD) decomposes neural networks into interpretable computational components that faithfully reflect the original network's operations. However, scaling PD to large models requires vast compute, making it a costly and risky endeavor. Here we propose targeted PD (tPD), which identifies only the components that process specific i</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a0c87ba90": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "Uncertainty-Aware Sequential Decision Rules for Event-Triggered LLM Invocation in Streaming Systems",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1784174400,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2607.13048",
+      "tags": [],
+      "body": "<p>arXiv:2607.13048v1 Announce Type: new Abstract: Streaming inference pipelines increasingly pair lightweight fast models with Large Language Models (LLMs) that provide rich semantic understanding at substantial cost. The central question of when to invoke the LLM has received limited formal treatment. We cast this as a risk-based sequential stopping problem, where a trigger policy fires when a risk</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a9a8b183f": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1784174400,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2607.13037",
+      "tags": [],
+      "body": "<p>arXiv:2607.13037v1 Announce Type: new Abstract: When a data contributor requests removal, model trainers face a practical gap: unlearning algorithms require a forget set, yet no tool can locate which training records belong to a given author. Existing provenance systems operate at file or dataset level, forcing catastrophic over-deletion. We present ob, a record- and token-level data provenance sy</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ae884aed3": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1784174400,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2607.13049",
+      "tags": [],
+      "body": "<p>arXiv:2607.13049v1 Announce Type: new Abstract: Foundation models have given robots a sophisticated brain for complex decision-making, yet deploying that intelligence into a physical platform still demands tedious, expert-driven calibration. This deployment gap, the robot's spinal cord, remains a primary bottleneck to scalable Embodied AI. Hence, we propose SPINE (Scalable Physical Integration wit</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a8d6abbe7": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1784174400,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2607.13069",
+      "tags": [],
+      "body": "<p>arXiv:2607.13069v1 Announce Type: new Abstract: Large language models produce chain-of-thought (CoT) reasoning that appears logically sound yet may not genuinely depend on its stated premises. We introduce interventional grounding audits, a black-box, step-level test of premise dependency: we intervene on a single premise by substituting its target predicate with a fresh symbol, re-run the model, </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ae33aedcf": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1784174400,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2607.13073",
+      "tags": [],
+      "body": "<p>arXiv:2607.13073v1 Announce Type: new Abstract: Neuro-symbolic AI based on $IFOL_B$ is a way to combine neural learning and symbolic reasoning to overcome limitations of purely neural systems (like lack of interpretability and logical structure) with formal logical machinery for self-reference. In this paper we expand the cognitive power of $IFOL_B$ by using the probability computation for the cur</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aab4b4f97": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Self-Improvements in Modern Agentic Systems: A Survey",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1784174400,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2607.13104",
+      "tags": [],
+      "body": "<p>arXiv:2607.13104v1 Announce Type: new Abstract: Self-improving autonomous agents are moving from research prototypes to deployed systems. The primary goal is controllable evolution, or adaptation, from experience with minimal or even no human input. This survey frames modern self-improving agents as adaptive systems that convert experience into accumulated capability gains. We offer a system-level</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a36248136": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Improving Molecular Property Prediction in Small Language Models Using Graph-based Tools",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1784174400,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2607.13115",
+      "tags": [],
+      "body": "<p>arXiv:2607.13115v1 Announce Type: new Abstract: Small language models (SLMs) have shown promise for zero-shot molecular property prediction from SMILES strings, yet they often suffer from structural blindness because sequence representations under-specify key graph-topological cues. We propose a modular Context-Augmented Prompting framework that enables agentic tool use at inference time: a traine</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a0d06b5ba": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "src": "TechCrunch AI",
+      "time": "4小时前",
+      "published_ts": 1784174400,
+      "heat": "27.0K",
+      "views": "27.0K",
+      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "tags": [],
+      "body": "<p>Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a4598d0e0": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "Mermaid to Unicode box art (grok-mermaid)",
       "src": "Simon Willison",
-      "time": "2小时前",
+      "time": "7小时前",
       "published_ts": 1784161998,
       "heat": "15.0K",
       "views": "15.0K",
@@ -20,9 +215,9 @@
       "cat": "L2 · 基础模型",
       "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
       "src": "TechCrunch AI",
-      "time": "2小时前",
+      "time": "8小时前",
       "published_ts": 1784159984,
-      "heat": "27.0K",
+      "heat": "23.8K",
       "views": "27.0K",
       "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
       "tags": [],
@@ -33,7 +228,7 @@
       "cat": "L5 · 生态商业",
       "title": "xai-org/grok-build, now open source",
       "src": "Simon Willison",
-      "time": "2小时前",
+      "time": "8小时前",
       "published_ts": 1784159970,
       "heat": "13.2K",
       "views": "15.0K",
@@ -46,7 +241,7 @@
       "cat": "L1 · 算力硬件",
       "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
       "src": "NVIDIA Blog",
-      "time": "3小时前",
+      "time": "9小时前",
       "published_ts": 1784156454,
       "heat": "37.5K",
       "views": "37.5K",
@@ -59,7 +254,7 @@
       "cat": "L1 · 算力硬件",
       "title": "HP&#8217;s OLED-equipped 2-in-1 laptop is a solid back-to-school deal",
       "src": "The Verge",
-      "time": "4小时前",
+      "time": "9小时前",
       "published_ts": 1784155631,
       "heat": "21.1K",
       "views": "24.0K",
@@ -72,7 +267,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads",
       "src": "The Verge",
-      "time": "4小时前",
+      "time": "9小时前",
       "published_ts": 1784155180,
       "heat": "18.2K",
       "views": "21.1K",
@@ -85,7 +280,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
       "src": "VentureBeat AI",
-      "time": "4小时前",
+      "time": "9小时前",
       "published_ts": 1784154257,
       "heat": "15.0K",
       "views": "15.0K",
@@ -98,7 +293,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Valve says iFixit will keep selling Steam Deck batteries after all",
       "src": "The Verge",
-      "time": "4小时前",
+      "time": "10小时前",
       "published_ts": 1784153806,
       "heat": "15.4K",
       "views": "18.2K",
@@ -111,7 +306,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
       "src": "Ars Technica",
-      "time": "5小时前",
+      "time": "10小时前",
       "published_ts": 1784151716,
       "heat": "18.0K",
       "views": "18.0K",
@@ -124,7 +319,7 @@
       "cat": "L4 · 交互Agent",
       "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
       "src": "The Verge",
-      "time": "5小时前",
+      "time": "10小时前",
       "published_ts": 1784151200,
       "heat": "12.5K",
       "views": "15.4K",
@@ -137,7 +332,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Brendan Carr plans to let broadcast giants dominate the airwaves",
       "src": "The Verge",
-      "time": "5小时前",
+      "time": "10小时前",
       "published_ts": 1784151017,
       "heat": "9.6K",
       "views": "12.5K",
@@ -150,10 +345,10 @@
       "cat": "L1 · 算力硬件",
       "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
       "src": "TechCrunch AI",
-      "time": "7小时前",
+      "time": "12小时前",
       "published_ts": 1784144498,
-      "heat": "23.8K",
-      "views": "27.0K",
+      "heat": "20.5K",
+      "views": "23.8K",
       "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
       "tags": [],
       "body": "<p>OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -163,7 +358,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Nvidia's Huang vows to deliver 'giant amounts' of Vera Rubin — company says that 'our roadmap is intact'",
       "src": "Tom's Hardware",
-      "time": "7小时前",
+      "time": "13小时前",
       "published_ts": 1784142437,
       "heat": "15.0K",
       "views": "15.0K",
@@ -176,7 +371,7 @@
       "cat": "L5 · 生态商业",
       "title": "AI Isn’t Smarter Than a Baby—Yet",
       "src": "Wired",
-      "time": "8小时前",
+      "time": "13小时前",
       "published_ts": 1784140200,
       "heat": "16.5K",
       "views": "16.5K",
@@ -189,7 +384,7 @@
       "cat": "L2 · 基础模型",
       "title": "Thinking Machines Lab Drops Its First Model",
       "src": "Wired",
-      "time": "8小时前",
+      "time": "14小时前",
       "published_ts": 1784138700,
       "heat": "14.5K",
       "views": "16.5K",
@@ -202,10 +397,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
       "src": "TechCrunch AI",
-      "time": "8小时前",
+      "time": "14小时前",
       "published_ts": 1784138646,
-      "heat": "17.3K",
-      "views": "20.5K",
+      "heat": "14.0K",
+      "views": "17.3K",
       "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
       "tags": [],
       "body": "<p>It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -215,7 +410,7 @@
       "cat": "L2 · 基础模型",
       "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
       "src": "MIT Tech Review",
-      "time": "9小时前",
+      "time": "15小时前",
       "published_ts": 1784135377,
       "heat": "22.5K",
       "views": "22.5K",
@@ -228,7 +423,7 @@
       "cat": "L2 · 基础模型",
       "title": "Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Optimization",
       "src": "Meta Engineering",
-      "time": "9小时前",
+      "time": "15小时前",
       "published_ts": 1784134852,
       "heat": "30.0K",
       "views": "30.0K",
@@ -241,33 +436,20 @@
       "cat": "L2 · 基础模型",
       "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
       "src": "TechCrunch AI",
-      "time": "9小时前",
+      "time": "15小时前",
       "published_ts": 1784134834,
-      "heat": "14.0K",
-      "views": "17.3K",
+      "heat": "10.8K",
+      "views": "14.0K",
       "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
       "tags": [],
       "body": "<p>The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ad26a401e": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
-      "src": "TechCrunch AI",
-      "time": "9小时前",
-      "published_ts": 1784134800,
-      "heat": "10.8K",
-      "views": "14.0K",
-      "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
-      "tags": [],
-      "body": "<p>Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a313d47e4": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "CXMT's DDR5 RAM isn't as performant or as consistent as SK hynix dies, early testing shows — reveals resistance to voltage scaling and inferior manual overclocking capabilities",
       "src": "Tom's Hardware",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1784133294,
       "heat": "13.2K",
       "views": "15.0K",
@@ -280,7 +462,7 @@
       "cat": "L1 · 算力硬件",
       "title": "ASRock Phantom Gaming and Steel Legend 360 LCD review: An impressive cooling debut",
       "src": "Tom's Hardware",
-      "time": "10小时前",
+      "time": "16小时前",
       "published_ts": 1784131905,
       "heat": "11.4K",
       "views": "13.2K",
@@ -293,7 +475,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Podcast: We Are Living in a ‘ChatGPT Flyer Pandemic’",
       "src": "404 Media",
-      "time": "10小时前",
+      "time": "16小时前",
       "published_ts": 1784131114,
       "heat": "15.0K",
       "views": "15.0K",
@@ -306,7 +488,7 @@
       "cat": "L4 · 交互Agent",
       "title": "The First Chatbot’s Multiple Personalities",
       "src": "IEEE Spectrum",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1784129753,
       "heat": "15.0K",
       "views": "15.0K",
@@ -319,7 +501,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Intel becomes the first company to ship high-volume logic chips made with ASML's High NA EUV — select Panther Lake layers on 18A are now dual-qualified for 0.55 NA scanners",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1784129593,
       "heat": "9.6K",
       "views": "11.4K",
@@ -332,7 +514,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Intel's EMIB packaging gains traction as chip designers look to skirt TSMC's CoWoS constraints — Google's reported decision for 9th-gen TPUs highlights Intel's attractive alternative",
       "src": "Tom's Hardware",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1784126715,
       "heat": "6.0K",
       "views": "7.8K",
@@ -345,7 +527,7 @@
       "cat": "L2 · 基础模型",
       "title": "How I tricked Claude into leaking your deepest, darkest secrets",
       "src": "Simon Willison",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1784125314,
       "heat": "11.4K",
       "views": "13.2K",
@@ -358,7 +540,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Hack Reveals Suno AI Music Generator Scraped YouTube, Deezer, and Genius",
       "src": "404 Media",
-      "time": "12小时前",
+      "time": "18小时前",
       "published_ts": 1784123978,
       "heat": "13.2K",
       "views": "15.0K",
@@ -371,7 +553,7 @@
       "cat": "L1 · 算力硬件",
       "title": "This AI Folds DNA Into Mini Masterpieces",
       "src": "IEEE Spectrum",
-      "time": "13小时前",
+      "time": "19小时前",
       "published_ts": 1784120401,
       "heat": "13.2K",
       "views": "15.0K",
@@ -384,7 +566,7 @@
       "cat": "L2 · 基础模型",
       "title": "The US is advancing AI safety through state and federal action",
       "src": "OpenAI Blog",
-      "time": "14小时前",
+      "time": "20小时前",
       "published_ts": 1784116800,
       "heat": "45.0K",
       "views": "45.0K",
@@ -397,7 +579,7 @@
       "cat": "L5 · 生态商业",
       "title": "An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
       "src": "Wired",
-      "time": "14小时前",
+      "time": "20小时前",
       "published_ts": 1784116800,
       "heat": "12.5K",
       "views": "14.5K",
@@ -410,7 +592,7 @@
       "cat": "L1 · 算力硬件",
       "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
       "src": "NVIDIA Blog",
-      "time": "15小时前",
+      "time": "21小时前",
       "published_ts": 1784112697,
       "heat": "33.0K",
       "views": "37.5K",
@@ -423,7 +605,7 @@
       "cat": "L2 · 基础模型",
       "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
       "src": "OpenAI Blog",
-      "time": "16小时前",
+      "time": "22小时前",
       "published_ts": 1784109600,
       "heat": "39.6K",
       "views": "45.0K",
@@ -436,7 +618,7 @@
       "cat": "L4 · 交互Agent",
       "title": "My Ebike Delivery Went Missing. When I Tried to Recover It, I Ended Up in Chatbot Hell",
       "src": "Wired",
-      "time": "16小时前",
+      "time": "22小时前",
       "published_ts": 1784109600,
       "heat": "10.6K",
       "views": "12.5K",
@@ -449,117 +631,13 @@
       "cat": "L0 · 领袖观点",
       "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
       "src": "Wired",
-      "time": "17小时前",
+      "time": "23小时前",
       "published_ts": 1784106000,
       "heat": "8.6K",
       "views": "10.6K",
       "url": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
       "tags": [],
       "body": "<p>OpenAI employees have donated more than $215,000 to a political effort opposing Leading the Future, a group backed by the company’s president, Greg Brockman.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a290bcfa3": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "OmniPMNet: Bridging discrete and gridded PM10 forecasts via omni-query neural processes",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1784088000,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2607.11896",
-      "tags": [],
-      "body": "<p>arXiv:2607.11896v1 Announce Type: new Abstract: Forecasting particulate matter (PM10) requires both station-scale accuracy and continuous spatial fields, especially during severe dust storms. Chemical transport models (CTMs) provide gridded forecasts but retain local biases, whereas graph neural networks (GNNs) track monitoring sites well at short lead times but do not produce gridded outputs. Her</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a4a5b0c9d": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Repairing Shape-Prior Shortcuts in Long-Range Single-Shot Fringe Projection Profilometry",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1784088000,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://arxiv.org/abs/2607.11928",
-      "tags": [],
-      "body": "<p>arXiv:2607.11928v1 Announce Type: new Abstract: Single-shot fringe projection profilometry (FPP) networks that regress depth directly can exploit a shape-prior shortcut, recovering depth from object boundaries rather than from fringe phase. On a photorealistic synthetic benchmark (15,600 fringe images, 50 objects at 1.5-2.1 m standoff), the best such UNet baseline plateaus at 14.54 mm object mean </p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a24b6c889": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Mirror Horizon: Viable Path Entropy as a Measure of Bounded Reflection",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1784088000,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://arxiv.org/abs/2607.11937",
-      "tags": [],
-      "body": "<p>arXiv:2607.11937v1 Announce Type: new Abstract: Mirror Theory proposes that an intelligent system should be studied not only by what it represents, but by what coherent continuations it can sustain under repeated reflection. We make this claim operational through \\emph{viable path entropy} (VPE), a finite-budget measure of verified continuation capacity. Given a mirror state, a rollout protocol, a</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a0cb9d4f5": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Mathematics of Data Science",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1784088000,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://arxiv.org/abs/2607.11938",
-      "tags": [],
-      "body": "<p>arXiv:2607.11938v1 Announce Type: new Abstract: This book is about the mathematical foundations of data science. 1. Introduction 2. Curses, Blessings, and Surprises in High Dimensions 3. Singular Value Decomposition and Principal Component Analysis 4. Linear Regression and Regularization 5. Graphs, Networks, and Clustering 6. Nonlinear Dimension Reduction and Diffusion Maps 7. Linear Dimension Red</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a6579ebb6": {
-      "layer": "l3",
-      "cat": "L3 · 推理工程",
-      "title": "In-Context Reinforcement Learning under Non-Stationarity: A Survey",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1784088000,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2607.11906",
-      "tags": [],
-      "body": "<p>arXiv:2607.11906v1 Announce Type: new Abstract: The development of decision-pretrained transformers, algorithm distillation, long-context meta-RL, and retrieval-augmented agents has renewed interest in in-context reinforcement learning (ICRL): the ability of a pretrained or fine-tuned decision model to infer latent task rules and improve future behavior from interaction context, without test-time </p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ac470c77b": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1784088000,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://arxiv.org/abs/2607.11948",
-      "tags": [],
-      "body": "<p>arXiv:2607.11948v1 Announce Type: new Abstract: Regulated financial institutions operating under data-residency rules need tenant-owned language models that can run inside the institution's perimeter. This paper combines two related FAOS studies into one mechanism-and-control article. First, it reports a reduced-power proof-of-mechanism study of ontology-amplified distillation: a Qwen3.6-27B stude</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "af9aac768": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "GRID: Grammar-Railed Decoding for Enterprise SQL Generation",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1784088000,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://arxiv.org/abs/2607.11951",
-      "tags": [],
-      "body": "<p>arXiv:2607.11951v1 Announce Type: new Abstract: Large language models can write SQL, but enterprise deployment demands more than plausible text: outputs must be syntactically valid, must respect per-role and per-schema policy, must carry provable (not best-effort) guarantees, must not slow down as generations grow, and must leave a compliance-grade record of every decision. We present GRID (Gramma</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aa74f5de3": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Optimization Is Not All You Need",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1784088000,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://arxiv.org/abs/2607.11977",
-      "tags": [],
-      "body": "<p>arXiv:2607.11977v1 Announce Type: new Abstract: In 2019, OpenAI released two million GPT-2 outputs-ungrammatical, half broken-to aid the detection of machine-generated text. The alignment that produced their more fluent successors is usually regarded as an engineering achievement; we read it instead as the newest expression of optimization culture: the conviction, older than the technology, that m</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "ac8aab00b": {
       "layer": "l3",
@@ -568,7 +646,7 @@
       "src": "Latent Space",
       "time": "1天前",
       "published_ts": 1784073247,
-      "heat": "19.5K",
+      "heat": "17.2K",
       "views": "19.5K",
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-c72",
       "tags": [],
@@ -581,8 +659,8 @@
       "src": "Latent Space",
       "time": "1天前",
       "published_ts": 1784071281,
-      "heat": "17.2K",
-      "views": "19.5K",
+      "heat": "14.8K",
+      "views": "17.2K",
       "url": "https://www.latent.space/p/aiewf26trends",
       "tags": [],
       "body": "<p>At this year's AIE World&#8217;s Fair, AI engineering entered a new phase: building systems around agents, rather than just building with agents.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -633,7 +711,7 @@
       "src": "Google AI Blog",
       "time": "1天前",
       "published_ts": 1784066400,
-      "heat": "34.5K",
+      "heat": "30.4K",
       "views": "34.5K",
       "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-care-plus-open-enrollment-2026/",
       "tags": [],
@@ -646,8 +724,8 @@
       "src": "Google AI Blog",
       "time": "1天前",
       "published_ts": 1784059200,
-      "heat": "30.4K",
-      "views": "34.5K",
+      "heat": "26.2K",
+      "views": "30.4K",
       "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-met-ai-initiatives/",
       "tags": [],
       "body": "<p>The Met Prototypes & Play</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -672,8 +750,8 @@
       "src": "Google AI Blog",
       "time": "1天前",
       "published_ts": 1784044800,
-      "heat": "26.2K",
-      "views": "30.4K",
+      "heat": "22.1K",
+      "views": "26.2K",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/steel-river-arkansas/",
       "tags": [],
       "body": "<p>Google will both invest in and purchase energy and storage from Steel River Energy Center in Mississippi County, Arkansas.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -756,19 +834,6 @@
       "tags": [],
       "body": "<p>Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a7a99d96a": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "We’re expanding Gemini in Chrome to users in the U.K.",
-      "src": "Google AI Blog",
-      "time": "1天前",
-      "published_ts": 1784012400,
-      "heat": "13.8K",
-      "views": "17.9K",
-      "url": "https://blog.google/products-and-platforms/products/chrome/were-expanding-gemini-in-chrome-to-users-in-the-uk/",
-      "tags": [],
-      "body": "<p>Example of Chrome Partner Multi Tab featuring Jet2</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "ab5625e17": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
@@ -776,8 +841,8 @@
       "src": "Latent Space",
       "time": "2天前",
       "published_ts": 1783992147,
-      "heat": "14.8K",
-      "views": "17.2K",
+      "heat": "12.5K",
+      "views": "14.8K",
       "url": "https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months",
       "tags": [],
       "body": "<p>a quiet day lets us fact check some numbers against the sound of silence of Claude Code reporting...</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -845,7 +910,7 @@
       "views": "11.4K",
       "url": "https://spectrum.ieee.org/technical-interview-ai-arms-race",
       "tags": [],
-      "body": "<p>Software engineering jobs are under threat from AI . Some applicants are fighting back by using AI in the interview process, employing AI assistants that suggest responses on the fly during remote technical interviews. Meanwhile, some employers are countering with—you guessed it—AI. They’re applying AI-powered tools to detect telltale signs of AI use during interviews. This two-sided dynamic is tu</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>Software engineering jobs are under threat from artificial intelligence . Some applicants are fighting back by using AI in the interview process, employing AI assistants that suggest responses on the fly during remote technical interviews. Meanwhile, some employers are countering with—you guessed it—AI. They’re applying AI-powered tools to detect telltale signs of AI use during interviews. This tw</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a8c3226e5": {
       "layer": "l4",
@@ -891,7 +956,7 @@
       "cat": "L4 · 交互Agent",
       "title": "How Deutsche Telekom is rewiring telecommunications with AI",
       "src": "OpenAI Blog",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1783666800,
       "heat": "18.0K",
       "views": "23.4K",
@@ -904,10 +969,10 @@
       "cat": "L4 · 交互Agent",
       "title": "[AINews] OpenAI launches GPT 5.6 Sol/Terra/Luna, Codex becomes ChatGPT superapp",
       "src": "Latent Space",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1783664380,
-      "heat": "10.1K",
-      "views": "12.5K",
+      "heat": "7.8K",
+      "views": "10.1K",
       "url": "https://www.latent.space/p/ainews-openai-launches-gpt-56-solterraluna",
       "tags": [],
       "body": "<p>A big day for OpenAI.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -950,19 +1015,6 @@
       "url": "https://spectrum.ieee.org/large-tabular-models-nexus",
       "tags": [],
       "body": "<p>The large language models (LLMs) that form the basis of generative AI chatbots such as ChatGPT, Claude, and Gemini can generate uncannily human-like text and images. But these models still struggle with a skill that, ironically, looks at face value to be right in their wheelhouse: analyzing structured data. A new type of generative AI is set to change this situation. Although you can get your favo</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aa3737fc5": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "[AINews] SpaceXAI launches Grok 4.5, first Opus-class model post Cursor acquisition",
-      "src": "Latent Space",
-      "time": "6天前",
-      "published_ts": 1783577141,
-      "heat": "7.8K",
-      "views": "10.1K",
-      "url": "https://www.latent.space/p/ainews-spacexai-launches-grok-45",
-      "tags": [],
-      "body": "<p>SpaceXAI continues to move faster than any other frontier lab on earth.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a7d8049ee": {
       "layer": "l1",
@@ -1450,7 +1502,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "329天前",
+      "time": "330天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1656,6 +1708,8 @@
   },
   "by_layer": {
     "l1": [
+      "a76e2786c",
+      "a971e7e4f",
       "a4598d0e0",
       "ac991a86f",
       "a1441b117",
@@ -1667,9 +1721,6 @@
       "ad167f653",
       "aab06e15c",
       "a73a34a59",
-      "a290bcfa3",
-      "af9aac768",
-      "aa74f5de3",
       "a510cf905",
       "ab81bdbeb",
       "afbb0d014",
@@ -1687,7 +1738,24 @@
       "a5236c597",
       "a2ae2603b"
     ],
+    "l3": [
+      "ae72b605c",
+      "a0c87ba90",
+      "ac8aab00b",
+      "ad8ab496b",
+      "a27cc72ab",
+      "ac18efa26",
+      "a32296677",
+      "a774f3120",
+      "a28f84720"
+    ],
     "l2": [
+      "a782ce3b8",
+      "a4f08b34b",
+      "a2d53ae45",
+      "a59008c71",
+      "a9a8b183f",
+      "a8d6abbe7",
       "a32be0ecf",
       "ab212d8ff",
       "a887de6b8",
@@ -1696,14 +1764,10 @@
       "af619d7fc",
       "af4979509",
       "a0cea288a",
-      "a4a5b0c9d",
-      "a0cb9d4f5",
-      "ac470c77b",
       "a717c27c7",
       "a8384126d",
       "a7cfdac14",
       "ad590d1d4",
-      "a7a99d96a",
       "ab5625e17",
       "a8f66cd39",
       "ad2261bb2",
@@ -1724,17 +1788,11 @@
       "ab3119897",
       "af0f189d1"
     ],
-    "l5": [
-      "af6dd152f",
-      "ac76992ce",
-      "ad26a401e",
-      "a623d4559",
-      "a582f34c7",
-      "a3f602341",
-      "aa3737fc5",
-      "a065c82cd"
-    ],
     "l4": [
+      "ae884aed3",
+      "aab4b4f97",
+      "a36248136",
+      "a0d06b5ba",
       "a9fa4caf7",
       "a6539f98d",
       "a01dada7e",
@@ -1762,10 +1820,10 @@
       "ad01feb8a"
     ],
     "l0": [
+      "ae33aedcf",
       "ae103f60f",
       "a5c26565c",
       "a2f4450bb",
-      "a24b6c889",
       "af71a901f",
       "aa30aaca1",
       "a096f6a55",
@@ -1784,23 +1842,21 @@
       "a9173515c",
       "abcb7b0c4"
     ],
-    "l3": [
-      "a6579ebb6",
-      "ac8aab00b",
-      "ad8ab496b",
-      "a27cc72ab",
-      "ac18efa26",
-      "a32296677",
-      "a774f3120",
-      "a28f84720"
+    "l5": [
+      "af6dd152f",
+      "ac76992ce",
+      "a623d4559",
+      "a582f34c7",
+      "a3f602341",
+      "a065c82cd"
     ]
   },
   "top5": [
-    "a4598d0e0",
-    "a32be0ecf",
-    "af6dd152f",
-    "ac991a86f",
-    "a1441b117"
+    "a76e2786c",
+    "ae72b605c",
+    "a782ce3b8",
+    "a4f08b34b",
+    "a971e7e4f"
   ],
   "layers": [
     {
@@ -1808,12 +1864,12 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        31,
-        24,
-        28,
+        32,
+        17,
+        35,
         9,
-        34,
-        23
+        39,
+        24
       ],
       "trend": [
         20,
@@ -1830,21 +1886,21 @@
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        26,
-        29,
-        9,
-        25,
-        25,
-        19
+        12,
+        32,
+        11,
+        22,
+        31,
+        21
       ],
       "trend": [
         20,
-        20,
-        20,
-        20,
-        20,
-        20,
-        20
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
       ]
     },
     {
@@ -1852,11 +1908,11 @@
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        29,
-        15,
+        12,
+        20,
         11,
         7,
-        28,
+        21,
         21
       ],
       "trend": [
@@ -1874,11 +1930,11 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        11,
-        12,
+        18,
+        15,
         8,
         5,
-        11,
+        18,
         18
       ],
       "trend": [
@@ -1892,16 +1948,16 @@
       ]
     },
     {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
       "vals": [
         10,
-        14,
-        5,
-        5,
-        12,
-        10
+        17,
+        15,
+        8,
+        10,
+        13
       ],
       "trend": [
         20,
@@ -1914,16 +1970,16 @@
       ]
     },
     {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
       "vals": [
-        11,
+        10,
         10,
         5,
-        9,
-        10,
-        13
+        5,
+        13,
+        10
       ],
       "trend": [
         20,
@@ -1938,74 +1994,74 @@
   ],
   "ticker": [
     {
-      "tag": "SIMON WIL",
+      "tag": "GOOGLE AI",
       "col": "var(--l1)",
-      "text": "Mermaid to Unicode box art (grok-mermaid)"
+      "text": "We’re partnering with Screwfix to help the nation's tradespeople …"
     },
     {
-      "tag": "TECHCRUNC",
+      "tag": "LATENT SP",
+      "col": "var(--l3)",
+      "text": "[AINews] Thinky's Inkling: 975B-A41B multimodal, new best America…"
+    },
+    {
+      "tag": "ARXIV CS.",
       "col": "var(--l2)",
-      "text": "Microsoft is reportedly training salespeople to talk down OpenAI …"
+      "text": "Automatic Differentiation from Scratch: How PyTorch Computes Grad…"
     },
     {
-      "tag": "SIMON WIL",
-      "col": "var(--l5)",
-      "text": "xai-org/grok-build, now open source"
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Beyond Backbone Backpropagation: A Decoupled Strategy for Efficie…"
     },
     {
-      "tag": "NVIDIA BL",
+      "tag": "ARXIV CS.",
       "col": "var(--l1)",
-      "text": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream…"
+      "text": "Federated Explainable Artificial Intelligence: Roles, Architectur…"
     },
     {
-      "tag": "THE VERGE",
-      "col": "var(--l1)",
-      "text": "HP&#8217;s OLED-equipped 2-in-1 laptop is a solid back-to-school …"
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "What Your Model Threw Away and Why You'll Want It Back: Masking, …"
     },
     {
-      "tag": "THE VERGE",
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Targeted Recovery of Weight-Space Mechanisms From Neural Networks"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l3)",
+      "text": "Uncertainty-Aware Sequential Decision Rules for Event-Triggered L…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "OriginBlame: Record- and Token-Level Data Provenance for AI Train…"
+    },
+    {
+      "tag": "ARXIV CS.",
       "col": "var(--l4)",
-      "text": "Apple’s reportedly raising the price for AppleCare Plus on Macs a…"
+      "text": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI"
     },
     {
-      "tag": "VENTUREBE",
-      "col": "var(--l4)",
-      "text": "Agentic orchestration: Enterprise AI organizations have a deploym…"
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Interventional Grounding Audits: Black-Box Premise-Dependency Tes…"
     },
     {
-      "tag": "THE VERGE",
+      "tag": "ARXIV CS.",
       "col": "var(--l0)",
-      "text": "Valve says iFixit will keep selling Steam Deck batteries after al…"
+      "text": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Bel…"
     },
     {
-      "tag": "ARS TECHN",
-      "col": "var(--l0)",
-      "text": "Sheetz is quitting VMware, migrating 11,000 virtual machines"
-    },
-    {
-      "tag": "THE VERGE",
+      "tag": "ARXIV CS.",
       "col": "var(--l4)",
-      "text": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#…"
+      "text": "Self-Improvements in Modern Agentic Systems: A Survey"
     },
     {
-      "tag": "THE VERGE",
+      "tag": "ARXIV CS.",
       "col": "var(--l4)",
-      "text": "Brendan Carr plans to let broadcast giants dominate the airwaves"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l1)",
-      "text": "Amid hardware legal battle, OpenAI releases a $230 keyboard for C…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Nvidia's Huang vows to deliver 'giant amounts' of Vera Rubin — co…"
-    },
-    {
-      "tag": "WIRED",
-      "col": "var(--l5)",
-      "text": "AI Isn’t Smarter Than a Baby—Yet"
+      "text": "Improving Molecular Property Prediction in Small Language Models …"
     }
   ],
   "community": [
@@ -2014,8 +2070,8 @@
       "badge": "pb-hn",
       "title": "Grok Build is open source",
       "url": "https://github.com/xai-org/grok-build",
-      "votes": "290",
-      "comments": "333",
+      "votes": "421",
+      "comments": "437",
       "time": "近期"
     },
     {
@@ -2023,17 +2079,35 @@
       "badge": "pb-hn",
       "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
       "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-      "votes": "98",
-      "comments": "43",
+      "votes": "174",
+      "comments": "62",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "LLM Networking with MikroTik",
-      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-      "votes": "55",
-      "comments": "17",
+      "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
+      "url": "https://arxiv.org/abs/2607.11859",
+      "votes": "44",
+      "comments": "7",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "High-Bandwidth Flash offers efficient storage for model weights",
+      "url": "https://spectrum.ieee.org/high-bandwidth-flash",
+      "votes": "36",
+      "comments": "16",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
+      "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
+      "votes": "54",
+      "comments": "35",
       "time": "近期"
     },
     {
@@ -2041,26 +2115,8 @@
       "badge": "pb-hn",
       "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
       "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-      "votes": "240",
-      "comments": "158",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-      "url": "https://brainless.swerdlow.dev",
-      "votes": "99",
-      "comments": "20",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "MITS: Rockets, Calculators, and Personal Computers",
-      "url": "https://www.abortretry.fail/p/micro-instrumentation-and-telemetry",
-      "votes": "38",
-      "comments": "3",
+      "votes": "277",
+      "comments": "180",
       "time": "近期"
     }
   ]
