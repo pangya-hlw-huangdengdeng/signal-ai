@@ -1,15 +1,210 @@
 {
-  "updated_at": "2026-07-18T02:42:18.891524+00:00",
-  "article_count": 124,
+  "updated_at": "2026-07-18T07:55:14.471591+00:00",
+  "article_count": 123,
   "articles": {
+    "aa4de0c52": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Fine, electric mountain bikes don’t suck",
+      "src": "The Verge",
+      "time": "55分钟前",
+      "published_ts": 1784358000,
+      "heat": "24.0K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters",
+      "tags": [],
+      "body": "<p>Cheater, I'd grumble between huffs as yet another e-bike rider casually skittered past me on a steep ascent. It's this purist attitude that, for years, has left me blind to one simple fact: electric mountain bikes are fun! My attitude adjustment came a few weeks ago, the very first time I rode an Amflow PX [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a87d0b2bf": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Claude make Fable 5 permanent",
+      "src": "Simon Willison",
+      "time": "1小时前",
+      "published_ts": 1784354413,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
+      "tags": [],
+      "body": "<p>Claude make Fable 5 permanent An update from the @claudeai account on Twitter: Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit. As I was saying last week , the competition from GPT-5.6 Sol (and maybe to a lesser extent </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a8c8ff2b2": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "nascheme/quixote",
+      "src": "Simon Willison",
+      "time": "2小时前",
+      "published_ts": 1784352469,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything",
+      "tags": [],
+      "body": "<p>nascheme/quixote A certain vintage if Python web nerd might be delighted to learn that the most recent commit to the Quixote web framework was six hours ago . The oldest commit in that repo is from 21 years ago, and that was the initial import of Quixote 2.4 from Subversion into Git. Tags: computer-history , python , web-frameworks</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ab14d46fc": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "src": "TechCrunch AI",
+      "time": "3小时前",
+      "published_ts": 1784350045,
+      "heat": "27.0K",
+      "views": "27.0K",
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "tags": [],
+      "body": "<p>Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ac8aab00b": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "[AINews] not much happened today",
+      "src": "Latent Space",
+      "time": "3小时前",
+      "published_ts": 1784349021,
+      "heat": "19.5K",
+      "views": "19.5K",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-830",
+      "tags": [],
+      "body": "<p>a quiet day</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aa1e6fe68": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Position: Explainability Research Must Prioritize Foundations over Ad-hoc Methods",
+      "src": "arXiv cs.LG",
+      "time": "3小时前",
+      "published_ts": 1784347200,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2607.14123",
+      "tags": [],
+      "body": "<p>arXiv:2607.14123v1 Announce Type: new Abstract: Despite the proliferation of Explainable AI (XAI) techniques -- from feature attributions to sparse autoencoders -- explanations rarely influence real-world workflows. In practice, they are often generated and discarded without guiding meaningful action. This gap reflects foundational shortcomings: research has not yet established methodologies for i</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ab016c7d5": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "CARPRT: Class-Aware Zero-Shot Prompt Reweighting for Black-Box Vision-Language Models",
+      "src": "arXiv cs.LG",
+      "time": "3小时前",
+      "published_ts": 1784347200,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2607.14125",
+      "tags": [],
+      "body": "<p>arXiv:2607.14125v1 Announce Type: new Abstract: Pre-trained vision-language models (VLMs) enable zero-shot image classification by computing the similarity score between an image and textual descriptions, typically formed by inserting a class label (e.g., \"cat\") into a prompt (e.g., \"a photo of a\"). Since the score for a given image-class pair is sensitive to the choice of prompt, existing studies</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a0153416f": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Explainable Geospatial AI for Satellite Ground Station Siting Using LiDAR-Derived Terrain Intelligence",
+      "src": "arXiv cs.LG",
+      "time": "3小时前",
+      "published_ts": 1784347200,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2607.14127",
+      "tags": [],
+      "body": "<p>arXiv:2607.14127v1 Announce Type: new Abstract: Representative clutter height (RCH) is a key parameter in radio propagation and interference analysis because it captures the dominant height of local obstructions that drive terminal clutter loss. Current practice often relies on fixed clutter heights assigned to land use classes in Recommendation ITU-R P.452-18, but this misses within class variati</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "af40a4709": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Certified Domain Consistency for Multi-Domain Retrieval: Label-Free Per-Domain Contamination Control with Conformal Risk Guarantees",
+      "src": "arXiv cs.LG",
+      "time": "3小时前",
+      "published_ts": 1784347200,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2607.14157",
+      "tags": [],
+      "body": "<p>arXiv:2607.14157v1 Announce Type: new Abstract: Retrieval over corpora that mix several domains often returns relevant but wrong-domain evidence that ranking metrics miss and that conformal risk control bounds only marginally, under-covering the worst domains. This work introduces C3R, a drop-in control layer that, from an inferred domain posterior and no query-time label, certifies a per-domain c</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aab48d785": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Branching Policy Optimization: Sandbox-Native Language Agent Reinforcement Learning",
+      "src": "arXiv cs.LG",
+      "time": "3小时前",
+      "published_ts": 1784347200,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2607.14171",
+      "tags": [],
+      "body": "<p>arXiv:2607.14171v1 Announce Type: new Abstract: Reinforcement learning has emerged as the dominant paradigm for training large language model (LLM) agents that interact with executable sandboxes. State-of-the-art algorithms such as PPO, RLOO, and GRPO inherit their rollout topology from RLHF: for each prompt, N independent trajectories are sampled from the initial state, and an advantage is comput</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aaa27d520": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
+      "src": "arXiv cs.AI",
+      "time": "3小时前",
+      "published_ts": 1784347200,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2607.14095",
+      "tags": [],
+      "body": "<p>arXiv:2607.14095v1 Announce Type: new Abstract: Retrieval Augmented Generation (RAG) has proven to be a widely successful process at improving the quality of outputs from a Large Language Model (LLM) for wider context. However, RAG systems typically retrieve context from flat document stores, which struggles when queries require hierarchical or relational reasoning across structured knowledge. I p</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ad8156a04": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "IMEX Interaction-Based Model Explanation",
+      "src": "arXiv cs.AI",
+      "time": "3小时前",
+      "published_ts": 1784347200,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2607.14096",
+      "tags": [],
+      "body": "<p>arXiv:2607.14096v1 Announce Type: new Abstract: In predictive modeling, the ability to explain why a model produces a given target prediction has become increasingly important [5, 10]. Black-box models do not provide a transparent description of the internal mechanisms that generate the prediction, making even accurate predictions difficult to interpret and validate. In critical contexts, predicti</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aa8977819": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
+      "src": "arXiv cs.AI",
+      "time": "3小时前",
+      "published_ts": 1784347200,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2607.14097",
+      "tags": [],
+      "body": "<p>arXiv:2607.14097v1 Announce Type: new Abstract: We introduce RegNetAgents, an AI-oriented multi-agent framework for structured, query-driven regulatory candidate identification across heterogeneous gene regulatory networks. The system enables unified analysis of bulk tumor and single-cell-derived ARACNe networks by integrating TCGA-derived cancer networks with large-scale single-cell regulatory ne</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a3de0090a": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "DialogueVPR: Towards Conversational Visual Place Recognition",
+      "src": "arXiv cs.AI",
+      "time": "3小时前",
+      "published_ts": 1784347200,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2607.14115",
+      "tags": [],
+      "body": "<p>arXiv:2607.14115v1 Announce Type: new Abstract: Inspired by how humans communicate spatial information, language-guided geo-localization has gained significant traction for its intuitive and practical value. Despite this progress, most methods still rely on a static, one-shot retrieval paradigm, which fails to handle the ambiguity and incompleteness inherent in real-world natural language descript</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ab2c6b46a": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Interpretable Language Model for Closed-Loop Type 1 Diabetes Control",
+      "src": "arXiv cs.AI",
+      "time": "3小时前",
+      "published_ts": 1784347200,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2607.14126",
+      "tags": [],
+      "body": "<p>arXiv:2607.14126v1 Announce Type: new Abstract: Type 1 Diabetes (T1D) is a chronic, life-threatening autoimmune condition characterized by the complete destruction of insulin-producing pancreatic beta cells. While Artificial Pancreas Systems (APS) powered by Reinforcement Learning (RL) have shown promise in automating insulin delivery, their ``black-box'' nature makes it hard for patients and doct</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "ae650465d": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
       "src": "TechCrunch AI",
-      "time": "3小时前",
+      "time": "9小时前",
       "published_ts": 1784328909,
-      "heat": "27.0K",
+      "heat": "23.8K",
       "views": "27.0K",
       "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
       "tags": [],
@@ -20,10 +215,10 @@
       "cat": "L5 · 生态商业",
       "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
       "src": "TechCrunch AI",
-      "time": "4小时前",
+      "time": "9小时前",
       "published_ts": 1784326376,
-      "heat": "23.8K",
-      "views": "27.0K",
+      "heat": "20.5K",
+      "views": "23.8K",
       "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
       "tags": [],
       "body": "<p>Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -33,10 +228,10 @@
       "cat": "L0 · 领袖观点",
       "title": "Agility Robotics plants its flag in Tesla’s backyard",
       "src": "TechCrunch AI",
-      "time": "6小时前",
+      "time": "11小时前",
       "published_ts": 1784319589,
-      "heat": "17.3K",
-      "views": "20.5K",
+      "heat": "14.0K",
+      "views": "17.3K",
       "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
       "tags": [],
       "body": "<p>Agility is opening a new training center for its Digit robots in Fremont, California.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -46,10 +241,10 @@
       "cat": "L4 · 交互Agent",
       "title": "AI-driven memory crunch jolts India’s smartphone market",
       "src": "TechCrunch AI",
-      "time": "6小时前",
+      "time": "11小时前",
       "published_ts": 1784318967,
-      "heat": "14.0K",
-      "views": "17.3K",
+      "heat": "10.8K",
+      "views": "14.0K",
       "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
       "tags": [],
       "body": "<p>India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -59,46 +254,20 @@
       "cat": "L4 · 交互Agent",
       "title": "TikTok is testing an AI likeness detection tool",
       "src": "The Verge",
-      "time": "7小时前",
+      "time": "12小时前",
       "published_ts": 1784316870,
-      "heat": "18.2K",
-      "views": "21.1K",
+      "heat": "15.4K",
+      "views": "18.2K",
       "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
       "tags": [],
       "body": "<p>TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with \"some\" US creators, TikTok US spokesperson Zachary Kizer tells The Verge. YouTube has been working on a similar tool [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "af3d76e0d": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-      "src": "TechCrunch AI",
-      "time": "8小时前",
-      "published_ts": 1784310346,
-      "heat": "10.8K",
-      "views": "14.0K",
-      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "tags": [],
-      "body": "<p>Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the company.&#160;OpenAI&#8217;s response so far&#160;has been carefully hedged, and the timing&#160;coul</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ad31eda1f": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Apple’s plot to crush OpenAI",
-      "src": "The Verge",
-      "time": "9小时前",
-      "published_ts": 1784310092,
-      "heat": "9.6K",
-      "views": "12.5K",
-      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "tags": [],
-      "body": "<p>Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On this episode of The [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a2718cf7e": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "You're Invited: 404 Media's Third Anniversary Live Podcast and Party!",
       "src": "404 Media",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1784304953,
       "heat": "15.0K",
       "views": "15.0K",
@@ -111,7 +280,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Behind the Blog: Infinite Bowl Machine",
       "src": "404 Media",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1784304439,
       "heat": "13.2K",
       "views": "15.0K",
@@ -124,7 +293,7 @@
       "cat": "L1 · 算力硬件",
       "title": "ASML's planned Low-NA EUV machine price hikes reportedly frustrate TSMC — lithography machine maker comes knocking to make bank on TSMC's profitable fabs, potentially costing the Taiwanese chipmaker billions",
       "src": "Tom's Hardware",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1784303836,
       "heat": "15.0K",
       "views": "15.0K",
@@ -137,7 +306,7 @@
       "cat": "L1 · 算力硬件",
       "title": "TSMC confirms significant yield and performance improvements in A14 update — strong interest from AI/HPC and smartphone customers",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1784302226,
       "heat": "13.2K",
       "views": "15.0K",
@@ -150,7 +319,7 @@
       "cat": "L1 · 算力硬件",
       "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
       "src": "NVIDIA Blog",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1784300414,
       "heat": "37.5K",
       "views": "37.5K",
@@ -163,7 +332,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Florida man arrested after allegedly stealing $220,000 in crypto using malware hidden in Steam Games — 8,000 devices infected",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "17小时前",
       "published_ts": 1784299401,
       "heat": "11.4K",
       "views": "13.2K",
@@ -176,7 +345,7 @@
       "cat": "L0 · 领袖观点",
       "title": "GameStop CEO says Sony's decision to go disc-less is 'totally irrelevant' — claims software, including physical discs, accounts for only 12% of the company's business",
       "src": "Tom's Hardware",
-      "time": "12小时前",
+      "time": "18小时前",
       "published_ts": 1784296299,
       "heat": "7.8K",
       "views": "9.6K",
@@ -189,10 +358,10 @@
       "cat": "L3 · 推理工程",
       "title": "Quoting Kimi K3",
       "src": "Simon Willison",
-      "time": "12小时前",
+      "time": "18小时前",
       "published_ts": 1784295833,
-      "heat": "15.0K",
-      "views": "15.0K",
+      "heat": "11.4K",
+      "views": "13.2K",
       "url": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything",
       "tags": [],
       "body": "<p>Is there something I can actually help you with today? &mdash; Kimi K3 , after refusing to leak its system prompt Tags: kimi , ai-personality , generative-ai , ai , llms</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -202,7 +371,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Lawmakers want US government to ban memory chips from China, even in allied supply chains — citing 'unacceptable risk' to national, economic, and supply chain security",
       "src": "Tom's Hardware",
-      "time": "13小时前",
+      "time": "18小时前",
       "published_ts": 1784293544,
       "heat": "6.0K",
       "views": "7.8K",
@@ -215,10 +384,10 @@
       "cat": "L1 · 算力硬件",
       "title": "LLM cliché highlighter",
       "src": "Simon Willison",
-      "time": "14小时前",
+      "time": "19小时前",
       "published_ts": 1784290271,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "9.6K",
+      "views": "11.4K",
       "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything",
       "tags": [],
       "body": "<p>Tool: LLM cliché highlighter I got frustrated reading yet another article that was crammed with the clichés of LLM-generated writing - \"no fluff, no filler, no jargon\" type stuff - so I had Fable 5 vibe code up this app for highlighting ten common patterns that show up in that sort of writing. Tags: tools , ai , generative-ai , llms</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -228,7 +397,7 @@
       "cat": "L2 · 基础模型",
       "title": "A scorecard for the AI age",
       "src": "OpenAI Blog",
-      "time": "16小时前",
+      "time": "21小时前",
       "published_ts": 1784282400,
       "heat": "45.0K",
       "views": "45.0K",
@@ -241,7 +410,7 @@
       "cat": "L4 · 交互Agent",
       "title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
       "src": "Wired",
-      "time": "16小时前",
+      "time": "21小时前",
       "published_ts": 1784282400,
       "heat": "16.5K",
       "views": "16.5K",
@@ -254,7 +423,7 @@
       "cat": "L0 · 领袖观点",
       "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
       "src": "Wired",
-      "time": "17小时前",
+      "time": "22小时前",
       "published_ts": 1784278800,
       "heat": "14.5K",
       "views": "16.5K",
@@ -267,7 +436,7 @@
       "cat": "L0 · 领袖观点",
       "title": "The risk of weather data sabotage is rising",
       "src": "MIT Tech Review",
-      "time": "17小时前",
+      "time": "22小时前",
       "published_ts": 1784278652,
       "heat": "22.5K",
       "views": "22.5K",
@@ -275,145 +444,15 @@
       "tags": [],
       "body": "<p>Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, with real money, livelihoods, and even actual lives at stake. Farmers use&#8230;</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "aa1e6fe68": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Position: Explainability Research Must Prioritize Foundations over Ad-hoc Methods",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1784260800,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2607.14123",
-      "tags": [],
-      "body": "<p>arXiv:2607.14123v1 Announce Type: new Abstract: Despite the proliferation of Explainable AI (XAI) techniques -- from feature attributions to sparse autoencoders -- explanations rarely influence real-world workflows. In practice, they are often generated and discarded without guiding meaningful action. This gap reflects foundational shortcomings: research has not yet established methodologies for i</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ab016c7d5": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "CARPRT: Class-Aware Zero-Shot Prompt Reweighting for Black-Box Vision-Language Models",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1784260800,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2607.14125",
-      "tags": [],
-      "body": "<p>arXiv:2607.14125v1 Announce Type: new Abstract: Pre-trained vision-language models (VLMs) enable zero-shot image classification by computing the similarity score between an image and textual descriptions, typically formed by inserting a class label (e.g., \"cat\") into a prompt (e.g., \"a photo of a\"). Since the score for a given image-class pair is sensitive to the choice of prompt, existing studies</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a0153416f": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Explainable Geospatial AI for Satellite Ground Station Siting Using LiDAR-Derived Terrain Intelligence",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1784260800,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://arxiv.org/abs/2607.14127",
-      "tags": [],
-      "body": "<p>arXiv:2607.14127v1 Announce Type: new Abstract: Representative clutter height (RCH) is a key parameter in radio propagation and interference analysis because it captures the dominant height of local obstructions that drive terminal clutter loss. Current practice often relies on fixed clutter heights assigned to land use classes in Recommendation ITU-R P.452-18, but this misses within class variati</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "af40a4709": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Certified Domain Consistency for Multi-Domain Retrieval: Label-Free Per-Domain Contamination Control with Conformal Risk Guarantees",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1784260800,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://arxiv.org/abs/2607.14157",
-      "tags": [],
-      "body": "<p>arXiv:2607.14157v1 Announce Type: new Abstract: Retrieval over corpora that mix several domains often returns relevant but wrong-domain evidence that ranking metrics miss and that conformal risk control bounds only marginally, under-covering the worst domains. This work introduces C3R, a drop-in control layer that, from an inferred domain posterior and no query-time label, certifies a per-domain c</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aab48d785": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Branching Policy Optimization: Sandbox-Native Language Agent Reinforcement Learning",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1784260800,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://arxiv.org/abs/2607.14171",
-      "tags": [],
-      "body": "<p>arXiv:2607.14171v1 Announce Type: new Abstract: Reinforcement learning has emerged as the dominant paradigm for training large language model (LLM) agents that interact with executable sandboxes. State-of-the-art algorithms such as PPO, RLOO, and GRPO inherit their rollout topology from RLHF: for each prompt, N independent trajectories are sampled from the initial state, and an advantage is comput</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aaa27d520": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1784260800,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2607.14095",
-      "tags": [],
-      "body": "<p>arXiv:2607.14095v1 Announce Type: new Abstract: Retrieval Augmented Generation (RAG) has proven to be a widely successful process at improving the quality of outputs from a Large Language Model (LLM) for wider context. However, RAG systems typically retrieve context from flat document stores, which struggles when queries require hierarchical or relational reasoning across structured knowledge. I p</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ad8156a04": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "IMEX Interaction-Based Model Explanation",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1784260800,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://arxiv.org/abs/2607.14096",
-      "tags": [],
-      "body": "<p>arXiv:2607.14096v1 Announce Type: new Abstract: In predictive modeling, the ability to explain why a model produces a given target prediction has become increasingly important [5, 10]. Black-box models do not provide a transparent description of the internal mechanisms that generate the prediction, making even accurate predictions difficult to interpret and validate. In critical contexts, predicti</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aa8977819": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1784260800,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://arxiv.org/abs/2607.14097",
-      "tags": [],
-      "body": "<p>arXiv:2607.14097v1 Announce Type: new Abstract: We introduce RegNetAgents, an AI-oriented multi-agent framework for structured, query-driven regulatory candidate identification across heterogeneous gene regulatory networks. The system enables unified analysis of bulk tumor and single-cell-derived ARACNe networks by integrating TCGA-derived cancer networks with large-scale single-cell regulatory ne</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a3de0090a": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "DialogueVPR: Towards Conversational Visual Place Recognition",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1784260800,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://arxiv.org/abs/2607.14115",
-      "tags": [],
-      "body": "<p>arXiv:2607.14115v1 Announce Type: new Abstract: Inspired by how humans communicate spatial information, language-guided geo-localization has gained significant traction for its intuitive and practical value. Despite this progress, most methods still rely on a static, one-shot retrieval paradigm, which fails to handle the ambiguity and incompleteness inherent in real-world natural language descript</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ab2c6b46a": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Interpretable Language Model for Closed-Loop Type 1 Diabetes Control",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1784260800,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://arxiv.org/abs/2607.14126",
-      "tags": [],
-      "body": "<p>arXiv:2607.14126v1 Announce Type: new Abstract: Type 1 Diabetes (T1D) is a chronic, life-threatening autoimmune condition characterized by the complete destruction of insulin-producing pancreatic beta cells. While Artificial Pancreas Systems (APS) powered by Reinforcement Learning (RL) have shown promise in automating insulin delivery, their ``black-box'' nature makes it hard for patients and doct</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "ab6f43b77": {
       "layer": "l3",
       "cat": "L3 · 推理工程",
       "title": "Spot birds not golf",
       "src": "Simon Willison",
-      "time": "23小时前",
+      "time": "1天前",
       "published_ts": 1784257087,
-      "heat": "11.4K",
-      "views": "13.2K",
+      "heat": "7.8K",
+      "views": "9.6K",
       "url": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything",
       "tags": [],
       "body": "<p>Suggestion for hyperscalers feeling pressure over data center water use: Buy up a few exclusive country clubs, convert the golf courses into public parks, pay for guides and binoculars to get the previous members into birdwatching - help them embrace a more sustainable hobby! Google used 10.9 billion gallons in 2025 , so about 30 million gallons per day. The Coachella Valley has 120 golf courses e</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -425,7 +464,7 @@
       "src": "Latent Space",
       "time": "1天前",
       "published_ts": 1784252796,
-      "heat": "19.5K",
+      "heat": "17.2K",
       "views": "19.5K",
       "url": "https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest",
       "tags": [],
@@ -438,8 +477,8 @@
       "src": "Simon Willison",
       "time": "1天前",
       "published_ts": 1784244856,
-      "heat": "9.6K",
-      "views": "11.4K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything",
       "tags": [],
       "body": "<p>Firefox in WebAssembly This is absurdly cool: Puter compiled Firefox to WebAssembly such that the whole browser runs in another browser. Here's my blog, running in Firefox, running in WebAssembly, running in Chrome: They chose Firefox/Gecko because it has strong single-process support. The project used an estimated $25,000 worth of Claude Opus and Fable tokens, but took advantage of a Claude Max s</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -456,19 +495,6 @@
       "url": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
       "tags": [],
       "body": "<p>On today’s Uncanny Valley, we unpack OpenAI’s ongoing drama, both legal and reputational, and whether these developments could further hurt the company—particularly in its fight against Anthropic.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "af06c82c6": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-      "src": "Simon Willison",
-      "time": "1天前",
-      "published_ts": 1784233170,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything",
-      "tags": [],
-      "body": "<p>Chinese AI lab Moonshot AI announced Kimi K3 this morning, describing it as their \"most capable model to date, with 2.8 trillion parameters\". It's currently available via their website and API, but an open weight release is promised \"by July 27, 2026\". Moonshot are calling this the first \"open 3T-class model\" (I guess they're rounding 2.8 trillion up to 3 trillion), taking the crown from DeepSeek'</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "abce86906": {
       "layer": "l4",
@@ -508,19 +534,6 @@
       "url": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
       "tags": [],
       "body": "<p>The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a5c993458": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Quoting Thibault Sottiaux",
-      "src": "Simon Willison",
-      "time": "1天前",
-      "published_ts": 1784223959,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
-      "tags": [],
-      "body": "<p>On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. What we have found is that this most commonly occurs when: Full access mode is enabled and codex is run without sandboxing protections, including without auto review being enabled The model attempts to override the $HOME env var to define a temporary directory. The model makes an honest mistake and</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a11fa2e5d": {
       "layer": "l4",
@@ -607,8 +620,8 @@
       "src": "Latent Space",
       "time": "1天前",
       "published_ts": 1784208644,
-      "heat": "17.2K",
-      "views": "19.5K",
+      "heat": "14.8K",
+      "views": "17.2K",
       "url": "https://www.latent.space/p/the-lab-of-the-future-should-feel",
       "tags": [],
       "body": "<p>Lila is betting that science, not the internet, is the last untapped source of training data. We went to find out what that actually looks like in a room full of robots.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -657,10 +670,10 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
       "src": "Latent Space",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1784182685,
-      "heat": "14.8K",
-      "views": "17.2K",
+      "heat": "12.5K",
+      "views": "14.8K",
       "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
       "tags": [],
       "body": "<p>Thinky's first full LLM release is a banger and bonus: it's open weights!</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -834,19 +847,6 @@
       "tags": [],
       "body": "<p>Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "ac8aab00b": {
-      "layer": "l3",
-      "cat": "L3 · 推理工程",
-      "title": "[AINews] not much happened today",
-      "src": "Latent Space",
-      "time": "3天前",
-      "published_ts": 1784073247,
-      "heat": "12.5K",
-      "views": "14.8K",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-c72",
-      "tags": [],
-      "body": "<p>a continuation: Codex adding 1M users a day now.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a1c73aeac": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
@@ -854,8 +854,8 @@
       "src": "Latent Space",
       "time": "3天前",
       "published_ts": 1784071281,
-      "heat": "10.1K",
-      "views": "12.5K",
+      "heat": "7.8K",
+      "views": "10.1K",
       "url": "https://www.latent.space/p/aiewf26trends",
       "tags": [],
       "body": "<p>At this year's AIE World&#8217;s Fair, AI engineering entered a new phase: building systems around agents, rather than just building with agents.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -937,19 +937,6 @@
       "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
       "tags": [],
       "body": "<p>Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ab5625e17": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "[AINews] Codex usage up >10x in 6 months to 7M users, +1M in the past ~day; did Codex overtake Claude Code??",
-      "src": "Latent Space",
-      "time": "4天前",
-      "published_ts": 1783992147,
-      "heat": "7.8K",
-      "views": "10.1K",
-      "url": "https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months",
-      "tags": [],
-      "body": "<p>a quiet day lets us fact check some numbers against the sound of silence of Claude Code reporting...</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a3f602341": {
       "layer": "l5",
@@ -1411,7 +1398,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "331天前",
+      "time": "332天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1617,6 +1604,9 @@
   },
   "by_layer": {
     "l4": [
+      "aa4de0c52",
+      "aa1e6fe68",
+      "aa8977819",
       "ae650465d",
       "a0da7e80c",
       "a81b5a3c7",
@@ -1624,8 +1614,6 @@
       "a96828de4",
       "a014f277b",
       "a620b0197",
-      "aa1e6fe68",
-      "aa8977819",
       "abce86906",
       "aadcc311f",
       "a11fa2e5d",
@@ -1643,49 +1631,61 @@
       "ab59fe080",
       "ad01feb8a"
     ],
-    "l5": [
-      "a5245344a",
-      "af3d76e0d",
-      "afb67bef3",
-      "a2ed3240e",
-      "a8fa0f0dd",
-      "ae6a33882",
-      "ac76992ce",
-      "a582f34c7",
-      "a3f602341"
+    "l2": [
+      "a87d0b2bf",
+      "af40a4709",
+      "aab48d785",
+      "a3de0090a",
+      "ab2c6b46a",
+      "a524b5414",
+      "a8b580f46",
+      "ad1f25aa2",
+      "a9d1a1e4d",
+      "a887de6b8",
+      "a9c67007c",
+      "af4979509",
+      "a0cea288a",
+      "ad590d1d4",
+      "a8f66cd39",
+      "ad2261bb2",
+      "ad5acf946",
+      "ace4631a0",
+      "a7158c832",
+      "a366de4c6",
+      "ac9f53313",
+      "afbcd3c07",
+      "aca48b05a",
+      "ae3d3b3e2",
+      "a1c025c0d",
+      "a306fec6a",
+      "a95a70797",
+      "a0c4ebb65",
+      "a0b43a2bc",
+      "ab3119897",
+      "af0f189d1"
     ],
-    "l0": [
-      "a619ab399",
-      "ad31eda1f",
-      "a4dca8aff",
-      "a7a4a3e89",
-      "a731d79c2",
-      "ab016c7d5",
-      "ad8156a04",
-      "a5c26565c",
-      "aa30aaca1",
-      "a096f6a55",
-      "a4a690bf4",
-      "a0a86adb8",
-      "aa27891e5",
-      "a57fda39f",
-      "a187a50d6",
-      "a040f39c9",
-      "a0ab4dd7d",
-      "a375099f0",
-      "a6a5b4a81",
-      "a253e0446",
-      "a9173515c",
-      "abcb7b0c4"
+    "l3": [
+      "a8c8ff2b2",
+      "ac8aab00b",
+      "aeadd10db",
+      "ab6f43b77",
+      "adc128005",
+      "ae72b605c",
+      "a27cc72ab",
+      "ac18efa26",
+      "a32296677",
+      "a774f3120",
+      "a28f84720"
     ],
     "l1": [
+      "ab14d46fc",
+      "a0153416f",
+      "aaa27d520",
       "a4f4cd5ba",
       "a4e813c2f",
       "a41101b1a",
       "a1f0664b6",
       "aa1aaa7d4",
-      "a0153416f",
-      "aaa27d520",
       "a4053ec2b",
       "a0b19503e",
       "a48a18c9c",
@@ -1705,60 +1705,46 @@
       "a5236c597",
       "a2ae2603b"
     ],
-    "l3": [
-      "aeadd10db",
-      "ab6f43b77",
-      "adc128005",
-      "ae72b605c",
-      "ac8aab00b",
-      "a27cc72ab",
-      "ac18efa26",
-      "a32296677",
-      "a774f3120",
-      "a28f84720"
+    "l0": [
+      "ab016c7d5",
+      "ad8156a04",
+      "a619ab399",
+      "a4dca8aff",
+      "a7a4a3e89",
+      "a731d79c2",
+      "a5c26565c",
+      "aa30aaca1",
+      "a096f6a55",
+      "a4a690bf4",
+      "a0a86adb8",
+      "aa27891e5",
+      "a57fda39f",
+      "a187a50d6",
+      "a040f39c9",
+      "a0ab4dd7d",
+      "a375099f0",
+      "a6a5b4a81",
+      "a253e0446",
+      "a9173515c",
+      "abcb7b0c4"
     ],
-    "l2": [
-      "a524b5414",
-      "af40a4709",
-      "aab48d785",
-      "a3de0090a",
-      "ab2c6b46a",
-      "af06c82c6",
-      "a5c993458",
-      "a8b580f46",
-      "ad1f25aa2",
-      "a9d1a1e4d",
-      "a887de6b8",
-      "a9c67007c",
-      "af4979509",
-      "a0cea288a",
-      "ad590d1d4",
-      "ab5625e17",
-      "a8f66cd39",
-      "ad2261bb2",
-      "ad5acf946",
-      "ace4631a0",
-      "a7158c832",
-      "a366de4c6",
-      "ac9f53313",
-      "afbcd3c07",
-      "aca48b05a",
-      "ae3d3b3e2",
-      "a1c025c0d",
-      "a306fec6a",
-      "a95a70797",
-      "a0c4ebb65",
-      "a0b43a2bc",
-      "ab3119897",
-      "af0f189d1"
+    "l5": [
+      "a5245344a",
+      "afb67bef3",
+      "a2ed3240e",
+      "a8fa0f0dd",
+      "ae6a33882",
+      "ac76992ce",
+      "a582f34c7",
+      "a3f602341"
     ]
   },
   "top5": [
-    "ae650465d",
-    "a5245344a",
-    "a619ab399",
-    "a0da7e80c",
-    "a81b5a3c7"
+    "aa4de0c52",
+    "a87d0b2bf",
+    "a8c8ff2b2",
+    "ab14d46fc",
+    "ac8aab00b"
   ],
   "layers": [
     {
@@ -1766,34 +1752,12 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        29,
-        38,
-        30,
-        8,
-        31,
-        23
-      ],
-      "trend": [
-        20,
-        22,
         24,
-        26,
-        28,
-        30,
-        32
-      ]
-    },
-    {
-      "id": "l4",
-      "num": "LAYER 4",
-      "name": "交互Agent",
-      "vals": [
-        23,
-        22,
-        10,
-        19,
-        26,
-        20
+        34,
+        32,
+        8,
+        37,
+        22
       ],
       "trend": [
         20,
@@ -1810,11 +1774,33 @@
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        19,
+        30,
+        11,
         10,
+        7,
+        35,
+        20
+      ],
+      "trend": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "id": "l4",
+      "num": "LAYER 4",
+      "name": "交互Agent",
+      "vals": [
+        17,
+        27,
         10,
-        6,
-        18,
+        7,
+        25,
         20
       ],
       "trend": [
@@ -1832,11 +1818,11 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        15,
-        10,
+        13,
+        25,
         8,
         5,
-        26,
+        15,
         18
       ],
       "trend": [
@@ -1854,11 +1840,11 @@
       "num": "LAYER 3",
       "name": "推理工程",
       "vals": [
-        15,
         10,
+        13,
         5,
         5,
-        16,
+        10,
         14
       ],
       "trend": [
@@ -1877,11 +1863,11 @@
       "name": "生态商业",
       "vals": [
         10,
-        13,
+        10,
         5,
         5,
-        21,
-        10
+        11,
+        14
       ],
       "trend": [
         20,
@@ -1896,93 +1882,93 @@
   ],
   "ticker": [
     {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "Vertu wants executives to pay $6,880 for an AI agent — here’s how…"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l5)",
-      "text": "Databricks hits $188B valuation, extending its run as AI’s favori…"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l0)",
-      "text": "Agility Robotics plants its flag in Tesla’s backyard"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "AI-driven memory crunch jolts India’s smartphone market"
-    },
-    {
       "tag": "THE VERGE",
       "col": "var(--l4)",
-      "text": "TikTok is testing an AI likeness detection tool"
+      "text": "Fine, electric mountain bikes don’t suck"
+    },
+    {
+      "tag": "SIMON WIL",
+      "col": "var(--l2)",
+      "text": "Claude make Fable 5 permanent"
+    },
+    {
+      "tag": "SIMON WIL",
+      "col": "var(--l3)",
+      "text": "nascheme/quixote"
     },
     {
       "tag": "TECHCRUNC",
-      "col": "var(--l5)",
-      "text": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans"
+      "col": "var(--l1)",
+      "text": "Neil Rimer thinks the AI money is coming back out"
     },
     {
-      "tag": "THE VERGE",
+      "tag": "LATENT SP",
+      "col": "var(--l3)",
+      "text": "[AINews] not much happened today"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l4)",
+      "text": "Position: Explainability Research Must Prioritize Foundations ove…"
+    },
+    {
+      "tag": "ARXIV CS.",
       "col": "var(--l0)",
-      "text": "Apple’s plot to crush OpenAI"
+      "text": "CARPRT: Class-Aware Zero-Shot Prompt Reweighting for Black-Box Vi…"
     },
     {
-      "tag": "404 MEDIA",
-      "col": "var(--l4)",
-      "text": "You're Invited: 404 Media's Third Anniversary Live Podcast and Pa…"
-    },
-    {
-      "tag": "404 MEDIA",
-      "col": "var(--l4)",
-      "text": "Behind the Blog: Infinite Bowl Machine"
-    },
-    {
-      "tag": "TOM'S HAR",
+      "tag": "ARXIV CS.",
       "col": "var(--l1)",
-      "text": "ASML's planned Low-NA EUV machine price hikes reportedly frustrat…"
+      "text": "Explainable Geospatial AI for Satellite Ground Station Siting Usi…"
     },
     {
-      "tag": "TOM'S HAR",
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Certified Domain Consistency for Multi-Domain Retrieval: Label-Fr…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Branching Policy Optimization: Sandbox-Native Language Agent Rein…"
+    },
+    {
+      "tag": "ARXIV CS.",
       "col": "var(--l1)",
-      "text": "TSMC confirms significant yield and performance improvements in A…"
+      "text": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Struc…"
     },
     {
-      "tag": "NVIDIA BL",
-      "col": "var(--l1)",
-      "text": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Trai…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l4)",
-      "text": "Florida man arrested after allegedly stealing $220,000 in crypto …"
-    },
-    {
-      "tag": "TOM'S HAR",
+      "tag": "ARXIV CS.",
       "col": "var(--l0)",
-      "text": "GameStop CEO says Sony's decision to go disc-less is 'totally irr…"
+      "text": "IMEX Interaction-Based Model Explanation"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l4)",
+      "text": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulator…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "DialogueVPR: Towards Conversational Visual Place Recognition"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-      "votes": "313",
-      "comments": "199",
+      "title": "In-toto: A framework to secure the integrity of software supply chains",
+      "url": "https://in-toto.io/",
+      "votes": "11",
+      "comments": "0",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "A grumpy screed about AI in software engineering",
-      "url": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
-      "votes": "40",
-      "comments": "30",
+      "title": "Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
+      "url": "https://github.com/tucan9389/nanochat-jax/discussions/1",
+      "votes": "9",
+      "comments": "0",
       "time": "近期"
     },
     {
@@ -1990,17 +1976,8 @@
       "badge": "pb-hn",
       "title": "Kimi K3, and what we can still learn from the pelican benchmark",
       "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-      "votes": "279",
-      "comments": "149",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Painting the sides of railroad rails white to reduce derailment",
-      "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
-      "votes": "51",
-      "comments": "19",
+      "votes": "324",
+      "comments": "169",
       "time": "近期"
     },
     {
@@ -2008,17 +1985,26 @@
       "badge": "pb-hn",
       "title": "The state of open source AI",
       "url": "https://stateofopensource.ai/",
-      "votes": "379",
-      "comments": "277",
+      "votes": "423",
+      "comments": "302",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-      "votes": "128",
-      "comments": "68",
+      "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "votes": "487",
+      "comments": "310",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Painting the sides of railroad rails white to reduce derailment",
+      "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
+      "votes": "84",
+      "comments": "44",
       "time": "近期"
     }
   ]
