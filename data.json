@@ -1,13 +1,39 @@
 {
-  "updated_at": "2026-07-19T02:56:35.281328+00:00",
-  "article_count": 123,
+  "updated_at": "2026-07-19T08:23:07.625572+00:00",
+  "article_count": 113,
   "articles": {
+    "af86a91ae": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "src": "Simon Willison",
+      "time": "3小时前",
+      "published_ts": 1784437581,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything",
+      "tags": [],
+      "body": "<p>AI Mania Is Eviscerating Global Decision-Making Here's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It's crammed with spicy anecdotes from anonymous sources. In one extreme case, I have seen an executive confess that they had never even used ChatGPT or any AI tool in their life, immediately after producing a technical s</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a59ef4f54": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Claude Code uses Bun written in Rust now",
+      "src": "Simon Willison",
+      "time": "4小时前",
+      "published_ts": 1784433249,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything",
+      "tags": [],
+      "body": "<p>In Rewriting Bun in Rust Jarred Sumner made the following claim: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good. I decided to have a poke at my own Claude Code installation to see if I could find evidence that it was using Bun written in Rust. I found these two commands convincing: s</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a3d741518": {
       "layer": "l0",
       "cat": "L0 · 领袖观点",
       "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
       "src": "The Verge",
-      "time": "6小时前",
+      "time": "11小时前",
       "published_ts": 1784408082,
       "heat": "24.0K",
       "views": "24.0K",
@@ -20,7 +46,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Kimi: Threat or menace?",
       "src": "TechCrunch AI",
-      "time": "8小时前",
+      "time": "13小时前",
       "published_ts": 1784400667,
       "heat": "27.0K",
       "views": "27.0K",
@@ -33,7 +59,7 @@
       "cat": "L1 · 算力硬件",
       "title": "AMD’s new Ryzen 7 7700X3D plummets to $279 days after launch — the X3D chip rules the mid-range at its discounted price",
       "src": "Tom's Hardware",
-      "time": "9小时前",
+      "time": "14小时前",
       "published_ts": 1784396413,
       "heat": "13.2K",
       "views": "15.0K",
@@ -46,7 +72,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Strapping 11 fans and a 360mm AIO to an RTX 3080 sounds crazy until you see the 30°C temp drop — modded GPU delivered less than 5 FPS uplift at turbojet noise levels",
       "src": "Tom's Hardware",
-      "time": "9小时前",
+      "time": "15小时前",
       "published_ts": 1784395369,
       "heat": "11.4K",
       "views": "13.2K",
@@ -59,10 +85,10 @@
       "cat": "L1 · 算力硬件",
       "title": "SQLite Query Explainer",
       "src": "Simon Willison",
-      "time": "9小时前",
+      "time": "15小时前",
       "published_ts": 1784395150,
-      "heat": "15.0K",
-      "views": "15.0K",
+      "heat": "11.4K",
+      "views": "13.2K",
       "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything",
       "tags": [],
       "body": "<p>Tool: SQLite Query Explainer Julia Evan's, in Learning a few things about running SQLite : Maybe one day I’ll learn to read a query plan. Big same.... which inspired me to have Fable build this interactive explain tool, which runs SQLite in Python in Pyodide in Web Assembly in the browser and adds a layer of explanation to the results of both EXPLAIN and EXPLAIN QUERY PLAN. Approach with caution, </p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -72,7 +98,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Jurassic Park packed $4 million of legit 1993 computer hardware — a software engineer detailed every single piece of hardware in the film",
       "src": "Tom's Hardware",
-      "time": "9小时前",
+      "time": "15小时前",
       "published_ts": 1784394773,
       "heat": "9.6K",
       "views": "11.4K",
@@ -85,7 +111,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Google is open-sourcing its 3D emoji",
       "src": "The Verge",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1784392855,
       "heat": "18.2K",
       "views": "21.1K",
@@ -98,7 +124,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Grab AMD’s Ryzen 7 5800X3D 10th Anniversary CPU with motherboard and 16GB RAM for just $529 — save over $100 on this epic AMD gaming bundle",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "17小时前",
       "published_ts": 1784387967,
       "heat": "7.8K",
       "views": "9.6K",
@@ -111,7 +137,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Nvidia RTX 50 Super GPUs are reportedly ready, but stuck in limbo due to excessive GDDR7 pricing — 3GB GDDR7 module costs triple the price of 2GB",
       "src": "Tom's Hardware",
-      "time": "13小时前",
+      "time": "18小时前",
       "published_ts": 1784382342,
       "heat": "6.0K",
       "views": "7.8K",
@@ -124,7 +150,7 @@
       "cat": "L3 · 推理工程",
       "title": "Controlling Reasoning Effort in LLMs",
       "src": "Ahead of AI",
-      "time": "15小时前",
+      "time": "21小时前",
       "published_ts": 1784373369,
       "heat": "15.0K",
       "views": "15.0K",
@@ -137,7 +163,7 @@
       "cat": "L5 · 生态商业",
       "title": "Your Period Tracker Is (Probably) Spying on You",
       "src": "Wired",
-      "time": "16小时前",
+      "time": "21小时前",
       "published_ts": 1784370600,
       "heat": "16.5K",
       "views": "16.5K",
@@ -150,7 +176,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Ancient Princesses Were Weapon-Wielding Badasses, Scientists Discover",
       "src": "404 Media",
-      "time": "16小时前",
+      "time": "22小时前",
       "published_ts": 1784368829,
       "heat": "15.0K",
       "views": "15.0K",
@@ -163,7 +189,7 @@
       "cat": "L2 · 基础模型",
       "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
       "src": "Wired",
-      "time": "16小时前",
+      "time": "22小时前",
       "published_ts": 1784368800,
       "heat": "14.5K",
       "views": "16.5K",
@@ -176,7 +202,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
       "src": "Wired",
-      "time": "17小时前",
+      "time": "23小时前",
       "published_ts": 1784365200,
       "heat": "12.5K",
       "views": "14.5K",
@@ -189,10 +215,10 @@
       "cat": "L2 · 基础模型",
       "title": "Claude make Fable 5 permanent",
       "src": "Simon Willison",
-      "time": "20小时前",
+      "time": "1天前",
       "published_ts": 1784354413,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "9.6K",
+      "views": "11.4K",
       "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
       "tags": [],
       "body": "<p>Claude make Fable 5 permanent An update from the @claudeai account on Twitter: Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit. As I was saying last week , the competition from GPT-5.6 Sol (and maybe to a lesser extent </p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -202,10 +228,10 @@
       "cat": "L3 · 推理工程",
       "title": "nascheme/quixote",
       "src": "Simon Willison",
-      "time": "21小时前",
+      "time": "1天前",
       "published_ts": 1784352469,
-      "heat": "11.4K",
-      "views": "13.2K",
+      "heat": "7.8K",
+      "views": "9.6K",
       "url": "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything",
       "tags": [],
       "body": "<p>nascheme/quixote A certain vintage if Python web nerd might be delighted to learn that the most recent commit to the Quixote web framework was six hours ago . The oldest commit in that repo is from 21 years ago, and that was the initial import of Quixote 2.4 from Subversion into Git. Tags: computer-history , python , web-frameworks</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -215,7 +241,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Neil Rimer thinks the AI money is coming back out",
       "src": "TechCrunch AI",
-      "time": "22小时前",
+      "time": "1天前",
       "published_ts": 1784350045,
       "heat": "23.8K",
       "views": "27.0K",
@@ -228,143 +254,13 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] not much happened today",
       "src": "Latent Space",
-      "time": "22小时前",
+      "time": "1天前",
       "published_ts": 1784349021,
       "heat": "19.5K",
       "views": "19.5K",
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-830",
       "tags": [],
       "body": "<p>a quiet day</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aa1e6fe68": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Position: Explainability Research Must Prioritize Foundations over Ad-hoc Methods",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1784347200,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2607.14123",
-      "tags": [],
-      "body": "<p>arXiv:2607.14123v1 Announce Type: new Abstract: Despite the proliferation of Explainable AI (XAI) techniques -- from feature attributions to sparse autoencoders -- explanations rarely influence real-world workflows. In practice, they are often generated and discarded without guiding meaningful action. This gap reflects foundational shortcomings: research has not yet established methodologies for i</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ab016c7d5": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "CARPRT: Class-Aware Zero-Shot Prompt Reweighting for Black-Box Vision-Language Models",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1784347200,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2607.14125",
-      "tags": [],
-      "body": "<p>arXiv:2607.14125v1 Announce Type: new Abstract: Pre-trained vision-language models (VLMs) enable zero-shot image classification by computing the similarity score between an image and textual descriptions, typically formed by inserting a class label (e.g., \"cat\") into a prompt (e.g., \"a photo of a\"). Since the score for a given image-class pair is sensitive to the choice of prompt, existing studies</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a0153416f": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Explainable Geospatial AI for Satellite Ground Station Siting Using LiDAR-Derived Terrain Intelligence",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1784347200,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://arxiv.org/abs/2607.14127",
-      "tags": [],
-      "body": "<p>arXiv:2607.14127v1 Announce Type: new Abstract: Representative clutter height (RCH) is a key parameter in radio propagation and interference analysis because it captures the dominant height of local obstructions that drive terminal clutter loss. Current practice often relies on fixed clutter heights assigned to land use classes in Recommendation ITU-R P.452-18, but this misses within class variati</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "af40a4709": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Certified Domain Consistency for Multi-Domain Retrieval: Label-Free Per-Domain Contamination Control with Conformal Risk Guarantees",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1784347200,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://arxiv.org/abs/2607.14157",
-      "tags": [],
-      "body": "<p>arXiv:2607.14157v1 Announce Type: new Abstract: Retrieval over corpora that mix several domains often returns relevant but wrong-domain evidence that ranking metrics miss and that conformal risk control bounds only marginally, under-covering the worst domains. This work introduces C3R, a drop-in control layer that, from an inferred domain posterior and no query-time label, certifies a per-domain c</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aab48d785": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Branching Policy Optimization: Sandbox-Native Language Agent Reinforcement Learning",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1784347200,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://arxiv.org/abs/2607.14171",
-      "tags": [],
-      "body": "<p>arXiv:2607.14171v1 Announce Type: new Abstract: Reinforcement learning has emerged as the dominant paradigm for training large language model (LLM) agents that interact with executable sandboxes. State-of-the-art algorithms such as PPO, RLOO, and GRPO inherit their rollout topology from RLHF: for each prompt, N independent trajectories are sampled from the initial state, and an advantage is comput</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aaa27d520": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1784347200,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2607.14095",
-      "tags": [],
-      "body": "<p>arXiv:2607.14095v1 Announce Type: new Abstract: Retrieval Augmented Generation (RAG) has proven to be a widely successful process at improving the quality of outputs from a Large Language Model (LLM) for wider context. However, RAG systems typically retrieve context from flat document stores, which struggles when queries require hierarchical or relational reasoning across structured knowledge. I p</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ad8156a04": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "IMEX Interaction-Based Model Explanation",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1784347200,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://arxiv.org/abs/2607.14096",
-      "tags": [],
-      "body": "<p>arXiv:2607.14096v1 Announce Type: new Abstract: In predictive modeling, the ability to explain why a model produces a given target prediction has become increasingly important [5, 10]. Black-box models do not provide a transparent description of the internal mechanisms that generate the prediction, making even accurate predictions difficult to interpret and validate. In critical contexts, predicti</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aa8977819": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1784347200,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://arxiv.org/abs/2607.14097",
-      "tags": [],
-      "body": "<p>arXiv:2607.14097v1 Announce Type: new Abstract: We introduce RegNetAgents, an AI-oriented multi-agent framework for structured, query-driven regulatory candidate identification across heterogeneous gene regulatory networks. The system enables unified analysis of bulk tumor and single-cell-derived ARACNe networks by integrating TCGA-derived cancer networks with large-scale single-cell regulatory ne</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a3de0090a": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "DialogueVPR: Towards Conversational Visual Place Recognition",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1784347200,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://arxiv.org/abs/2607.14115",
-      "tags": [],
-      "body": "<p>arXiv:2607.14115v1 Announce Type: new Abstract: Inspired by how humans communicate spatial information, language-guided geo-localization has gained significant traction for its intuitive and practical value. Despite this progress, most methods still rely on a static, one-shot retrieval paradigm, which fails to handle the ambiguity and incompleteness inherent in real-world natural language descript</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ab2c6b46a": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Interpretable Language Model for Closed-Loop Type 1 Diabetes Control",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1784347200,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://arxiv.org/abs/2607.14126",
-      "tags": [],
-      "body": "<p>arXiv:2607.14126v1 Announce Type: new Abstract: Type 1 Diabetes (T1D) is a chronic, life-threatening autoimmune condition characterized by the complete destruction of insulin-producing pancreatic beta cells. While Artificial Pancreas Systems (APS) powered by Reinforcement Learning (RL) have shown promise in automating insulin delivery, their ``black-box'' nature makes it hard for patients and doct</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "ae650465d": {
       "layer": "l4",
@@ -451,24 +347,11 @@
       "src": "Simon Willison",
       "time": "1天前",
       "published_ts": 1784295833,
-      "heat": "9.6K",
-      "views": "11.4K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything",
       "tags": [],
       "body": "<p>Is there something I can actually help you with today? &mdash; Kimi K3 , after refusing to leak its system prompt Tags: kimi , ai-personality , generative-ai , ai , llms</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aa1aaa7d4": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "LLM cliché highlighter",
-      "src": "Simon Willison",
-      "time": "1天前",
-      "published_ts": 1784290271,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything",
-      "tags": [],
-      "body": "<p>Tool: LLM cliché highlighter I got frustrated reading yet another article that was crammed with the clichés of LLM-generated writing - \"no fluff, no filler, no jargon\" type stuff - so I had Fable 5 vibe code up this app for highlighting ten common patterns that show up in that sort of writing. Tags: tools , ai , generative-ai , llms</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a524b5414": {
       "layer": "l2",
@@ -521,19 +404,6 @@
       "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
       "tags": [],
       "body": "<p>Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, with real money, livelihoods, and even actual lives at stake. Farmers use&#8230;</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ab6f43b77": {
-      "layer": "l3",
-      "cat": "L3 · 推理工程",
-      "title": "Spot birds not golf",
-      "src": "Simon Willison",
-      "time": "1天前",
-      "published_ts": 1784257087,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything",
-      "tags": [],
-      "body": "<p>Suggestion for hyperscalers feeling pressure over data center water use: Buy up a few exclusive country clubs, convert the golf courses into public parks, pay for guides and binoculars to get the previous members into birdwatching - help them embrace a more sustainable hobby! Google used 10.9 billion gallons in 2025 , so about 30 million gallons per day. The Coachella Valley has 120 golf courses e</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "adc128005": {
       "layer": "l3",
@@ -709,7 +579,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
       "src": "Latent Space",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1784182685,
       "heat": "12.5K",
       "views": "14.8K",
@@ -1398,7 +1268,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "332天前",
+      "time": "333天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1604,9 +1474,8 @@
   },
   "by_layer": {
     "l0": [
+      "af86a91ae",
       "a3d741518",
-      "ab016c7d5",
-      "ad8156a04",
       "a619ab399",
       "a7a4a3e89",
       "a731d79c2",
@@ -1626,13 +1495,42 @@
       "a9173515c",
       "abcb7b0c4"
     ],
+    "l2": [
+      "a59ef4f54",
+      "ac6c722b3",
+      "a87d0b2bf",
+      "a524b5414",
+      "a8b580f46",
+      "ad1f25aa2",
+      "a9d1a1e4d",
+      "a887de6b8",
+      "a9c67007c",
+      "af4979509",
+      "a0cea288a",
+      "ad590d1d4",
+      "a8f66cd39",
+      "ad2261bb2",
+      "ad5acf946",
+      "ace4631a0",
+      "a7158c832",
+      "a366de4c6",
+      "ac9f53313",
+      "afbcd3c07",
+      "aca48b05a",
+      "ae3d3b3e2",
+      "a1c025c0d",
+      "a306fec6a",
+      "a95a70797",
+      "a0c4ebb65",
+      "a0b43a2bc",
+      "ab3119897",
+      "af0f189d1"
+    ],
     "l4": [
       "ad363fe0f",
       "a54ef53c3",
       "a0629809d",
       "a8df075a2",
-      "aa1e6fe68",
-      "aa8977819",
       "ae650465d",
       "a2718cf7e",
       "a96828de4",
@@ -1661,10 +1559,7 @@
       "a54caa2ff",
       "a6ecb65c0",
       "ab14d46fc",
-      "a0153416f",
-      "aaa27d520",
       "a41101b1a",
-      "aa1aaa7d4",
       "a0b19503e",
       "a48a18c9c",
       "ac991a86f",
@@ -1688,7 +1583,6 @@
       "a8c8ff2b2",
       "ac8aab00b",
       "aeadd10db",
-      "ab6f43b77",
       "adc128005",
       "ae72b605c",
       "a27cc72ab",
@@ -1703,83 +1597,49 @@
       "a8fa0f0dd",
       "a582f34c7",
       "a3f602341"
-    ],
-    "l2": [
-      "ac6c722b3",
-      "a87d0b2bf",
-      "af40a4709",
-      "aab48d785",
-      "a3de0090a",
-      "ab2c6b46a",
-      "a524b5414",
-      "a8b580f46",
-      "ad1f25aa2",
-      "a9d1a1e4d",
-      "a887de6b8",
-      "a9c67007c",
-      "af4979509",
-      "a0cea288a",
-      "ad590d1d4",
-      "a8f66cd39",
-      "ad2261bb2",
-      "ad5acf946",
-      "ace4631a0",
-      "a7158c832",
-      "a366de4c6",
-      "ac9f53313",
-      "afbcd3c07",
-      "aca48b05a",
-      "ae3d3b3e2",
-      "a1c025c0d",
-      "a306fec6a",
-      "a95a70797",
-      "a0c4ebb65",
-      "a0b43a2bc",
-      "ab3119897",
-      "af0f189d1"
     ]
   },
   "top5": [
+    "af86a91ae",
+    "a59ef4f54",
     "a3d741518",
     "ad363fe0f",
-    "aad352977",
-    "aa2de93dc",
-    "a458a6eb9"
+    "aad352977"
   ],
   "layers": [
-    {
-      "id": "l2",
-      "num": "LAYER 2",
-      "name": "基础模型",
-      "vals": [
-        26,
-        20,
-        17,
-        8,
-        36,
-        23
-      ],
-      "trend": [
-        20,
-        22,
-        24,
-        26,
-        28,
-        30,
-        32
-      ]
-    },
     {
       "id": "l1",
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        17,
-        30,
+        27,
+        34,
         11,
         7,
-        30,
+        28,
         21
+      ],
+      "trend": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "id": "l2",
+      "num": "LAYER 2",
+      "name": "基础模型",
+      "vals": [
+        24,
+        14,
+        19,
+        8,
+        24,
+        22
       ],
       "trend": [
         20,
@@ -1796,11 +1656,11 @@
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        22,
-        29,
+        25,
+        12,
         10,
-        5,
-        18,
+        17,
+        27,
         20
       ],
       "trend": [
@@ -1818,11 +1678,11 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        12,
-        15,
+        10,
+        25,
         8,
         5,
-        19,
+        15,
         18
       ],
       "trend": [
@@ -1836,15 +1696,37 @@
       ]
     },
     {
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
+      "vals": [
+        10,
+        15,
+        5,
+        5,
+        10,
+        19
+      ],
+      "trend": [
+        20,
+        18,
+        16,
+        14,
+        12,
+        10,
+        8
+      ]
+    },
+    {
       "id": "l3",
       "num": "LAYER 3",
       "name": "推理工程",
       "vals": [
         10,
         10,
-        16,
         5,
-        13,
+        5,
+        21,
         14
       ],
       "trend": [
@@ -1856,31 +1738,19 @@
         15,
         14
       ]
-    },
-    {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
-      "vals": [
-        10,
-        10,
-        5,
-        5,
-        12,
-        10
-      ],
-      "trend": [
-        20,
-        18,
-        16,
-        14,
-        12,
-        10,
-        8
-      ]
     }
   ],
   "ticker": [
+    {
+      "tag": "SIMON WIL",
+      "col": "var(--l0)",
+      "text": "AI Mania Is Eviscerating Global Decision-Making"
+    },
+    {
+      "tag": "SIMON WIL",
+      "col": "var(--l2)",
+      "text": "Claude Code uses Bun written in Rust now"
+    },
     {
       "tag": "THE VERGE",
       "col": "var(--l0)",
@@ -1940,16 +1810,6 @@
       "tag": "404 MEDIA",
       "col": "var(--l4)",
       "text": "Ancient Princesses Were Weapon-Wielding Badasses, Scientists Disc…"
-    },
-    {
-      "tag": "WIRED",
-      "col": "var(--l2)",
-      "text": "How Google’s New Gemini Rates Work and How to Track Your Usage"
-    },
-    {
-      "tag": "WIRED",
-      "col": "var(--l4)",
-      "text": "Prompt Injection Attacks Are Thwarting AI Hacking Agents"
     }
   ],
   "community": [
@@ -1958,35 +1818,8 @@
       "badge": "pb-hn",
       "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
       "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "votes": "512",
-      "comments": "326",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-      "votes": "263",
-      "comments": "120",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-      "votes": "217",
-      "comments": "107",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
-      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "votes": "68",
-      "comments": "22",
+      "votes": "554",
+      "comments": "354",
       "time": "近期"
     },
     {
@@ -1994,8 +1827,17 @@
       "badge": "pb-hn",
       "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
       "url": "https://ykdojo.github.io/claude-controls-mac/",
-      "votes": "185",
-      "comments": "135",
+      "votes": "226",
+      "comments": "153",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "votes": "450",
+      "comments": "202",
       "time": "近期"
     },
     {
@@ -2003,8 +1845,26 @@
       "badge": "pb-hn",
       "title": "AI Mania Is Eviscerating Global Decision-Making",
       "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-      "votes": "18",
-      "comments": "2",
+      "votes": "185",
+      "comments": "69",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "votes": "236",
+      "comments": "115",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "What's the deal with all the random weekly quota resets for agents lately?",
+      "url": "https://minimaxir.com/2026/07/agent-quota-reset/",
+      "votes": "51",
+      "comments": "55",
       "time": "近期"
     }
   ]
