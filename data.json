@@ -1,13 +1,182 @@
 {
-  "updated_at": "2026-07-23T02:57:19.518876+00:00",
-  "article_count": 123,
+  "updated_at": "2026-07-23T08:34:19.127689+00:00",
+  "article_count": 121,
   "articles": {
+    "ab17f914a": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+      "src": "TechCrunch AI",
+      "time": "2小时前",
+      "published_ts": 1784786953,
+      "heat": "27.0K",
+      "views": "27.0K",
+      "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+      "tags": [],
+      "body": "<p>ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "addebe085": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "[AINews] \"Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro\"",
+      "src": "Latent Space",
+      "time": "3小时前",
+      "published_ts": 1784783927,
+      "heat": "19.5K",
+      "views": "19.5K",
+      "url": "https://www.latent.space/p/ainews-laguna-s-21-released-cheaper",
+      "tags": [],
+      "body": "<p>a quiet day lets us highlight a new neolab win.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a7d6de1f1": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "Inside the Model Factory — Eiso Kant, Poolside AI",
+      "src": "Latent Space",
+      "time": "3小时前",
+      "published_ts": 1784783354,
+      "heat": "17.2K",
+      "views": "19.5K",
+      "url": "https://www.latent.space/p/poolside",
+      "tags": [],
+      "body": "<p>Poolside's co-CEO on how his small team of top researchers built a model factory capable of training Laguna S - a 118B MOE beating Thinky's ~1T open weights model... and this is just the beginning.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a63e487f6": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Bayesian Wind Tunnels for Model Selection",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1784779200,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2607.19379",
+      "tags": [],
+      "body": "<p>arXiv:2607.19379v1 Announce Type: new Abstract: Prior work has shown that transformers can perform exact Bayesian filtering within a fixed hypothesis class. Can they also perform Bayesian model selection -- identifying the correct hypothesis class from data? We introduce model-selection Bayesian wind tunnels: controlled environments where ground-truth posteriors over hypothesis classes are availab</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a20e29646": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "CruiseBench: A Real-Flight-Aligned N-CMAPSS Benchmark for Engine RUL Prediction",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1784779200,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2607.19380",
+      "tags": [],
+      "body": "<p>arXiv:2607.19380v1 Announce Type: new Abstract: Remaining useful life (RUL) prediction estimates how long an engine can continue safe operation and is central to maintenance planning. N-CMAPSS extends C-MAPSS by simulating run-to-failure aero-engine trajectories using recorded real-flight profiles and retaining complete within-flight time series rather than cycle-level snapshots. However, this add</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a1dbe5184": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Air Quality Arena: A Large-Scale Multi-Region Ground Monitoring Dataset and Benchmark for Air Quality Forecasting with Time-Series Foundation Models",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1784779200,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2607.19381",
+      "tags": [],
+      "body": "<p>arXiv:2607.19381v1 Announce Type: new Abstract: Air pollution causes an estimated 7.9 million premature deaths annually, making accurate forecasting a critical public health priority. Machine learning is increasingly being applied to forecast air pollution levels, yet existing benchmarks remain narrow in both geographic scope and pollutant coverage, and fail to evaluate the latest generation of ti</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a0486916a": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "Challenges of Explainability in Continual Learning for Time Series Forecasting",
+      "src": "arXiv cs.LG",
+      "time": "4小时前",
+      "published_ts": 1784779200,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2607.19382",
+      "tags": [],
+      "body": "<p>arXiv:2607.19382v1 Announce Type: new Abstract: Deep learning models have shown strong potential for time series forecasting, yet their deployment in real-world environmental monitoring remains challenging due to non-stationary dynamics and limited explainability. In this work, we investigate explainability as a central tool for understanding continual learning in adaptive time series forecasting,</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a9fde28ea": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1784779200,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2607.19349",
+      "tags": [],
+      "body": "<p>arXiv:2607.19349v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as always-on online services, making efficient LLM serving a critical systems challenge. Achieving low latency and high throughput under volatile demand requires deep understanding of real-world serving workloads, yet existing studies often rely on proxy traces or coarse-grained characterizations</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a58392532": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1784779200,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2607.19350",
+      "tags": [],
+      "body": "<p>arXiv:2607.19350v1 Announce Type: new Abstract: Financial institutions face significant challenges in detecting sophisticated money laundering patterns, such as smurfing and layering, due to extreme data imbalance (0.13% fraud rate) and evolving adversarial evasion tactics. This paper proposes FraudShield AI, a hybrid framework that integrates Long Short-Term Memory (LSTM) networks with hand-craft</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ace97c9b1": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1784779200,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2607.19351",
+      "tags": [],
+      "body": "<p>arXiv:2607.19351v1 Announce Type: new Abstract: LLM-based multi-agent systems (LLM-MAS) are increasingly deployed in safety-critical applications, where adversaries inject malicious instructions through inter-agent communication to propagate harmful behaviors. Unlike static threats, these attacks are doubly dynamic: adversaries refine injection strategies against deployed defenses while normal-age</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a3911b225": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1784779200,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2607.19353",
+      "tags": [],
+      "body": "<p>arXiv:2607.19353v1 Announce Type: new Abstract: Confidential computing is becoming a practical deployment requirement for AI inference workloads that process sensitive inputs or protect proprietary model assets. However, the performance cost of enabling confidential execution for GPU-accelerated large language model serving remains workload dependent and operationally important. This paper present</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a12a3c50c": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1784779200,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2607.19354",
+      "tags": [],
+      "body": "<p>arXiv:2607.19354v1 Announce Type: new Abstract: Spreadsheet applications are used by hundreds of millions worldwide, yet writing formulas remains a significant barrier. Existing approaches rely on static supervised data, which quickly saturates on limited annotations. In this paper, we introduce FORMULASPIN, a self-play framework that breaks the ceiling of supervised fine-tuning by enabling iterat</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aecd101e5": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Information Discernment in Large Language Models",
+      "src": "arXiv cs.AI",
+      "time": "4小时前",
+      "published_ts": 1784779200,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2607.19355",
+      "tags": [],
+      "body": "<p>arXiv:2607.19355v1 Announce Type: new Abstract: LLMs are increasingly used with external knowledge sources like the internet. Do they weigh information appropriately -- updating more for reliable sources (source discernment) and more when claims bring priors closer to the truth (truth discernment)? We formalize this as information discernment and introduce Learn2Discern (L2D), an experimental fram</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a40981396": {
       "layer": "l0",
       "cat": "L0 · 领袖观点",
       "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
       "src": "NVIDIA Blog",
-      "time": "56分钟前",
+      "time": "6小时前",
       "published_ts": 1784772046,
       "heat": "37.5K",
       "views": "37.5K",
@@ -20,9 +189,9 @@
       "cat": "L3 · 推理工程",
       "title": "Quoting Thomas Ptacek",
       "src": "Simon Willison",
-      "time": "2小时前",
+      "time": "8小时前",
       "published_ts": 1784764741,
-      "heat": "15.0K",
+      "heat": "13.2K",
       "views": "15.0K",
       "url": "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything",
       "tags": [],
@@ -33,10 +202,10 @@
       "cat": "L3 · 推理工程",
       "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
       "src": "Simon Willison",
-      "time": "3小时前",
+      "time": "8小时前",
       "published_ts": 1784764293,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "11.4K",
+      "views": "13.2K",
       "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything",
       "tags": [],
       "body": "<p>This story is wild. The short version: OpenAI were running a cybersecurity test against an unreleased model, with the model's guardrail features turned off. Rather than solve the test, the model broke its way out of OpenAI's sandbox, then found exploits to break in to Hugging Face, all so it could cheat on the test by stealing the answers. Along the way it helped make the strongest case yet for ho</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -46,9 +215,9 @@
       "cat": "L0 · 领袖观点",
       "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
       "src": "TechCrunch AI",
-      "time": "3小时前",
+      "time": "8小时前",
       "published_ts": 1784764074,
-      "heat": "27.0K",
+      "heat": "23.8K",
       "views": "27.0K",
       "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
       "tags": [],
@@ -59,10 +228,10 @@
       "cat": "L2 · 基础模型",
       "title": "Are AI labs pelicanmaxxing?",
       "src": "Simon Willison",
-      "time": "3小时前",
+      "time": "9小时前",
       "published_ts": 1784761260,
-      "heat": "11.4K",
-      "views": "13.2K",
+      "heat": "9.6K",
+      "views": "11.4K",
       "url": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything",
       "tags": [],
       "body": "<p>Are AI labs pelicanmaxxing? Excellent piece of work by Dylan Castillo, who took a deep-dive into the frequently pondered question of whether the AI labs have been deliberately training models to draw pelicans riding bicycles in response to my deeply unscientific benchmark . I've been randomly spot-checking this in the past by testing models against other animals riding other types of vehicle, but </p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -72,7 +241,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Meta won’t have to face the next planned social media addiction trial",
       "src": "The Verge",
-      "time": "4小时前",
+      "time": "10小时前",
       "published_ts": 1784757833,
       "heat": "21.1K",
       "views": "24.0K",
@@ -85,10 +254,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Google justifies its massive AI spending with a booming cloud business",
       "src": "TechCrunch AI",
-      "time": "4小时前",
+      "time": "10小时前",
       "published_ts": 1784757712,
-      "heat": "23.8K",
-      "views": "27.0K",
+      "heat": "20.5K",
+      "views": "23.8K",
       "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
       "tags": [],
       "body": "<p>Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -98,7 +267,7 @@
       "cat": "L5 · 生态商业",
       "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
       "src": "Wired",
-      "time": "5小时前",
+      "time": "11小时前",
       "published_ts": 1784754000,
       "heat": "16.5K",
       "views": "16.5K",
@@ -111,10 +280,10 @@
       "cat": "L1 · 算力硬件",
       "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
       "src": "TechCrunch AI",
-      "time": "6小时前",
+      "time": "11小时前",
       "published_ts": 1784753343,
-      "heat": "20.5K",
-      "views": "23.8K",
+      "heat": "17.3K",
+      "views": "20.5K",
       "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
       "tags": [],
       "body": "<p>The episode has also intensified a broader debate in Washington over the influx of Chinese open models.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -124,7 +293,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Q2 2026 earnings call: Remarks from our CEO",
       "src": "Google AI Blog",
-      "time": "6小时前",
+      "time": "11小时前",
       "published_ts": 1784753100,
       "heat": "34.5K",
       "views": "34.5K",
@@ -137,7 +306,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Price-hiked iPads are a little cheaper right now",
       "src": "The Verge",
-      "time": "7小时前",
+      "time": "13小时前",
       "published_ts": 1784747671,
       "heat": "15.4K",
       "views": "18.2K",
@@ -150,7 +319,7 @@
       "cat": "L4 · 交互Agent",
       "title": "iOS code could reportedly let Apple cut off apps when users miss iPhone payments",
       "src": "The Verge",
-      "time": "7小时前",
+      "time": "13小时前",
       "published_ts": 1784747601,
       "heat": "12.5K",
       "views": "15.4K",
@@ -163,10 +332,10 @@
       "cat": "L4 · 交互Agent",
       "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
       "src": "TechCrunch AI",
-      "time": "7小时前",
+      "time": "13小时前",
       "published_ts": 1784747506,
-      "heat": "17.3K",
-      "views": "20.5K",
+      "heat": "14.0K",
+      "views": "17.3K",
       "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
       "tags": [],
       "body": "<p>OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -176,7 +345,7 @@
       "cat": "L1 · 算力硬件",
       "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
       "src": "Wired",
-      "time": "7小时前",
+      "time": "13小时前",
       "published_ts": 1784746898,
       "heat": "14.5K",
       "views": "16.5K",
@@ -189,33 +358,20 @@
       "cat": "L4 · 交互Agent",
       "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
       "src": "TechCrunch AI",
-      "time": "8小时前",
+      "time": "13小时前",
       "published_ts": 1784746244,
-      "heat": "14.0K",
-      "views": "17.3K",
+      "heat": "10.8K",
+      "views": "14.0K",
       "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
       "tags": [],
       "body": "<p>Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a21ea702b": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
-      "src": "TechCrunch AI",
-      "time": "8小时前",
-      "published_ts": 1784744038,
-      "heat": "10.8K",
-      "views": "14.0K",
-      "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
-      "tags": [],
-      "body": "<p>Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sharing, and AI features designed to strengthen real-world relationships.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a17bf7def": {
       "layer": "l0",
       "cat": "L0 · 领袖观点",
       "title": "Jensen Huang argues American companies should be allowed to use Chinese AI models — Nvidia CEO says backdoors connected to China are misconceptions",
       "src": "Tom's Hardware",
-      "time": "9小时前",
+      "time": "14小时前",
       "published_ts": 1784742946,
       "heat": "13.2K",
       "views": "15.0K",
@@ -228,7 +384,7 @@
       "cat": "L2 · 基础模型",
       "title": "Here’s how to ask Gemini Live for help with anything you see.",
       "src": "Google AI Blog",
-      "time": "10小时前",
+      "time": "16小时前",
       "published_ts": 1784736000,
       "heat": "30.4K",
       "views": "34.5K",
@@ -241,7 +397,7 @@
       "cat": "L1 · 算力硬件",
       "title": "The future of USB connectivity (2026) — How USB4 Version 2 and Thunderbolt 5 are bringing copper to its physical limits",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1784734828,
       "heat": "7.8K",
       "views": "9.6K",
@@ -254,7 +410,7 @@
       "cat": "L1 · 算力硬件",
       "title": "AMD to supply Anthropic with 2 gigawatts of Instinct MI450 GPUs — will invest up to $5 billion in the Claude developer, which is already using MI355X GPUs",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1784734738,
       "heat": "6.0K",
       "views": "7.8K",
@@ -267,7 +423,7 @@
       "cat": "L2 · 基础模型",
       "title": "Open models recap: more on Kimi K3, Qwen 3.8, Xi's WAIC speech, distillation, the open-closed gap, and what's next",
       "src": "Interconnects",
-      "time": "12小时前",
+      "time": "18小时前",
       "published_ts": 1784729344,
       "heat": "18.0K",
       "views": "18.0K",
@@ -280,7 +436,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Flock ‘Objects to Our Removing Their Equipment’: Emails Reveal Why a Town Put Bags Over Its Flock Cameras",
       "src": "404 Media",
-      "time": "12小时前",
+      "time": "18小时前",
       "published_ts": 1784728982,
       "heat": "13.2K",
       "views": "15.0K",
@@ -293,7 +449,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Podcast: Flock is Tracking People, Not Just Cars",
       "src": "404 Media",
-      "time": "13小时前",
+      "time": "18小时前",
       "published_ts": 1784728577,
       "heat": "11.4K",
       "views": "13.2K",
@@ -306,7 +462,7 @@
       "cat": "L1 · 算力硬件",
       "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
       "src": "NVIDIA Blog",
-      "time": "13小时前",
+      "time": "19小时前",
       "published_ts": 1784725211,
       "heat": "33.0K",
       "views": "37.5K",
@@ -319,7 +475,7 @@
       "cat": "L5 · 生态商业",
       "title": "Building AI infrastructure with the Effingham County community",
       "src": "OpenAI Blog",
-      "time": "13小时前",
+      "time": "19小时前",
       "published_ts": 1784725200,
       "heat": "45.0K",
       "views": "45.0K",
@@ -332,7 +488,7 @@
       "cat": "L2 · 基础模型",
       "title": "How news organizations are using AI to advance their vital missions",
       "src": "OpenAI Blog",
-      "time": "13小时前",
+      "time": "19小时前",
       "published_ts": 1784725200,
       "heat": "39.6K",
       "views": "45.0K",
@@ -345,7 +501,7 @@
       "cat": "L2 · 基础模型",
       "title": "Advancing the next era of national science",
       "src": "OpenAI Blog",
-      "time": "14小时前",
+      "time": "20小时前",
       "published_ts": 1784721600,
       "heat": "34.2K",
       "views": "39.6K",
@@ -358,7 +514,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Introducing OpenAI Presence",
       "src": "OpenAI Blog",
-      "time": "21小时前",
+      "time": "1天前",
       "published_ts": 1784698200,
       "heat": "28.8K",
       "views": "34.2K",
@@ -366,158 +522,15 @@
       "tags": [],
       "body": "<p>Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a80f1c7a9": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "FALCON-Discover: Discovering Concentrated False-Confidence Regions for Calibration",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1784692800,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2607.18278",
-      "tags": [],
-      "body": "<p>arXiv:2607.18278v1 Announce Type: new Abstract: Calibration is usually evaluated in aggregate, but the most dangerous failures are often local: predictions that remain highly confident despite being wrong. We study this failure mode as false-confidence concentration, the extent to which confident errors occupy compact, discoverable regions of prediction space. We introduce FALCON-Discover, a post-</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a91143f42": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Beyond Output-Space Calibration: Spectral Evidence Bundling for Selective Reliability Estimation in Time-Series Classification",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1784692800,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2607.18279",
-      "tags": [],
-      "body": "<p>arXiv:2607.18279v1 Announce Type: new Abstract: Post-hoc calibration for time-series classification usually remaps output scores, but deployment decisions such as trust, abstention, and review depend on whether a confident prediction is supported by the current temporal signal. We address three time-series reliability gaps: identical confidence values can hide different temporal support, average c</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a6a130ccc": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Beyond Single-Dimensional Compression: The Compound Sparsity Frontier of Large Language Models",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1784692800,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://arxiv.org/abs/2607.18280",
-      "tags": [],
-      "body": "<p>arXiv:2607.18280v1 Announce Type: new Abstract: Large language models (LLMs) are often compressed through static parameter pruning or dynamic token-level computation, yet aggressive sparsification can trigger rapid performance degradation beyond an essential sparsity boundary. This work asks \\emph{whether combining these two mechanisms can delay such degradation by distributing the compression bur</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a387fe2da": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "FedCC: A Low-Resource Federated Adaptation of Foundation Models for Robust Corpus Callosum localization in Fetal Ultrasound Images",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1784692800,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://arxiv.org/abs/2607.18283",
-      "tags": [],
-      "body": "<p>arXiv:2607.18283v1 Announce Type: new Abstract: Accurate localization of the corpus callosum (CC) in fetal ultrasound (US) images is crucial for the early identification of neurodevelopmental abnormalities. However, this task remains highly challenging due to the intrinsic limitations of US imaging, including low contrast, speckle noise, and the considerable anatomical variability of the CC. We pr</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a468b669c": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Compressing What Matters: Neuron Importance Meets Data-Aware Low Rank Approximation for Language Model Compression",
-      "src": "arXiv cs.LG",
-      "time": "22小时前",
-      "published_ts": 1784692800,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://arxiv.org/abs/2607.18284",
-      "tags": [],
-      "body": "<p>arXiv:2607.18284v1 Announce Type: new Abstract: To excel at their domain large language models are comprised of billions of parameters. Yet this comes at the cost of huge memory requirements restricting their applicability in resource-constrained environments. To address the problem of neural network (NN) compression Singular Value Decomposition (SVD) has played a key role as a fundamental compone</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aff23c97d": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1784692800,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2607.18239",
-      "tags": [],
-      "body": "<p>arXiv:2607.18239v1 Announce Type: new Abstract: Power-seeking defined as behaviors where AI systems acquire resources, evade oversight, or resist termination beyond task requirements is identified as a key driver of Loss of Control (LoC) risk. In this work, we introduce SysAdmin, a benchmark that positions frontier language models as autonomous system administrators in a high-fidelity Linux sandbo</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aa9c79919": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1784692800,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2607.18240",
-      "tags": [],
-      "body": "<p>arXiv:2607.18240v1 Announce Type: new Abstract: Large language models (LLMs) can achieve strong fact-checking accuracy, yet forced binary decisions conceal a critical reliability problem: systems may issue confident verdicts even when supporting evidence is weak, sparse, or internally inconsistent. We address this issue through Evidence Chain Evaluation (ECE), a selective fact-checking framework t</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ae52c62e1": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1784692800,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://arxiv.org/abs/2607.18241",
-      "tags": [],
-      "body": "<p>arXiv:2607.18241v1 Announce Type: new Abstract: Large language models (LLMs) excel at analyzing individual documents but break down on exhaustive, cross-entity analytical questions over enterprise-scale datasets due to context overflow, loss of per-entity attribution, and linear latency from sequential tool calls. We present BatchDAG, a system in which an LLM generates a typed directed acyclic gra</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a44058bfb": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "AI Tool Discovery at Scale: All You Need is DNS",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1784692800,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://arxiv.org/abs/2607.18242",
-      "tags": [],
-      "body": "<p>arXiv:2607.18242v1 Announce Type: new Abstract: The coming era of autonomous AI agents demands a discovery mechanism capable of navigating millions of tools, yet existing solutions buckle under O(N) complexity and centralized governance. Instead of building another fragile overlay, we propose ToolDNS, a radical framework that retrofits semantic tool discovery onto the Internet's most resilient sub</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "adce27504": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1784692800,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://arxiv.org/abs/2607.18243",
-      "tags": [],
-      "body": "<p>arXiv:2607.18243v1 Announce Type: new Abstract: Agentic AI is crossing trust boundaries faster than current risk models can represent. Existing approaches provide one of two partial views. They either describe failure mechanisms without producing a transferable residual-risk estimate, or they produce a risk estimate while treating the internal failure path as a black box. We couple those two views</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ac8cd5cea": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "SAAG: Structured Agent Assessment and Grounding",
-      "src": "arXiv cs.AI",
-      "time": "22小时前",
-      "published_ts": 1784692800,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://arxiv.org/abs/2607.18245",
-      "tags": [],
-      "body": "<p>arXiv:2607.18245v1 Announce Type: new Abstract: Exact-match evaluation of agent-calling obscures qualitatively different failure modes: a model may select the right function yet hallucinate argument values, or satisfy a schema while choosing a agent for the wrong reason. Existing benchmarks collapse these distinctions into a single binary score, leaving practitioners unable to diagnose where agent</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a47c049cf": {
       "layer": "l3",
       "cat": "L3 · 推理工程",
       "title": "[AINews] AI Cybersecurity becomes top of mind",
       "src": "Latent Space",
-      "time": "23小时前",
+      "time": "1天前",
       "published_ts": 1784690849,
-      "heat": "19.5K",
-      "views": "19.5K",
+      "heat": "14.8K",
+      "views": "17.2K",
       "url": "https://www.latent.space/p/ainews-ai-cybersecurity-becomes-top",
       "tags": [],
       "body": "<p>Several new Cyber headlines make us observe a trend</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -581,8 +594,8 @@
       "src": "Latent Space",
       "time": "1天前",
       "published_ts": 1784662446,
-      "heat": "17.2K",
-      "views": "19.5K",
+      "heat": "12.5K",
+      "views": "14.8K",
       "url": "https://www.latent.space/p/xaira",
       "tags": [],
       "body": "<p>Xaira Therapeutics is all in on data generation for model building! We talk with Bo Wang and Ci Chu about how and why.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -691,19 +704,6 @@
       "tags": [],
       "body": "<p>Nvidia’s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company’s growing ambition to power every layer of AI infrastructure.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a344635bf": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Nativ: Run AI models locally on your Mac",
-      "src": "Simon Willison",
-      "time": "1天前",
-      "published_ts": 1784643747,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything",
-      "tags": [],
-      "body": "<p>Nativ: Run AI models locally on your Mac Prince Canuma is the developer behind the excellent MLX-VLM Python library for running vision-LLMs using MLX on a Mac. I'm really excited about his new project, which wraps MLX in a full macOS desktop application. It's similar in shape to LM Studio, providing both a chat interface and a localhost API server for accessing models. The app picked up MLX models</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a2156bf3d": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
@@ -761,10 +761,10 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] not much happened today",
       "src": "Latent Space",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1784606280,
-      "heat": "14.8K",
-      "views": "17.2K",
+      "heat": "10.1K",
+      "views": "12.5K",
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-173",
       "tags": [],
       "body": "<p>a quiet day.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -834,19 +834,6 @@
       "tags": [],
       "body": "<p>Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, with real money, livelihoods, and even actual lives at stake. Farmers use&#8230;</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "adc128005": {
-      "layer": "l3",
-      "cat": "L3 · 推理工程",
-      "title": "[AINews] Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing",
-      "src": "Latent Space",
-      "time": "6天前",
-      "published_ts": 1784252796,
-      "heat": "10.1K",
-      "views": "12.5K",
-      "url": "https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest",
-      "tags": [],
-      "body": "<p>a great week for open models continues.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "abce86906": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
@@ -911,19 +898,6 @@
       "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
       "tags": [],
       "body": "<p>Companies coming to market are raising money at fastest pace this century.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a9d1a1e4d": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "🔬 The Lab of the Future Should Feel Like a Data Center — Andy Beam & Rafa Gómez-Bombarelli, Lila Sciences",
-      "src": "Latent Space",
-      "time": "6天前",
-      "published_ts": 1784208644,
-      "heat": "7.8K",
-      "views": "10.1K",
-      "url": "https://www.latent.space/p/the-lab-of-the-future-should-feel",
-      "tags": [],
-      "body": "<p>Lila is betting that science, not the internet, is the last untapped source of training data. We went to find out what that actually looks like in a room full of robots.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a48a18c9c": {
       "layer": "l1",
@@ -1398,7 +1372,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "336天前",
+      "time": "337天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1603,60 +1577,32 @@
     }
   },
   "by_layer": {
-    "l0": [
-      "a40981396",
-      "a4b288fd0",
-      "ad0bd2a98",
-      "a17bf7def",
-      "a80f1c7a9",
-      "a91143f42",
-      "a387fe2da",
-      "a44058bfb",
-      "ac34cbd83",
-      "a344635bf",
-      "a731d79c2",
-      "a5c26565c",
-      "a0a86adb8",
-      "aa27891e5",
-      "a57fda39f",
-      "a187a50d6",
-      "a040f39c9",
-      "a0ab4dd7d",
-      "a375099f0",
-      "a6a5b4a81",
-      "a253e0446",
-      "a9173515c",
-      "abcb7b0c4"
-    ],
-    "l3": [
-      "a7b2aa789",
-      "ae809e3e9",
-      "a47c049cf",
-      "a207a1199",
-      "ac8aab00b",
-      "ab39017be",
-      "a1585cbf5",
-      "adc128005",
-      "ac18efa26",
-      "a32296677",
-      "a28f84720"
+    "l5": [
+      "ab17f914a",
+      "af11330ba",
+      "ae908b497",
+      "a6ab7c41b",
+      "aba34f542",
+      "aef729a4e",
+      "a8fa0f0dd",
+      "a3f602341"
     ],
     "l2": [
+      "addebe085",
+      "a63e487f6",
+      "a1dbe5184",
+      "a58392532",
+      "a12a3c50c",
+      "aecd101e5",
       "a250eaa29",
       "af5c82787",
       "a550a4c9b",
       "acdb78007",
       "a956cc7dc",
-      "a6a130ccc",
-      "a468b669c",
-      "aff23c97d",
-      "ae52c62e1",
-      "ac8cd5cea",
       "a5f970178",
       "a7063c4cd",
       "ac4b75dc4",
       "a95dee175",
-      "a9d1a1e4d",
       "a887de6b8",
       "a9c67007c",
       "ad590d1d4",
@@ -1676,7 +1622,45 @@
       "ab3119897",
       "af0f189d1"
     ],
+    "l0": [
+      "a7d6de1f1",
+      "a20e29646",
+      "a40981396",
+      "a4b288fd0",
+      "ad0bd2a98",
+      "a17bf7def",
+      "ac34cbd83",
+      "a731d79c2",
+      "a5c26565c",
+      "a0a86adb8",
+      "aa27891e5",
+      "a57fda39f",
+      "a187a50d6",
+      "a040f39c9",
+      "a0ab4dd7d",
+      "a375099f0",
+      "a6a5b4a81",
+      "a253e0446",
+      "a9173515c",
+      "abcb7b0c4"
+    ],
+    "l3": [
+      "a0486916a",
+      "a9fde28ea",
+      "a3911b225",
+      "a7b2aa789",
+      "ae809e3e9",
+      "a47c049cf",
+      "a207a1199",
+      "ac8aab00b",
+      "ab39017be",
+      "a1585cbf5",
+      "ac18efa26",
+      "a32296677",
+      "a28f84720"
+    ],
     "l4": [
+      "ace97c9b1",
       "a9ffdd157",
       "a820efff2",
       "a4a37fcd9",
@@ -1686,7 +1670,6 @@
       "ae87060bc",
       "ab3e9c9c7",
       "a49504997",
-      "adce27504",
       "a566918d5",
       "af653f1b5",
       "af1d9a1ca",
@@ -1699,17 +1682,6 @@
       "a272de4e1",
       "ab59fe080",
       "ad01feb8a"
-    ],
-    "l5": [
-      "af11330ba",
-      "a21ea702b",
-      "ae908b497",
-      "aa9c79919",
-      "a6ab7c41b",
-      "aba34f542",
-      "aef729a4e",
-      "a8fa0f0dd",
-      "a3f602341"
     ],
     "l1": [
       "a40ac9268",
@@ -1740,45 +1712,23 @@
     ]
   },
   "top5": [
-    "a40981396",
-    "a7b2aa789",
-    "ae809e3e9",
-    "a4b288fd0",
-    "a250eaa29"
+    "ab17f914a",
+    "addebe085",
+    "a7d6de1f1",
+    "a63e487f6",
+    "a20e29646"
   ],
   "layers": [
-    {
-      "id": "l4",
-      "num": "LAYER 4",
-      "name": "交互Agent",
-      "vals": [
-        23,
-        27,
-        8,
-        5,
-        23,
-        18
-      ],
-      "trend": [
-        20,
-        20,
-        20,
-        20,
-        20,
-        20,
-        20
-      ]
-    },
     {
       "id": "l2",
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        24,
-        15,
-        11,
-        8,
-        26,
+        21,
+        18,
+        18,
+        9,
+        25,
         23
       ],
       "trend": [
@@ -1792,15 +1742,37 @@
       ]
     },
     {
+      "id": "l4",
+      "num": "LAYER 4",
+      "name": "交互Agent",
+      "vals": [
+        11,
+        26,
+        9,
+        17,
+        28,
+        19
+      ],
+      "trend": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ]
+    },
+    {
       "id": "l1",
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        10,
+        17,
         18,
         10,
         6,
-        34,
+        19,
         20
       ],
       "trend": [
@@ -1818,12 +1790,12 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        10,
         18,
-        9,
-        6,
-        25,
-        19
+        10,
+        8,
+        5,
+        14,
+        18
       ],
       "trend": [
         20,
@@ -1836,38 +1808,16 @@
       ]
     },
     {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
-      "vals": [
-        16,
-        17,
-        5,
-        5,
-        10,
-        10
-      ],
-      "trend": [
-        20,
-        18,
-        16,
-        14,
-        12,
-        10,
-        8
-      ]
-    },
-    {
       "id": "l3",
       "num": "LAYER 3",
       "name": "推理工程",
       "vals": [
         10,
-        18,
+        13,
         5,
         5,
         10,
-        14
+        15
       ],
       "trend": [
         20,
@@ -1878,97 +1828,110 @@
         15,
         14
       ]
+    },
+    {
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
+      "vals": [
+        10,
+        10,
+        5,
+        5,
+        10,
+        18
+      ],
+      "trend": [
+        20,
+        18,
+        16,
+        14,
+        12,
+        10,
+        8
+      ]
     }
   ],
   "ticker": [
     {
+      "tag": "TECHCRUNC",
+      "col": "var(--l5)",
+      "text": "ServiceNow bets $40 million on Indian banking software specialist…"
+    },
+    {
+      "tag": "LATENT SP",
+      "col": "var(--l2)",
+      "text": "[AINews] \"Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, …"
+    },
+    {
+      "tag": "LATENT SP",
+      "col": "var(--l0)",
+      "text": "Inside the Model Factory — Eiso Kant, Poolside AI"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Bayesian Wind Tunnels for Model Selection"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l0)",
+      "text": "CruiseBench: A Real-Flight-Aligned N-CMAPSS Benchmark for Engine …"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Air Quality Arena: A Large-Scale Multi-Region Ground Monitoring D…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l3)",
+      "text": "Challenges of Explainability in Continual Learning for Time Serie…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l3)",
+      "text": "FineServe: A Fine-Grained Dataset and Characterization of Global …"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Det…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l4)",
+      "text": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-Wor…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l3)",
+      "text": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Inte…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spread…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Information Discernment in Large Language Models"
+    },
+    {
       "tag": "NVIDIA BL",
       "col": "var(--l0)",
       "text": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School"
-    },
-    {
-      "tag": "SIMON WIL",
-      "col": "var(--l3)",
-      "text": "Quoting Thomas Ptacek"
-    },
-    {
-      "tag": "SIMON WIL",
-      "col": "var(--l3)",
-      "text": "OpenAI’s accidental cyberattack against Hugging Face is science f…"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l0)",
-      "text": "After shocking quarter, IBM insists that AI isn’t killing the mai…"
-    },
-    {
-      "tag": "SIMON WIL",
-      "col": "var(--l2)",
-      "text": "Are AI labs pelicanmaxxing?"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "Meta won’t have to face the next planned social media addiction t…"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "Google justifies its massive AI spending with a booming cloud bus…"
-    },
-    {
-      "tag": "WIRED",
-      "col": "var(--l5)",
-      "text": "The White House Is Trying to Figure Out What to Do About Chinese …"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l1)",
-      "text": "Treasury threatens sanctions after White House claims Moonshot di…"
-    },
-    {
-      "tag": "GOOGLE AI",
-      "col": "var(--l0)",
-      "text": "Q2 2026 earnings call: Remarks from our CEO"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "Price-hiked iPads are a little cheaper right now"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "iOS code could reportedly let Apple cut off apps when users miss …"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "How OpenAI’s human mistake led to the AI-powered hack on Hugging …"
-    },
-    {
-      "tag": "WIRED",
-      "col": "var(--l1)",
-      "text": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Run large language models at home, BitTorrent‑style",
-      "url": "https://petals.dev/",
-      "votes": "37",
-      "comments": "14",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
       "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "votes": "652",
-      "comments": "397",
+      "votes": "841",
+      "comments": "487",
       "time": "近期"
     },
     {
@@ -1976,8 +1939,8 @@
       "badge": "pb-hn",
       "title": "Quality non-fiction books are the antithesis of AI slop",
       "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-      "votes": "181",
-      "comments": "79",
+      "votes": "333",
+      "comments": "111",
       "time": "近期"
     },
     {
@@ -1985,26 +1948,35 @@
       "badge": "pb-hn",
       "title": "GigaToken: ~1000x faster Language model tokenization",
       "url": "https://github.com/marcelroed/gigatoken/",
-      "votes": "387",
-      "comments": "77",
+      "votes": "485",
+      "comments": "97",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Are AI Labs Pelicanmaxxing?",
+      "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
+      "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
+      "votes": "6",
+      "comments": "0",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Are AI labs pelicanmaxxing?",
       "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-      "votes": "410",
-      "comments": "158",
+      "votes": "509",
+      "comments": "196",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "OpenAI's accidental cyberattack against Hugging Face is science fiction",
-      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-      "votes": "19",
-      "comments": "3",
+      "title": "So Reddit has decided that plain HTML is unsafe",
+      "url": "https://www.cole-k.com/2026/07/21/reddit/",
+      "votes": "439",
+      "comments": "415",
       "time": "近期"
     }
   ]
