@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T03:15:49.790193+00:00",
+  "updated_at": "2026-07-26T08:29:15.744356+00:00",
   "article_count": 116,
   "articles": {
     "a5e3ed6c4": {
@@ -7,7 +7,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
       "src": "TechCrunch AI",
-      "time": "1小时前",
+      "time": "6小时前",
       "published_ts": 1785029400,
       "heat": "27.0K",
       "views": "27.0K",
@@ -20,7 +20,7 @@
       "cat": "L3 · 推理工程",
       "title": "Ruff v0.16.0",
       "src": "Simon Willison",
-      "time": "4小时前",
+      "time": "9小时前",
       "published_ts": 1785019445,
       "heat": "15.0K",
       "views": "15.0K",
@@ -33,7 +33,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Google basically confirms the Pixel 11 is getting a price hike",
       "src": "The Verge",
-      "time": "9小时前",
+      "time": "14小时前",
       "published_ts": 1785003216,
       "heat": "24.0K",
       "views": "24.0K",
@@ -46,7 +46,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Security flaw in Vatican’s ‘Click to Pray’ app leaves over 700,000 global users exposed — app has been leaking user data for over six months and still does",
       "src": "Tom's Hardware",
-      "time": "9小时前",
+      "time": "14小时前",
       "published_ts": 1785002167,
       "heat": "15.0K",
       "views": "15.0K",
@@ -59,7 +59,7 @@
       "cat": "L4 · 交互Agent",
       "title": "OpenAI agent goes rogue and hacks popular AI community — left escape plans for future models inside the company's infrastructure",
       "src": "Tom's Hardware",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1784997719,
       "heat": "13.2K",
       "views": "15.0K",
@@ -72,7 +72,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
       "src": "TechCrunch AI",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1784995200,
       "heat": "23.8K",
       "views": "27.0K",
@@ -85,7 +85,7 @@
       "cat": "L1 · 算力硬件",
       "title": "'RAM Machine' case probably costs more than the entire build — Nvidia RTX 5060, Core Ultra 5 CPU, and 32GB DDR5-8200 RAM are hiding inside",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1784993697,
       "heat": "11.4K",
       "views": "13.2K",
@@ -98,7 +98,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Grab an Nvidia RTX 5060 Ti gaming PC with Core Ultra 7 CPU and 32GB RAM for under $1,200 — Thermaltake's View u2660T-170 slashed by 33%",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "17小时前",
       "published_ts": 1784992702,
       "heat": "9.6K",
       "views": "11.4K",
@@ -111,7 +111,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Warner Bros. is suing Amazon for poaching employees",
       "src": "The Verge",
-      "time": "13小时前",
+      "time": "18小时前",
       "published_ts": 1784988312,
       "heat": "15.4K",
       "views": "18.2K",
@@ -124,7 +124,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Nvidia and SK Group enter $500 billion AI partnership — plan to supercharge AI infrastructure with next-gen memory and massive AI factories",
       "src": "Tom's Hardware",
-      "time": "13小时前",
+      "time": "18小时前",
       "published_ts": 1784987735,
       "heat": "7.8K",
       "views": "9.6K",
@@ -137,7 +137,7 @@
       "cat": "L4 · 交互Agent",
       "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
       "src": "TechCrunch AI",
-      "time": "14小时前",
+      "time": "19小时前",
       "published_ts": 1784984700,
       "heat": "20.5K",
       "views": "23.8K",
@@ -150,7 +150,7 @@
       "cat": "L5 · 生态商业",
       "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
       "src": "Wired",
-      "time": "16小时前",
+      "time": "21小时前",
       "published_ts": 1784975400,
       "heat": "16.5K",
       "views": "16.5K",
@@ -163,7 +163,7 @@
       "cat": "L1 · 算力硬件",
       "title": "[AINews] Claude Opus 5: Fable-level performance at Opus price (half Fable)",
       "src": "Latent Space",
-      "time": "19小时前",
+      "time": "1天前",
       "published_ts": 1784964338,
       "heat": "19.5K",
       "views": "19.5K",
@@ -306,7 +306,7 @@
       "cat": "L0 · 领袖观点",
       "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
       "src": "NVIDIA Blog",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1784867667,
       "heat": "37.5K",
       "views": "37.5K",
@@ -319,7 +319,7 @@
       "cat": "L0 · 领袖观点",
       "title": "[AINews] Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model",
       "src": "Latent Space",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1784867412,
       "heat": "17.2K",
       "views": "19.5K",
@@ -475,7 +475,7 @@
       "cat": "L2 · 基础模型",
       "title": "[AINews] \"Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro\"",
       "src": "Latent Space",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1784783927,
       "heat": "14.8K",
       "views": "17.2K",
@@ -488,7 +488,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Inside the Model Factory — Eiso Kant, Poolside AI",
       "src": "Latent Space",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1784783354,
       "heat": "12.5K",
       "views": "14.8K",
@@ -618,7 +618,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Introducing OpenAI Presence",
       "src": "OpenAI Blog",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1784698200,
       "heat": "23.4K",
       "views": "28.8K",
@@ -631,7 +631,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] AI Cybersecurity becomes top of mind",
       "src": "Latent Space",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1784690849,
       "heat": "10.1K",
       "views": "12.5K",
@@ -1307,7 +1307,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "339天前",
+      "time": "340天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1650,37 +1650,15 @@
   ],
   "layers": [
     {
-      "id": "l0",
-      "num": "LAYER 0",
-      "name": "领袖观点",
-      "vals": [
-        18,
-        32,
-        10,
-        7,
-        23,
-        20
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
-    {
       "id": "l2",
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        32,
-        13,
-        5,
+        19,
+        34,
+        19,
         7,
-        33,
+        31,
         21
       ],
       "trend": [
@@ -1698,11 +1676,11 @@
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        24,
-        11,
+        27,
+        14,
         11,
         7,
-        30,
+        17,
         21
       ],
       "trend": [
@@ -1720,11 +1698,11 @@
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        15,
+        22,
         10,
         8,
-        23,
-        11,
+        7,
+        24,
         18
       ],
       "trend": [
@@ -1738,25 +1716,25 @@
       ]
     },
     {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
+      "id": "l0",
+      "num": "LAYER 0",
+      "name": "领袖观点",
       "vals": [
+        12,
         10,
         10,
-        5,
-        5,
-        19,
-        12
+        7,
+        35,
+        20
       ],
       "trend": [
         20,
-        19,
-        18,
-        17,
-        16,
-        15,
-        14
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
       ]
     },
     {
@@ -1766,9 +1744,9 @@
       "vals": [
         10,
         10,
-        5,
-        5,
         14,
+        5,
+        10,
         13
       ],
       "trend": [
@@ -1779,6 +1757,28 @@
         12,
         10,
         8
+      ]
+    },
+    {
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
+      "vals": [
+        10,
+        10,
+        5,
+        5,
+        18,
+        10
+      ],
+      "trend": [
+        20,
+        19,
+        18,
+        17,
+        16,
+        15,
+        14
       ]
     }
   ],
@@ -1858,10 +1858,28 @@
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Clinical failure rates over the decades: yikes",
-      "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
-      "votes": "61",
-      "comments": "34",
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "votes": "307",
+      "comments": "188",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "votes": "134",
+      "comments": "94",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "GrapheneOS protections against data extraction from locked devices",
+      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+      "votes": "17",
+      "comments": "2",
       "time": "近期"
     },
     {
@@ -1869,35 +1887,8 @@
       "badge": "pb-hn",
       "title": "Cloudflare's new AI traffic options for customers",
       "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-      "votes": "52",
-      "comments": "30",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
-      "votes": "142",
-      "comments": "54",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "The new rules of context engineering for Claude 5 generation models",
-      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "votes": "186",
-      "comments": "129",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-      "url": "https://github.com/slvDev/esp32-ai",
-      "votes": "93",
-      "comments": "20",
+      "votes": "109",
+      "comments": "75",
       "time": "近期"
     },
     {
@@ -1905,8 +1896,17 @@
       "badge": "pb-hn",
       "title": "Rethinking Legal Education in the AI Era",
       "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
-      "votes": "13",
-      "comments": "0",
+      "votes": "70",
+      "comments": "31",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "votes": "170",
+      "comments": "37",
       "time": "近期"
     }
   ]
