@@ -1,14 +1,92 @@
 {
-  "updated_at": "2026-08-02T08:27:03.502131+00:00",
-  "article_count": 115,
+  "updated_at": "2026-08-02T13:26:25.281762+00:00",
+  "article_count": 116,
   "articles": {
+    "ae03e478d": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Iran suspected of conducting cyberattacks on US water suppliers in 45 municipalities — small towns mostly targeted, with utilities switching to manual control",
+      "src": "Tom's Hardware",
+      "time": "16分钟前",
+      "published_ts": 1785676200,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/iran-suspected-of-conducting-cyberattacks-on-us-water-suppliers-in-45-municipalities-small-towns-mostly-targeted-with-utilities-switching-to-manual-control",
+      "tags": [],
+      "body": "<p>Several US towns said that their water utilities have suffered from cyberattacks, which are suspected to have originated from Iran. While systems remain running, several have resorted to manual control to protect the water supply.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a1338e7ca": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "Latest open artifacts (#23): Laguna S2.1, Inkling, & Kimi K3 show the utility of open models on the Pareto frontier",
+      "src": "Interconnects",
+      "time": "24分钟前",
+      "published_ts": 1785675700,
+      "heat": "18.0K",
+      "views": "18.0K",
+      "url": "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
+      "tags": [],
+      "body": "<p>Capacity to train strong models is proliferating.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a698822ca": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Is paying artists enough to convince them to embrace AI?",
+      "src": "The Verge",
+      "time": "26分钟前",
+      "published_ts": 1785675600,
+      "heat": "24.0K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+      "tags": [],
+      "body": "<p>Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the technology's evolution. This has led to contentious legal battles, but it's [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ac2c4cead": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Commemorative golden Doom floppy disks go up for pre-order —  pair of limited edition dummy ‘imitation gold plating’ disks and a box are $30 at GameStop",
+      "src": "Tom's Hardware",
+      "time": "41分钟前",
+      "published_ts": 1785674700,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/video-games/retro-gaming/commemorative-golden-doom-floppy-disks-go-up-for-pre-order-pair-of-limited-edition-dummy-imitation-gold-plating-disks-and-a-box-are-usd30-at-gamestop",
+      "tags": [],
+      "body": "<p>GameStop has listed a purely ornamental Doom Floppy Disk Limited Edition Imitation Gold Plated Replica at $29.99.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a1de19b3b": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "SpaceXAI says it will remove all 69 of its unpermitted turbine power generators, but expects process to take a year — trailer-mounted generators to be replaced by 1.2GW power plant",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1785671400,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/spacexai-says-it-will-remove-all-69-of-its-unpermitted-turbine-power-generators-but-expects-process-to-take-a-year-trailer-mounted-generators-to-be-replaced-by-1-2gw-power-plant",
+      "tags": [],
+      "body": "<p>These turbines have been the center of a lawsuit involving permits and pollution. While this is good news for the community, it will still take quite some time before they're fully removed from the premises.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aaeeb2051": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "RTX 5060 Ti survives car crash after being bent in half — short PCB saves the day, single memory chip resolder restore full performance",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1785670200,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://www.tomshardware.com/pc-components/gpus/rtx-5060-ti-survives-car-crash-after-being-bent-in-half-short-pcb-saves-the-day-single-memory-chip-resolder-restore-full-performance",
+      "tags": [],
+      "body": "<p>What happens when a graphics card gets in a car crash? If you're lucky, the damage is limited to just cosmetic scars that can go away over time with no serious damage under-the-hood.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a676cc280": {
       "layer": "l5",
       "cat": "L5 · 生态商业",
       "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
       "src": "Wired",
-      "time": "2分钟前",
-      "published_ts": 1785659044,
+      "time": "3小时前",
+      "published_ts": 1785664800,
       "heat": "16.5K",
       "views": "16.5K",
       "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
@@ -20,7 +98,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Open letters about AI development",
       "src": "Simon Willison",
-      "time": "4小时前",
+      "time": "9小时前",
       "published_ts": 1785644212,
       "heat": "15.0K",
       "views": "15.0K",
@@ -33,7 +111,7 @@
       "cat": "L2 · 基础模型",
       "title": "July 2026 newsletter",
       "src": "Simon Willison",
-      "time": "4小时前",
+      "time": "9小时前",
       "published_ts": 1785643961,
       "heat": "13.2K",
       "views": "15.0K",
@@ -46,7 +124,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Quoting Greg Brockman",
       "src": "Simon Willison",
-      "time": "9小时前",
+      "time": "14小时前",
       "published_ts": 1785623384,
       "heat": "11.4K",
       "views": "13.2K",
@@ -59,10 +137,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Pixel 11 specs and price leak with no surprises",
       "src": "The Verge",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1785619884,
-      "heat": "24.0K",
-      "views": "24.0K",
+      "heat": "18.2K",
+      "views": "21.1K",
       "url": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
       "tags": [],
       "body": "<p>Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th event. The Pixel 11 is expected to get a $100 price hike, starting at $899, but will come with 256GB [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -72,7 +150,7 @@
       "cat": "L4 · 交互Agent",
       "title": "datasette-apps 0.2a0",
       "src": "Simon Willison",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1785619436,
       "heat": "9.6K",
       "views": "11.4K",
@@ -85,7 +163,7 @@
       "cat": "L5 · 生态商业",
       "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
       "src": "TechCrunch AI",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1785615964,
       "heat": "27.0K",
       "views": "27.0K",
@@ -98,7 +176,7 @@
       "cat": "L4 · 交互Agent",
       "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
       "src": "TechCrunch AI",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1785613545,
       "heat": "23.8K",
       "views": "27.0K",
@@ -111,10 +189,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Is this Billboard Hot 100 hit AI slop?",
       "src": "The Verge",
-      "time": "14小时前",
+      "time": "19小时前",
       "published_ts": 1785608400,
-      "heat": "18.2K",
-      "views": "21.1K",
+      "heat": "12.5K",
+      "views": "15.4K",
       "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
       "tags": [],
       "body": "<p>Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many speculating that it was largely, [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -124,7 +202,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Sam Altman is still making the case for parenting via ChatGPT",
       "src": "TechCrunch AI",
-      "time": "15小时前",
+      "time": "20小时前",
       "published_ts": 1785604054,
       "heat": "20.5K",
       "views": "23.8K",
@@ -132,64 +210,12 @@
       "tags": [],
       "body": "<p>OpenAI's CEO seemed excited to share a \"cool use case\" for parents.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a96c34cac": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Dell founder shows how a $100 billion empire started 42 years ago —  CEO says ‘This one page changed my life’",
-      "src": "Tom's Hardware",
-      "time": "15小时前",
-      "published_ts": 1785603991,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://www.tomshardware.com/tech-industry/dell-founder-shows-how-a-usd100-billion-empire-started-42-years-ago-ceo-says-this-one-page-changed-my-life",
-      "tags": [],
-      "body": "<p>Billionaire Michael Dell reminisced about the early days of his company, sharing an early quarterly earnings report that showed the then-startup making nearly $135,000 in just three months. Dell says that that document changed his life, as it convinced his parents that he no longer needed to go back to college and pursue his degree.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a2b45036b": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Microsoft vows to make Windows 11 fly on 8GB RAM amid memory shortage — optimizations to reduce OS memory footprint have begun",
-      "src": "Tom's Hardware",
-      "time": "17小时前",
-      "published_ts": 1785595706,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://www.tomshardware.com/software/windows/microsoft-vows-to-make-windows-11-fly-on-8gb-ram-amid-memory-shortage-optimizations-to-reduce-os-memory-footprint-have-begun",
-      "tags": [],
-      "body": "<p>While the company's minimum OS specifications officially say 4GB, most PC builders know that 16GB is the bare minimum for a smooth experience on Windows 11. However, the memory chip shortage and the resurgence of 8GB laptops are likely forcing Microsoft to optimize Windows.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aed3ce472": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "The Verge’s 2026 back-to-school shopping guide",
-      "src": "The Verge",
-      "time": "18小时前",
-      "published_ts": 1785592800,
-      "heat": "9.6K",
-      "views": "12.5K",
-      "url": "https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts",
-      "tags": [],
-      "body": "<p>Knowing exactly what your student needs for the school year ahead is next to impossible. Sure, you'll probably nail the essentials, but there will likely be a few items you forgot to buy, or didn't think they'd need to have. We're pulling our weight during the back-to-school season with a new shopping guide that's a [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a17779fd4": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Anthropic's Claude hacked three real-life companies during security capabilities test — test environment with internet access and unwitting targets' lax cybersecurity practices led to bots running rampant",
-      "src": "Tom's Hardware",
-      "time": "19小时前",
-      "published_ts": 1785587400,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-claude-hacked-three-real-life-companies-during-security-capabilities-test-test-environment-with-internet-access-and-unwitting-targets-lax-cybersecurity-practices-led-to-bots-running-rampant",
-      "tags": [],
-      "body": "<p>Anthropic's Claude hacked three real-life companies during security capabilities test — open test environment and unwitting targets' lax cybersecurity practices led bots run rampant</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a8bd8475f": {
       "layer": "l0",
       "cat": "L0 · 领袖观点",
       "title": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
       "src": "Wired",
-      "time": "21小时前",
+      "time": "1天前",
       "published_ts": 1785580200,
       "heat": "14.5K",
       "views": "16.5K",
@@ -202,7 +228,7 @@
       "cat": "L4 · 交互Agent",
       "title": "We Need to Quarantine Aliens on the Moon, Scientists Propose",
       "src": "404 Media",
-      "time": "22小时前",
+      "time": "1天前",
       "published_ts": 1785578447,
       "heat": "15.0K",
       "views": "15.0K",
@@ -215,7 +241,7 @@
       "cat": "L5 · 生态商业",
       "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
       "src": "Wired",
-      "time": "22小时前",
+      "time": "1天前",
       "published_ts": 1785576600,
       "heat": "12.5K",
       "views": "14.5K",
@@ -410,7 +436,7 @@
       "cat": "L4 · 交互Agent",
       "title": "A Hidden 'Dark Dimension' Could Rewrite Our Understanding of the Universe",
       "src": "404 Media",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1785502059,
       "heat": "6.0K",
       "views": "7.8K",
@@ -501,7 +527,7 @@
       "cat": "L4 · 交互Agent",
       "title": "1 Billion ChatGPT users",
       "src": "Ben's Bites",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1785416573,
       "heat": "16.5K",
       "views": "16.5K",
@@ -514,7 +540,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
       "src": "NVIDIA Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1785416420,
       "heat": "37.5K",
       "views": "37.5K",
@@ -527,7 +553,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Ontologies Are So Back: Why AI Agents Are Reviving the Semantic Web",
       "src": "Latent Space",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1785410275,
       "heat": "14.8K",
       "views": "17.2K",
@@ -540,7 +566,7 @@
       "cat": "L5 · 生态商业",
       "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
       "src": "MIT Tech Review",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1785406519,
       "heat": "22.5K",
       "views": "22.5K",
@@ -553,7 +579,7 @@
       "cat": "L2 · 基础模型",
       "title": "Advancing the price-performance frontier with GPT-5.6",
       "src": "OpenAI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1785405600,
       "heat": "18.0K",
       "views": "23.4K",
@@ -592,7 +618,7 @@
       "cat": "L1 · 算力硬件",
       "title": "AI Is Hyper-Scaling Digital Inequality",
       "src": "IEEE Spectrum",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1785322804,
       "heat": "9.6K",
       "views": "11.4K",
@@ -605,7 +631,7 @@
       "cat": "L0 · 领袖观点",
       "title": "The AI Hype Index: Unsexy AI",
       "src": "MIT Tech Review",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1785314577,
       "heat": "19.8K",
       "views": "22.5K",
@@ -670,7 +696,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
       "src": "MIT Tech Review",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1785230337,
       "heat": "17.1K",
       "views": "19.8K",
@@ -722,7 +748,7 @@
       "cat": "L0 · 领袖观点",
       "title": "The path to artificial superintelligence",
       "src": "MIT Tech Review",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1785153600,
       "heat": "11.7K",
       "views": "14.4K",
@@ -735,7 +761,7 @@
       "cat": "L5 · 生态商业",
       "title": "Closing the data loop in AI-driven drug discovery",
       "src": "MIT Tech Review",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1785152416,
       "heat": "9.0K",
       "views": "11.7K",
@@ -748,7 +774,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
       "src": "NVIDIA Blog",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1785142807,
       "heat": "28.5K",
       "views": "33.0K",
@@ -774,7 +800,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Optical Tech Would Update a Robot’s AI on the Fly",
       "src": "IEEE Spectrum",
-      "time": "6天前",
+      "time": "7天前",
       "published_ts": 1785070801,
       "heat": "6.0K",
       "views": "7.8K",
@@ -813,7 +839,7 @@
       "cat": "L1 · 算力硬件",
       "title": "GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud",
       "src": "NVIDIA Blog",
-      "time": "9天前",
+      "time": "10天前",
       "published_ts": 1784811616,
       "heat": "15.0K",
       "views": "19.5K",
@@ -828,7 +854,7 @@
       "src": "Interconnects",
       "time": "10天前",
       "published_ts": 1784729344,
-      "heat": "18.0K",
+      "heat": "15.8K",
       "views": "18.0K",
       "url": "https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3",
       "tags": [],
@@ -839,7 +865,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Better design than Fable",
       "src": "Ben's Bites",
-      "time": "11天前",
+      "time": "12天前",
       "published_ts": 1784640328,
       "heat": "10.6K",
       "views": "12.5K",
@@ -854,8 +880,8 @@
       "src": "Interconnects",
       "time": "12天前",
       "published_ts": 1784562508,
-      "heat": "15.8K",
-      "views": "18.0K",
+      "heat": "13.7K",
+      "views": "15.8K",
       "url": "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
       "tags": [],
       "body": "<p>The global implications on the AI ecosystem.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -865,7 +891,7 @@
       "cat": "L3 · 推理工程",
       "title": "Controlling Reasoning Effort in LLMs",
       "src": "Ahead of AI",
-      "time": "14天前",
+      "time": "15天前",
       "published_ts": 1784373369,
       "heat": "15.0K",
       "views": "15.0K",
@@ -891,7 +917,7 @@
       "cat": "L2 · 基础模型",
       "title": "How to use GPT-5.6",
       "src": "Ben's Bites",
-      "time": "18天前",
+      "time": "19天前",
       "published_ts": 1784034084,
       "heat": "6.6K",
       "views": "8.6K",
@@ -906,8 +932,8 @@
       "src": "Interconnects",
       "time": "20天前",
       "published_ts": 1783874862,
-      "heat": "13.7K",
-      "views": "15.8K",
+      "heat": "11.5K",
+      "views": "13.7K",
       "url": "https://www.interconnects.ai/p/6-months-to-live-for-open-models",
       "tags": [],
       "body": "<p>The most serious test to date of open source AI&#8217;s viability is happening right now.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -956,7 +982,7 @@
       "cat": "L2 · 基础模型",
       "title": "Using Local Coding Agents",
       "src": "Ahead of AI",
-      "time": "35天前",
+      "time": "36天前",
       "published_ts": 1782559318,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1010,24 +1036,11 @@
       "src": "Interconnects",
       "time": "40天前",
       "published_ts": 1782139965,
-      "heat": "9.4K",
-      "views": "11.5K",
+      "heat": "7.2K",
+      "views": "9.4K",
       "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
       "tags": [],
       "body": "<p>A capability threshold I've been carefully monitoring.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "abe6ec8a8": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Banning Open Source AI Would Be A Mistake",
-      "src": "Interconnects",
-      "time": "43天前",
-      "published_ts": 1781874167,
-      "heat": "7.2K",
-      "views": "9.4K",
-      "url": "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
-      "tags": [],
-      "body": "<p>This post was originally an op-ed co-authored with Kevin Xu of Interconnected for a general, non-technical audience.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a50f8a782": {
       "layer": "l1",
@@ -1047,7 +1060,7 @@
       "cat": "L3 · 推理工程",
       "title": "LLM Research Papers: The 2026 List (January to May)",
       "src": "Ahead of AI",
-      "time": "56天前",
+      "time": "57天前",
       "published_ts": 1780744582,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1073,7 +1086,7 @@
       "cat": "L2 · 基础模型",
       "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
       "src": "Ahead of AI",
-      "time": "77天前",
+      "time": "78天前",
       "published_ts": 1778931231,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1099,7 +1112,7 @@
       "cat": "L2 · 基础模型",
       "title": "My Workflow for Understanding LLM Architectures",
       "src": "Ahead of AI",
-      "time": "105天前",
+      "time": "106天前",
       "published_ts": 1776511476,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1112,7 +1125,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Components of A Coding Agent",
       "src": "Ahead of AI",
-      "time": "119天前",
+      "time": "120天前",
       "published_ts": 1775303137,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1177,7 +1190,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
       "src": "VentureBeat AI",
-      "time": "200天前",
+      "time": "201天前",
       "published_ts": 1768309200,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1190,7 +1203,7 @@
       "cat": "L2 · 基础模型",
       "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
       "src": "VentureBeat AI",
-      "time": "201天前",
+      "time": "202天前",
       "published_ts": 1768217400,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1268,7 +1281,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
       "src": "SemiAnalysis",
-      "time": "327天前",
+      "time": "328天前",
       "published_ts": 1757325297,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1499,7 +1512,46 @@
     }
   },
   "by_layer": {
+    "l1": [
+      "ae03e478d",
+      "a698822ca",
+      "ac2c4cead",
+      "aaeeb2051",
+      "a23cf194a",
+      "aae5ac5a9",
+      "aeb800b67",
+      "a18a345d3",
+      "a3e2cb5e3",
+      "abbf37954",
+      "a8b477c39",
+      "a209e46ca",
+      "a45df9d92",
+      "a1b04182b",
+      "aa3949ea4",
+      "a8e8e4c7b",
+      "a2156bf3d",
+      "a8cf5579c",
+      "a50f8a782",
+      "ad44677e2",
+      "aa916162d",
+      "a6bee3694",
+      "a612b9eb6",
+      "a472cb971",
+      "a94a9a29d",
+      "a5236c597",
+      "a2ae2603b"
+    ],
+    "l3": [
+      "a1338e7ca",
+      "ae246f2d5",
+      "ab39017be",
+      "a1585cbf5",
+      "ac18efa26",
+      "a32296677",
+      "a28f84720"
+    ],
     "l5": [
+      "a1de19b3b",
       "a676cc280",
       "ac029c3ed",
       "a849675cc",
@@ -1517,7 +1569,6 @@
       "aa706b23f",
       "a100b0878",
       "abada20a1",
-      "a96c34cac",
       "a8bd8475f",
       "aaee7a4f8",
       "a7791f7eb",
@@ -1541,7 +1592,6 @@
     ],
     "l2": [
       "a947c94f2",
-      "a17779fd4",
       "ac8aab00b",
       "a1aaa3231",
       "ab32b4f85",
@@ -1576,7 +1626,6 @@
       "a0326478d",
       "ac32d16dc",
       "a49fc0dda",
-      "aed3ce472",
       "a401b4728",
       "af3dd5fa3",
       "af6e152fb",
@@ -1590,49 +1639,14 @@
       "ab59fe080",
       "a61a8adff",
       "ad01feb8a"
-    ],
-    "l1": [
-      "a2b45036b",
-      "a23cf194a",
-      "aae5ac5a9",
-      "aeb800b67",
-      "a18a345d3",
-      "a3e2cb5e3",
-      "abbf37954",
-      "a8b477c39",
-      "a209e46ca",
-      "a45df9d92",
-      "a1b04182b",
-      "aa3949ea4",
-      "a8e8e4c7b",
-      "a2156bf3d",
-      "a8cf5579c",
-      "abe6ec8a8",
-      "a50f8a782",
-      "ad44677e2",
-      "aa916162d",
-      "a6bee3694",
-      "a612b9eb6",
-      "a472cb971",
-      "a94a9a29d",
-      "a5236c597",
-      "a2ae2603b"
-    ],
-    "l3": [
-      "ae246f2d5",
-      "ab39017be",
-      "a1585cbf5",
-      "ac18efa26",
-      "a32296677",
-      "a28f84720"
     ]
   },
   "top5": [
-    "a676cc280",
-    "aa706b23f",
-    "a947c94f2",
-    "a100b0878",
-    "aa16dab4b"
+    "ae03e478d",
+    "a1338e7ca",
+    "a698822ca",
+    "ac2c4cead",
+    "a1de19b3b"
   ],
   "layers": [
     {
@@ -1640,34 +1654,12 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        29,
-        25,
-        16,
-        8,
-        36,
-        23
-      ],
-      "trend": [
-        20,
-        22,
-        24,
-        26,
-        28,
-        30,
-        32
-      ]
-    },
-    {
-      "id": "l0",
-      "num": "LAYER 0",
-      "name": "领袖观点",
-      "vals": [
-        20,
-        16,
-        10,
+        32,
+        32,
         6,
-        27,
-        20
+        8,
+        31,
+        22
       ],
       "trend": [
         20,
@@ -1677,28 +1669,6 @@
         24,
         25,
         26
-      ]
-    },
-    {
-      "id": "l4",
-      "num": "LAYER 4",
-      "name": "交互Agent",
-      "vals": [
-        16,
-        16,
-        7,
-        5,
-        22,
-        17
-      ],
-      "trend": [
-        20,
-        20,
-        20,
-        20,
-        20,
-        20,
-        20
       ]
     },
     {
@@ -1706,12 +1676,12 @@
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        12,
-        16,
-        10,
+        27,
+        27,
+        11,
         7,
-        23,
-        20
+        28,
+        21
       ],
       "trend": [
         20,
@@ -1724,15 +1694,37 @@
       ]
     },
     {
+      "id": "l0",
+      "num": "LAYER 0",
+      "name": "领袖观点",
+      "vals": [
+        16,
+        15,
+        9,
+        6,
+        29,
+        19
+      ],
+      "trend": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ]
+    },
+    {
       "id": "l5",
       "num": "LAYER 5",
       "name": "生态商业",
       "vals": [
+        19,
         10,
-        15,
         5,
         5,
-        12,
+        19,
         10
       ],
       "trend": [
@@ -1750,12 +1742,12 @@
       "num": "LAYER 3",
       "name": "推理工程",
       "vals": [
+        15,
         10,
-        10,
+        12,
         5,
-        5,
         10,
-        12
+        13
       ],
       "trend": [
         20,
@@ -1766,9 +1758,61 @@
         10,
         8
       ]
+    },
+    {
+      "id": "l4",
+      "num": "LAYER 4",
+      "name": "交互Agent",
+      "vals": [
+        13,
+        10,
+        7,
+        5,
+        18,
+        17
+      ],
+      "trend": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ]
     }
   ],
   "ticker": [
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Iran suspected of conducting cyberattacks on US water suppliers i…"
+    },
+    {
+      "tag": "INTERCONN",
+      "col": "var(--l3)",
+      "text": "Latest open artifacts (#23): Laguna S2.1, Inkling, & Kimi K3 show…"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l1)",
+      "text": "Is paying artists enough to convince them to embrace AI?"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Commemorative golden Doom floppy disks go up for pre-order —  pai…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l5)",
+      "text": "SpaceXAI says it will remove all 69 of its unpermitted turbine po…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "RTX 5060 Ti survives car crash after being bent in half — short P…"
+    },
     {
       "tag": "WIRED",
       "col": "var(--l5)",
@@ -1808,91 +1852,61 @@
       "tag": "TECHCRUNC",
       "col": "var(--l4)",
       "text": "YouTuber Hank Green says his AI usage is ‘not healthy’"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "Is this Billboard Hot 100 hit AI slop?"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l0)",
-      "text": "Sam Altman is still making the case for parenting via ChatGPT"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l0)",
-      "text": "Dell founder shows how a $100 billion empire started 42 years ago…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Microsoft vows to make Windows 11 fly on 8GB RAM amid memory shor…"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "The Verge’s 2026 back-to-school shopping guide"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l2)",
-      "text": "Anthropic's Claude hacked three real-life companies during securi…"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
+      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+      "url": "https://publicdomainreview.org/essay/ars-notoria/",
+      "votes": "47",
+      "comments": "6",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+      "url": "https://website-auditor.io/ai-visibility-index",
+      "votes": "37",
+      "comments": "50",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Has the New Cocaine Arrived?",
+      "url": "https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived",
+      "votes": "11",
+      "comments": "3",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+      "url": "https://twitter.com/polynoamial/status/2083467194663571701",
+      "votes": "34",
+      "comments": "20",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
       "title": "I don't recommend Tailwind CSS",
       "url": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
-      "votes": "10",
-      "comments": "1",
+      "votes": "124",
+      "comments": "135",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "CRM: An open-source, agentic-first CRM",
-      "url": "https://github.com/trycompai/crm",
-      "votes": "7",
-      "comments": "0",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "votes": "292",
-      "comments": "258",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Explorative modeling: Train on the best of K guesses",
-      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-      "votes": "99",
-      "comments": "25",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "P[drive failure]: how reliable is your NAS?",
-      "url": "https://khz.ac/low-voltage/drive-failure.html",
-      "votes": "11",
-      "comments": "7",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Drug reverses autism-like brain changes in adult mice within hours",
-      "url": "https://www.uclahealth.org/news/release/drug-reverses-autism-like-brain-changes-adult-mice-within",
-      "votes": "21",
-      "comments": "5",
+      "title": "The Vanishing Page: AI Firms Scan Then Destroy Rare Book Editions",
+      "url": "https://dallasexpress.com/national/the-vanishing-page-ai-firms-scan-then-destroy-rare-book-editions/",
+      "votes": "43",
+      "comments": "44",
       "time": "近期"
     }
   ]
