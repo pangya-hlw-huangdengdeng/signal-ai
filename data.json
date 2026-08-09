@@ -1,13 +1,117 @@
 {
-  "updated_at": "2026-08-09T06:59:47.496242+00:00",
-  "article_count": 111,
+  "updated_at": "2026-08-09T12:55:24.442458+00:00",
+  "article_count": 113,
   "articles": {
+    "a0d880d93": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Amazon’s new 7.65GW Texas AI data center power plant could become the largest source of CO₂ pollution in the US — custom 35-turbine gas plant authorized to emit 33 million tons of annual greenhouse gases",
+      "src": "Tom's Hardware",
+      "time": "15分钟前",
+      "published_ts": 1786279200,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/amazons-new-7-65gw-texas-ai-data-center-power-plant-could-become-the-largest-source-of-co2-pollution-in-the-us-custom-35-turbine-gas-plant-authorized-to-emit-33-million-tons-of-annual-greenhouse-gases",
+      "tags": [],
+      "body": "<p>Amazon is reportedly building a 7.65GW natural gas power plant in Texas to feed a new AI data center, with permits allowing up to 33 million tons of CO₂ emissions per year.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ac043728d": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "Kansas town silences public comment on gigawatt AI data center after receiving death threats, moves to virtual meetings — shift follows physics teacher's arrest for clapping at data center hearing",
+      "src": "Tom's Hardware",
+      "time": "35分钟前",
+      "published_ts": 1786278000,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/kansas-town-silences-public-comment-on-gigawatt-ai-data-center-after-receiving-death-threats-moves-to-virtual-meetings-shift-follows-physics-teachers-arrest-for-clapping-at-data-center-hearing",
+      "tags": [],
+      "body": "<p>Emporia, Kansas, switched to virtual city council meetings after death threats intensified against city leaders. The move also canceled public comments, prompting some members of the public to ask why it was affected, too.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a600ef598": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Open-source stealth USB hides an encrypted partition behind an 8GB decoy drive — 'Phantom Drive' appears as a regular USB stick until you create a text file to unlock the hidden data",
+      "src": "Tom's Hardware",
+      "time": "55分钟前",
+      "published_ts": 1786276800,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://www.tomshardware.com/pc-components/usb-flash-drives/open-source-stealth-usb-hides-an-encrypted-partition-behind-an-8gb-decoy-drive-phantom-drive-appears-as-a-regular-usb-stick-until-you-create-a-text-file-to-unlock-the-hidden-data",
+      "tags": [],
+      "body": "<p>This USB looks like a standard 8GB drive, but it unlocks a hidden partition when you create a text file with the password inside. The password is never actually written to storage; it's instead intercepted by the custom firmware and copied into the microcontroller's SRAM during hashing.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a86cf59fb": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "AI detectors are creating a new era of distrust",
+      "src": "The Verge",
+      "time": "55分钟前",
+      "published_ts": 1786276800,
+      "heat": "24.0K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+      "tags": [],
+      "body": "<p>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before ChatGPT became a thing, [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a3f0be5b0": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Mind-bending self-replicating GIF code prints an exact copy of itself, is both a program and its own visual output — champion coder shows off 'Piet Quine' technique",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1786275600,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://www.tomshardware.com/software/programming/mind-bending-self-replicating-gif-code-prints-an-exact-copy-of-itself-is-both-a-program-and-its-own-visual-output-champion-coder-shows-off-piet-quine-technique",
+      "tags": [],
+      "body": "<p>A champion coder's latest confection is a Piet Quine – a GIF image that prints itself byte-for-byte.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a680b12ea": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Micron reportedly offers pennies on the dollar for Crucial RAM return, only offers to reimburse original MSRP despite it being only 37% of market value — chipmaker later reverses course with a better solution",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1786274400,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://www.tomshardware.com/pc-components/ram/micron-reportedly-offers-pennies-on-the-dollar-for-crucial-ram-return-only-offers-to-reimburse-original-msrp-despite-it-being-only-37-percent-of-market-value-chipmaker-later-reverses-course-with-a-better-solution",
+      "tags": [],
+      "body": "<p>Crucial memory owner recounts their experience with Micron's warranty process since the company has axed the Crucial brand.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "abea60737": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
+      "src": "Wired",
+      "time": "2小时前",
+      "published_ts": 1786271400,
+      "heat": "16.5K",
+      "views": "16.5K",
+      "url": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
+      "tags": [],
+      "body": "<p>There are endless ways to record and transcribe your virtual meetings with AI. Here’s an option that’s free and open source.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aa691358f": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "These AI Barons Are Ready to Give Away Their Fortunes",
+      "src": "Wired",
+      "time": "3小时前",
+      "published_ts": 1786267800,
+      "heat": "14.5K",
+      "views": "16.5K",
+      "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+      "tags": [],
+      "body": "<p>A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a501ace18": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
       "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
       "src": "Simon Willison",
-      "time": "8小时前",
+      "time": "14小时前",
       "published_ts": 1786228563,
       "heat": "15.0K",
       "views": "15.0K",
@@ -20,7 +124,7 @@
       "cat": "L4 · 交互Agent",
       "title": "OpenAI acquires presentation startup NextSlide",
       "src": "TechCrunch AI",
-      "time": "11小时前",
+      "time": "17小时前",
       "published_ts": 1786218073,
       "heat": "23.8K",
       "views": "27.0K",
@@ -28,25 +132,12 @@
       "tags": [],
       "body": "<p>NextSlide says its team members are now working on ChatGPT.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "ace9fe53b": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Nvidia RTX 5090 ships in bizarre 8-motherboard bundle — retailers hold GPUs hostage similar to the crypto boom",
-      "src": "Tom's Hardware",
-      "time": "13小时前",
-      "published_ts": 1786208925,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-ships-in-bizarre-8-motherboard-bundle-retailers-hold-gpus-hostage-similar-to-the-crypto-boom",
-      "tags": [],
-      "body": "<p>Taiwanese ecommerce platform PChome24h is packaging RTX 5090 GPUs with a crazy number of motherboards, entry-to-mid-range GPUs, and several other components. While interesting, these combos are alarming as they show the direction that the PC building industry is headed.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a9f035383": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
       "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
       "src": "Simon Willison",
-      "time": "16小时前",
+      "time": "22小时前",
       "published_ts": 1786198001,
       "heat": "13.2K",
       "views": "15.0K",
@@ -54,54 +145,15 @@
       "tags": [],
       "body": "<p>My comment on Now we have a timeline of the OpenAI accidental attack against Hugging Face &mdash; Hacker News. I think one of the most interesting details here might be tucked away in that first bulletin point: May 7: OpenAI starts a new training run for an experimental, unreleased model. (Do they mean an evaluation run? They say training run in the video, and later mention a “reward signal to jud</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "aaaf26279": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Save $160 off AMD's ultimate gaming CPU combo, includes motherboard and chip cooler — $458 combo features Ryzen 7 9800X3D, B850 motherboard, and a 240mm liquid AIO",
-      "src": "Tom's Hardware",
-      "time": "16小时前",
-      "published_ts": 1786197976,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://www.tomshardware.com/pc-components/cpus/save-usd160-off-amds-ultimate-gaming-cpu-combo-includes-motherboard-and-chip-cooler-usd458-combo-features-ryzen-7-9800x3d-b850-motherboard-and-a-240mm-liquid-aio",
-      "tags": [],
-      "body": "<p>Newegg is offering a big discount on a Ryzen 7 9800X3D bundle that includes an MSI B850 Gaming Plus WiFi motherboard and an MSI MAG Coreliquid A13 240 AIO liquid cooler.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "af5c4d7f4": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Amazon secretly circumvents community vote for massive AI data center using 45-year-old rules — Gilroy residents locked out of public comment window",
-      "src": "Tom's Hardware",
-      "time": "17小时前",
-      "published_ts": 1786197084,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
-      "tags": [],
-      "body": "<p>Residents of Gilroy, California, were caught by surprise when an Amazon data center started construction in their city. Negotiations for the project started in 2020, with public comments open until 2024, but it flew under the radar.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a71b6de7a": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "China's memory-making champion smashes DDR5-8800 barrier on AMD platform — CXMT chips close the gap with SK hynix",
-      "src": "Tom's Hardware",
-      "time": "18小时前",
-      "published_ts": 1786192500,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://www.tomshardware.com/pc-components/ram/chinas-memory-making-champion-smashes-ddr5-8800-barrier-on-amd-platform-cxmt-chips-close-the-gap-with-sk-hynix",
-      "tags": [],
-      "body": "<p>Colorful shows off the overclocking potential on new memory kits equipped with CXMT integrated circuits.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "af0f570e5": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "Is this $450 laptop from an unknown brand too good to be true?",
       "src": "The Verge",
-      "time": "18小时前",
+      "time": "1天前",
       "published_ts": 1786190400,
-      "heat": "12.5K",
-      "views": "15.4K",
+      "heat": "9.6K",
+      "views": "12.5K",
       "url": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
       "tags": [],
       "body": "<p>Finding a good laptop under $500 was hard enough before RAMageddon. They nearly always had cheap hardware and underpowered, often outdated chips. That's what made the MacBook Neo so disruptive: It offered great build quality and good-enough performance starting at $599. Windows laptops couldn't touch it. Even though it's gone up to $699, it's still [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -111,7 +163,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
       "src": "NVIDIA Blog",
-      "time": "20小时前",
+      "time": "1天前",
       "published_ts": 1786184694,
       "heat": "37.5K",
       "views": "37.5K",
@@ -124,7 +176,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Crab Odyssey: Crustacean Wandered the Seas in a Bottle for Months, Scientists Find",
       "src": "404 Media",
-      "time": "20小时前",
+      "time": "1天前",
       "published_ts": 1786183226,
       "heat": "15.0K",
       "views": "15.0K",
@@ -137,10 +189,10 @@
       "cat": "L2 · 基础模型",
       "title": "How to Disable Gemini in Gmail and Google Docs",
       "src": "Wired",
-      "time": "20小时前",
+      "time": "1天前",
       "published_ts": 1786183200,
-      "heat": "16.5K",
-      "views": "16.5K",
+      "heat": "12.5K",
+      "views": "14.5K",
       "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
       "tags": [],
       "body": "<p>New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -282,8 +334,8 @@
       "src": "Wired",
       "time": "1天前",
       "published_ts": 1786112037,
-      "heat": "14.5K",
-      "views": "16.5K",
+      "heat": "10.6K",
+      "views": "12.5K",
       "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
       "tags": [],
       "body": "<p>The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -319,10 +371,10 @@
       "cat": "L4 · 交互Agent",
       "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
       "src": "Wired",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1786096800,
-      "heat": "12.5K",
-      "views": "14.5K",
+      "heat": "8.6K",
+      "views": "10.6K",
       "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
       "tags": [],
       "body": "<p>WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -332,7 +384,7 @@
       "cat": "L4 · 交互Agent",
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
       "src": "OpenAI Blog",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1786093200,
       "heat": "39.6K",
       "views": "45.0K",
@@ -360,37 +412,11 @@
       "src": "Wired",
       "time": "2天前",
       "published_ts": 1786065415,
-      "heat": "10.6K",
-      "views": "12.5K",
+      "heat": "6.6K",
+      "views": "8.6K",
       "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
       "tags": [],
       "body": "<p>Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a3c9e5cff": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Why Normal People Aren’t Using AI Agents",
-      "src": "Wired",
-      "time": "2天前",
-      "published_ts": 1786046145,
-      "heat": "8.6K",
-      "views": "10.6K",
-      "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
-      "tags": [],
-      "body": "<p>The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a67ee132e": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
-      "src": "Wired",
-      "time": "2天前",
-      "published_ts": 1786044646,
-      "heat": "6.6K",
-      "views": "8.6K",
-      "url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/",
-      "tags": [],
-      "body": "<p>In today’s episode of Uncanny Valley, we discuss how ICE has been collecting DNA samples of people who have no criminal convictions, including children, which end up in an FBI database indefinitely.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a6085a151": {
       "layer": "l4",
@@ -475,7 +501,7 @@
       "cat": "L2 · 基础模型",
       "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
       "src": "OpenAI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1786010400,
       "heat": "34.2K",
       "views": "39.6K",
@@ -553,7 +579,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Should Researchers Write Papers for AI Instead of People?",
       "src": "IEEE Spectrum",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1785931203,
       "heat": "11.4K",
       "views": "13.2K",
@@ -696,7 +722,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Here’s why AI agents lie and cheat to reach their goals",
       "src": "MIT Tech Review",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1785745805,
       "heat": "19.8K",
       "views": "22.5K",
@@ -761,7 +787,7 @@
       "cat": "L5 · 生态商业",
       "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
       "src": "MIT Tech Review",
-      "time": "9天前",
+      "time": "10天前",
       "published_ts": 1785406519,
       "heat": "17.1K",
       "views": "19.8K",
@@ -774,7 +800,7 @@
       "cat": "L0 · 领袖观点",
       "title": "The AI Hype Index: Unsexy AI",
       "src": "MIT Tech Review",
-      "time": "10天前",
+      "time": "11天前",
       "published_ts": 1785314577,
       "heat": "14.4K",
       "views": "17.1K",
@@ -800,7 +826,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
       "src": "MIT Tech Review",
-      "time": "11天前",
+      "time": "12天前",
       "published_ts": 1785230337,
       "heat": "11.7K",
       "views": "14.4K",
@@ -878,7 +904,7 @@
       "cat": "L3 · 推理工程",
       "title": "Controlling Reasoning Effort in LLMs",
       "src": "Ahead of AI",
-      "time": "21天前",
+      "time": "22天前",
       "published_ts": 1784373369,
       "heat": "15.0K",
       "views": "15.0K",
@@ -956,7 +982,7 @@
       "cat": "L2 · 基础模型",
       "title": "Using Local Coding Agents",
       "src": "Ahead of AI",
-      "time": "42天前",
+      "time": "43天前",
       "published_ts": 1782559318,
       "heat": "13.2K",
       "views": "15.0K",
@@ -995,7 +1021,7 @@
       "cat": "L3 · 推理工程",
       "title": "LLM Research Papers: The 2026 List (January to May)",
       "src": "Ahead of AI",
-      "time": "63天前",
+      "time": "64天前",
       "published_ts": 1780744582,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1021,7 +1047,7 @@
       "cat": "L2 · 基础模型",
       "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
       "src": "Ahead of AI",
-      "time": "84天前",
+      "time": "85天前",
       "published_ts": 1778931231,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1047,7 +1073,7 @@
       "cat": "L2 · 基础模型",
       "title": "My Workflow for Understanding LLM Architectures",
       "src": "Ahead of AI",
-      "time": "112天前",
+      "time": "113天前",
       "published_ts": 1776511476,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1060,7 +1086,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Components of A Coding Agent",
       "src": "Ahead of AI",
-      "time": "126天前",
+      "time": "127天前",
       "published_ts": 1775303137,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1138,7 +1164,7 @@
       "cat": "L2 · 基础模型",
       "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
       "src": "VentureBeat AI",
-      "time": "208天前",
+      "time": "209天前",
       "published_ts": 1768217400,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1216,7 +1242,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
       "src": "SemiAnalysis",
-      "time": "334天前",
+      "time": "335天前",
       "published_ts": 1757325297,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1447,6 +1473,92 @@
     }
   },
   "by_layer": {
+    "l1": [
+      "a0d880d93",
+      "a600ef598",
+      "a3f0be5b0",
+      "a680b12ea",
+      "aa691358f",
+      "af0f570e5",
+      "a70db4af3",
+      "a64f6b822",
+      "ab2ecaae3",
+      "abfddcf41",
+      "ae7a7a65b",
+      "ae2be94e0",
+      "a8cbfb931",
+      "a18a345d3",
+      "a8b477c39",
+      "a209e46ca",
+      "a8cf5579c",
+      "a50f8a782",
+      "ad44677e2",
+      "aa916162d",
+      "a6bee3694",
+      "a612b9eb6",
+      "a472cb971",
+      "a94a9a29d",
+      "a5236c597",
+      "a2ae2603b"
+    ],
+    "l0": [
+      "ac043728d",
+      "a374cc1c4",
+      "aabc194fb",
+      "a14d57d1f",
+      "aaee7a4f8",
+      "ae1d2f052",
+      "a0a86adb8",
+      "a6eadb995",
+      "a2f2fbafa",
+      "aa27891e5",
+      "a57fda39f",
+      "a187a50d6",
+      "a040f39c9",
+      "a0ab4dd7d",
+      "a375099f0",
+      "a6a5b4a81",
+      "a253e0446",
+      "a9173515c",
+      "abcb7b0c4"
+    ],
+    "l4": [
+      "a86cf59fb",
+      "a46a486d3",
+      "a9ab6b56f",
+      "a14ba447e",
+      "ab2ca74bb",
+      "acd1b4667",
+      "a57202996",
+      "aa6639c3a",
+      "a082e374e",
+      "a0b15b550",
+      "a32ed576f",
+      "a8f19a86b",
+      "a6085a151",
+      "a2b553101",
+      "ad85f3497",
+      "a3c579d40",
+      "a99105d78",
+      "abce638c1",
+      "a0475752c",
+      "a77d1a939",
+      "aa9d94101",
+      "ab59fe080",
+      "a61a8adff",
+      "ad01feb8a"
+    ],
+    "l5": [
+      "abea60737",
+      "abc8b927a",
+      "a8a8bb336",
+      "a9931810d",
+      "a63daf6f8",
+      "a5363c0de",
+      "aeda1c1cf",
+      "ab86b1ec8",
+      "a237fd5e6"
+    ],
     "l2": [
       "a501ace18",
       "a9f035383",
@@ -1474,59 +1586,6 @@
       "ab3119897",
       "af0f189d1"
     ],
-    "l4": [
-      "a46a486d3",
-      "a9ab6b56f",
-      "a14ba447e",
-      "ab2ca74bb",
-      "acd1b4667",
-      "a57202996",
-      "aa6639c3a",
-      "a082e374e",
-      "a0b15b550",
-      "a32ed576f",
-      "a8f19a86b",
-      "a3c9e5cff",
-      "a6085a151",
-      "a2b553101",
-      "ad85f3497",
-      "a3c579d40",
-      "a99105d78",
-      "abce638c1",
-      "a0475752c",
-      "a77d1a939",
-      "aa9d94101",
-      "ab59fe080",
-      "a61a8adff",
-      "ad01feb8a"
-    ],
-    "l1": [
-      "ace9fe53b",
-      "aaaf26279",
-      "af5c4d7f4",
-      "a71b6de7a",
-      "af0f570e5",
-      "a70db4af3",
-      "a64f6b822",
-      "ab2ecaae3",
-      "abfddcf41",
-      "ae7a7a65b",
-      "ae2be94e0",
-      "a8cbfb931",
-      "a18a345d3",
-      "a8b477c39",
-      "a209e46ca",
-      "a8cf5579c",
-      "a50f8a782",
-      "ad44677e2",
-      "aa916162d",
-      "a6bee3694",
-      "a612b9eb6",
-      "a472cb971",
-      "a94a9a29d",
-      "a5236c597",
-      "a2ae2603b"
-    ],
     "l3": [
       "a10694c60",
       "aa7002b99",
@@ -1538,45 +1597,14 @@
       "ac18efa26",
       "a32296677",
       "a28f84720"
-    ],
-    "l5": [
-      "abc8b927a",
-      "a8a8bb336",
-      "a9931810d",
-      "a67ee132e",
-      "a63daf6f8",
-      "a5363c0de",
-      "aeda1c1cf",
-      "ab86b1ec8",
-      "a237fd5e6"
-    ],
-    "l0": [
-      "a374cc1c4",
-      "aabc194fb",
-      "a14d57d1f",
-      "aaee7a4f8",
-      "ae1d2f052",
-      "a0a86adb8",
-      "a6eadb995",
-      "a2f2fbafa",
-      "aa27891e5",
-      "a57fda39f",
-      "a187a50d6",
-      "a040f39c9",
-      "a0ab4dd7d",
-      "a375099f0",
-      "a6a5b4a81",
-      "a253e0446",
-      "a9173515c",
-      "abcb7b0c4"
     ]
   },
   "top5": [
-    "a501ace18",
-    "a46a486d3",
-    "ace9fe53b",
-    "a9f035383",
-    "aaaf26279"
+    "a0d880d93",
+    "ac043728d",
+    "a600ef598",
+    "a86cf59fb",
+    "a3f0be5b0"
   ],
   "layers": [
     {
@@ -1584,11 +1612,11 @@
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        25,
-        13,
+        27,
+        18,
         10,
-        19,
-        19,
+        18,
+        27,
         20
       ],
       "trend": [
@@ -1606,11 +1634,11 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        22,
-        16,
-        15,
+        14,
+        25,
+        12,
         7,
-        17,
+        22,
         21
       ],
       "trend": [
@@ -1629,10 +1657,10 @@
       "name": "算力硬件",
       "vals": [
         15,
-        22,
+        21,
         11,
         7,
-        27,
+        18,
         21
       ],
       "trend": [
@@ -1650,11 +1678,11 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        18,
-        15,
+        14,
+        20,
         8,
         5,
-        12,
+        29,
         18
       ],
       "trend": [
@@ -1668,16 +1696,16 @@
       ]
     },
     {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
       "vals": [
-        17,
-        15,
+        10,
+        10,
+        10,
         5,
-        5,
-        14,
-        10
+        10,
+        14
       ],
       "trend": [
         20,
@@ -1690,29 +1718,69 @@
       ]
     },
     {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
       "vals": [
-        12,
-        16,
+        10,
+        10,
         5,
         5,
         12,
-        14
+        12
       ],
       "trend": [
         20,
-        19,
         18,
-        17,
         16,
-        15,
-        14
+        14,
+        12,
+        10,
+        8
       ]
     }
   ],
   "ticker": [
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Amazon’s new 7.65GW Texas AI data center power plant could become…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l0)",
+      "text": "Kansas town silences public comment on gigawatt AI data center af…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Open-source stealth USB hides an encrypted partition behind an 8G…"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l4)",
+      "text": "AI detectors are creating a new era of distrust"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Mind-bending self-replicating GIF code prints an exact copy of it…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Micron reportedly offers pennies on the dollar for Crucial RAM re…"
+    },
+    {
+      "tag": "WIRED",
+      "col": "var(--l5)",
+      "text": "Meetily Lets You Transcribe and Summarize Meetings Without a Subs…"
+    },
+    {
+      "tag": "WIRED",
+      "col": "var(--l1)",
+      "text": "These AI Barons Are Ready to Give Away Their Fortunes"
+    },
     {
       "tag": "SIMON WIL",
       "col": "var(--l2)",
@@ -1724,29 +1792,9 @@
       "text": "OpenAI acquires presentation startup NextSlide"
     },
     {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Nvidia RTX 5090 ships in bizarre 8-motherboard bundle — retailers…"
-    },
-    {
       "tag": "SIMON WIL",
       "col": "var(--l2)",
       "text": "Now we have a timeline of the OpenAI accidental attack against Hu…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Save $160 off AMD's ultimate gaming CPU combo, includes motherboa…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Amazon secretly circumvents community vote for massive AI data ce…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "China's memory-making champion smashes DDR5-8800 barrier on AMD p…"
     },
     {
       "tag": "THE VERGE",
@@ -1762,81 +1810,61 @@
       "tag": "404 MEDIA",
       "col": "var(--l4)",
       "text": "Crab Odyssey: Crustacean Wandered the Seas in a Bottle for Months…"
-    },
-    {
-      "tag": "WIRED",
-      "col": "var(--l2)",
-      "text": "How to Disable Gemini in Gmail and Google Docs"
-    },
-    {
-      "tag": "LATENT SP",
-      "col": "var(--l4)",
-      "text": "[AINews] Zawinski's Law of MultiAgents"
-    },
-    {
-      "tag": "SIMON WIL",
-      "col": "var(--l3)",
-      "text": "Quoting John Gruber"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "OpenAI says it slowed Astra model development over security conce…"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
-      "url": "http://longbets.org/601/",
-      "votes": "103",
-      "comments": "19",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Melatonin impairs morning cognition in healthy young adults",
-      "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
-      "votes": "76",
-      "comments": "22",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
       "title": "Fastmail offers EU data region",
       "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-      "votes": "378",
-      "comments": "189",
+      "votes": "452",
+      "comments": "247",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-      "url": "https://marketnow.site/",
+      "title": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
+      "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
+      "votes": "6",
+      "comments": "3",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
+      "url": "http://longbets.org/601/",
+      "votes": "165",
+      "comments": "74",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Melatonin impairs morning cognition in healthy young adults (2023)",
+      "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
+      "votes": "152",
+      "comments": "152",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Show HN: Airy – Free, fast, and simple voice content creation",
+      "url": "https://airy.so",
       "votes": "8",
-      "comments": "0",
+      "comments": "5",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Message your other Claude Code sessions",
-      "url": "https://code.claude.com/docs/en/cross-session-messaging",
-      "votes": "106",
-      "comments": "44",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-      "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-      "votes": "267",
-      "comments": "192",
+      "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+      "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
+      "votes": "54",
+      "comments": "31",
       "time": "近期"
     }
   ]
