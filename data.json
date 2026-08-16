@@ -1,15 +1,67 @@
 {
-  "updated_at": "2026-08-16T06:42:10.369796+00:00",
-  "article_count": 115,
+  "updated_at": "2026-08-16T12:42:20.626059+00:00",
+  "article_count": 114,
   "articles": {
+    "a371c365e": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning",
+      "src": "Tom's Hardware",
+      "time": "2分钟前",
+      "published_ts": 1786884000,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reportedly-taps-amd-to-design-next-generation-tpu-hybrid-ai-asic-could-integrate-on-package-cpu-cores-for-reinforcement-learning",
+      "tags": [],
+      "body": "<p>Google may be building a TPU with on-package CPU cores specifically for agentic and reinforced learning workloads, according to a rumor.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a18fe2d62": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Rogue AI aren’t science fiction anymore",
+      "src": "The Verge",
+      "time": "42分钟前",
+      "published_ts": 1786881600,
+      "heat": "24.0K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "tags": [],
+      "body": "<p>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started in July, when one of OpenAI's autonomous AI agents [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a1d5f7813": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "3D-printed sound-powered jet engines propel micro drones — fliers are completely silent; researchers use ultrasonic frequencies to drive 12,000-RPM silent hovering fliers",
+      "src": "Tom's Hardware",
+      "time": "52分钟前",
+      "published_ts": 1786881000,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://www.tomshardware.com/3d-printing/3d-printed-sound-powered-jet-engines-propel-micro-drones-fliers-are-completely-silent-researchers-use-ultrasonic-frequencies-to-drive-12-000-rpm-silent-hovering-fliers",
+      "tags": [],
+      "body": "<p>A specially shaped 3D-printed resonator can make air shoot out of its nozzle and provide thrust when it hit with the proper frequency. While the prototypes don't deliver practical levels of thrust yet, they show proof that the concept works.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "abe8c5fbc": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Modern OLEDs are just as vulnerable to burn-in as 2017 panels in 10,000-hour test — twice the brightness and 27% efficiency gains offer crucial headroom",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1786878600,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://www.tomshardware.com/monitors/modern-oled-tvs-are-just-as-susceptible-to-burn-in-as-older-models-but-theyre-much-brighter-longevity-test-highlights-luminance-headroom-and-efficiency-as-mitigations",
+      "tags": [],
+      "body": "<p>Rtings.com's latest update on their Accelerated Longevity Test shows that modern OLED TVs don't offer a clear advantage over older models in terms of burn-in since both show similar image retention after 10,000 hours of simulated usage. However, the new OLEDs are much brighter and consume much less power in the process.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "aec07d8cb": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
       "src": "The Verge",
-      "time": "3小时前",
+      "time": "9小时前",
       "published_ts": 1786849200,
-      "heat": "24.0K",
+      "heat": "21.1K",
       "views": "24.0K",
       "url": "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale",
       "tags": [],
@@ -20,7 +72,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
       "src": "TechCrunch AI",
-      "time": "9小时前",
+      "time": "15小时前",
       "published_ts": 1786829359,
       "heat": "27.0K",
       "views": "27.0K",
@@ -33,10 +85,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
       "src": "The Verge",
-      "time": "9小时前",
+      "time": "15小时前",
       "published_ts": 1786826700,
-      "heat": "18.2K",
-      "views": "21.1K",
+      "heat": "15.4K",
+      "views": "18.2K",
       "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
       "tags": [],
       "body": "<p>Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -46,7 +98,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Anthropic shares more details about how Claude’s new watermarks will work",
       "src": "TechCrunch AI",
-      "time": "11小时前",
+      "time": "17小时前",
       "published_ts": 1786820319,
       "heat": "23.8K",
       "views": "27.0K",
@@ -59,7 +111,7 @@
       "cat": "L5 · 生态商业",
       "title": "SpaceX officially closes its Cursor acquisition",
       "src": "TechCrunch AI",
-      "time": "14小时前",
+      "time": "20小时前",
       "published_ts": 1786811400,
       "heat": "20.5K",
       "views": "23.8K",
@@ -72,7 +124,7 @@
       "cat": "L4 · 交互Agent",
       "title": "React for Agents: Astro Creator Brings Hooks to his Meta-Harness, Flue",
       "src": "Latent Space",
-      "time": "14小时前",
+      "time": "20小时前",
       "published_ts": 1786808782,
       "heat": "19.5K",
       "views": "19.5K",
@@ -80,51 +132,12 @@
       "tags": [],
       "body": "<p>Flue 2 takes its inspiration from React. Creator Fred Schott, of Astro fame, tells Latent Space why he added hooks and why agents are defined by their harnesses.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a088ff274": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Peer-reviewed study of 443,000 Backblaze hard drives ranks HGST most reliable and Toshiba the least — Analysis of 1.66 million drive-years finds Seagate and Toshiba HDDs fail at roughly twice the rate of WD and HGST",
-      "src": "Tom's Hardware",
-      "time": "15小时前",
-      "published_ts": 1786807810,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://www.tomshardware.com/pc-components/hdds/peer-reviewed-study-of-443000-backblaze-drivers-ranks-hgst-most-reliable-and-toshiba-least",
-      "tags": [],
-      "body": "<p>Backblaze's quarterly reports compare whichever drives are available at the time.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aafd77fc1": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "Futuristic mosquito-zapping laser now available to buy, video shows device in action — tiny device shoots down bugs like a personal air defense system, but costs $1,000",
-      "src": "Tom's Hardware",
-      "time": "15小时前",
-      "published_ts": 1786806287,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://www.tomshardware.com/peripherals/futuristic-mosquito-zapping-laser-now-available-to-buy-video-shows-device-in-action-tiny-device-shoots-down-bugs-like-a-personal-air-defense-system-but-costs-usd1-000",
-      "tags": [],
-      "body": "<p>This anti-mosquito air defense laser system has successfully passed the crowdfunding stage and is now readily available on the market. It costs around $1,000, but it will be money well spent if it can defend your home from mosquito-borne diseases.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a9dde8076": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Star Wars: Ahsoka season 2 and Starfighter get teased at D23",
-      "src": "The Verge",
-      "time": "15小时前",
-      "published_ts": 1786805907,
-      "heat": "9.6K",
-      "views": "12.5K",
-      "url": "https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23",
-      "tags": [],
-      "body": "<p>Season two of Star Wars: Ahsoka is still months away, but Lucasfilm still took the opportunity to tease it a bit at D23. The company dropped the first trailer for the new season ahead of its January 20th, 2027 debut. The clip shows a darker, witchcraft-filled take on the Star Wars universe, with Grand Admiral [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "ac2729526": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
       "title": "CORS Chat",
       "src": "Simon Willison",
-      "time": "15小时前",
+      "time": "21小时前",
       "published_ts": 1786805394,
       "heat": "15.0K",
       "views": "15.0K",
@@ -132,38 +145,12 @@
       "tags": [],
       "body": "<p>Tool: CORS Chat I built this today ( with GPT-5.6-Sol xhigh ) to help test Qwen 3.8 27B running in LM Studio on both my M5 MacBook Pro and an NVIDIA DGX Spark. It provides a web UI for exercising an OpenAI-Responses-compatible chat endpoint. I've tried it against LM Studio with the --cors option and OpenRouter, and both work fine. Conversations are persisted in the browser and can be exported as c</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "aa612d9aa": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Grab this Nvidia RTX 5070 Ti gaming PC for $2,099 before it sells out —prebuilt powerhouse includes a Core Ultra 7 265KF, 32GB RAM, 1TB SSD",
-      "src": "Tom's Hardware",
-      "time": "16小时前",
-      "published_ts": 1786803816,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://www.tomshardware.com/desktops/gaming-pcs/grab-this-nvidia-rtx-5070-ti-gaming-pc-for-usd2-099-before-it-sells-out-prebuilt-powerhouse-includes-a-core-ultra-7-265kf-32gb-ram-1tb-ssd",
-      "tags": [],
-      "body": "<p>The Acer Predator Orion 6000 gaming desktop is currently on sale for $2,099, $700 off its regular price.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aac6bd55a": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Nvidia turns $5B Intel stock bet into $30B windfall — filing reveals new $21B SpaceX stake and complete exit from Arm stock",
-      "src": "Tom's Hardware",
-      "time": "16小时前",
-      "published_ts": 1786803395,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://www.tomshardware.com/tech-industry/nvidia-turns-usd5b-intel-stock-bet-into-usd30b-windfall-filing-reveals-new-usd21b-spacex-stake-and-complete-exit-from-arm-stock",
-      "tags": [],
-      "body": "<p>Nvidia quietly makes strategic and financial investments in clients, partners, and suppliers: CoreWeave, Coherent, Intel, Nokia, and SpaceX.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "ad728fbcd": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
       "title": "Building an AI Text Detector From Scratch",
       "src": "Ahead of AI",
-      "time": "18小时前",
+      "time": "1天前",
       "published_ts": 1786794864,
       "heat": "15.0K",
       "views": "15.0K",
@@ -176,7 +163,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Memories Mysteriously Survive After Brain Shutdown, And Scientists Don’t Know Why",
       "src": "404 Media",
-      "time": "20小时前",
+      "time": "1天前",
       "published_ts": 1786788042,
       "heat": "15.0K",
       "views": "15.0K",
@@ -189,7 +176,7 @@
       "cat": "L5 · 生态商业",
       "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
       "src": "Wired",
-      "time": "21小时前",
+      "time": "1天前",
       "published_ts": 1786784400,
       "heat": "16.5K",
       "views": "16.5K",
@@ -358,7 +345,7 @@
       "cat": "L5 · 生态商业",
       "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
       "src": "Wired",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1786704300,
       "heat": "10.6K",
       "views": "12.5K",
@@ -371,7 +358,7 @@
       "cat": "L4 · 交互Agent",
       "title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
       "src": "Wired",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1786702500,
       "heat": "8.6K",
       "views": "10.6K",
@@ -501,7 +488,7 @@
       "cat": "L2 · 基础模型",
       "title": "The builder’s guide to GPT‑5.6",
       "src": "OpenAI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1786618800,
       "heat": "45.0K",
       "views": "45.0K",
@@ -514,7 +501,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
       "src": "OpenAI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1786615200,
       "heat": "39.6K",
       "views": "45.0K",
@@ -527,7 +514,7 @@
       "cat": "L5 · 生态商业",
       "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
       "src": "OpenAI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1786611600,
       "heat": "34.2K",
       "views": "39.6K",
@@ -540,7 +527,7 @@
       "cat": "L1 · 算力硬件",
       "title": "How kids feel about AI, in their own words",
       "src": "MIT Tech Review",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1786611600,
       "heat": "19.8K",
       "views": "22.5K",
@@ -644,7 +631,7 @@
       "cat": "L2 · 基础模型",
       "title": "Pakistani Judges Give Their Verdict on JudgeGPT",
       "src": "IEEE Spectrum",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1786532401,
       "heat": "13.2K",
       "views": "15.0K",
@@ -657,7 +644,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] How to steal a Reasoning Trace",
       "src": "Latent Space",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1786518668,
       "heat": "12.5K",
       "views": "14.8K",
@@ -761,7 +748,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Testing ads in ChatGPT",
       "src": "OpenAI Blog",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1786442400,
       "heat": "18.0K",
       "views": "23.4K",
@@ -813,7 +800,7 @@
       "cat": "L1 · 算力硬件",
       "title": "AI for science needs reasoning, not just data",
       "src": "MIT Tech Review",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1786352400,
       "heat": "11.7K",
       "views": "14.4K",
@@ -826,7 +813,7 @@
       "cat": "L5 · 生态商业",
       "title": "These startups are chasing the next big thing in LLMs",
       "src": "MIT Tech Review",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1786352400,
       "heat": "9.0K",
       "views": "11.7K",
@@ -891,7 +878,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Should Researchers Write Papers for AI Instead of People?",
       "src": "IEEE Spectrum",
-      "time": "10天前",
+      "time": "11天前",
       "published_ts": 1785931203,
       "heat": "7.8K",
       "views": "9.6K",
@@ -969,7 +956,7 @@
       "cat": "L3 · 推理工程",
       "title": "Controlling Reasoning Effort in LLMs",
       "src": "Ahead of AI",
-      "time": "28天前",
+      "time": "29天前",
       "published_ts": 1784373369,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1021,7 +1008,7 @@
       "cat": "L2 · 基础模型",
       "title": "Using Local Coding Agents",
       "src": "Ahead of AI",
-      "time": "49天前",
+      "time": "50天前",
       "published_ts": 1782559318,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1060,7 +1047,7 @@
       "cat": "L3 · 推理工程",
       "title": "LLM Research Papers: The 2026 List (January to May)",
       "src": "Ahead of AI",
-      "time": "70天前",
+      "time": "71天前",
       "published_ts": 1780744582,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1086,7 +1073,7 @@
       "cat": "L2 · 基础模型",
       "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
       "src": "Ahead of AI",
-      "time": "91天前",
+      "time": "92天前",
       "published_ts": 1778931231,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1112,7 +1099,7 @@
       "cat": "L2 · 基础模型",
       "title": "My Workflow for Understanding LLM Architectures",
       "src": "Ahead of AI",
-      "time": "119天前",
+      "time": "120天前",
       "published_ts": 1776511476,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1190,7 +1177,7 @@
       "cat": "L2 · 基础模型",
       "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
       "src": "VentureBeat AI",
-      "time": "215天前",
+      "time": "216天前",
       "published_ts": 1768217400,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1268,7 +1255,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
       "src": "SemiAnalysis",
-      "time": "341天前",
+      "time": "342天前",
       "published_ts": 1757325297,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1499,49 +1486,10 @@
     }
   },
   "by_layer": {
-    "l4": [
-      "aec07d8cb",
-      "afe659f61",
-      "ae19602ea",
-      "ab82d175a",
-      "af20f5dc7",
-      "a9dde8076",
-      "afd58d1b7",
-      "a5c6bbb64",
-      "a56a2276c",
-      "a6afcc6a1",
-      "ae5b3755a",
-      "a6ad43b7a",
-      "acf25fc38",
-      "a49eb5ef1",
-      "a00747be9",
-      "a45dcde46",
-      "ae3999360",
-      "ad15b2792",
-      "a0b15b550",
-      "a6085a151",
-      "ad85f3497",
-      "a99105d78",
-      "a0475752c",
-      "a61a8adff",
-      "ad01feb8a"
-    ],
-    "l5": [
-      "a3eedc612",
-      "aafd77fc1",
-      "ac1d3ca30",
-      "ad6617147",
-      "aa58937b6",
-      "a449cd1ce",
-      "a78164c62",
-      "a5f9da44c",
-      "a8dc77873",
-      "ae45aac2a"
-    ],
     "l1": [
-      "a088ff274",
-      "aa612d9aa",
-      "aac6bd55a",
+      "a371c365e",
+      "a1d5f7813",
+      "abe8c5fbc",
       "a6bd2c035",
       "a35004638",
       "ac1156ced",
@@ -1570,6 +1518,44 @@
       "a94a9a29d",
       "a5236c597",
       "a2ae2603b"
+    ],
+    "l4": [
+      "a18fe2d62",
+      "aec07d8cb",
+      "afe659f61",
+      "ae19602ea",
+      "ab82d175a",
+      "af20f5dc7",
+      "afd58d1b7",
+      "a5c6bbb64",
+      "a56a2276c",
+      "a6afcc6a1",
+      "ae5b3755a",
+      "a6ad43b7a",
+      "acf25fc38",
+      "a49eb5ef1",
+      "a00747be9",
+      "a45dcde46",
+      "ae3999360",
+      "ad15b2792",
+      "a0b15b550",
+      "a6085a151",
+      "ad85f3497",
+      "a99105d78",
+      "a0475752c",
+      "a61a8adff",
+      "ad01feb8a"
+    ],
+    "l5": [
+      "a3eedc612",
+      "ac1d3ca30",
+      "ad6617147",
+      "aa58937b6",
+      "a449cd1ce",
+      "a78164c62",
+      "a5f9da44c",
+      "a8dc77873",
+      "ae45aac2a"
     ],
     "l2": [
       "ac2729526",
@@ -1628,11 +1614,11 @@
     ]
   },
   "top5": [
-    "aec07d8cb",
-    "afe659f61",
-    "ae19602ea",
-    "ab82d175a",
-    "a3eedc612"
+    "a371c365e",
+    "a18fe2d62",
+    "a1d5f7813",
+    "abe8c5fbc",
+    "aec07d8cb"
   ],
   "layers": [
     {
@@ -1640,11 +1626,11 @@
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        32,
-        26,
+        21,
+        28,
         13,
-        8,
-        32,
+        9,
+        27,
         23
       ],
       "trend": [
@@ -1662,34 +1648,12 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        19,
-        30,
-        5,
+        12,
+        27,
+        25,
         6,
-        29,
+        32,
         19
-      ],
-      "trend": [
-        20,
-        20,
-        20,
-        20,
-        20,
-        20,
-        20
-      ]
-    },
-    {
-      "id": "l0",
-      "num": "LAYER 0",
-      "name": "领袖观点",
-      "vals": [
-        21,
-        26,
-        8,
-        5,
-        23,
-        18
       ],
       "trend": [
         20,
@@ -1706,11 +1670,11 @@
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        12,
-        26,
+        16,
         10,
-        19,
-        30,
+        10,
+        5,
+        32,
         20
       ],
       "trend": [
@@ -1724,15 +1688,37 @@
       ]
     },
     {
+      "id": "l0",
+      "num": "LAYER 0",
+      "name": "领袖观点",
+      "vals": [
+        18,
+        11,
+        8,
+        5,
+        21,
+        18
+      ],
+      "trend": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ]
+    },
+    {
       "id": "l3",
       "num": "LAYER 3",
       "name": "推理工程",
       "vals": [
         10,
-        16,
+        15,
+        10,
         5,
-        5,
-        12,
+        19,
         13
       ],
       "trend": [
@@ -1750,25 +1736,45 @@
       "num": "LAYER 5",
       "name": "生态商业",
       "vals": [
-        10,
-        13,
-        5,
-        5,
         16,
-        10
+        10,
+        5,
+        5,
+        13,
+        15
       ],
       "trend": [
         20,
-        19,
         18,
-        17,
         16,
-        15,
-        14
+        14,
+        12,
+        10,
+        8
       ]
     }
   ],
   "ticker": [
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Google reportedly taps AMD to design next-generation TPU — hybrid…"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l4)",
+      "text": "Rogue AI aren’t science fiction anymore"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "3D-printed sound-powered jet engines propel micro drones — fliers…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Modern OLEDs are just as vulnerable to burn-in as 2017 panels in …"
+    },
     {
       "tag": "THE VERGE",
       "col": "var(--l4)",
@@ -1800,34 +1806,9 @@
       "text": "React for Agents: Astro Creator Brings Hooks to his Meta-Harness,…"
     },
     {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Peer-reviewed study of 443,000 Backblaze hard drives ranks HGST m…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l5)",
-      "text": "Futuristic mosquito-zapping laser now available to buy, video sho…"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "Star Wars: Ahsoka season 2 and Starfighter get teased at D23"
-    },
-    {
       "tag": "SIMON WIL",
       "col": "var(--l2)",
       "text": "CORS Chat"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Grab this Nvidia RTX 5070 Ti gaming PC for $2,099 before it sells…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Nvidia turns $5B Intel stock bet into $30B windfall — filing reve…"
     },
     {
       "tag": "AHEAD OF ",
@@ -1838,16 +1819,39 @@
       "tag": "404 MEDIA",
       "col": "var(--l4)",
       "text": "Memories Mysteriously Survive After Brain Shutdown, And Scientist…"
+    },
+    {
+      "tag": "WIRED",
+      "col": "var(--l5)",
+      "text": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt…"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
+      "title": "Chestnut – eGPU dock with open-source firmware",
+      "url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
+      "votes": "39",
+      "comments": "7",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
       "title": "Patterns and problems in emerging multi-agent systems",
       "url": "https://www.anthropic.com/research/multiagent-systems",
-      "votes": "44",
-      "comments": "12",
+      "votes": "127",
+      "comments": "80",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "What happens when an LLM never sees material beyond fifth grade?",
+      "url": "https://littlelearner-ll.github.io/",
+      "votes": "161",
+      "comments": "124",
       "time": "近期"
     },
     {
@@ -1855,8 +1859,17 @@
       "badge": "pb-hn",
       "title": "AI in drug discovery – what it is, where we stand and the path forward",
       "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "votes": "127",
-      "comments": "63",
+      "votes": "148",
+      "comments": "83",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Show HN: Grafana agent observability for Hermes Agent",
+      "url": "https://github.com/alexander-akhmetov/grafana-agento11y-hermes",
+      "votes": "8",
+      "comments": "0",
       "time": "近期"
     },
     {
@@ -1864,35 +1877,8 @@
       "badge": "pb-hn",
       "title": "AI has access to a vastly larger working memory than the human brain",
       "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "votes": "465",
-      "comments": "404",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Program with Paint Brushes, Not Pencils",
-      "url": "https://blog.pickcode.io/program-with-paint-brushes-not-pencils/",
-      "votes": "8",
-      "comments": "1",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-      "url": "https://arxiv.org/abs/2608.13122",
-      "votes": "21",
-      "comments": "2",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Show HN: Fixing optical computing jitter via fluid dynamics in GPU registers",
-      "url": "https://github.com/PJHkorea/photonic-mesh-fng-router",
-      "votes": "3",
-      "comments": "1",
+      "votes": "520",
+      "comments": "451",
       "time": "近期"
     }
   ]
