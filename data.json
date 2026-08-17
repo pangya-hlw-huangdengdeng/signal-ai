@@ -1,13 +1,169 @@
 {
-  "updated_at": "2026-08-17T01:22:55.467665+00:00",
-  "article_count": 118,
+  "updated_at": "2026-08-17T06:59:21.877716+00:00",
+  "article_count": 130,
   "articles": {
+    "a218d8c00": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "L-FNO: Lorentzian Fourier Neural Operator for Stochastic Event Dynamics",
+      "src": "arXiv cs.LG",
+      "time": "2小时前",
+      "published_ts": 1786939200,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2608.13562",
+      "tags": [],
+      "body": "<p>arXiv:2608.13562v1 Announce Type: new Abstract: Modern operational systems face uncertainty even in routine conditions, where rare, bursty, and self-exciting events emerge from both exogenous covariates and endogenous event dynamics. Standard neural operators are typically trained as regression-style function-to-function models rather than conditional-intensity estimators, limiting their suitabili</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a62d4c838": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Don't Claim Benchmark-Oriented Optimization Improves General Coding Capability -- Diverse Evaluation Is Required",
+      "src": "arXiv cs.LG",
+      "time": "2小时前",
+      "published_ts": 1786939200,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2608.13566",
+      "tags": [],
+      "body": "<p>arXiv:2608.13566v1 Announce Type: new Abstract: Post-training papers, model cards, and blog posts often treat scores on a small set of coding benchmarks (e.g., SWE-bench and LiveCodeBench) as evidence of broad coding capability, both for research artifacts and user-facing systems. We argue that optimization for these benchmarks leads to measuring task-specific performance, creating a meaning gap b</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a68abbca9": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "Robust XGBoosting for Regression",
+      "src": "arXiv cs.LG",
+      "time": "2小时前",
+      "published_ts": 1786939200,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2608.13590",
+      "tags": [],
+      "body": "<p>arXiv:2608.13590v1 Announce Type: new Abstract: XGBoost is a very popular and powerful method for prediction. It iteratively fits simple decision trees to the residuals of the previous step. An efficient and scalable implementation is available. The standard loss function for XGBoost is the quadratic loss, but a Huber loss can also be used. In this paper, we study the robustness of XGBoost and sho</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "afd2a95b0": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Training-Free Knowledge Transfer Across Model Scales through Activation-Guided Pruning",
+      "src": "arXiv cs.LG",
+      "time": "2小时前",
+      "published_ts": 1786939200,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2608.13596",
+      "tags": [],
+      "body": "<p>arXiv:2608.13596v1 Announce Type: new Abstract: Heterogeneous model fusion seeks to combine models that differ in tasks, initializations, architectures, or scales. We study an underexplored cross-scale setting: improving a small recipient language model with a stronger donor despite substantial architectural mismatch. We ask whether useful capabilities can be transferred without explicit neuron-wi</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a72a311eb": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Hard Cases, Bad Labels: Testing Error Exposure and Error Location in Uncertainty Sampling Under Bounded Label Noise",
+      "src": "arXiv cs.LG",
+      "time": "2小时前",
+      "published_ts": 1786939200,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2608.13601",
+      "tags": [],
+      "body": "<p>arXiv:2608.13601v1 Announce Type: new Abstract: Active learning can reduce labeling cost by selecting informative examples, but the most uncertain examples may also be the hardest to label correctly. This study tests whether uncertainty sampling fails because it acquires more corrupted labels or because errors concentrated in difficult regions are especially harmful. Margin-based uncertainty sampl</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ad35d8771": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Robust Dual-Model Collaborative Random Vector Functional Link Network",
+      "src": "arXiv cs.LG",
+      "time": "2小时前",
+      "published_ts": 1786939200,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2608.13628",
+      "tags": [],
+      "body": "<p>arXiv:2608.13628v1 Announce Type: new Abstract: Random vector functional link (RVFL) networks are lightweight and fast neural models that offer efficient training and strong generalization through randomized hidden-layer weights and direct input-output connections. However, conventional RVFL models are sensitive to noisy labels, outliers, and imbalanced data, which limits their performance in real</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a36fe14ff": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
+      "src": "arXiv cs.AI",
+      "time": "2小时前",
+      "published_ts": 1786939200,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2608.13564",
+      "tags": [],
+      "body": "<p>arXiv:2608.13564v1 Announce Type: new Abstract: Evaluating language-model agents at scale increasingly relies on a second language model as an automatic judge, because the gold signal, an executable environment reward, is expensive, slow, or unavailable at deployment time. Such a judge is a reward-free proxy whose value depends on whether it can be trusted, yet existing judges either hand-write th</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ace74c228": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
+      "src": "arXiv cs.AI",
+      "time": "2小时前",
+      "published_ts": 1786939200,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2608.13565",
+      "tags": [],
+      "body": "<p>arXiv:2608.13565v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) architectures scale large language models (LLMs) while preserving computational efficiency through sparse activation. Despite their widespread adoption, the relative importance of individual MoE layers remains insufficiently characterized, particularly for model compression. This paper presents a systematic layer-wise sensiti</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a64a55cb0": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Modular Cognitive Architecture Emerges in Large Language Models",
+      "src": "arXiv cs.AI",
+      "time": "2小时前",
+      "published_ts": 1786939200,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2608.13567",
+      "tags": [],
+      "body": "<p>arXiv:2608.13567v1 Announce Type: new Abstract: The human brain exhibits a striking degree of functional specialization, with distinct networks supporting language, formal reasoning, reasoning about other minds, and reasoning about the physical world. Is this modular organization a fundamental principle of how intelligent systems must be built, or an evolutionary accident specific to biological br</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a9ecc45b1": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
+      "src": "arXiv cs.AI",
+      "time": "2小时前",
+      "published_ts": 1786939200,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2608.13573",
+      "tags": [],
+      "body": "<p>arXiv:2608.13573v1 Announce Type: new Abstract: Large Language Model (LLM) serving has become a critical cloud workload, and realistic traces are essential for motivating and benchmarking serving systems. However, existing LLM serving workload studies remain limited in scale and scope. They often observe short time periods and provide limited visibility into how users interact with models in produ</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "afd5f264a": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
+      "src": "arXiv cs.AI",
+      "time": "2小时前",
+      "published_ts": 1786939200,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2608.13574",
+      "tags": [],
+      "body": "<p>arXiv:2608.13574v1 Announce Type: new Abstract: LLM agents increasingly operate as execution systems that invoke tools, modify local state, use persistent memory, and interact with external protocols. These capabilities make agents useful, but they also introduce risks related to over-privileged actions, weak auditability, prompt injection, tool poisoning, and uncontrolled side effects. This paper</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "af9551abe": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "AI Evaluation Should Work With Humans",
+      "src": "arXiv cs.AI",
+      "time": "2小时前",
+      "published_ts": 1786939200,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2608.13577",
+      "tags": [],
+      "body": "<p>arXiv:2608.13577v1 Announce Type: new Abstract: This position paper argues that the dominant paradigm of AI evaluation (which focuses on superhuman autonomous performance and so implicitly targets the goal of replacing humans) is guiding AI development in the wrong direction. Instead, the AI community should pivot to evaluating the performance of human--AI teams. We argue that this collaborative s</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "abbae1fda": {
       "layer": "l3",
       "cat": "L3 · 推理工程",
       "title": "Markdown SVG upgrades",
       "src": "Simon Willison",
-      "time": "1小时前",
+      "time": "6小时前",
       "published_ts": 1786924777,
       "heat": "15.0K",
       "views": "15.0K",
@@ -20,7 +176,7 @@
       "cat": "L2 · 基础模型",
       "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
       "src": "Simon Willison",
-      "time": "3小时前",
+      "time": "8小时前",
       "published_ts": 1786917639,
       "heat": "13.2K",
       "views": "15.0K",
@@ -33,7 +189,7 @@
       "cat": "L4 · 交互Agent",
       "title": "OpenAI reportedly disbanded its preparedness team",
       "src": "The Verge",
-      "time": "3小时前",
+      "time": "9小时前",
       "published_ts": 1786915976,
       "heat": "24.0K",
       "views": "24.0K",
@@ -46,7 +202,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
       "src": "TechCrunch AI",
-      "time": "4小时前",
+      "time": "10小时前",
       "published_ts": 1786913824,
       "heat": "27.0K",
       "views": "27.0K",
@@ -59,7 +215,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
       "src": "TechCrunch AI",
-      "time": "4小时前",
+      "time": "10小时前",
       "published_ts": 1786912321,
       "heat": "23.8K",
       "views": "27.0K",
@@ -72,7 +228,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Amazon is trying to crush class-action suits before they get started",
       "src": "The Verge",
-      "time": "7小时前",
+      "time": "13小时前",
       "published_ts": 1786901702,
       "heat": "18.2K",
       "views": "21.1K",
@@ -85,7 +241,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
       "src": "TechCrunch AI",
-      "time": "8小时前",
+      "time": "14小时前",
       "published_ts": 1786899231,
       "heat": "20.5K",
       "views": "23.8K",
@@ -98,7 +254,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Quoting Dario Amodei",
       "src": "Simon Willison",
-      "time": "10小时前",
+      "time": "15小时前",
       "published_ts": 1786892736,
       "heat": "11.4K",
       "views": "13.2K",
@@ -111,7 +267,7 @@
       "cat": "L2 · 基础模型",
       "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
       "src": "The Verge",
-      "time": "10小时前",
+      "time": "16小时前",
       "published_ts": 1786892200,
       "heat": "15.4K",
       "views": "18.2K",
@@ -124,7 +280,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Dell CEO unveils new 'Dude, you’re getting a Dell (AI server rack)' video — PC maker recycles famous PC ad campaign to tout its new AI data center products",
       "src": "Tom's Hardware",
-      "time": "10小时前",
+      "time": "16小时前",
       "published_ts": 1786890693,
       "heat": "13.2K",
       "views": "15.0K",
@@ -137,7 +293,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Maker compresses a 2.9MB song by 1000x and prints it on paper as eight QR codes — 21KB song is two minutes long, requires a neural network for playback",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1786890156,
       "heat": "11.4K",
       "views": "13.2K",
@@ -150,7 +306,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Ukraine built a $48,000 long-range drone after covertly snapping Chinese factory photos, clone destroys Russian Tu-95 bomber — attack drone has 2,000 km range, country builds 6,000 flying-wing drones a year",
       "src": "Tom's Hardware",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1786886400,
       "heat": "9.6K",
       "views": "11.4K",
@@ -163,7 +319,7 @@
       "cat": "L1 · 算力硬件",
       "title": "The CPU Comeback Is Upon Us",
       "src": "IEEE Spectrum",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1786885201,
       "heat": "15.0K",
       "views": "15.0K",
@@ -176,7 +332,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning",
       "src": "Tom's Hardware",
-      "time": "12小时前",
+      "time": "18小时前",
       "published_ts": 1786884000,
       "heat": "6.0K",
       "views": "7.8K",
@@ -189,7 +345,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Rogue AI aren’t science fiction anymore",
       "src": "The Verge",
-      "time": "13小时前",
+      "time": "18小时前",
       "published_ts": 1786881600,
       "heat": "12.5K",
       "views": "15.4K",
@@ -202,7 +358,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
       "src": "The Verge",
-      "time": "22小时前",
+      "time": "1天前",
       "published_ts": 1786849200,
       "heat": "9.6K",
       "views": "12.5K",
@@ -416,7 +572,7 @@
       "views": "13.2K",
       "url": "https://www.404media.co/meta-patents-ai-glasses-to-use-facial-recognition-to-identify-people-make-highlight-reels-of-your-dinner-party/",
       "tags": [],
-      "body": "<p>A new Meta patent published Thursday says a system, like its AI glasses, would use facial recognition to identify people, current a series of video clips, then provide you with a highlight reel of your night.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>A new Meta patent published Thursday says a system, like its AI glasses, would use facial recognition to identify people, create a series of video clips, then provide you with a highlight reel of your night.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "ae5b3755a": {
       "layer": "l4",
@@ -457,15 +613,28 @@
       "tags": [],
       "body": "<p>Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
+    "a48a2efa5": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "[AINews] Cursor's $60B acquisition by SpaceXai closes",
+      "src": "Latent Space",
+      "time": "3天前",
+      "published_ts": 1786688160,
+      "heat": "17.2K",
+      "views": "19.5K",
+      "url": "https://www.latent.space/p/ainews-cursors-60b-acquisition-by",
+      "tags": [],
+      "body": "<p>Congrats to the team!</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "ac7574eca": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
       "title": "[AINews] Gemini 3.7 Flash brings GDM back to the forefront",
       "src": "Latent Space",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1786685439,
-      "heat": "17.2K",
-      "views": "19.5K",
+      "heat": "14.8K",
+      "views": "17.2K",
       "url": "https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm",
       "tags": [],
       "body": "<p>Down, but not out!</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -605,10 +774,10 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] SpaceXAI Grok 4.6 and Grok @Bot",
       "src": "Latent Space",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1786586027,
-      "heat": "14.8K",
-      "views": "17.2K",
+      "heat": "12.5K",
+      "views": "14.8K",
       "url": "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
       "tags": [],
       "body": "<p>AI teammate category just had its most significant new entrant yet</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -711,8 +880,8 @@
       "src": "Latent Space",
       "time": "4天前",
       "published_ts": 1786518668,
-      "heat": "12.5K",
-      "views": "14.8K",
+      "heat": "10.1K",
+      "views": "12.5K",
       "url": "https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace",
       "tags": [],
       "body": "<p>Speculative Decoding by any other name would distil as sweet</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -722,7 +891,7 @@
       "cat": "L4 · 交互Agent",
       "title": "From assistance to execution: How enterprises put AI to work",
       "src": "OpenAI Blog",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1786514400,
       "heat": "28.8K",
       "views": "34.2K",
@@ -763,8 +932,8 @@
       "src": "Latent Space",
       "time": "5天前",
       "published_ts": 1786482230,
-      "heat": "10.1K",
-      "views": "12.5K",
+      "heat": "7.8K",
+      "views": "10.1K",
       "url": "https://www.latent.space/p/chai-discovery",
       "tags": [],
       "body": "<p>Pharma is suddenly paying for Bio &#215; AI tools, and Chai is leading the pack with four deals closed this summer. Cofounder Matt McPartlon and Product leader Neil Patil explain why.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -820,19 +989,6 @@
       "url": "https://openai.com/index/testing-ads-in-chatgpt",
       "tags": [],
       "body": "<p>OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ac23c100a": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "[AINews] Muse Glimmer and Spark: Open Weights return Personal Superintelligence promise",
-      "src": "Latent Space",
-      "time": "5天前",
-      "published_ts": 1786425401,
-      "heat": "7.8K",
-      "views": "10.1K",
-      "url": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
-      "tags": [],
-      "body": "<p>a small win for american open models - Glimmer runs on a fits on a single RTX 3090!</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a8dc77873": {
       "layer": "l5",
@@ -1333,7 +1489,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "361天前",
+      "time": "362天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1538,16 +1694,12 @@
     }
   },
   "by_layer": {
-    "l3": [
-      "abbae1fda",
-      "a9adf30dd",
-      "a834aa582",
-      "a1338e7ca",
-      "a1585cbf5",
-      "a32296677",
-      "a28f84720"
-    ],
     "l2": [
+      "a218d8c00",
+      "a62d4c838",
+      "afd2a95b0",
+      "a72a311eb",
+      "a9ecc45b1",
       "a43d5b7b2",
       "a677af28f",
       "ac2729526",
@@ -1571,34 +1723,8 @@
       "ab3119897",
       "af0f189d1"
     ],
-    "l4": [
-      "a1fab08e9",
-      "a81e05c39",
-      "a18fe2d62",
-      "aec07d8cb",
-      "afe659f61",
-      "ab82d175a",
-      "af20f5dc7",
-      "afd58d1b7",
-      "a5c6bbb64",
-      "a6afcc6a1",
-      "ae5b3755a",
-      "a6ad43b7a",
-      "acf25fc38",
-      "a49eb5ef1",
-      "a00747be9",
-      "a45dcde46",
-      "ae3999360",
-      "ad15b2792",
-      "a0b15b550",
-      "a6085a151",
-      "ad85f3497",
-      "a99105d78",
-      "a0475752c",
-      "a61a8adff",
-      "ad01feb8a"
-    ],
     "l0": [
+      "a68abbca9",
       "a0309d107",
       "a469d2235",
       "a3e137ed8",
@@ -1626,6 +1752,8 @@
       "abcb7b0c4"
     ],
     "l1": [
+      "ad35d8771",
+      "a64a55cb0",
       "ad513e3f6",
       "a2c92010a",
       "a343505fb",
@@ -1642,7 +1770,6 @@
       "a1299f9a2",
       "a5e68447c",
       "a0ea0dcd4",
-      "ac23c100a",
       "a990654d8",
       "ab2ecaae3",
       "a8cbfb931",
@@ -1657,11 +1784,52 @@
       "a5236c597",
       "a2ae2603b"
     ],
+    "l3": [
+      "a36fe14ff",
+      "ace74c228",
+      "abbae1fda",
+      "a9adf30dd",
+      "a834aa582",
+      "a1338e7ca",
+      "a1585cbf5",
+      "a32296677",
+      "a28f84720"
+    ],
+    "l4": [
+      "afd5f264a",
+      "a1fab08e9",
+      "a81e05c39",
+      "a18fe2d62",
+      "aec07d8cb",
+      "afe659f61",
+      "ab82d175a",
+      "af20f5dc7",
+      "afd58d1b7",
+      "a5c6bbb64",
+      "a6afcc6a1",
+      "ae5b3755a",
+      "a6ad43b7a",
+      "acf25fc38",
+      "a49eb5ef1",
+      "a00747be9",
+      "a45dcde46",
+      "ae3999360",
+      "ad15b2792",
+      "a0b15b550",
+      "a6085a151",
+      "ad85f3497",
+      "a99105d78",
+      "a0475752c",
+      "a61a8adff",
+      "ad01feb8a"
+    ],
     "l5": [
+      "af9551abe",
       "a3eedc612",
       "ac1d3ca30",
       "ad6617147",
       "aa58937b6",
+      "a48a2efa5",
       "a449cd1ce",
       "a78164c62",
       "a5f9da44c",
@@ -1670,46 +1838,24 @@
     ]
   },
   "top5": [
-    "abbae1fda",
-    "a43d5b7b2",
-    "a1fab08e9",
-    "a0309d107",
-    "a469d2235"
+    "a218d8c00",
+    "a62d4c838",
+    "a68abbca9",
+    "afd2a95b0",
+    "a72a311eb"
   ],
   "layers": [
-    {
-      "id": "l0",
-      "num": "LAYER 0",
-      "name": "领袖观点",
-      "vals": [
-        25,
-        10,
-        10,
-        7,
-        27,
-        20
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
     {
       "id": "l1",
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        20,
-        13,
-        12,
-        8,
-        21,
-        22
+        31,
+        23,
+        11,
+        7,
+        24,
+        21
       ],
       "trend": [
         20,
@@ -1726,11 +1872,33 @@
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        21,
-        12,
+        15,
+        26,
         10,
-        5,
+        25,
+        34,
+        20
+      ],
+      "trend": [
+        20,
         21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "id": "l0",
+      "num": "LAYER 0",
+      "name": "领袖观点",
+      "vals": [
+        11,
+        25,
+        10,
+        6,
+        28,
         20
       ],
       "trend": [
@@ -1748,21 +1916,21 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        10,
-        10,
-        16,
+        25,
+        14,
+        5,
         6,
-        13,
-        19
+        15,
+        20
       ],
       "trend": [
         20,
-        20,
-        20,
-        20,
-        20,
-        20,
-        20
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
       ]
     },
     {
@@ -1772,10 +1940,10 @@
       "vals": [
         10,
         10,
+        7,
         5,
-        5,
-        19,
-        12
+        12,
+        13
       ],
       "trend": [
         20,
@@ -1797,20 +1965,80 @@
         5,
         5,
         10,
-        10
+        23
       ],
       "trend": [
         20,
+        19,
         18,
+        17,
         16,
-        14,
-        12,
-        10,
-        8
+        15,
+        14
       ]
     }
   ],
   "ticker": [
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "L-FNO: Lorentzian Fourier Neural Operator for Stochastic Event Dy…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Don't Claim Benchmark-Oriented Optimization Improves General Codi…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l0)",
+      "text": "Robust XGBoosting for Regression"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Training-Free Knowledge Transfer Across Model Scales through Acti…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Hard Cases, Bad Labels: Testing Error Exposure and Error Location…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l1)",
+      "text": "Robust Dual-Model Collaborative Random Vector Functional Link Net…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l3)",
+      "text": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting i…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l3)",
+      "text": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l1)",
+      "text": "Modular Cognitive Architecture Emerges in Large Language Models"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balan…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l4)",
+      "text": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l5)",
+      "text": "AI Evaluation Should Work With Humans"
+    },
     {
       "tag": "SIMON WIL",
       "col": "var(--l3)",
@@ -1820,76 +2048,25 @@
       "tag": "SIMON WIL",
       "col": "var(--l2)",
       "text": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking…"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "OpenAI reportedly disbanded its preparedness team"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l0)",
-      "text": "Stripe will reportedly acquire AI gateway startup OpenRouter for …"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l0)",
-      "text": "Why people aren’t buying Mark Zuckerberg’s AI future"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "Amazon is trying to crush class-action suits before they get star…"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l0)",
-      "text": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trus…"
-    },
-    {
-      "tag": "SIMON WIL",
-      "col": "var(--l0)",
-      "text": "Quoting Dario Amodei"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l2)",
-      "text": "ChatGPT’s Computer History tracks your clicks and keystrokes"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l0)",
-      "text": "Dell CEO unveils new 'Dude, you’re getting a Dell (AI server rack…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Maker compresses a 2.9MB song by 1000x and prints it on paper as …"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Ukraine built a $48,000 long-range drone after covertly snapping …"
-    },
-    {
-      "tag": "IEEE SPEC",
-      "col": "var(--l1)",
-      "text": "The CPU Comeback Is Upon Us"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Google reportedly taps AMD to design next-generation TPU — hybrid…"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
+      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "votes": "322",
+      "comments": "132",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
       "title": "Claude: System Prompts",
       "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "votes": "535",
-      "comments": "224",
+      "votes": "622",
+      "comments": "248",
       "time": "近期"
     },
     {
@@ -1897,17 +2074,8 @@
       "badge": "pb-hn",
       "title": "Rhombus 1.1 is now available",
       "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
-      "votes": "6",
-      "comments": "1",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-      "votes": "15",
-      "comments": "2",
+      "votes": "60",
+      "comments": "20",
       "time": "近期"
     },
     {
@@ -1915,8 +2083,8 @@
       "badge": "pb-hn",
       "title": "The AI Credit Resale Economy",
       "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "votes": "224",
-      "comments": "88",
+      "votes": "268",
+      "comments": "113",
       "time": "近期"
     },
     {
@@ -1924,17 +2092,17 @@
       "badge": "pb-hn",
       "title": "MathCode, Mathematical Coding Agent",
       "url": "https://math-ai-org.github.io/mathcode/",
-      "votes": "55",
-      "comments": "18",
+      "votes": "85",
+      "comments": "26",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-      "votes": "96",
-      "comments": "27",
+      "title": "Red queen hypothesis – A new way forward for self-improving AI",
+      "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+      "votes": "42",
+      "comments": "7",
       "time": "近期"
     }
   ]
