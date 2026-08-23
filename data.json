@@ -1,13 +1,52 @@
 {
-  "updated_at": "2026-08-23T06:44:10.155776+00:00",
+  "updated_at": "2026-08-23T12:43:49.312308+00:00",
   "article_count": 114,
   "articles": {
+    "ab2959f40": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Modular pocket gimbal camera that transforms into a self-flying drone retroactively banned by FCC, certification revoked — Agency closes foreign UAS loophole on 230g HoverAir Versa",
+      "src": "Tom's Hardware",
+      "time": "13分钟前",
+      "published_ts": 1787488200,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/tech-industry/drones/fcc-pulls-hoverair-versa-certification-three-days-after-launch",
+      "tags": [],
+      "body": "<p>The Versa, a 230g pocket gimbal camera that snaps into a separate propeller chassis for flight, raised more than $230,000 at its debut.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a395f0426": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "TP-Link Deco 7 Pro BE13000 Wi-Fi 7 mesh router review: Value pricing, but average performance",
+      "src": "Tom's Hardware",
+      "time": "38分钟前",
+      "published_ts": 1787486700,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/networking/routers/tp-link-deco-7-pro-be13000-wi-fi-7-mesh-router-review",
+      "tags": [],
+      "body": "<p>The Deco 7 Pro BE13000 is attractively priced on the hardware front, but a subscription is needed to enable many features of the mesh system.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a86d32479": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Humanoid robots shatter Usain Bolt's 100m record, hits 23.8 mph before crashing into foam pads — video shows Tiangong Ultra logging 9.39-second sprint before colliding with padded wall",
+      "src": "Tom's Hardware",
+      "time": "58分钟前",
+      "published_ts": 1787485500,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://www.tomshardware.com/tech-industry/robotics/humanoid-robots-shatter-usain-bolts-100m-record-hits-23-8-mph-before-crashing-into-foam-pads-video-shows-tiangong-ultra-logging-9-39-second-sprint-before-colliding-with-padded-wall",
+      "tags": [],
+      "body": "<p>Two robots at the 2026 World Humanoid Robot Games in Beijing beat Usain Bolt's 2009 100-meter dash world record. The Tiangong Ultra set a record of 9.39 seconds, while the Honor Lightning achieved a 9.47 record time, breaking the Jamaican runner's 9.58-second record.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a6c9117bf": {
       "layer": "l5",
       "cat": "L5 · 生态商业",
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
       "src": "TechCrunch AI",
-      "time": "8小时前",
+      "time": "14小时前",
       "published_ts": 1787435216,
       "heat": "27.0K",
       "views": "27.0K",
@@ -20,7 +59,7 @@
       "cat": "L3 · 推理工程",
       "title": "Quoting Linus Torvalds",
       "src": "Simon Willison",
-      "time": "9小时前",
+      "time": "15小时前",
       "published_ts": 1787432666,
       "heat": "15.0K",
       "views": "15.0K",
@@ -33,7 +72,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
       "src": "TechCrunch AI",
-      "time": "11小时前",
+      "time": "17小时前",
       "published_ts": 1787425200,
       "heat": "23.8K",
       "views": "27.0K",
@@ -46,7 +85,7 @@
       "cat": "L3 · 推理工程",
       "title": "llm 0.33",
       "src": "Simon Willison",
-      "time": "13小时前",
+      "time": "19小时前",
       "published_ts": 1787418076,
       "heat": "13.2K",
       "views": "15.0K",
@@ -59,7 +98,7 @@
       "cat": "L4 · 交互Agent",
       "title": "OpenAI says California should strengthen its AI safety bill",
       "src": "TechCrunch AI",
-      "time": "14小时前",
+      "time": "20小时前",
       "published_ts": 1787416234,
       "heat": "20.5K",
       "views": "23.8K",
@@ -72,7 +111,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
       "src": "TechCrunch AI",
-      "time": "14小时前",
+      "time": "20小时前",
       "published_ts": 1787414400,
       "heat": "17.3K",
       "views": "20.5K",
@@ -85,7 +124,7 @@
       "cat": "L4 · 交互Agent",
       "title": "More than just code review",
       "src": "Simon Willison",
-      "time": "14小时前",
+      "time": "20小时前",
       "published_ts": 1787414214,
       "heat": "11.4K",
       "views": "13.2K",
@@ -93,41 +132,15 @@
       "tags": [],
       "body": "<p>The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have been applied in the correct way. Sometimes this involves reviewing every line of code they have written, but there are other ways to achieve that goal. Eyeballing every line of code has never been the most effective way</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a2f4f4edc": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "25 years after the death of 3dfx, the Voodoo 3 gets a Linux driver update — classic Voodoo GPUs can now boot without a PC BIOS",
-      "src": "Tom's Hardware",
-      "time": "14小时前",
-      "published_ts": 1787413690,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://www.tomshardware.com/software/linux/25-years-after-the-death-of-3dfx-the-voodoo-3-gets-a-linux-driver-update-classic-voodoo-gpus-can-now-boot-without-a-pc-bios",
-      "tags": [],
-      "body": "<p>It's been a quarter-century since the firm folded, but the graphics chips still have utility in esoteric use cases.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a9bfcac5c": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "Logitech faces lawsuit for withholding $61M in tariff refunds from customers — lawsuit claims company extracted up to $97M from consumers in 2026 through tariff-justified price increases",
-      "src": "Tom's Hardware",
-      "time": "16小时前",
-      "published_ts": 1787408030,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://www.tomshardware.com/peripherals/logitech-faces-lawsuit-for-withholding-usd61m-in-tariff-refunds-from-customers-lawsuit-claims-company-extracted-up-to-usd97m-from-consumers-in-2026-through-tariff-justified-price-increases",
-      "tags": [],
-      "body": "<p>Consumers who bought products from Logitech after it increased its prices due to tariffs still haven't received their refunds, even after the U.S. government returned $61 million to the company. Now they're suing for their refunds, saying that 'Company extracted approximately $73 million to $97 million from consumers.'</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "abd3e0507": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
       "src": "The Verge",
-      "time": "17小时前",
+      "time": "23小时前",
       "published_ts": 1787406061,
-      "heat": "18.2K",
-      "views": "21.1K",
+      "heat": "15.4K",
+      "views": "18.2K",
       "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
       "tags": [],
       "body": "<p>Citing \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, as first reported by Fortune. The cheapest products in Amazon's lineup were hit hardest, with the Echo Dot smart speaker jumping from $49.99 to $79.99. The Fire TV Stick 4K [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -137,10 +150,10 @@
       "cat": "L4 · 交互Agent",
       "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
       "src": "The Verge",
-      "time": "17小时前",
+      "time": "23小时前",
       "published_ts": 1787403600,
-      "heat": "15.4K",
-      "views": "18.2K",
+      "heat": "12.5K",
+      "views": "15.4K",
       "url": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
       "tags": [],
       "body": "<p>Laptop prices are out of whack. $500 used to get you a tolerable laptop, and $900 got you a really good one. They often had similar CPU, RAM, and storage options because that stuff was comparatively cheap; the difference was often in build quality and screen rather than power. But RAMageddon has thrown everything off. [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -150,10 +163,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Two great new repairable gadgets",
       "src": "The Verge",
-      "time": "18小时前",
+      "time": "1天前",
       "published_ts": 1787400000,
-      "heat": "12.5K",
-      "views": "15.4K",
+      "heat": "9.6K",
+      "views": "12.5K",
       "url": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
       "tags": [],
       "body": "<p>Hi, friends! Welcome to Installer No. 141, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm newish here too, and also you can read all the old editions at the Installer homepage.) This week, I've been getting back into the Installer groove, trying out some ergonomic Switch [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -163,7 +176,7 @@
       "cat": "L2 · 基础模型",
       "title": "How Claude Watermarks AI-Generated Text",
       "src": "Ahead of AI",
-      "time": "19小时前",
+      "time": "1天前",
       "published_ts": 1787397099,
       "heat": "15.0K",
       "views": "15.0K",
@@ -176,7 +189,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Brand Hype Has Existed Since the Bronze Age, Scientists Discover",
       "src": "404 Media",
-      "time": "20小时前",
+      "time": "1天前",
       "published_ts": 1787392835,
       "heat": "15.0K",
       "views": "15.0K",
@@ -189,7 +202,7 @@
       "cat": "L2 · 基础模型",
       "title": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
       "src": "Latent Space",
-      "time": "23小时前",
+      "time": "1天前",
       "published_ts": 1787384160,
       "heat": "19.5K",
       "views": "19.5K",
@@ -202,7 +215,7 @@
       "cat": "L4 · 交互Agent",
       "title": "The Evolution of the Agent Harness",
       "src": "Latent Space",
-      "time": "23小时前",
+      "time": "1天前",
       "published_ts": 1787383852,
       "heat": "17.2K",
       "views": "19.5K",
@@ -261,19 +274,6 @@
       "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
       "tags": [],
       "body": "<p>Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a9953fddc": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "HoverAir’s transforming modular drone has already been halted in the US",
-      "src": "The Verge",
-      "time": "1天前",
-      "published_ts": 1787350451,
-      "heat": "9.6K",
-      "views": "12.5K",
-      "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
-      "tags": [],
-      "body": "<p>I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US orders just three days after its Indiegogo debut, and may be forced to abandon shipping [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "affb5cc28": {
       "layer": "l0",
@@ -475,7 +475,7 @@
       "cat": "L5 · 生态商业",
       "title": "Unlocking hidden revenue streams with market models",
       "src": "MIT Tech Review",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1787219242,
       "heat": "19.8K",
       "views": "22.5K",
@@ -488,7 +488,7 @@
       "cat": "L2 · 基础模型",
       "title": "Introducing AI Futures",
       "src": "OpenAI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1787209200,
       "heat": "45.0K",
       "views": "45.0K",
@@ -592,7 +592,7 @@
       "cat": "L5 · 生态商业",
       "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
       "src": "Wired",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1787130000,
       "heat": "6.6K",
       "views": "8.6K",
@@ -605,7 +605,7 @@
       "cat": "L2 · 基础模型",
       "title": "Replit expands access to software creation with GPT-5.6 Luna",
       "src": "OpenAI Blog",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1787122800,
       "heat": "28.8K",
       "views": "34.2K",
@@ -670,7 +670,7 @@
       "cat": "L2 · 基础模型",
       "title": "We still don’t know how people are really using AI",
       "src": "MIT Tech Review",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1787047603,
       "heat": "17.1K",
       "views": "19.8K",
@@ -683,7 +683,7 @@
       "cat": "L1 · 算力硬件",
       "title": "AI’s recursive self-improvement might not come so quickly after all",
       "src": "MIT Tech Review",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1787043600,
       "heat": "14.4K",
       "views": "17.1K",
@@ -761,7 +761,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Securing the Infrastructure of Intelligence",
       "src": "NVIDIA Blog",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1786970091,
       "heat": "33.0K",
       "views": "37.5K",
@@ -774,7 +774,7 @@
       "cat": "L5 · 生态商业",
       "title": "What happens when a kid’s robot best friend dies?",
       "src": "MIT Tech Review",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1786957200,
       "heat": "9.0K",
       "views": "11.7K",
@@ -800,7 +800,7 @@
       "cat": "L2 · 基础模型",
       "title": "Building an AI Text Detector From Scratch",
       "src": "Ahead of AI",
-      "time": "7天前",
+      "time": "8天前",
       "published_ts": 1786794864,
       "heat": "13.2K",
       "views": "15.0K",
@@ -982,7 +982,7 @@
       "cat": "L3 · 推理工程",
       "title": "Controlling Reasoning Effort in LLMs",
       "src": "Ahead of AI",
-      "time": "35天前",
+      "time": "36天前",
       "published_ts": 1784373369,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1034,7 +1034,7 @@
       "cat": "L2 · 基础模型",
       "title": "Using Local Coding Agents",
       "src": "Ahead of AI",
-      "time": "56天前",
+      "time": "57天前",
       "published_ts": 1782559318,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1073,7 +1073,7 @@
       "cat": "L3 · 推理工程",
       "title": "LLM Research Papers: The 2026 List (January to May)",
       "src": "Ahead of AI",
-      "time": "77天前",
+      "time": "78天前",
       "published_ts": 1780744582,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1099,7 +1099,7 @@
       "cat": "L2 · 基础模型",
       "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
       "src": "Ahead of AI",
-      "time": "98天前",
+      "time": "99天前",
       "published_ts": 1778931231,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1255,7 +1255,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
       "src": "SemiAnalysis",
-      "time": "348天前",
+      "time": "349天前",
       "published_ts": 1757325297,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1486,54 +1486,10 @@
     }
   },
   "by_layer": {
-    "l5": [
-      "a6c9117bf",
-      "a9bfcac5c",
-      "af94faf37",
-      "a28b4ad2a",
-      "aae5920ea",
-      "a2ff51652",
-      "ac3badedc",
-      "a0483cf49",
-      "a5f9da44c"
-    ],
-    "l3": [
-      "ad6ed6f19",
-      "a7ff8a5e1",
-      "a6ef074f9",
-      "a1585cbf5",
-      "a32296677",
-      "a28f84720"
-    ],
-    "l4": [
-      "a1e26df9f",
-      "a41dec09d",
-      "a1c9cef7d",
-      "a74a01884",
-      "abd3e0507",
-      "a97834c70",
-      "a65e7249f",
-      "a4cf3ccde",
-      "a26684806",
-      "a9953fddc",
-      "a8493d549",
-      "ab6db91ca",
-      "a41676a16",
-      "a45f0046b",
-      "a24dad567",
-      "a51f17db4",
-      "a3ce1af9f",
-      "aa7a198af",
-      "a3013c89f",
-      "a56789fc3",
-      "af8be75df",
-      "ae5b3755a",
-      "a00747be9",
-      "a61a8adff",
-      "ad01feb8a"
-    ],
     "l1": [
-      "a2f4f4edc",
+      "ab2959f40",
+      "a395f0426",
+      "a86d32479",
       "a2136bce0",
       "a28fc8f75",
       "a9883217b",
@@ -1560,6 +1516,50 @@
       "a94a9a29d",
       "a5236c597",
       "a2ae2603b"
+    ],
+    "l5": [
+      "a6c9117bf",
+      "af94faf37",
+      "a28b4ad2a",
+      "aae5920ea",
+      "a2ff51652",
+      "ac3badedc",
+      "a0483cf49",
+      "a5f9da44c"
+    ],
+    "l3": [
+      "ad6ed6f19",
+      "a7ff8a5e1",
+      "a6ef074f9",
+      "a1585cbf5",
+      "a32296677",
+      "a28f84720"
+    ],
+    "l4": [
+      "a1e26df9f",
+      "a41dec09d",
+      "a1c9cef7d",
+      "a74a01884",
+      "abd3e0507",
+      "a97834c70",
+      "a65e7249f",
+      "a4cf3ccde",
+      "a26684806",
+      "a8493d549",
+      "ab6db91ca",
+      "a41676a16",
+      "a45f0046b",
+      "a24dad567",
+      "a51f17db4",
+      "a3ce1af9f",
+      "aa7a198af",
+      "a3013c89f",
+      "a56789fc3",
+      "af8be75df",
+      "ae5b3755a",
+      "a00747be9",
+      "a61a8adff",
+      "ad01feb8a"
     ],
     "l2": [
       "a2b42ade4",
@@ -1614,23 +1614,23 @@
     ]
   },
   "top5": [
+    "ab2959f40",
+    "a395f0426",
+    "a86d32479",
     "a6c9117bf",
-    "ad6ed6f19",
-    "a1e26df9f",
-    "a7ff8a5e1",
-    "a41dec09d"
+    "ad6ed6f19"
   ],
   "layers": [
     {
-      "id": "l2",
-      "num": "LAYER 2",
-      "name": "基础模型",
+      "id": "l0",
+      "num": "LAYER 0",
+      "name": "领袖观点",
       "vals": [
-        14,
-        28,
-        18,
-        6,
-        15,
+        29,
+        13,
+        10,
+        7,
+        25,
         20
       ],
       "trend": [
@@ -1649,11 +1649,11 @@
       "name": "算力硬件",
       "vals": [
         25,
-        15,
-        11,
-        7,
-        27,
-        21
+        16,
+        12,
+        8,
+        21,
+        22
       ],
       "trend": [
         20,
@@ -1666,15 +1666,15 @@
       ]
     },
     {
-      "id": "l0",
-      "num": "LAYER 0",
-      "name": "领袖观点",
+      "id": "l2",
+      "num": "LAYER 2",
+      "name": "基础模型",
       "vals": [
-        27,
-        11,
-        10,
-        7,
+        16,
         28,
+        13,
+        6,
+        18,
         20
       ],
       "trend": [
@@ -1692,11 +1692,11 @@
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        13,
-        21,
-        10,
         26,
-        22,
+        10,
+        10,
+        5,
+        26,
         20
       ],
       "trend": [
@@ -1710,16 +1710,16 @@
       ]
     },
     {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
       "vals": [
+        13,
         10,
-        14,
-        10,
-        14,
-        18,
-        12
+        5,
+        5,
+        15,
+        15
       ],
       "trend": [
         20,
@@ -1732,16 +1732,16 @@
       ]
     },
     {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
       "vals": [
         10,
         10,
         5,
         5,
-        12,
-        17
+        10,
+        12
       ],
       "trend": [
         20,
@@ -1755,6 +1755,21 @@
     }
   ],
   "ticker": [
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Modular pocket gimbal camera that transforms into a self-flying d…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "TP-Link Deco 7 Pro BE13000 Wi-Fi 7 mesh router review: Value pric…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Humanoid robots shatter Usain Bolt's 100m record, hits 23.8 mph b…"
+    },
     {
       "tag": "TECHCRUNC",
       "col": "var(--l5)",
@@ -1791,16 +1806,6 @@
       "text": "More than just code review"
     },
     {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "25 years after the death of 3dfx, the Voodoo 3 gets a Linux drive…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l5)",
-      "text": "Logitech faces lawsuit for withholding $61M in tariff refunds fro…"
-    },
-    {
       "tag": "THE VERGE",
       "col": "var(--l4)",
       "text": "Amazon just hiked the prices for Echo, Fire TV, and Kindle produc…"
@@ -1819,21 +1824,25 @@
       "tag": "AHEAD OF ",
       "col": "var(--l2)",
       "text": "How Claude Watermarks AI-Generated Text"
-    },
-    {
-      "tag": "404 MEDIA",
-      "col": "var(--l4)",
-      "text": "Brand Hype Has Existed Since the Bronze Age, Scientists Discover"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
+      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+      "votes": "60",
+      "comments": "22",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
       "title": "Why your local LLM feels dumber than it is",
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "votes": "280",
-      "comments": "91",
+      "votes": "388",
+      "comments": "151",
       "time": "近期"
     },
     {
@@ -1841,8 +1850,8 @@
       "badge": "pb-hn",
       "title": "NanoGPT Speedrun Frontier",
       "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "votes": "84",
-      "comments": "24",
+      "votes": "115",
+      "comments": "28",
       "time": "近期"
     },
     {
@@ -1850,8 +1859,8 @@
       "badge": "pb-hn",
       "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
       "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-      "votes": "148",
-      "comments": "48",
+      "votes": "176",
+      "comments": "84",
       "time": "近期"
     },
     {
@@ -1859,8 +1868,8 @@
       "badge": "pb-hn",
       "title": "A week of using Codex more than Claude",
       "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-      "votes": "179",
-      "comments": "194",
+      "votes": "214",
+      "comments": "236",
       "time": "近期"
     },
     {
@@ -1868,17 +1877,8 @@
       "badge": "pb-hn",
       "title": "Munder Difflin – Agent harness to run an office of your clones",
       "url": "https://munderdiffl.in/",
-      "votes": "275",
-      "comments": "118",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Autolith: A programming agent with a live runtime",
-      "url": "https://www.lambda-symbolics.com/autolith",
-      "votes": "121",
-      "comments": "48",
+      "votes": "290",
+      "comments": "125",
       "time": "近期"
     }
   ]
