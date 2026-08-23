@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T01:27:45.785526+00:00",
+  "updated_at": "2026-08-23T06:44:10.155776+00:00",
   "article_count": 114,
   "articles": {
     "a6c9117bf": {
@@ -7,7 +7,7 @@
       "cat": "L5 · 生态商业",
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
       "src": "TechCrunch AI",
-      "time": "3小时前",
+      "time": "8小时前",
       "published_ts": 1787435216,
       "heat": "27.0K",
       "views": "27.0K",
@@ -20,7 +20,7 @@
       "cat": "L3 · 推理工程",
       "title": "Quoting Linus Torvalds",
       "src": "Simon Willison",
-      "time": "4小时前",
+      "time": "9小时前",
       "published_ts": 1787432666,
       "heat": "15.0K",
       "views": "15.0K",
@@ -33,7 +33,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
       "src": "TechCrunch AI",
-      "time": "6小时前",
+      "time": "11小时前",
       "published_ts": 1787425200,
       "heat": "23.8K",
       "views": "27.0K",
@@ -46,7 +46,7 @@
       "cat": "L3 · 推理工程",
       "title": "llm 0.33",
       "src": "Simon Willison",
-      "time": "8小时前",
+      "time": "13小时前",
       "published_ts": 1787418076,
       "heat": "13.2K",
       "views": "15.0K",
@@ -59,7 +59,7 @@
       "cat": "L4 · 交互Agent",
       "title": "OpenAI says California should strengthen its AI safety bill",
       "src": "TechCrunch AI",
-      "time": "8小时前",
+      "time": "14小时前",
       "published_ts": 1787416234,
       "heat": "20.5K",
       "views": "23.8K",
@@ -72,7 +72,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
       "src": "TechCrunch AI",
-      "time": "9小时前",
+      "time": "14小时前",
       "published_ts": 1787414400,
       "heat": "17.3K",
       "views": "20.5K",
@@ -85,7 +85,7 @@
       "cat": "L4 · 交互Agent",
       "title": "More than just code review",
       "src": "Simon Willison",
-      "time": "9小时前",
+      "time": "14小时前",
       "published_ts": 1787414214,
       "heat": "11.4K",
       "views": "13.2K",
@@ -98,7 +98,7 @@
       "cat": "L1 · 算力硬件",
       "title": "25 years after the death of 3dfx, the Voodoo 3 gets a Linux driver update — classic Voodoo GPUs can now boot without a PC BIOS",
       "src": "Tom's Hardware",
-      "time": "9小时前",
+      "time": "14小时前",
       "published_ts": 1787413690,
       "heat": "13.2K",
       "views": "15.0K",
@@ -111,7 +111,7 @@
       "cat": "L5 · 生态商业",
       "title": "Logitech faces lawsuit for withholding $61M in tariff refunds from customers — lawsuit claims company extracted up to $97M from consumers in 2026 through tariff-justified price increases",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "16小时前",
       "published_ts": 1787408030,
       "heat": "7.8K",
       "views": "9.6K",
@@ -124,7 +124,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
       "src": "The Verge",
-      "time": "11小时前",
+      "time": "17小时前",
       "published_ts": 1787406061,
       "heat": "18.2K",
       "views": "21.1K",
@@ -137,7 +137,7 @@
       "cat": "L4 · 交互Agent",
       "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
       "src": "The Verge",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1787403600,
       "heat": "15.4K",
       "views": "18.2K",
@@ -150,7 +150,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Two great new repairable gadgets",
       "src": "The Verge",
-      "time": "13小时前",
+      "time": "18小时前",
       "published_ts": 1787400000,
       "heat": "12.5K",
       "views": "15.4K",
@@ -163,7 +163,7 @@
       "cat": "L2 · 基础模型",
       "title": "How Claude Watermarks AI-Generated Text",
       "src": "Ahead of AI",
-      "time": "14小时前",
+      "time": "19小时前",
       "published_ts": 1787397099,
       "heat": "15.0K",
       "views": "15.0K",
@@ -176,7 +176,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Brand Hype Has Existed Since the Bronze Age, Scientists Discover",
       "src": "404 Media",
-      "time": "15小时前",
+      "time": "20小时前",
       "published_ts": 1787392835,
       "heat": "15.0K",
       "views": "15.0K",
@@ -189,7 +189,7 @@
       "cat": "L2 · 基础模型",
       "title": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
       "src": "Latent Space",
-      "time": "17小时前",
+      "time": "23小时前",
       "published_ts": 1787384160,
       "heat": "19.5K",
       "views": "19.5K",
@@ -202,7 +202,7 @@
       "cat": "L4 · 交互Agent",
       "title": "The Evolution of the Agent Harness",
       "src": "Latent Space",
-      "time": "17小时前",
+      "time": "23小时前",
       "published_ts": 1787383852,
       "heat": "17.2K",
       "views": "19.5K",
@@ -371,7 +371,7 @@
       "cat": "L0 · 领袖观点",
       "title": "[AINews] Poolside gets $12B reverse-execuhire to NVIDIA; founders stay for $1B, employees go for $6B, Infraco scaling to 7GW neocloud",
       "src": "Latent Space",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1787291121,
       "heat": "12.5K",
       "views": "14.8K",
@@ -501,7 +501,7 @@
       "cat": "L0 · 领袖观点",
       "title": "[AINews] Death of Params: Z.ai CEO Jie Tang on GLM 5.3 and the new Post-training Scaling Law",
       "src": "Latent Space",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1787203032,
       "heat": "7.8K",
       "views": "10.1K",
@@ -1281,7 +1281,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "367天前",
+      "time": "368天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1622,15 +1622,37 @@
   ],
   "layers": [
     {
+      "id": "l2",
+      "num": "LAYER 2",
+      "name": "基础模型",
+      "vals": [
+        14,
+        28,
+        18,
+        6,
+        15,
+        20
+      ],
+      "trend": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
       "id": "l1",
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        22,
-        29,
+        25,
+        15,
         11,
         7,
-        34,
+        27,
         21
       ],
       "trend": [
@@ -1644,15 +1666,15 @@
       ]
     },
     {
-      "id": "l2",
-      "num": "LAYER 2",
-      "name": "基础模型",
+      "id": "l0",
+      "num": "LAYER 0",
+      "name": "领袖观点",
       "vals": [
-        17,
-        23,
-        5,
-        6,
-        34,
+        27,
+        11,
+        10,
+        7,
+        28,
         20
       ],
       "trend": [
@@ -1670,11 +1692,11 @@
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        17,
-        17,
+        13,
+        21,
         10,
-        5,
-        19,
+        26,
+        22,
         20
       ],
       "trend": [
@@ -1688,38 +1710,16 @@
       ]
     },
     {
-      "id": "l0",
-      "num": "LAYER 0",
-      "name": "领袖观点",
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
       "vals": [
-        17,
+        10,
         14,
         10,
-        7,
-        21,
-        20
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
-    {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
-      "vals": [
-        13,
-        17,
-        5,
-        5,
-        10,
-        10
+        14,
+        18,
+        12
       ],
       "trend": [
         20,
@@ -1732,16 +1732,16 @@
       ]
     },
     {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
       "vals": [
         10,
-        15,
-        5,
-        5,
         10,
-        12
+        5,
+        5,
+        12,
+        17
       ],
       "trend": [
         20,
@@ -1830,19 +1830,19 @@
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "NanoGPT Speedrun Frontier",
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "votes": "43",
-      "comments": "10",
+      "title": "Why your local LLM feels dumber than it is",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "votes": "280",
+      "comments": "91",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Why your local LLM feels dumber than it is",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "votes": "175",
-      "comments": "57",
+      "title": "NanoGPT Speedrun Frontier",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "votes": "84",
+      "comments": "24",
       "time": "近期"
     },
     {
@@ -1850,17 +1850,8 @@
       "badge": "pb-hn",
       "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
       "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-      "votes": "108",
-      "comments": "40",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Munder Difflin – Agent harness to run an office of your clones",
-      "url": "https://munderdiffl.in/",
-      "votes": "249",
-      "comments": "114",
+      "votes": "148",
+      "comments": "48",
       "time": "近期"
     },
     {
@@ -1868,8 +1859,17 @@
       "badge": "pb-hn",
       "title": "A week of using Codex more than Claude",
       "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-      "votes": "126",
-      "comments": "128",
+      "votes": "179",
+      "comments": "194",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Munder Difflin – Agent harness to run an office of your clones",
+      "url": "https://munderdiffl.in/",
+      "votes": "275",
+      "comments": "118",
       "time": "近期"
     },
     {
@@ -1877,8 +1877,8 @@
       "badge": "pb-hn",
       "title": "Autolith: A programming agent with a live runtime",
       "url": "https://www.lambda-symbolics.com/autolith",
-      "votes": "110",
-      "comments": "43",
+      "votes": "121",
+      "comments": "48",
       "time": "近期"
     }
   ]
