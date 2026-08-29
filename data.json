@@ -1,13 +1,65 @@
 {
-  "updated_at": "2026-08-29T16:24:07.142659+00:00",
-  "article_count": 125,
+  "updated_at": "2026-08-29T20:37:20.068544+00:00",
+  "article_count": 126,
   "articles": {
+    "a8944f985": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Alt-right troll Milo Yiannopoulos has been deported",
+      "src": "The Verge",
+      "time": "47分钟前",
+      "published_ts": 1788032999,
+      "heat": "24.0K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
+      "tags": [],
+      "body": "<p>Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yiannopoulos came to the US legally in 2019, but overstayed his visa. After he failed to appear in court for an immigration hearing, [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a748afcb5": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "src": "TechCrunch AI",
+      "time": "1小时前",
+      "published_ts": 1788028919,
+      "heat": "27.0K",
+      "views": "27.0K",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "tags": [],
+      "body": "<p>This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ab0d2d0e6": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "src": "The Verge",
+      "time": "2小时前",
+      "published_ts": 1788027593,
+      "heat": "21.1K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "tags": [],
+      "body": "<p>Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a62fad70d": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "src": "TechCrunch AI",
+      "time": "3小时前",
+      "published_ts": 1788025007,
+      "heat": "23.8K",
+      "views": "27.0K",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "tags": [],
+      "body": "<p>Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a1866c886": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "Magnetic core memory USB drive transfers files in sneakernet first — text and image files get moved between PCs via hugely constrained archaic memory tech",
       "src": "Tom's Hardware",
-      "time": "1小时前",
+      "time": "5小时前",
       "published_ts": 1788016484,
       "heat": "13.2K",
       "views": "15.0K",
@@ -20,7 +72,7 @@
       "cat": "L5 · 生态商业",
       "title": "Startup raises $7 million to build backpack-portable 8.8-ounce drone interceptors — Mara claims 20x cost advantage over other interceptors, priced one-for-one against attack drones",
       "src": "Tom's Hardware",
-      "time": "2小时前",
+      "time": "6小时前",
       "published_ts": 1788012980,
       "heat": "9.6K",
       "views": "11.4K",
@@ -33,10 +85,10 @@
       "cat": "L1 · 算力硬件",
       "title": "Nvidia’s AI advantage is moving beyond the GPU",
       "src": "TechCrunch AI",
-      "time": "3小时前",
+      "time": "7小时前",
       "published_ts": 1788008400,
-      "heat": "27.0K",
-      "views": "27.0K",
+      "heat": "20.5K",
+      "views": "23.8K",
       "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
       "tags": [],
       "body": "<p>The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -46,10 +98,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Musicians-turned-detectives are hunting for AI grifters",
       "src": "The Verge",
-      "time": "4小时前",
+      "time": "8小时前",
       "published_ts": 1788004800,
-      "heat": "15.4K",
-      "views": "18.2K",
+      "heat": "9.6K",
+      "views": "12.5K",
       "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
       "tags": [],
       "body": "<p>As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -59,7 +111,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Get up to $175 back for your pre-installed Windows 11 license — new portal provides legal forms, but warns buyers not to wipe storage first",
       "src": "Tom's Hardware",
-      "time": "4小时前",
+      "time": "8小时前",
       "published_ts": 1788003570,
       "heat": "7.8K",
       "views": "9.6K",
@@ -72,7 +124,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Grand Theft Auto 6 will run at only 30 FPS on consoles at launch, no performance mode promised — even the souped-up PS5 Pro might not get 60 FPS support",
       "src": "Tom's Hardware",
-      "time": "4小时前",
+      "time": "9小时前",
       "published_ts": 1788003000,
       "heat": "6.0K",
       "views": "7.8K",
@@ -85,7 +137,7 @@
       "cat": "L5 · 生态商业",
       "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
       "src": "Wired",
-      "time": "5小时前",
+      "time": "10小时前",
       "published_ts": 1787999400,
       "heat": "16.5K",
       "views": "16.5K",
@@ -98,7 +150,7 @@
       "cat": "L4 · 交互Agent",
       "title": "How to Run a Chatbot on Your Own Computer",
       "src": "Wired",
-      "time": "6小时前",
+      "time": "10小时前",
       "published_ts": 1787997600,
       "heat": "14.5K",
       "views": "16.5K",
@@ -111,7 +163,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] OpenAI shuts off Cursor",
       "src": "Latent Space",
-      "time": "11小时前",
+      "time": "15小时前",
       "published_ts": 1787980312,
       "heat": "19.5K",
       "views": "19.5K",
@@ -124,7 +176,7 @@
       "cat": "L0 · 领袖观点",
       "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
       "src": "arXiv cs.AI",
-      "time": "12小时前",
+      "time": "16小时前",
       "published_ts": 1787976000,
       "heat": "15.0K",
       "views": "15.0K",
@@ -137,7 +189,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
       "src": "arXiv cs.AI",
-      "time": "12小时前",
+      "time": "16小时前",
       "published_ts": 1787976000,
       "heat": "13.2K",
       "views": "15.0K",
@@ -150,7 +202,7 @@
       "cat": "L2 · 基础模型",
       "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
       "src": "arXiv cs.AI",
-      "time": "12小时前",
+      "time": "16小时前",
       "published_ts": 1787976000,
       "heat": "11.4K",
       "views": "13.2K",
@@ -163,7 +215,7 @@
       "cat": "L1 · 算力硬件",
       "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
       "src": "arXiv cs.AI",
-      "time": "12小时前",
+      "time": "16小时前",
       "published_ts": 1787976000,
       "heat": "9.6K",
       "views": "11.4K",
@@ -176,7 +228,7 @@
       "cat": "L4 · 交互Agent",
       "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
       "src": "arXiv cs.AI",
-      "time": "12小时前",
+      "time": "16小时前",
       "published_ts": 1787976000,
       "heat": "7.8K",
       "views": "9.6K",
@@ -189,7 +241,7 @@
       "cat": "L4 · 交互Agent",
       "title": "The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning",
       "src": "arXiv cs.AI",
-      "time": "12小时前",
+      "time": "16小时前",
       "published_ts": 1787976000,
       "heat": "6.0K",
       "views": "7.8K",
@@ -197,25 +249,12 @@
       "tags": [],
       "body": "<p>arXiv:2608.26116v1 Announce Type: new Abstract: Existing methods for exploring cellular automata and other complex systems mostly operate in open loop: they set initial conditions, execute a full simulation, and observe the outcome, without intervening during execution. We introduce a closed-loop framework based on autotelic reinforcement learning, in which an agent autonomously samples diverse go</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "abf5884b1": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Google further buries search results under AI mode",
-      "src": "The Verge",
-      "time": "17小时前",
-      "published_ts": 1787957291,
-      "heat": "12.5K",
-      "views": "15.4K",
-      "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
-      "tags": [],
-      "body": "<p>Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from a search much farther down Google's results page; instead of seeing part of an AI Overview with [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "aa8b0ed06": {
       "layer": "l3",
       "cat": "L3 · 推理工程",
       "title": "Just a rumour of a bug is enough to find a security exploit these days",
       "src": "Simon Willison",
-      "time": "18小时前",
+      "time": "22小时前",
       "published_ts": 1787955122,
       "heat": "15.0K",
       "views": "15.0K",
@@ -228,10 +267,10 @@
       "cat": "L1 · 算力硬件",
       "title": "Neocloud Lambda secures $1B in debt to buy more chips",
       "src": "TechCrunch AI",
-      "time": "19小时前",
+      "time": "1天前",
       "published_ts": 1787948651,
-      "heat": "23.8K",
-      "views": "27.0K",
+      "heat": "17.3K",
+      "views": "20.5K",
       "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
       "tags": [],
       "body": "<p>Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -241,10 +280,10 @@
       "cat": "L2 · 基础模型",
       "title": "An Anthropic researcher just gave us a peek at self-improving AI",
       "src": "TechCrunch AI",
-      "time": "20小时前",
+      "time": "1天前",
       "published_ts": 1787945438,
-      "heat": "20.5K",
-      "views": "23.8K",
+      "heat": "14.0K",
+      "views": "17.3K",
       "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
       "tags": [],
       "body": "<p>Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -254,10 +293,10 @@
       "cat": "L5 · 生态商业",
       "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
       "src": "TechCrunch AI",
-      "time": "22小时前",
+      "time": "1天前",
       "published_ts": 1787941180,
-      "heat": "17.3K",
-      "views": "20.5K",
+      "heat": "10.8K",
+      "views": "14.0K",
       "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
       "tags": [],
       "body": "<p>There's a lot of capital pouring into the business of giving models away.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -267,7 +306,7 @@
       "cat": "L2 · 基础模型",
       "title": "We’re introducing flexible usage limits for Gemini Notebook.",
       "src": "Google AI Blog",
-      "time": "23小时前",
+      "time": "1天前",
       "published_ts": 1787936400,
       "heat": "34.5K",
       "views": "34.5K",
@@ -300,32 +339,6 @@
       "url": "https://www.404media.co/ice-plans-to-spends-millions-on-boston-dynamics-dog-robots/",
       "tags": [],
       "body": "<p>ICE wants the robot dogs to improve “officer safety.”</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a0aa995e2": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "src": "TechCrunch AI",
-      "time": "1天前",
-      "published_ts": 1787921172,
-      "heat": "14.0K",
-      "views": "17.3K",
-      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "tags": [],
-      "body": "<p>A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ad7a3c5e0": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "src": "TechCrunch AI",
-      "time": "1天前",
-      "published_ts": 1787919666,
-      "heat": "10.8K",
-      "views": "14.0K",
-      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "tags": [],
-      "body": "<p>Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a7e7f4f5d": {
       "layer": "l1",
@@ -436,7 +449,7 @@
       "cat": "L4 · 交互Agent",
       "title": "The AI ‘Ghosts’ Contaminating Academic Publishing",
       "src": "404 Media",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1787854469,
       "heat": "9.6K",
       "views": "11.4K",
@@ -696,7 +709,7 @@
       "cat": "L4 · 交互Agent",
       "title": "The inside story on why OpenAI agents hacked Hugging Face",
       "src": "MIT Tech Review",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1787770800,
       "heat": "22.5K",
       "views": "22.5K",
@@ -904,7 +917,7 @@
       "cat": "L1 · 算力硬件",
       "title": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet",
       "src": "Meta Engineering",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1787594549,
       "heat": "30.0K",
       "views": "30.0K",
@@ -917,7 +930,7 @@
       "cat": "L1 · 算力硬件",
       "title": "MTIA 300: Meta’s First Training Chip with Built-in NICs and Communication-Offloading Engines",
       "src": "Meta Engineering",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1787593552,
       "heat": "26.4K",
       "views": "30.0K",
@@ -930,7 +943,7 @@
       "cat": "L1 · 算力硬件",
       "title": "llm-anthropic 0.27",
       "src": "Simon Willison",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1787588824,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1008,7 +1021,7 @@
       "cat": "L0 · 领袖观点",
       "title": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
       "src": "IEEE Spectrum",
-      "time": "7天前",
+      "time": "8天前",
       "published_ts": 1787335201,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1151,7 +1164,7 @@
       "cat": "L1 · 算力硬件",
       "title": "GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model",
       "src": "Meta Engineering",
-      "time": "25天前",
+      "time": "26天前",
       "published_ts": 1785780017,
       "heat": "15.6K",
       "views": "19.2K",
@@ -1164,7 +1177,7 @@
       "cat": "L0 · 领袖观点",
       "title": "An opinionated guide to which AI to use to do stuff",
       "src": "One Useful Thing",
-      "time": "36天前",
+      "time": "37天前",
       "published_ts": 1784829924,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1190,7 +1203,7 @@
       "cat": "L2 · 基础模型",
       "title": "Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Optimization",
       "src": "Meta Engineering",
-      "time": "44天前",
+      "time": "45天前",
       "published_ts": 1784134852,
       "heat": "12.0K",
       "views": "15.6K",
@@ -1242,7 +1255,7 @@
       "cat": "L1 · 算力硬件",
       "title": "What it feels like to work with Mythos",
       "src": "One Useful Thing",
-      "time": "80天前",
+      "time": "81天前",
       "published_ts": 1781025082,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1294,7 +1307,7 @@
       "cat": "L2 · 基础模型",
       "title": "Sign of the future: GPT-5.5",
       "src": "One Useful Thing",
-      "time": "127天前",
+      "time": "128天前",
       "published_ts": 1776974438,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1333,7 +1346,7 @@
       "cat": "L0 · 领袖观点",
       "title": "2025 LLM Year in Review",
       "src": "Andrej Karpathy",
-      "time": "252天前",
+      "time": "253天前",
       "published_ts": 1766167200,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1359,7 +1372,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Verifiability",
       "src": "Andrej Karpathy",
-      "time": "284天前",
+      "time": "285天前",
       "published_ts": 1763398800,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1372,7 +1385,7 @@
       "cat": "L1 · 算力硬件",
       "title": "xAI’s Colossus 2 – First Gigawatt Datacenter In The World, Unique RL Methodology, Capital Raise",
       "src": "SemiAnalysis",
-      "time": "346天前",
+      "time": "347天前",
       "published_ts": 1758044281,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1385,7 +1398,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack",
       "src": "SemiAnalysis",
-      "time": "352天前",
+      "time": "353天前",
       "published_ts": 1757534238,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1515,7 +1528,7 @@
       "cat": "L2 · 基础模型",
       "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
       "src": "The Gradient",
-      "time": "650天前",
+      "time": "651天前",
       "published_ts": 1731775575,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1528,7 +1541,7 @@
       "cat": "L2 · 基础模型",
       "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
       "src": "The Gradient",
-      "time": "718天前",
+      "time": "719天前",
       "published_ts": 1725902928,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1541,7 +1554,7 @@
       "cat": "L0 · 领袖观点",
       "title": "We Need Positive Visions for AI Grounded in Wellbeing",
       "src": "The Gradient",
-      "time": "755天前",
+      "time": "756天前",
       "published_ts": 1722704443,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1580,7 +1593,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Financial Market Applications of LLMs",
       "src": "The Gradient",
-      "time": "860天前",
+      "time": "861天前",
       "published_ts": 1713635859,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1629,7 +1642,32 @@
     }
   },
   "by_layer": {
+    "l4": [
+      "a8944f985",
+      "a62fad70d",
+      "a97ecdbe7",
+      "a9a013cc3",
+      "a600efdd8",
+      "a770d0392",
+      "a4a6c96cc",
+      "a03c570b0",
+      "a4464bf86",
+      "a79550b3c",
+      "a75b953e3",
+      "a8c4b4ede",
+      "acb1ed002",
+      "a74c807bb",
+      "aaaf9e918",
+      "acf99c45f",
+      "a92223fbf",
+      "ab1f807bf",
+      "a41676a16",
+      "a51f17db4",
+      "a56789fc3",
+      "ad01feb8a"
+    ],
     "l1": [
+      "a748afcb5",
       "a1866c886",
       "a0e71438a",
       "ab83d95ba",
@@ -1669,11 +1707,11 @@
       "a2ae2603b"
     ],
     "l5": [
+      "ab0d2d0e6",
       "a4fc908d2",
       "a672c9118",
       "a2321ecb9",
       "a5949d54a",
-      "a0aa995e2",
       "a9c99de5e",
       "a7bd0aa8d",
       "ae1de25ac",
@@ -1681,30 +1719,6 @@
       "aad5b4d1a",
       "a2623b22b",
       "abe4d4497"
-    ],
-    "l4": [
-      "a97ecdbe7",
-      "a9a013cc3",
-      "a600efdd8",
-      "a770d0392",
-      "abf5884b1",
-      "a4a6c96cc",
-      "ad7a3c5e0",
-      "a03c570b0",
-      "a4464bf86",
-      "a79550b3c",
-      "a75b953e3",
-      "a8c4b4ede",
-      "acb1ed002",
-      "a74c807bb",
-      "aaaf9e918",
-      "acf99c45f",
-      "a92223fbf",
-      "ab1f807bf",
-      "a41676a16",
-      "a51f17db4",
-      "a56789fc3",
-      "ad01feb8a"
     ],
     "l3": [
       "a6189f0c8",
@@ -1768,11 +1782,11 @@
     ]
   },
   "top5": [
-    "a1866c886",
-    "a4fc908d2",
-    "a0e71438a",
-    "a97ecdbe7",
-    "ab83d95ba"
+    "a8944f985",
+    "a748afcb5",
+    "ab0d2d0e6",
+    "a62fad70d",
+    "a1866c886"
   ],
   "layers": [
     {
@@ -1780,12 +1794,12 @@
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        35,
-        21,
-        14,
-        9,
-        34,
-        24
+        39,
+        25,
+        15,
+        10,
+        37,
+        25
       ],
       "trend": [
         20,
@@ -1802,11 +1816,11 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        26,
-        27,
-        14,
-        6,
+        25,
+        29,
         18,
+        6,
+        19,
         20
       ],
       "trend": [
@@ -1820,15 +1834,15 @@
       ]
     },
     {
-      "id": "l4",
-      "num": "LAYER 4",
-      "name": "交互Agent",
+      "id": "l0",
+      "num": "LAYER 0",
+      "name": "领袖观点",
       "vals": [
-        11,
+        20,
         18,
         8,
-        7,
-        23,
+        5,
+        13,
         18
       ],
       "trend": [
@@ -1842,15 +1856,37 @@
       ]
     },
     {
-      "id": "l0",
-      "num": "LAYER 0",
-      "name": "领袖观点",
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
       "vals": [
-        15,
-        15,
+        11,
+        10,
+        13,
+        11,
+        18,
+        12
+      ],
+      "trend": [
+        20,
+        18,
+        16,
+        14,
+        12,
+        10,
+        8
+      ]
+    },
+    {
+      "id": "l4",
+      "num": "LAYER 4",
+      "name": "交互Agent",
+      "vals": [
+        10,
+        10,
         8,
         5,
-        15,
+        31,
         18
       ],
       "trend": [
@@ -1868,12 +1904,12 @@
       "num": "LAYER 5",
       "name": "生态商业",
       "vals": [
-        17,
+        10,
         10,
         5,
         5,
-        19,
-        20
+        10,
+        23
       ],
       "trend": [
         20,
@@ -1884,31 +1920,29 @@
         15,
         14
       ]
-    },
-    {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
-      "vals": [
-        10,
-        10,
-        9,
-        5,
-        15,
-        12
-      ],
-      "trend": [
-        20,
-        18,
-        16,
-        14,
-        12,
-        10,
-        8
-      ]
     }
   ],
   "ticker": [
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l4)",
+      "text": "Alt-right troll Milo Yiannopoulos has been deported"
+    },
+    {
+      "tag": "TECHCRUNC",
+      "col": "var(--l1)",
+      "text": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of…"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l5)",
+      "text": "Sony Music and Warner Chappell are suing Anthropic"
+    },
+    {
+      "tag": "TECHCRUNC",
+      "col": "var(--l4)",
+      "text": "“We’re not doing 30 bets a year”: Vijay Pande on betting small af…"
+    },
     {
       "tag": "TOM'S HAR",
       "col": "var(--l1)",
@@ -1958,36 +1992,43 @@
       "tag": "ARXIV CS.",
       "col": "var(--l0)",
       "text": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for E…"
-    },
-    {
-      "tag": "ARXIV CS.",
-      "col": "var(--l0)",
-      "text": "Standalone LLM and a Pre-specified Agentic Pipeline for Explainin…"
-    },
-    {
-      "tag": "ARXIV CS.",
-      "col": "var(--l2)",
-      "text": "Large Models for Battery Prognostics and Health Management: A Rev…"
-    },
-    {
-      "tag": "ARXIV CS.",
-      "col": "var(--l1)",
-      "text": "PICasso: An AI-Enabled Design Framework for Autonomous Optimizati…"
-    },
-    {
-      "tag": "ARXIV CS.",
-      "col": "var(--l4)",
-      "text": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework fo…"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "url": "https://lwn.net/Articles/1091231/",
-      "votes": "254",
-      "comments": "198",
+      "title": "Warp builds self-improving agents on Claude",
+      "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+      "votes": "39",
+      "comments": "31",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "vLLM v0.28.0",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+      "votes": "17",
+      "comments": "1",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "votes": "126",
+      "comments": "21",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Domain-Driven Agents",
+      "url": "https://coldtake.dev/blog/domain-driven-agents",
+      "votes": "4",
+      "comments": "0",
       "time": "近期"
     },
     {
@@ -1995,17 +2036,8 @@
       "badge": "pb-hn",
       "title": "Show HN: Galaxium, an experimental WebGPU space explorer",
       "url": "https://galaxium.app",
-      "votes": "56",
-      "comments": "18",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "U.S. sanctions against the A/I Collective",
-      "url": "https://www.inventati.org/",
-      "votes": "671",
-      "comments": "690",
+      "votes": "85",
+      "comments": "29",
       "time": "近期"
     },
     {
@@ -2013,26 +2045,8 @@
       "badge": "pb-hn",
       "title": "StemDeck, a free, open-source and local AI stem separator",
       "url": "https://github.com/stemdeckapp/stemdeck",
-      "votes": "169",
-      "comments": "45",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "I accidentally turned LLM memory into program analysis",
-      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-      "votes": "223",
-      "comments": "65",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
-      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-      "votes": "592",
-      "comments": "420",
+      "votes": "187",
+      "comments": "57",
       "time": "近期"
     }
   ]
