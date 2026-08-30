@@ -1,16 +1,55 @@
 {
-  "updated_at": "2026-08-30T16:17:17.287699+00:00",
-  "article_count": 121,
+  "updated_at": "2026-08-30T20:44:49.946133+00:00",
+  "article_count": 119,
   "articles": {
+    "ae705e622": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
+      "src": "The Verge",
+      "time": "1小时前",
+      "published_ts": 1788117248,
+      "heat": "24.0K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
+      "tags": [],
+      "body": "<p>Over 12 terabytes of data, containing builds of every game uploaded to Steam between 2003 and 2013, has been leaked. We don't know everything in the archives yet because of its massive size. But people have already dug up assets related to the canceled Half-Life 2: Episode 3, content cut from Portal 2, and a [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "afd39cc67": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Speedy 34-inch 240 Hz ultrawide OLED monitor now $600 off — LG UltraGear 34GX900A-B only $599.99",
+      "src": "Tom's Hardware",
+      "time": "2小时前",
+      "published_ts": 1788113323,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/monitors/gaming-monitors/speedy-34-inch-240-hz-ultrawide-oled-monitor-now-usd600-off-lg-ultragear-34gx900a-b-only-usd599-99",
+      "tags": [],
+      "body": "<p>The LG UltraGear 34GX900A-B packs a fast 240 Hz OLED panel and 3440 x 1440 resolution into an immersive 800R curved display, now available for 50% off.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a4b94e55a": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "DLSS 5 mod brings next-gen tech to old Ampere GPUs, but frame rates are horrible — most games tank to single digits, high-end GPUs can hit up to 40 FPS in some cases",
+      "src": "Tom's Hardware",
+      "time": "4小时前",
+      "published_ts": 1788107430,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/pc-components/gpus/dlss-5-mod-brings-next-gen-tech-to-old-ampere-gpus-but-frame-rates-are-horrible-most-games-tank-to-single-digits-high-end-gpus-can-hit-up-to-40-fps-in-some-cases",
+      "tags": [],
+      "body": "<p>DLSS 5 now runs on Ampere GPUs thanks to a patched DLL, but performance is expectedly poor for the most part. You can get up to 30-40 FPS in edge cases with minimum in-game settings, but newer titles can tank FPS to single digits.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a3c987c59": {
       "layer": "l5",
       "cat": "L5 · 生态商业",
       "title": "Texas Governor Abbott blocks funding for more Flock cameras",
       "src": "The Verge",
-      "time": "42分钟前",
+      "time": "5小时前",
       "published_ts": 1788104110,
-      "heat": "24.0K",
-      "views": "24.0K",
+      "heat": "18.2K",
+      "views": "21.1K",
       "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
       "tags": [],
       "body": "<p>As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -20,9 +59,9 @@
       "cat": "L3 · 推理工程",
       "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
       "src": "TechCrunch AI",
-      "time": "1小时前",
+      "time": "5小时前",
       "published_ts": 1788102000,
-      "heat": "27.0K",
+      "heat": "23.8K",
       "views": "27.0K",
       "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
       "tags": [],
@@ -33,10 +72,10 @@
       "cat": "L1 · 算力硬件",
       "title": "SpaceX starts in-house turbine blade manufacturing to boost gas-powered generator output for Elon's AI data centers — new manufacturing strategy cuts generator delays by 18 months",
       "src": "Tom's Hardware",
-      "time": "1小时前",
+      "time": "5小时前",
       "published_ts": 1788101390,
-      "heat": "15.0K",
-      "views": "15.0K",
+      "heat": "11.4K",
+      "views": "13.2K",
       "url": "https://www.tomshardware.com/tech-industry/data-centers/spacex-starts-in-house-turbine-blade-manufacturing-to-boost-gas-powered-generator-output-for-elons-ai-data-centers-new-manufacturing-strategy-cuts-generator-delays-by-18-months",
       "tags": [],
       "body": "<p>Turbine blades and vanes are among the most complicated turbine engine parts to build, with processes taking as long as 60 to 90 weeks. Because of this, Musk wants to bring their manufacturing in-house at SpaceX.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -46,10 +85,10 @@
       "cat": "L1 · 算力硬件",
       "title": "Donkey Kong 64 finally gets a fully native PC port written in C — DK64 ReKONGpiled brings ultrawide support, uncapped framerates, and zero AI code",
       "src": "Tom's Hardware",
-      "time": "1小时前",
+      "time": "6小时前",
       "published_ts": 1788099974,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "9.6K",
+      "views": "11.4K",
       "url": "https://www.tomshardware.com/video-games/retro-gaming/donkey-kong-64-finally-gets-a-fully-native-pc-port-written-in-c-dk64-rekongpiled-brings-ultrawide-support-uncapped-framerates-and-zero-ai-code",
       "tags": [],
       "body": "<p>A team of veteran developers has recompiled Donkey Kong 64 in C, so it runs natively on Windows, Linux, and Mac. The entire project is free, uses no generative AI, but still includes more features than any vibecoded retro revival slop you can find online. You do need to bring your own ROM, though.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -59,10 +98,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Chess.com launched a poker site and is planning even more classic games",
       "src": "The Verge",
-      "time": "3小时前",
+      "time": "7小时前",
       "published_ts": 1788094800,
-      "heat": "21.1K",
-      "views": "24.0K",
+      "heat": "15.4K",
+      "views": "18.2K",
       "url": "https://www.theverge.com/games/986302/chess-poker-expansion-gambit",
       "tags": [],
       "body": "<p>Chess.com has done one thing, and one thing very well, for almost 20 years, but now it's going beyond its domain name. The biggest name in online chess quietly launched its first companion site in beta back in May: Gambit, a free online poker website where players can learn the game without risking any real [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -72,49 +111,23 @@
       "cat": "L1 · 算力硬件",
       "title": "At least three exhibitors got robbed at Gamescom 2026 — laptops and handhelds with unfinished game builds stolen from locked cabinets",
       "src": "Tom's Hardware",
-      "time": "3小时前",
+      "time": "8小时前",
       "published_ts": 1788093299,
-      "heat": "9.6K",
-      "views": "11.4K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://www.tomshardware.com/video-games/pc-gaming/at-least-three-exhibitors-got-robbed-at-gamescom-2026-laptops-and-handhelds-with-unfinished-game-builds-stolen-from-locked-cabinets",
       "tags": [],
       "body": "<p>Several developers, publishers, and studios have had their laptops and handheld consoles stolen at Gamescom 2026. However, the organizers said that it's only responsible for general security, and exhibitors can book individual booth security separately.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a611ccefc": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Adata Urban Tapsafe 2TB review: Solid-state storage you unlock with your phone",
-      "src": "Tom's Hardware",
-      "time": "4小时前",
-      "published_ts": 1788091500,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://www.tomshardware.com/pc-components/external-ssds/adata-urban-tapsafe-2tb-review",
-      "tags": [],
-      "body": "<p>Adata's Urban Tapsafe portable SSD sports magnetic face plates, a metal mounting clip, the ability to unlock the drive with your phone, and share selective access with others via an app.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a39437552": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "DIY archivists push budget Nikons to 902,000 clicks to save 1,800 rare books — team trains neural net on Photoshop edits to process 526,000 scans",
-      "src": "Tom's Hardware",
-      "time": "4小时前",
-      "published_ts": 1788091200,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/diy-archivists-push-budget-nikons-to-902-000-clicks-to-save-1-800-rare-books-team-trains-neural-net-on-photoshop-edits-to-process-526-000-scans",
-      "tags": [],
-      "body": "<p>An epic book preservation effort.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "ad89e592e": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "China’s robots race ahead",
       "src": "The Verge",
-      "time": "4小时前",
+      "time": "8小时前",
       "published_ts": 1788091200,
-      "heat": "18.2K",
-      "views": "21.1K",
+      "heat": "12.5K",
+      "views": "15.4K",
       "url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
       "tags": [],
       "body": "<p>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on falling robots and the US-China AI race, follow Robert Hart. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started I've admitted my fondness for [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -124,7 +137,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Inside Meta’s push to put robots to work in data centers",
       "src": "Ars Technica",
-      "time": "5小时前",
+      "time": "9小时前",
       "published_ts": 1788087827,
       "heat": "18.0K",
       "views": "18.0K",
@@ -137,7 +150,7 @@
       "cat": "L2 · 基础模型",
       "title": "Introducing Hy4 Preview",
       "src": "Simon Willison",
-      "time": "16小时前",
+      "time": "20小时前",
       "published_ts": 1788047593,
       "heat": "15.0K",
       "views": "15.0K",
@@ -145,41 +158,15 @@
       "tags": [],
       "body": "<p>Introducing Hy4 Preview New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, 1.56TB on Hugging Face . This is a big size increase from their previous Hy3 in July, which was 295B, 21B active, 256,000 context, 598GB. I recently started using model chat templates to better understand their capabilities. H</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "afd7ada45": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
-      "src": "The Verge",
-      "time": "19小时前",
-      "published_ts": 1788037166,
-      "heat": "12.5K",
-      "views": "15.4K",
-      "url": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
-      "tags": [],
-      "body": "<p>I used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian Trail, but life kind of got in the way. (Turns out jobs, wives, and children aren't thrilled with the idea of you disappearing for three months.) But I've been longing [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a8944f985": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Alt-right troll Milo Yiannopoulos has been deported",
-      "src": "The Verge",
-      "time": "20小时前",
-      "published_ts": 1788032999,
-      "heat": "9.6K",
-      "views": "12.5K",
-      "url": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
-      "tags": [],
-      "body": "<p>Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yiannopoulos came to the US legally in 2019, but overstayed his visa. After he failed to appear in court for an immigration hearing, [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a748afcb5": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
       "src": "TechCrunch AI",
-      "time": "21小时前",
+      "time": "1天前",
       "published_ts": 1788028919,
-      "heat": "23.8K",
-      "views": "27.0K",
+      "heat": "20.5K",
+      "views": "23.8K",
       "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
       "tags": [],
       "body": "<p>This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -189,10 +176,10 @@
       "cat": "L4 · 交互Agent",
       "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
       "src": "TechCrunch AI",
-      "time": "22小时前",
+      "time": "1天前",
       "published_ts": 1788025007,
-      "heat": "20.5K",
-      "views": "23.8K",
+      "heat": "17.3K",
+      "views": "20.5K",
       "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
       "tags": [],
       "body": "<p>Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -204,8 +191,8 @@
       "src": "TechCrunch AI",
       "time": "1天前",
       "published_ts": 1788008400,
-      "heat": "17.3K",
-      "views": "20.5K",
+      "heat": "14.0K",
+      "views": "17.3K",
       "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
       "tags": [],
       "body": "<p>The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -267,33 +254,20 @@
       "cat": "L1 · 算力硬件",
       "title": "Neocloud Lambda secures $1B in debt to buy more chips",
       "src": "TechCrunch AI",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1787948651,
-      "heat": "14.0K",
-      "views": "17.3K",
+      "heat": "10.8K",
+      "views": "14.0K",
       "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
       "tags": [],
       "body": "<p>Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a6b75f42d": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "src": "TechCrunch AI",
-      "time": "1天前",
-      "published_ts": 1787945438,
-      "heat": "10.8K",
-      "views": "14.0K",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "tags": [],
-      "body": "<p>Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a61a6f64a": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
       "title": "We’re introducing flexible usage limits for Gemini Notebook.",
       "src": "Google AI Blog",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1787936400,
       "heat": "30.4K",
       "views": "34.5K",
@@ -423,7 +397,7 @@
       "cat": "L4 · 交互Agent",
       "title": "The AI ‘Ghosts’ Contaminating Academic Publishing",
       "src": "404 Media",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1787854469,
       "heat": "7.8K",
       "views": "9.6K",
@@ -670,7 +644,7 @@
       "cat": "L4 · 交互Agent",
       "title": "The inside story on why OpenAI agents hacked Hugging Face",
       "src": "MIT Tech Review",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1787770800,
       "heat": "22.5K",
       "views": "22.5K",
@@ -878,7 +852,7 @@
       "cat": "L1 · 算力硬件",
       "title": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet",
       "src": "Meta Engineering",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1787594549,
       "heat": "30.0K",
       "views": "30.0K",
@@ -891,7 +865,7 @@
       "cat": "L1 · 算力硬件",
       "title": "MTIA 300: Meta’s First Training Chip with Built-in NICs and Communication-Offloading Engines",
       "src": "Meta Engineering",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1787593552,
       "heat": "26.4K",
       "views": "30.0K",
@@ -969,7 +943,7 @@
       "cat": "L0 · 领袖观点",
       "title": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
       "src": "IEEE Spectrum",
-      "time": "8天前",
+      "time": "9天前",
       "published_ts": 1787335201,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1099,7 +1073,7 @@
       "cat": "L1 · 算力硬件",
       "title": "GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model",
       "src": "Meta Engineering",
-      "time": "26天前",
+      "time": "27天前",
       "published_ts": 1785780017,
       "heat": "15.6K",
       "views": "19.2K",
@@ -1112,7 +1086,7 @@
       "cat": "L0 · 领袖观点",
       "title": "An opinionated guide to which AI to use to do stuff",
       "src": "One Useful Thing",
-      "time": "37天前",
+      "time": "38天前",
       "published_ts": 1784829924,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1138,7 +1112,7 @@
       "cat": "L2 · 基础模型",
       "title": "Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Optimization",
       "src": "Meta Engineering",
-      "time": "45天前",
+      "time": "46天前",
       "published_ts": 1784134852,
       "heat": "12.0K",
       "views": "15.6K",
@@ -1190,7 +1164,7 @@
       "cat": "L1 · 算力硬件",
       "title": "What it feels like to work with Mythos",
       "src": "One Useful Thing",
-      "time": "81天前",
+      "time": "82天前",
       "published_ts": 1781025082,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1242,7 +1216,7 @@
       "cat": "L2 · 基础模型",
       "title": "Sign of the future: GPT-5.5",
       "src": "One Useful Thing",
-      "time": "128天前",
+      "time": "129天前",
       "published_ts": 1776974438,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1281,7 +1255,7 @@
       "cat": "L0 · 领袖观点",
       "title": "2025 LLM Year in Review",
       "src": "Andrej Karpathy",
-      "time": "253天前",
+      "time": "254天前",
       "published_ts": 1766167200,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1307,7 +1281,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Verifiability",
       "src": "Andrej Karpathy",
-      "time": "285天前",
+      "time": "286天前",
       "published_ts": 1763398800,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1320,7 +1294,7 @@
       "cat": "L1 · 算力硬件",
       "title": "xAI’s Colossus 2 – First Gigawatt Datacenter In The World, Unique RL Methodology, Capital Raise",
       "src": "SemiAnalysis",
-      "time": "347天前",
+      "time": "348天前",
       "published_ts": 1758044281,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1333,7 +1307,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack",
       "src": "SemiAnalysis",
-      "time": "353天前",
+      "time": "354天前",
       "published_ts": 1757534238,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1463,7 +1437,7 @@
       "cat": "L2 · 基础模型",
       "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
       "src": "The Gradient",
-      "time": "651天前",
+      "time": "652天前",
       "published_ts": 1731775575,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1476,7 +1450,7 @@
       "cat": "L2 · 基础模型",
       "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
       "src": "The Gradient",
-      "time": "719天前",
+      "time": "720天前",
       "published_ts": 1725902928,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1489,7 +1463,7 @@
       "cat": "L0 · 领袖观点",
       "title": "We Need Positive Visions for AI Grounded in Wellbeing",
       "src": "The Gradient",
-      "time": "756天前",
+      "time": "757天前",
       "published_ts": 1722704443,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1528,7 +1502,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Financial Market Applications of LLMs",
       "src": "The Gradient",
-      "time": "861天前",
+      "time": "862天前",
       "published_ts": 1713635859,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1577,33 +1551,34 @@
     }
   },
   "by_layer": {
-    "l5": [
-      "a3c987c59",
-      "a672c9118",
-      "a5949d54a",
-      "a9c99de5e",
-      "a7bd0aa8d",
-      "ae1de25ac",
-      "aad5b4d1a",
-      "a2623b22b",
-      "abe4d4497"
-    ],
-    "l3": [
-      "a2b44dee6",
-      "a6189f0c8",
-      "aa8b0ed06",
-      "a05e58172",
-      "ad6d96caf",
-      "a1585cbf5",
-      "a32296677",
-      "a28f84720"
+    "l4": [
+      "ae705e622",
+      "a5ce9feb2",
+      "ad89e592e",
+      "a62fad70d",
+      "a9a013cc3",
+      "a4a6c96cc",
+      "a03c570b0",
+      "a4464bf86",
+      "a75b953e3",
+      "a8c4b4ede",
+      "acb1ed002",
+      "a74c807bb",
+      "aaaf9e918",
+      "acf99c45f",
+      "a92223fbf",
+      "ab1f807bf",
+      "a41676a16",
+      "a51f17db4",
+      "a56789fc3",
+      "ad01feb8a"
     ],
     "l1": [
+      "afd39cc67",
+      "a4b94e55a",
       "a43417697",
       "a6f51f91c",
       "a32a4e4bd",
-      "a611ccefc",
-      "a39437552",
       "a36a3f1e6",
       "a748afcb5",
       "a0e71438a",
@@ -1638,32 +1613,29 @@
       "a5236c597",
       "a2ae2603b"
     ],
-    "l4": [
-      "a5ce9feb2",
-      "ad89e592e",
-      "afd7ada45",
-      "a8944f985",
-      "a62fad70d",
-      "a9a013cc3",
-      "a4a6c96cc",
-      "a03c570b0",
-      "a4464bf86",
-      "a75b953e3",
-      "a8c4b4ede",
-      "acb1ed002",
-      "a74c807bb",
-      "aaaf9e918",
-      "acf99c45f",
-      "a92223fbf",
-      "ab1f807bf",
-      "a41676a16",
-      "a51f17db4",
-      "a56789fc3",
-      "ad01feb8a"
+    "l5": [
+      "a3c987c59",
+      "a672c9118",
+      "a5949d54a",
+      "a9c99de5e",
+      "a7bd0aa8d",
+      "ae1de25ac",
+      "aad5b4d1a",
+      "a2623b22b",
+      "abe4d4497"
+    ],
+    "l3": [
+      "a2b44dee6",
+      "a6189f0c8",
+      "aa8b0ed06",
+      "a05e58172",
+      "ad6d96caf",
+      "a1585cbf5",
+      "a32296677",
+      "a28f84720"
     ],
     "l2": [
       "a434c3294",
-      "a6b75f42d",
       "a61a6f64a",
       "a24151a40",
       "a06fb37c0",
@@ -1712,11 +1684,11 @@
     ]
   },
   "top5": [
+    "ae705e622",
+    "afd39cc67",
+    "a4b94e55a",
     "a3c987c59",
-    "a2b44dee6",
-    "a43417697",
-    "a6f51f91c",
-    "a5ce9feb2"
+    "a2b44dee6"
   ],
   "layers": [
     {
@@ -1724,11 +1696,11 @@
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        39,
-        28,
+        35,
+        20,
         15,
         10,
-        28,
+        30,
         25
       ],
       "trend": [
@@ -1746,11 +1718,11 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        18,
-        17,
+        11,
+        19,
         18,
         7,
-        28,
+        27,
         20
       ],
       "trend": [
@@ -1768,11 +1740,11 @@
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        16,
-        21,
+        15,
+        12,
         8,
         5,
-        20,
+        24,
         18
       ],
       "trend": [
@@ -1790,11 +1762,11 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        10,
         13,
+        10,
         7,
         5,
-        20,
+        27,
         17
       ],
       "trend": [
@@ -1808,16 +1780,16 @@
       ]
     },
     {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
       "vals": [
         10,
         16,
         5,
         5,
-        13,
-        20
+        19,
+        13
       ],
       "trend": [
         20,
@@ -1830,16 +1802,16 @@
       ]
     },
     {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
       "vals": [
         10,
-        14,
         10,
         5,
+        5,
         10,
-        13
+        22
       ],
       "trend": [
         20,
@@ -1853,6 +1825,21 @@
     }
   ],
   "ticker": [
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l4)",
+      "text": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode …"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Speedy 34-inch 240 Hz ultrawide OLED monitor now $600 off — LG Ul…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "DLSS 5 mod brings next-gen tech to old Ampere GPUs, but frame rat…"
+    },
     {
       "tag": "THE VERGE",
       "col": "var(--l5)",
@@ -1884,16 +1871,6 @@
       "text": "At least three exhibitors got robbed at Gamescom 2026 — laptops a…"
     },
     {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Adata Urban Tapsafe 2TB review: Solid-state storage you unlock wi…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "DIY archivists push budget Nikons to 902,000 clicks to save 1,800…"
-    },
-    {
       "tag": "THE VERGE",
       "col": "var(--l4)",
       "text": "China’s robots race ahead"
@@ -1909,38 +1886,51 @@
       "text": "Introducing Hy4 Preview"
     },
     {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "Vicariously hike the Appalachian in the gorgeous A Trail Tale"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "Alt-right troll Milo Yiannopoulos has been deported"
-    },
-    {
       "tag": "TECHCRUNC",
       "col": "var(--l1)",
       "text": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of…"
+    },
+    {
+      "tag": "TECHCRUNC",
+      "col": "var(--l4)",
+      "text": "“We’re not doing 30 bets a year”: Vijay Pande on betting small af…"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "No AI Fridays",
-      "url": "https://noaifridays.com/",
-      "votes": "211",
-      "comments": "108",
+      "title": "Haiku R1/beta6 has been released",
+      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+      "votes": "180",
+      "comments": "50",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Haiku R1/beta6 has been released",
-      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-      "votes": "13",
+      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+      "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+      "votes": "12",
       "comments": "2",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+      "url": "https://github.com/KodeMunkie/sm750hdmifb",
+      "votes": "25",
+      "comments": "13",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+      "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
+      "votes": "147",
+      "comments": "72",
       "time": "近期"
     },
     {
@@ -1948,35 +1938,17 @@
       "badge": "pb-hn",
       "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
       "url": "https://arxiv.org/abs/1804.07389",
-      "votes": "158",
-      "comments": "44",
+      "votes": "178",
+      "comments": "51",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Dad's Custom Atari Peripherals – By Jim Trageser",
-      "url": "https://www.goto10retro.com/p/dads-custom-atari-peripherals",
-      "votes": "17",
-      "comments": "3",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "What my dad taught me about AI coding in the 90s",
-      "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
-      "votes": "75",
-      "comments": "39",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Xcena and Samsung's Near Memory Compute CXL Device",
-      "url": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
-      "votes": "46",
-      "comments": "2",
+      "title": "Electric rain can eat through metal",
+      "url": "https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/",
+      "votes": "65",
+      "comments": "12",
       "time": "近期"
     }
   ]
