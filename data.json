@@ -1,13 +1,195 @@
 {
-  "updated_at": "2026-08-31T22:37:21.118725+00:00",
-  "article_count": 123,
+  "updated_at": "2026-09-01T04:10:52.851407+00:00",
+  "article_count": 130,
   "articles": {
+    "ac428c94f": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "TP-Link announces its first consumer Wi-Fi 8 routers — Archer 8 Ultra preorder commences September 30, in select regions",
+      "src": "Tom's Hardware",
+      "time": "10分钟前",
+      "published_ts": 1788235200,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/networking/routers/tp-link-announces-its-first-consumer-wi-fi-8-routers-archer-8-ultra-preorder-commences-september-30-in-select-regions",
+      "tags": [],
+      "body": "<p>TP-Link’s Wi-Fi 8 launch remains complicated in the US due to ongoing FCC restrictions</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ad0ca79ea": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "ERR+: Sequential Entropy Resolution for Efficient and Decisive LLM Reasoning",
+      "src": "arXiv cs.LG",
+      "time": "10分钟前",
+      "published_ts": 1788235200,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2608.28771",
+      "tags": [],
+      "body": "<p>arXiv:2608.28771v1 Announce Type: new Abstract: Large reasoning models achieve strong performance on complex tasks by generating extended chain-of-thought (CoT) traces via reinforcement learning with verifiable rewards (RLVR). While current RLVR methods have achieved strong results with correctness-based reward signals, they provide limited guidance on the quality of the reasoning process itself, </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "af84647e7": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Unsupervised Latent Space Alignment with Hyperspherical Geodesic Matching",
+      "src": "arXiv cs.LG",
+      "time": "10分钟前",
+      "published_ts": 1788235200,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2608.28840",
+      "tags": [],
+      "body": "<p>arXiv:2608.28840v1 Announce Type: new Abstract: Independently trained neural networks tend to encode the same data with similar latent geometries. These latent geometries are not directly compatible, yet they can be nearly the same up to some class of transformations. While there exists many methods for alignment between different latent spaces, it is typically done using a set of shared sample co</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ac26292a9": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Curvature Cryptanalysis of Smooth Transformer Feed-Forward Networks",
+      "src": "arXiv cs.LG",
+      "time": "10分钟前",
+      "published_ts": 1788235200,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2608.28843",
+      "tags": [],
+      "body": "<p>arXiv:2608.28843v1 Announce Type: new Abstract: We show that smooth two-layer feed-forward networks (FFNs) expose an additional structural model extraction channel under a chosen-input raw-output oracle at the FFN branch; consider transformer FFN branches with GELU or SiLU activations under chosen-input raw-output access, without access to parameters, gradients, or internal activations; exploit a </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ab2b58493": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Equivariant Sheaf Neural Networks: Learning Geometric Transport on Graphs",
+      "src": "arXiv cs.LG",
+      "time": "10分钟前",
+      "published_ts": 1788235200,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2608.28853",
+      "tags": [],
+      "body": "<p>arXiv:2608.28853v1 Announce Type: new Abstract: Equivariant graph neural networks provide a principled way to model geometric systems, but efficient first-order architectures remain limited in how vector information can be transformed as it moves across a graph. We introduce \\textsc{ESNN}, an Equivariant Sheaf Neural Network that enriches this interaction by learning directed, matrix-valued transp</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ac9946434": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "The Halt Vector: Internalizing a Causal Steering Intervention for Efficient Reasoning",
+      "src": "arXiv cs.LG",
+      "time": "10分钟前",
+      "published_ts": 1788235200,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2608.28859",
+      "tags": [],
+      "body": "<p>arXiv:2608.28859v1 Announce Type: new Abstract: Reasoning models do not stop when they know the answer. On DeepSeek-R1-Distill-Qwen-7B the chain of thought runs about twice as long as the model's own answer probability takes to settle, and how much of that excess is removable varies from problem to problem, so a global length penalty cannot take it out. We take it out by internalizing a causal int</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ae090ddff": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Conservative Hybrid Graph Networks for Process Systems with Learned Routing",
+      "src": "arXiv cs.LG",
+      "time": "10分钟前",
+      "published_ts": 1788235200,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2608.28896",
+      "tags": [],
+      "body": "<p>arXiv:2608.28896v1 Announce Type: new Abstract: Industrial process networks do not maintain a single effective topology while operating: streams are throttled or bypassed, and units move between idle, transition, and active regimes. Models of such systems are typically trained on measured state trajectories while the operating mechanisms that generated them remain latent, and an unconstrained grap</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a0be97cf4": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
+      "src": "arXiv cs.AI",
+      "time": "10分钟前",
+      "published_ts": 1788235200,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2608.28590",
+      "tags": [],
+      "body": "<p>arXiv:2608.28590v1 Announce Type: new Abstract: Large Language Model (LLM) agents have shown promise for automating data-science workflows, yet their end-to-end performance depends critically on the agent harness that represents tasks, manages execution state, constrains output artifacts, and provides evaluation feedback. Existing data-science agents often leave this harness implicit, making resul</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a31e6df59": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "Expert-validated STEM QA",
+      "src": "arXiv cs.AI",
+      "time": "10分钟前",
+      "published_ts": 1788235200,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2608.28591",
+      "tags": [],
+      "body": "<p>arXiv:2608.28591v1 Announce Type: new Abstract: Recent advancements in AI are helping scientists achieve breakthroughs in fields such as mathematics, medicine, and materials sciences. New evaluation datasets for AI models contribute to such advancement in AI. In the STEM domain, frontier models have consumed most of the available online data, creating the need for human-created datasets that codif</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "af44452ee": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making",
+      "src": "arXiv cs.AI",
+      "time": "10分钟前",
+      "published_ts": 1788235200,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2608.28592",
+      "tags": [],
+      "body": "<p>arXiv:2608.28592v1 Announce Type: new Abstract: Large language models (LLMs) achieve high scores on medical knowledge examinations, yet real-world oncology is not a knowledge test--it is a sequence of guideline-pathway choices, escalation judgments, and commitments under uncertainty. Existing benchmarks largely measure factual recall, leaving open whether frontier LLMs share decision-path blind sp</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aa3eda2c5": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Statutory AI: Aligning Large Language Models With Legal Norms",
+      "src": "arXiv cs.AI",
+      "time": "10分钟前",
+      "published_ts": 1788235200,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2608.28593",
+      "tags": [],
+      "body": "<p>arXiv:2608.28593v1 Announce Type: new Abstract: With the increasing development of AI regulatory frameworks, ensuring that artificial intelligence systems, particularly generative models, operate in accordance with legal and ethical standards has become a critical priority. Existing proposals for AI alignment and value-guided behavior, however, face some limitations. Approaches such as Constitutio</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a26ed745a": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "From Question-First to Analyst-First: Domain-Expert Skills and Verified Knowledge Compilation for Proactive Enterprise Analytics",
+      "src": "arXiv cs.AI",
+      "time": "10分钟前",
+      "published_ts": 1788235200,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2608.28594",
+      "tags": [],
+      "body": "<p>arXiv:2608.28594v1 Announce Type: new Abstract: Conversational analytics systems assume the user already has a well-formed question, leaving a non-expert facing a blank query box on an unfamiliar enterprise schema. Commercial 'proactive' tools narrow this gap only by detecting statistical anomalies over analyst-curated metric layers, and academic next-question recommenders depend on query logs tha</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a75125432": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "src": "TechCrunch AI",
+      "time": "3小时前",
+      "published_ts": 1788221580,
+      "heat": "27.0K",
+      "views": "27.0K",
+      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "tags": [],
+      "body": "<p>Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a825d6888": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Introducing wrapture",
+      "src": "Simon Willison",
+      "time": "4小时前",
+      "published_ts": 1788220776,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
+      "tags": [],
+      "body": "<p>Introducing wrapture New from Graham Dumpleton (of wrapt , mod_wsgi, and New Relic's Python agent fame), who describes Wrapture as taking the monkeypatching ideas from wrapt and extending them to apply to testing and tracing at the same time. Wrapture ( full documentation here ) makes it easy to wrap any function or method such that all access can be traced, or can be overridden to return a differ</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "aa8d33b0e": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "The Google TV Streamer now costs $50 more",
       "src": "The Verge",
-      "time": "4分钟前",
+      "time": "5小时前",
       "published_ts": 1788215571,
       "heat": "24.0K",
       "views": "24.0K",
@@ -15,12 +197,38 @@
       "tags": [],
       "body": "<p>Google raised the price of its 4K streaming box to $149, up $50 from its original $99 price. The new price is currently live at the Google Store and Best Buy, but Amazon appears to still be offering the original price. The price hike comes just a couple of weeks after Google launched its new [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
+    "a22beb4e2": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "Quoting Andrew Digby",
+      "src": "Simon Willison",
+      "time": "5小时前",
+      "published_ts": 1788215102,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://simonwillison.net/2026/Aug/31/andrew-digby/",
+      "tags": [],
+      "body": "<p>325 #kakapo! The chicks from this year's record breeding season are now juveniles and so have been added to the population. In 1995 there were just 51 kākāpō left. Recovery of critically endangered species is possible with sustained effort. &mdash; Andrew Digby , providing the best news of the year Tags: kakapo</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a1d7127e9": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Pairing Google Antigravity with Gemini 3.7 Flash solves notable multi-agent math and engineering problems.",
+      "src": "Google AI Blog",
+      "time": "6小时前",
+      "published_ts": 1788213600,
+      "heat": "34.5K",
+      "views": "34.5K",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/antigravity-teamwork-multi-agent/",
+      "tags": [],
+      "body": "<p>Gemini 3.7 Flash powers autonomous agent teams in Antigravity to solve open math problems, build CPU emulators, and optimize OSS.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "ae39c9f1c": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "JMGO’s very bright all-in-one projector looks ideal for gamers and sports",
       "src": "The Verge",
-      "time": "37分钟前",
+      "time": "6小时前",
       "published_ts": 1788213600,
       "heat": "21.1K",
       "views": "24.0K",
@@ -33,7 +241,7 @@
       "cat": "L5 · 生态商业",
       "title": "FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads",
       "src": "The Verge",
-      "time": "55分钟前",
+      "time": "6小时前",
       "published_ts": 1788212502,
       "heat": "18.2K",
       "views": "21.1K",
@@ -46,9 +254,9 @@
       "cat": "L2 · 基础模型",
       "title": "The Pentagon now has its own version of ChatGPT and Grok",
       "src": "TechCrunch AI",
-      "time": "2小时前",
+      "time": "7小时前",
       "published_ts": 1788207225,
-      "heat": "27.0K",
+      "heat": "23.8K",
       "views": "27.0K",
       "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
       "tags": [],
@@ -59,7 +267,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Alienware’s budget-friendly QD-OLED is discounted for the first time",
       "src": "The Verge",
-      "time": "3小时前",
+      "time": "8小时前",
       "published_ts": 1788204719,
       "heat": "12.5K",
       "views": "15.4K",
@@ -72,10 +280,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Instagram puts new limits on undisclosed AI profiles",
       "src": "TechCrunch AI",
-      "time": "3小时前",
+      "time": "8小时前",
       "published_ts": 1788203819,
-      "heat": "23.8K",
-      "views": "27.0K",
+      "heat": "20.5K",
+      "views": "23.8K",
       "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
       "tags": [],
       "body": "<p>As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -85,10 +293,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
       "src": "TechCrunch AI",
-      "time": "4小时前",
+      "time": "9小时前",
       "published_ts": 1788201311,
-      "heat": "20.5K",
-      "views": "23.8K",
+      "heat": "17.3K",
+      "views": "20.5K",
       "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
       "tags": [],
       "body": "<p>Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -98,20 +306,20 @@
       "cat": "L1 · 算力硬件",
       "title": "Kingston's NV3 1TB PCIe 4.0 SSD drops to $156.99 at Newegg — 27% off brings it down to just 15.7 cents per GB",
       "src": "Tom's Hardware",
-      "time": "4小时前",
+      "time": "9小时前",
       "published_ts": 1788200188,
-      "heat": "15.0K",
+      "heat": "13.2K",
       "views": "15.0K",
       "url": "https://www.tomshardware.com/pc-components/ssds/kingstons-nv3-1tb-pcie-4-0-ssd-drops-to-usd156-99-at-newegg-27-percent-off-brings-it-down-to-just-15-7-cents-per-gb",
       "tags": [],
       "body": "<p>The Kingston NV3 may not be built for heavy workloads, but its respectable gaming performance and low power consumption make this PCIe 4.0 SSD a compelling secondary storage upgrade.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "ad0257159": {
+    "a402509ad": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
-      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
       "src": "MIT Tech Review",
-      "time": "4小时前",
+      "time": "10小时前",
       "published_ts": 1788199200,
       "heat": "22.5K",
       "views": "22.5K",
@@ -124,10 +332,10 @@
       "cat": "L1 · 算力硬件",
       "title": "G.Skill drops new AMD EXPO ULL RAM for Ryzen CPUs — Flare X5X brings new ULL optimized subtimings, but pricing remains a mystery",
       "src": "Tom's Hardware",
-      "time": "5小时前",
+      "time": "10小时前",
       "published_ts": 1788197323,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "11.4K",
+      "views": "13.2K",
       "url": "https://www.tomshardware.com/pc-components/ram/g-skill-drops-new-amd-expo-ull-ram-for-ryzen-cpus-flare-x5x-brings-new-ull-optimized-subtimings-but-pricing-remains-a-mystery",
       "tags": [],
       "body": "<p>G.Skill launches new Flare X5X DDR5 memory kits with AMD EXPO ULL technology for Ryzen processors.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -137,10 +345,10 @@
       "cat": "L1 · 算力硬件",
       "title": "Trump says communities that reject data centers 'want to end up being backwards and poor' — President claims China 'could not be happier' with AI data center backlash in the US",
       "src": "Tom's Hardware",
-      "time": "5小时前",
+      "time": "11小时前",
       "published_ts": 1788195957,
-      "heat": "11.4K",
-      "views": "13.2K",
+      "heat": "9.6K",
+      "views": "11.4K",
       "url": "https://www.tomshardware.com/tech-industry/data-centers/trump-says-communities-that-reject-data-centers-want-to-end-up-being-backwards-and-poor-president-claims-china-could-not-be-happier-with-ai-data-center-backlash-in-the-us",
       "tags": [],
       "body": "<p>President Donald Trump claims that communities rejecting AI data center constructions \"want to end up being backwards and poor.\"</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -150,10 +358,10 @@
       "cat": "L5 · 生态商业",
       "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
       "src": "TechCrunch AI",
-      "time": "6小时前",
+      "time": "12小时前",
       "published_ts": 1788192000,
-      "heat": "17.3K",
-      "views": "20.5K",
+      "heat": "14.0K",
+      "views": "17.3K",
       "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
       "tags": [],
       "body": "<p>The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -163,10 +371,10 @@
       "cat": "L1 · 算力硬件",
       "title": "Save $240 on a four-item gaming build combo from Newegg – $1,113 buys a Ryzen 7 9800X3D, 32GB of Corsair DDR5 RAM, a Gigabyte X870E Motherboard, plus a free 240mm AIO and AMD game bundle",
       "src": "Tom's Hardware",
-      "time": "7小时前",
+      "time": "12小时前",
       "published_ts": 1788190002,
-      "heat": "7.8K",
-      "views": "9.6K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://www.tomshardware.com/pc-components/save-usd240-on-a-four-item-gaming-build-combo-from-newegg-usd1-113-buys-a-ryzen-7-9800x3d-32gb-of-corsair-ddr5-ram-a-gigabyte-x870e-motherboard-plus-a-free-240mm-aio-and-amd-game-bundle",
       "tags": [],
       "body": "<p>This Newegg 3-item bundle pairs the fast, gaming-focused Ryzen 7 9800X3D with 32GB of Corsair Vengeance DDR5-6000 RAM and a Gigabyte X870E Aorus Pro board for only $1,113.99. That's a $240 savings, plus two freebies, making this one of the better combo deals available right now.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -176,33 +384,20 @@
       "cat": "L1 · 算力硬件",
       "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
       "src": "TechCrunch AI",
-      "time": "7小时前",
+      "time": "12小时前",
       "published_ts": 1788189325,
-      "heat": "14.0K",
-      "views": "17.3K",
+      "heat": "10.8K",
+      "views": "14.0K",
       "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
       "tags": [],
       "body": "<p>Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "add0b9f47": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Jensen Huang and Lisa Su snubbed by TIME’s 2026 list of top 100 AI leaders — Paris Hilton and Ben Affleck, among others, make the list as ‘Architects of AI’ inexplicably not listed",
-      "src": "Tom's Hardware",
-      "time": "7小时前",
-      "published_ts": 1788187979,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-and-lisa-su-snubbed-by-times-2026-ai-list-paris-hilton-and-ben-affleck-among-others-make-the-list-as-architects-of-ai-are-totally-absent",
-      "tags": [],
-      "body": "<p>Nvidia’s sole representative on the fourth annual TIME100 AI is its head of sustainability, who sits alongside Paris Hilton and Ben Affleck.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "ad68d0953": {
       "layer": "l5",
       "cat": "L5 · 生态商业",
       "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
       "src": "Wired",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1788172200,
       "heat": "16.5K",
       "views": "16.5K",
@@ -210,90 +405,38 @@
       "tags": [],
       "body": "<p>Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
+    "a639832c8": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "src": "OpenAI Blog",
+      "time": "21小时前",
+      "published_ts": 1788159600,
+      "heat": "45.0K",
+      "views": "45.0K",
+      "url": "https://openai.com/index/polimill",
+      "tags": [],
+      "body": "<p>Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a634f7182": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "A milestone in expanding access to AI",
       "src": "OpenAI Blog",
-      "time": "18小时前",
+      "time": "1天前",
       "published_ts": 1788148800,
-      "heat": "45.0K",
+      "heat": "39.6K",
       "views": "45.0K",
       "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
       "tags": [],
       "body": "<p>ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a9eaf8bbb": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization",
-      "src": "arXiv cs.LG",
-      "time": "18小时前",
-      "published_ts": 1788148800,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2608.27507",
-      "tags": [],
-      "body": "<p>arXiv:2608.27507v1 Announce Type: new Abstract: Policy Gradient for Parallel State Entropy maximization (PGPSE) expands state-space coverage by training independently parameterized policies in replicated copies of the same environment. However, its pooled team-entropy score measures only collective exploration and cannot identify policies that contribute non-redundant coverage. We introduce Margin</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ad28a2f39": {
-      "layer": "l3",
-      "cat": "L3 · 推理工程",
-      "title": "Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap",
-      "src": "arXiv cs.LG",
-      "time": "18小时前",
-      "published_ts": 1788148800,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2608.27512",
-      "tags": [],
-      "body": "<p>arXiv:2608.27512v1 Announce Type: new Abstract: Post-training quantization is often treated as a semantically neutral optimization for edge deployment of Large Language Models. When a full-precision source checkpoint is evaluated and quantization is applied downstream without equivalent re-evaluation, this workflow creates a structural validation--deployment gap: because quantization is a many-to-</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "afc39f4bb": {
-      "layer": "l3",
-      "cat": "L3 · 推理工程",
-      "title": "DAMP: Decay-Aware Mixed-Precision Recurrent-State Quantization",
-      "src": "arXiv cs.LG",
-      "time": "18小时前",
-      "published_ts": 1788148800,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://arxiv.org/abs/2608.27513",
-      "tags": [],
-      "body": "<p>arXiv:2608.27513v1 Announce Type: new Abstract: Softmax attention stores key and value vectors for every preceding token, causing inference memory to grow with sequence length. Recent language models incorporating Gated DeltaNet (GDN) or Kimi Delta Attention (KDA) reduce this cost by replacing the KV cache in most layers with fixed-size recurrent states. However, these recurrent states are commonl</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ae3b6bb2c": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "When Muon Meets Task Interference: A Spectral Perspective on Continual Learning and Model Merging",
-      "src": "arXiv cs.LG",
-      "time": "18小时前",
-      "published_ts": 1788148800,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://arxiv.org/abs/2608.27518",
-      "tags": [],
-      "body": "<p>arXiv:2608.27518v1 Announce Type: new Abstract: Continual learning (CL) and model merging (MM) both aim to obtain a single model that performs well across multiple tasks, challenged respectively by catastrophic forgetting and weight-disentanglement error. In the literature, these difficulties are merely treated separately and mitigated through a variety of solutions, while the geometry induced by </p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ad6ad44b3": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Dandelion: A Spherical Flower for Neural Simulation of Planetary Dynamics",
-      "src": "arXiv cs.LG",
-      "time": "18小时前",
-      "published_ts": 1788148800,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://arxiv.org/abs/2608.27521",
-      "tags": [],
-      "body": "<p>arXiv:2608.27521v1 Announce Type: new Abstract: Many dynamical processes unfold on the sphere but the default scientific machine learning architectures are Euclidean. Applying these architectures on a regular lat-lon grid causes problems: Cartesian convolutions become distorted at high latitude; 2D FFTs in Fourier neural operators incorrectly assume double periodicity; Cartesian positional encodin</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a05837fc3": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "Agency and Agents",
       "src": "One Useful Thing",
-      "time": "22小时前",
+      "time": "1天前",
       "published_ts": 1788135875,
       "heat": "15.0K",
       "views": "15.0K",
@@ -306,10 +449,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Understanding ChatGPT Work",
       "src": "Simon Willison",
-      "time": "22小时前",
+      "time": "1天前",
       "published_ts": 1788134387,
-      "heat": "15.0K",
-      "views": "15.0K",
+      "heat": "11.4K",
+      "views": "13.2K",
       "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
       "tags": [],
       "body": "<p>OpenAI announced ChatGPT Work on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very powerful product. Here's what I've figured out about it so far. ChatGPT Work is actually two products The more interesting version of ChatGPT Work is the one that runs in the cloud. This can be accessed via chatgpt.com or through the ChatGPT mobile apps. Let's </p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -332,10 +475,10 @@
       "cat": "L2 · 基础模型",
       "title": "Introducing Hy4 Preview",
       "src": "Simon Willison",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1788047593,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "9.6K",
+      "views": "11.4K",
       "url": "https://simonwillison.net/2026/Aug/29/hy4/",
       "tags": [],
       "body": "<p>Introducing Hy4 Preview New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, 1.56TB on Hugging Face . This is a big size increase from their previous Hy3 in July, which was 295B, 21B active, 256,000 context, 598GB. I recently started using model chat templates to better understand their capabilities. H</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -386,8 +529,8 @@
       "src": "Simon Willison",
       "time": "3天前",
       "published_ts": 1787955122,
-      "heat": "11.4K",
-      "views": "13.2K",
+      "heat": "7.8K",
+      "views": "9.6K",
       "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
       "tags": [],
       "body": "<p>Just a rumour of a bug is enough to find a security exploit these days Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this somewhat alarming post he reports that security issues in OCaml projects are seeing evidence of attempted exploits within minutes of patches being shared for discussion: This normally takes a few days and a rel</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -399,8 +542,8 @@
       "src": "Google AI Blog",
       "time": "3天前",
       "published_ts": 1787936400,
-      "heat": "30.4K",
-      "views": "34.5K",
+      "heat": "26.2K",
+      "views": "30.4K",
       "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-flexible-usage-limits/",
       "tags": [],
       "body": "<p>We’re introducing new flexible, compute-specific usage limits to Gemini Notebook.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -477,8 +620,8 @@
       "src": "OpenAI Blog",
       "time": "3天前",
       "published_ts": 1787896800,
-      "heat": "39.6K",
-      "views": "45.0K",
+      "heat": "34.2K",
+      "views": "39.6K",
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "tags": [],
       "body": "<p>Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -488,10 +631,10 @@
       "cat": "L5 · 生态商业",
       "title": "Supporting Thailand’s next generation of AI startups",
       "src": "OpenAI Blog",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1787882400,
-      "heat": "34.2K",
-      "views": "39.6K",
+      "heat": "28.8K",
+      "views": "34.2K",
       "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
       "tags": [],
       "body": "<p>OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -501,10 +644,10 @@
       "cat": "L2 · 基础模型",
       "title": "Breaking Claude Code Opus 5 Auto Mode",
       "src": "Simon Willison",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1787871025,
-      "heat": "9.6K",
-      "views": "11.4K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
       "tags": [],
       "body": "<p>Breaking Claude Code Opus 5 Auto Mode Anthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against prompt injection attacks. They recently made that the default and have made bold claims about its effectiveness. Johann Rehberger is one of the most credible prompt injection researchers active today. He found an attack against auto mode which</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -529,8 +672,8 @@
       "src": "Google AI Blog",
       "time": "4天前",
       "published_ts": 1787846400,
-      "heat": "22.1K",
-      "views": "26.2K",
+      "heat": "17.9K",
+      "views": "22.1K",
       "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
       "tags": [],
       "body": "<p>Graphic depicting new travel features for AI Mode in Search</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -542,24 +685,11 @@
       "src": "Google AI Blog",
       "time": "4天前",
       "published_ts": 1787846400,
-      "heat": "17.9K",
-      "views": "22.1K",
+      "heat": "13.8K",
+      "views": "17.9K",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
       "tags": [],
       "body": "<p>Text \"Gemini Omni 1.1 Flash Available via APIs\" surrounded by various images of people and a squirrel</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a3c2df7b3": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Partnering with Khan Academy on building AI tools for classrooms",
-      "src": "Google AI Blog",
-      "time": "4天前",
-      "published_ts": 1787846400,
-      "heat": "13.8K",
-      "views": "17.9K",
-      "url": "https://blog.google/products-and-platforms/products/education/khan-academy-back-to-school/",
-      "tags": [],
-      "body": "<p>Adults standing in front of Google sign smiling</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a75b953e3": {
       "layer": "l4",
@@ -659,8 +789,8 @@
       "src": "OpenAI Blog",
       "time": "4天前",
       "published_ts": 1787821200,
-      "heat": "28.8K",
-      "views": "34.2K",
+      "heat": "23.4K",
+      "views": "28.8K",
       "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
       "tags": [],
       "body": "<p>A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -670,10 +800,10 @@
       "cat": "L2 · 基础模型",
       "title": "Expanding OpenAI’s presence in Brazil",
       "src": "OpenAI Blog",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1787799600,
-      "heat": "23.4K",
-      "views": "28.8K",
+      "heat": "18.0K",
+      "views": "23.4K",
       "url": "https://openai.com/index/expanding-our-presence-in-brazil",
       "tags": [],
       "body": "<p>OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -683,7 +813,7 @@
       "cat": "L1 · 算力硬件",
       "title": "[AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro",
       "src": "Latent Space",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1787795454,
       "heat": "14.8K",
       "views": "17.2K",
@@ -696,26 +826,13 @@
       "cat": "L1 · 算力硬件",
       "title": "[AINews] Hot Chips: OpenAI’s Jalapeño, Cerebras CS-5, Groq 3 LPX, Apple M6",
       "src": "Latent Space",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1787794282,
       "heat": "12.5K",
       "views": "14.8K",
       "url": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
       "tags": [],
       "body": "<p>The conference with hot chips and even hotter companies</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a99807619": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Qwen3.8-Flash-Next",
-      "src": "Simon Willison",
-      "time": "4天前",
-      "published_ts": 1787788378,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
-      "tags": [],
-      "body": "<p>Qwen3.8-Flash-Next Another open weights model from Qwen. This one is \"a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4\". It's pretty big: 125B tokens, but only 6B active which means it gets a significant performance boost. I've been trying it out on a DGX Spark using these Unsloth quantized models . I'm still exploring the model - so far I've tried the </p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "aaaf9e918": {
       "layer": "l4",
@@ -808,19 +925,6 @@
       "tags": [],
       "body": "<p>Prompt Claude, ChatGPT, Gemini, or any other popular large language model with a question like “What is the best film ever made?” and the response will vary. And you (and most worryingly, the people who built the LLM) have little idea exactly how it came up with that specific answer. This mysterious behavior can be useful in some situations. But—as highlighted by a recent incident where OpenAI cou</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a2d741c06": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "src": "OpenAI Blog",
-      "time": "5天前",
-      "published_ts": 1787738400,
-      "heat": "18.0K",
-      "views": "23.4K",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "tags": [],
-      "body": "<p>ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a2623b22b": {
       "layer": "l5",
       "cat": "L5 · 生态商业",
@@ -846,19 +950,6 @@
       "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
       "tags": [],
       "body": "<p>Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist Arthur&#8230;</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a05e58172": {
-      "layer": "l3",
-      "cat": "L3 · 推理工程",
-      "title": "Quoting Paul Dix",
-      "src": "Simon Willison",
-      "time": "5天前",
-      "published_ts": 1787731675,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://simonwillison.net/2026/Aug/26/paul-dix/",
-      "tags": [],
-      "body": "<p>The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently running on millions of developer machines is absolutely mind blowing. And you can say, “well it’s not that impressive because they had an oracle to compare against, so it was simple to go from one language to another”, but I think that’s selling t</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "abe4d4497": {
       "layer": "l5",
@@ -1190,7 +1281,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Harness Engineering for Self-Improvement",
       "src": "Lilian Weng",
-      "time": "58天前",
+      "time": "59天前",
       "published_ts": 1783123200,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1216,7 +1307,7 @@
       "cat": "L2 · 基础模型",
       "title": "Scaling Laws, Carefully",
       "src": "Lilian Weng",
-      "time": "68天前",
+      "time": "69天前",
       "published_ts": 1782259200,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1281,7 +1372,7 @@
       "cat": "L0 · 领袖观点",
       "title": "After Orthogonality: Virtue-Ethical Agency and AI Alignment",
       "src": "The Gradient",
-      "time": "193天前",
+      "time": "194天前",
       "published_ts": 1771457152,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1411,7 +1502,7 @@
       "cat": "L2 · 基础模型",
       "title": "GPT-5 Set the Stage for Ad Monetization and the SuperApp",
       "src": "SemiAnalysis",
-      "time": "383天前",
+      "time": "384天前",
       "published_ts": 1755044834,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1437,7 +1528,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Why We Think",
       "src": "Lilian Weng",
-      "time": "487天前",
+      "time": "488天前",
       "published_ts": 1746057600,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1450,7 +1541,7 @@
       "cat": "L2 · 基础模型",
       "title": "Common pitfalls when building generative AI applications",
       "src": "Chip Huyen",
-      "time": "592天前",
+      "time": "593天前",
       "published_ts": 1736985600,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1463,7 +1554,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Agents",
       "src": "Chip Huyen",
-      "time": "601天前",
+      "time": "602天前",
       "published_ts": 1736208000,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1476,7 +1567,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Reward Hacking in Reinforcement Learning",
       "src": "Lilian Weng",
-      "time": "641天前",
+      "time": "642天前",
       "published_ts": 1732752000,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1528,7 +1619,7 @@
       "cat": "L3 · 推理工程",
       "title": "Building A Generative AI Platform",
       "src": "Chip Huyen",
-      "time": "767天前",
+      "time": "768天前",
       "published_ts": 1721865600,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1541,7 +1632,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Extrinsic Hallucinations in LLMs",
       "src": "Lilian Weng",
-      "time": "785天前",
+      "time": "786天前",
       "published_ts": 1720310400,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1567,7 +1658,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Diffusion Models for Video Generation",
       "src": "Lilian Weng",
-      "time": "871天前",
+      "time": "872天前",
       "published_ts": 1712880000,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1580,7 +1671,7 @@
       "cat": "L0 · 领袖观点",
       "title": "What I learned from looking at 900 most popular open source AI tools",
       "src": "Chip Huyen",
-      "time": "900天前",
+      "time": "901天前",
       "published_ts": 1710374400,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1593,7 +1684,7 @@
       "cat": "L2 · 基础模型",
       "title": "Predictive Human Preference: From Model Ranking to Model Routing",
       "src": "Chip Huyen",
-      "time": "915天前",
+      "time": "916天前",
       "published_ts": 1709078400,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1603,72 +1694,10 @@
     }
   },
   "by_layer": {
-    "l4": [
-      "aa8d33b0e",
-      "ae39c9f1c",
-      "a69d5707e",
-      "a3fcf2a9a",
-      "ad0257159",
-      "a634f7182",
-      "a05837fc3",
-      "aee0a35f5",
-      "a9a013cc3",
-      "a4a6c96cc",
-      "a03c570b0",
-      "a75b953e3",
-      "a8c4b4ede",
-      "acb1ed002",
-      "a74c807bb",
-      "aaaf9e918",
-      "acf99c45f",
-      "a92223fbf",
-      "a41676a16",
-      "a51f17db4",
-      "a56789fc3",
-      "ad01feb8a"
-    ],
-    "l5": [
-      "a14fc8b6f",
-      "a315a8141",
-      "ad68d0953",
-      "a672c9118",
-      "a5949d54a",
-      "a9c99de5e",
-      "ae1de25ac",
-      "aad5b4d1a",
-      "a2623b22b",
-      "abe4d4497"
-    ],
-    "l2": [
-      "ad2f93f79",
-      "a9eaf8bbb",
-      "ad6ad44b3",
-      "a434c3294",
-      "a61a6f64a",
-      "a24151a40",
-      "a06fb37c0",
-      "a9bd455d6",
-      "a3c2df7b3",
-      "ab1b3d995",
-      "a592de5e5",
-      "a99807619",
-      "a44f81401",
-      "a2d741c06",
-      "a5aa8758e",
-      "a2b42ade4",
-      "ad728fbcd",
-      "a82ca4c16",
-      "a9c67007c",
-      "a7158c832",
-      "ac9f53313",
-      "aca48b05a",
-      "a95a70797",
-      "a0c4ebb65",
-      "a0b43a2bc",
-      "ab3119897",
-      "af0f189d1"
-    ],
     "l1": [
+      "ac428c94f",
+      "ac26292a9",
+      "aa3eda2c5",
       "a4d99b61b",
       "afa28f1cd",
       "a0071364e",
@@ -1706,9 +1735,88 @@
       "a5236c597",
       "a2ae2603b"
     ],
+    "l2": [
+      "ad0ca79ea",
+      "af84647e7",
+      "ab2b58493",
+      "ac9946434",
+      "ae090ddff",
+      "af44452ee",
+      "a26ed745a",
+      "a1d7127e9",
+      "ad2f93f79",
+      "a639832c8",
+      "a434c3294",
+      "a61a6f64a",
+      "a24151a40",
+      "a06fb37c0",
+      "a9bd455d6",
+      "ab1b3d995",
+      "a592de5e5",
+      "a44f81401",
+      "a5aa8758e",
+      "a2b42ade4",
+      "ad728fbcd",
+      "a82ca4c16",
+      "a9c67007c",
+      "a7158c832",
+      "ac9f53313",
+      "aca48b05a",
+      "a95a70797",
+      "a0c4ebb65",
+      "a0b43a2bc",
+      "ab3119897",
+      "af0f189d1"
+    ],
+    "l4": [
+      "a0be97cf4",
+      "a75125432",
+      "a825d6888",
+      "aa8d33b0e",
+      "ae39c9f1c",
+      "a69d5707e",
+      "a3fcf2a9a",
+      "a402509ad",
+      "a634f7182",
+      "a05837fc3",
+      "aee0a35f5",
+      "a9a013cc3",
+      "a4a6c96cc",
+      "a03c570b0",
+      "a75b953e3",
+      "a8c4b4ede",
+      "acb1ed002",
+      "a74c807bb",
+      "aaaf9e918",
+      "acf99c45f",
+      "a92223fbf",
+      "a41676a16",
+      "a51f17db4",
+      "a56789fc3",
+      "ad01feb8a"
+    ],
+    "l5": [
+      "a31e6df59",
+      "a14fc8b6f",
+      "a315a8141",
+      "ad68d0953",
+      "a672c9118",
+      "a5949d54a",
+      "a9c99de5e",
+      "ae1de25ac",
+      "aad5b4d1a",
+      "a2623b22b",
+      "abe4d4497"
+    ],
+    "l3": [
+      "a22beb4e2",
+      "a6189f0c8",
+      "aa8b0ed06",
+      "a1585cbf5",
+      "a32296677",
+      "a28f84720"
+    ],
     "l0": [
-      "add0b9f47",
-      "ae3b6bb2c",
       "a72853ece",
       "ac21a9935",
       "affb5cc28",
@@ -1727,59 +1835,27 @@
       "a253e0446",
       "a9173515c",
       "abcb7b0c4"
-    ],
-    "l3": [
-      "ad28a2f39",
-      "afc39f4bb",
-      "a6189f0c8",
-      "aa8b0ed06",
-      "a05e58172",
-      "a1585cbf5",
-      "a32296677",
-      "a28f84720"
     ]
   },
   "top5": [
-    "aa8d33b0e",
-    "ae39c9f1c",
-    "a14fc8b6f",
-    "ad2f93f79",
-    "a4d99b61b"
+    "ac428c94f",
+    "ad0ca79ea",
+    "af84647e7",
+    "ac26292a9",
+    "ab2b58493"
   ],
   "layers": [
-    {
-      "id": "l1",
-      "num": "LAYER 1",
-      "name": "算力硬件",
-      "vals": [
-        20,
-        34,
-        14,
-        9,
-        42,
-        24
-      ],
-      "trend": [
-        20,
-        22,
-        24,
-        26,
-        28,
-        30,
-        32
-      ]
-    },
     {
       "id": "l2",
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        22,
-        17,
-        26,
+        23,
+        34,
+        24,
         7,
-        33,
-        20
+        18,
+        21
       ],
       "trend": [
         20,
@@ -1792,16 +1868,38 @@
       ]
     },
     {
+      "id": "l1",
+      "num": "LAYER 1",
+      "name": "算力硬件",
+      "vals": [
+        21,
+        28,
+        15,
+        10,
+        33,
+        25
+      ],
+      "trend": [
+        20,
+        22,
+        24,
+        26,
+        28,
+        30,
+        32
+      ]
+    },
+    {
       "id": "l4",
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        10,
-        10,
-        8,
+        20,
         18,
-        27,
-        18
+        9,
+        16,
+        19,
+        19
       ],
       "trend": [
         20,
@@ -1818,56 +1916,12 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        10,
-        16,
-        8,
+        15,
+        20,
+        6,
         5,
-        24,
-        18
-      ],
-      "trend": [
-        20,
-        20,
-        20,
-        20,
-        20,
-        20,
-        20
-      ]
-    },
-    {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
-      "vals": [
-        10,
-        12,
-        5,
-        13,
-        10,
-        13
-      ],
-      "trend": [
-        20,
-        18,
-        16,
-        14,
-        12,
-        10,
-        8
-      ]
-    },
-    {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
-      "vals": [
-        14,
-        10,
-        5,
-        5,
-        10,
-        13
+        26,
+        16
       ],
       "trend": [
         20,
@@ -1878,88 +1932,141 @@
         15,
         14
       ]
+    },
+    {
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
+      "vals": [
+        10,
+        16,
+        5,
+        5,
+        18,
+        11
+      ],
+      "trend": [
+        20,
+        19,
+        18,
+        17,
+        16,
+        15,
+        14
+      ]
+    },
+    {
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
+      "vals": [
+        10,
+        10,
+        11,
+        5,
+        12,
+        12
+      ],
+      "trend": [
+        20,
+        18,
+        16,
+        14,
+        12,
+        10,
+        8
+      ]
     }
   ],
   "ticker": [
     {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "The Google TV Streamer now costs $50 more"
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "TP-Link announces its first consumer Wi-Fi 8 routers — Archer 8 U…"
     },
     {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "JMGO’s very bright all-in-one projector looks ideal for gamers an…"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l5)",
-      "text": "FTC lawsuit alleges Amazon has been ‘secretly and systematically’…"
-    },
-    {
-      "tag": "TECHCRUNC",
+      "tag": "ARXIV CS.",
       "col": "var(--l2)",
-      "text": "The Pentagon now has its own version of ChatGPT and Grok"
+      "text": "ERR+: Sequential Entropy Resolution for Efficient and Decisive LL…"
     },
     {
-      "tag": "THE VERGE",
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Unsupervised Latent Space Alignment with Hyperspherical Geodesic …"
+    },
+    {
+      "tag": "ARXIV CS.",
       "col": "var(--l1)",
-      "text": "Alienware’s budget-friendly QD-OLED is discounted for the first t…"
+      "text": "Curvature Cryptanalysis of Smooth Transformer Feed-Forward Networ…"
     },
     {
-      "tag": "TECHCRUNC",
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Equivariant Sheaf Neural Networks: Learning Geometric Transport o…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "The Halt Vector: Internalizing a Causal Steering Intervention for…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Conservative Hybrid Graph Networks for Process Systems with Learn…"
+    },
+    {
+      "tag": "ARXIV CS.",
       "col": "var(--l4)",
-      "text": "Instagram puts new limits on undisclosed AI profiles"
+      "text": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Aut…"
     },
     {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey …"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Kingston's NV3 1TB PCIe 4.0 SSD drops to $156.99 at Newegg — 27% …"
-    },
-    {
-      "tag": "MIT TECH ",
-      "col": "var(--l4)",
-      "text": "Hugging Face hack could indicate cultural issues at OpenAI"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "G.Skill drops new AMD EXPO ULL RAM for Ryzen CPUs — Flare X5X bri…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Trump says communities that reject data centers 'want to end up b…"
-    },
-    {
-      "tag": "TECHCRUNC",
+      "tag": "ARXIV CS.",
       "col": "var(--l5)",
-      "text": "Clipto uses AI to search terabytes of video and is now valued at …"
+      "text": "Expert-validated STEM QA"
     },
     {
-      "tag": "TOM'S HAR",
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "A collective capability boundary in frontier large language model…"
+    },
+    {
+      "tag": "ARXIV CS.",
       "col": "var(--l1)",
-      "text": "Save $240 on a four-item gaming build combo from Newegg – $1,113 …"
+      "text": "Statutory AI: Aligning Large Language Models With Legal Norms"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "From Question-First to Analyst-First: Domain-Expert Skills and Ve…"
     },
     {
       "tag": "TECHCRUNC",
-      "col": "var(--l1)",
-      "text": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tec…"
+      "col": "var(--l4)",
+      "text": "Apple shares ‘shocking evidence’ against former employee accused …"
+    },
+    {
+      "tag": "SIMON WIL",
+      "col": "var(--l4)",
+      "text": "Introducing wrapture"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Smartphone LED detects hidden cameras with AI",
-      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-      "votes": "115",
-      "comments": "31",
+      "title": "Google Antigravity introduces Boost deep reasoning (/boost)",
+      "url": "https://antigravity.google/docs/boost/",
+      "votes": "18",
+      "comments": "3",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Tailcat: Tailscale Without Tailscale, by Tailscale",
+      "url": "https://tailscale.com/blog/tailcat",
+      "votes": "16",
+      "comments": "0",
       "time": "近期"
     },
     {
@@ -1967,8 +2074,8 @@
       "badge": "pb-hn",
       "title": "Terence Tao explains 6 essential mathematical concepts [video]",
       "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-      "votes": "119",
-      "comments": "17",
+      "votes": "278",
+      "comments": "32",
       "time": "近期"
     },
     {
@@ -1976,17 +2083,17 @@
       "badge": "pb-hn",
       "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
       "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "votes": "249",
-      "comments": "272",
+      "votes": "336",
+      "comments": "384",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "How we configured OpenTelemetry logs in Rails",
-      "url": "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails",
-      "votes": "10",
-      "comments": "1",
+      "title": "Smartphone LED detects hidden cameras with AI",
+      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+      "votes": "171",
+      "comments": "50",
       "time": "近期"
     },
     {
@@ -1994,17 +2101,8 @@
       "badge": "pb-hn",
       "title": "ChatGPT Work Tool and Skill Reference",
       "url": "https://codex-tool-reference.simonw.chatgpt.site/",
-      "votes": "161",
-      "comments": "49",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Claude × retrocomputing: emulating a QIC-117 tape drive",
-      "url": "https://dmitrybrant.com/2026/08/23/claude-x-retrocomputing-emulating-a-qic-117-tape-drive",
-      "votes": "8",
-      "comments": "2",
+      "votes": "198",
+      "comments": "52",
       "time": "近期"
     }
   ]
