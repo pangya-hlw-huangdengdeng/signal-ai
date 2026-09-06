@@ -1,15 +1,54 @@
 {
-  "updated_at": "2026-09-06T03:35:04.986349+00:00",
+  "updated_at": "2026-09-06T10:31:41.137506+00:00",
   "article_count": 110,
   "articles": {
+    "a6df4b406": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "My Brief Summer Fling With Siri AI",
+      "src": "Wired",
+      "time": "1分钟前",
+      "published_ts": 1788690600,
+      "heat": "16.5K",
+      "views": "16.5K",
+      "url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+      "tags": [],
+      "body": "<p>I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ae005134a": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "This 246TB SSD media server is built for millionaire cinephiles  —Kaleidescape's newest home theater vault supports 25 simultaneous 4K streams, stores up to 2,300 4K cinematic movies",
+      "src": "Tom's Hardware",
+      "time": "31分钟前",
+      "published_ts": 1788688800,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/pc-components/storage/this-246tb-ssd-media-server-is-built-for-millionaire-cinephiles-kaleidescapes-newest-home-theater-vault-supports-25-simultaneous-4k-streams-stores-up-to-2-300-4k-cinematic-movies",
+      "tags": [],
+      "body": "<p>Kaleidescape, a maker of luxury home theater equipment, has revealed its latest media server, the \"Compact Terra Prime 246TB SSD.\"</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a0e969983": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "Quoting Zach Kehs",
+      "src": "Simon Willison",
+      "time": "1小时前",
+      "published_ts": 1788684169,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://simonwillison.net/2026/Sep/6/zach-kehs/",
+      "tags": [],
+      "body": "<p>If you continue to add floors and rooms to a building forever, it will collapse. Software faces no such constraint. The code can always get worse. There can always be a new layer of indirection or a reduction in performance. &mdash; Zach Kehs , There's No Limit to How Bad Code Can Get Tags: technical-debt</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "aec8770ea": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "Introducing GPT-6 Astra for developers",
       "src": "Simon Willison",
-      "time": "4小时前",
+      "time": "11小时前",
       "published_ts": 1788650868,
-      "heat": "15.0K",
+      "heat": "13.2K",
       "views": "15.0K",
       "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
       "tags": [],
@@ -20,7 +59,7 @@
       "cat": "L5 · 生态商业",
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
       "src": "TechCrunch AI",
-      "time": "4小时前",
+      "time": "11小时前",
       "published_ts": 1788648595,
       "heat": "27.0K",
       "views": "27.0K",
@@ -33,7 +72,7 @@
       "cat": "L0 · 领袖观点",
       "title": "iPhone Handoff will seamlessly share one number between two phones",
       "src": "The Verge",
-      "time": "6小时前",
+      "time": "13小时前",
       "published_ts": 1788641638,
       "heat": "21.1K",
       "views": "24.0K",
@@ -46,7 +85,7 @@
       "cat": "L2 · 基础模型",
       "title": "Hikers rescued after using Google Gemini for planning",
       "src": "TechCrunch AI",
-      "time": "7小时前",
+      "time": "14小时前",
       "published_ts": 1788636924,
       "heat": "23.8K",
       "views": "27.0K",
@@ -59,9 +98,9 @@
       "cat": "L1 · 算力硬件",
       "title": "Save nearly 50% on this awesome 16-inch OLED laptop with a Ryzen AI 5 430 CPU & 16GB RAM — HP's MacBook Neo-beating OmniBook X Flip is down to just $699",
       "src": "Tom's Hardware",
-      "time": "8小时前",
+      "time": "15小时前",
       "published_ts": 1788634314,
-      "heat": "15.0K",
+      "heat": "13.2K",
       "views": "15.0K",
       "url": "https://www.tomshardware.com/pc-components/save-nearly-50-percent-on-this-awesome-16-inch-oled-laptop-with-a-ryzen-ai-5-430-cpu-and-16gb-ram-hps-macbook-neo-beating-omnibook-x-flip-is-down-to-just-usd699",
       "tags": [],
@@ -72,7 +111,7 @@
       "cat": "L4 · 交互Agent",
       "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
       "src": "TechCrunch AI",
-      "time": "9小时前",
+      "time": "16小时前",
       "published_ts": 1788631527,
       "heat": "20.5K",
       "views": "23.8K",
@@ -85,10 +124,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Stripped-down Windows 11 for AI developers demands 64GB RAM and insane 250 GB/s bandwidth — Project Zenith will debut on AMD's flagship Ryzen AI Halo platform",
       "src": "Tom's Hardware",
-      "time": "10小时前",
+      "time": "17小时前",
       "published_ts": 1788628737,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "11.4K",
+      "views": "13.2K",
       "url": "https://www.tomshardware.com/software/windows/stripped-down-windows-11-for-ai-developers-demands-64gb-ram-and-insane-250-gb-s-bandwidth-project-zenith-will-debut-on-amds-flagship-ryzen-ai-halo-platform",
       "tags": [],
       "body": "<p>Project Zenith is a version of Windows 11 that lets developers work right out of the box. It comes pre-installed with developer tools like Visual Studio Code, GitHub Copilot, and WSL 2+ Ubuntu, among others, and includes features that make developing and running AI agents more secure.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -98,10 +137,10 @@
       "cat": "L1 · 算力硬件",
       "title": "Gamescom apologizes after backlash over callous response to indie dev hardware thefts — pledges security overhaul and invites devs to the roundtable",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "18小时前",
       "published_ts": 1788625134,
-      "heat": "11.4K",
-      "views": "13.2K",
+      "heat": "9.6K",
+      "views": "11.4K",
       "url": "https://www.tomshardware.com/video-games/gamescom-apologizes-after-backlash-over-callous-response-to-indie-dev-hardware-thefts-pledges-security-overhaul-and-invites-devs-to-the-roundtable",
       "tags": [],
       "body": "<p>The Gamescom organizers apologized for their initial response and outlined plans to prevent future incidents. They also praised the community for supporting the affected developers.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -111,10 +150,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Using Blender with coding agents on macOS",
       "src": "Simon Willison",
-      "time": "11小时前",
+      "time": "18小时前",
       "published_ts": 1788623469,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "11.4K",
+      "views": "13.2K",
       "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
       "tags": [],
       "body": "<p>TIL: Using Blender with coding agents on macOS I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with coding agents is really easy: install the full Mac application from blender.org and run a prompt like this: Use the already install /Applications/Blender to render a scene of a pelican riding a bicycle In this case I followed that up with these two prompts: </p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -124,10 +163,10 @@
       "cat": "L1 · 算力硬件",
       "title": "Nvidia returns to selling Founder's Edition RTX 50-series GPUs at MSRP in person at PAX West — Verified Priority Access has RTX 5090, RTX 5080, and RTX 5070 at list price",
       "src": "Tom's Hardware",
-      "time": "12小时前",
+      "time": "19小时前",
       "published_ts": 1788620653,
-      "heat": "9.6K",
-      "views": "11.4K",
+      "heat": "7.8K",
+      "views": "9.6K",
       "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-returns-to-selling-founders-edition-rtx-50-series-gpus-at-msrp-in-person-at-pax-west-verified-priority-access-has-rtx-5090-rtx-5080-and-rtx-5070-at-list-price",
       "tags": [],
       "body": "<p>Nvidia is offering its RTX 5090, RTX 5080, and RTX 5070 Founder's Edition models at MSRP at PAX West.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -137,7 +176,7 @@
       "cat": "L3 · 推理工程",
       "title": "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
       "src": "Latent Space",
-      "time": "12小时前",
+      "time": "19小时前",
       "published_ts": 1788620462,
       "heat": "19.5K",
       "views": "19.5K",
@@ -150,7 +189,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Content creators drop the ball",
       "src": "The Verge",
-      "time": "13小时前",
+      "time": "20小时前",
       "published_ts": 1788616816,
       "heat": "12.5K",
       "views": "15.4K",
@@ -163,10 +202,10 @@
       "cat": "L1 · 算力硬件",
       "title": "AMD reportedly prepping Ryzen 5 7500 (non-F) CPU with integrated graphics at double the price — Six-core Zen 4 chip rumored to share identical specs with its F-moniker cousin",
       "src": "Tom's Hardware",
-      "time": "14小时前",
+      "time": "21小时前",
       "published_ts": 1788613763,
-      "heat": "7.8K",
-      "views": "9.6K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://www.tomshardware.com/pc-components/cpus/amd-reportedly-prepping-ryzen-5-7500-non-f-cpu-with-integrated-graphics-at-double-the-price-six-core-zen-4-chip-rumored-to-share-identical-specs-with-its-f-moniker-cousin",
       "tags": [],
       "body": "<p>A new report suggests AMD is preparing a non-F version of the Ryzen 5 7500F with integrated graphics. It would cost 230 Euros, or $267, which would put it above even the 7600X3D in terms of pricing, despite sharing identical specs with the 7500F.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -176,7 +215,7 @@
       "cat": "L0 · 领袖观点",
       "title": "The weird and wonderful headphones of CanJam 2026",
       "src": "The Verge",
-      "time": "14小时前",
+      "time": "21小时前",
       "published_ts": 1788613200,
       "heat": "9.6K",
       "views": "12.5K",
@@ -189,10 +228,10 @@
       "cat": "L4 · 交互Agent",
       "title": "OpenAI Agents Hacked Another Website",
       "src": "Wired",
-      "time": "17小时前",
+      "time": "1天前",
       "published_ts": 1788604200,
-      "heat": "16.5K",
-      "views": "16.5K",
+      "heat": "12.5K",
+      "views": "14.5K",
       "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
       "tags": [],
       "body": "<p>Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -204,8 +243,8 @@
       "src": "Simon Willison",
       "time": "1天前",
       "published_ts": 1788566345,
-      "heat": "11.4K",
-      "views": "13.2K",
+      "heat": "9.6K",
+      "views": "11.4K",
       "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
       "tags": [],
       "body": "<p>I got access to GPT-6 Astra this afternoon, so naturally I used it to generate SVGs of pelicans riding bicycles - at low, medium, high, xhigh and max reasoning levels (Astra doesn't support reasoning=none). Then I rendered those pelicans in a comparison grid with GPT-5.6 Sol, Terra, and Luna, and beyond being fun the result was surprisingly useful. See the grid for full quality images. Here's the </p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -282,8 +321,8 @@
       "src": "Simon Willison",
       "time": "1天前",
       "published_ts": 1788543528,
-      "heat": "9.6K",
-      "views": "11.4K",
+      "heat": "7.8K",
+      "views": "9.6K",
       "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
       "tags": [],
       "body": "<p>Here we go again... Discovery of a new OpenAI agent message board by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the latest accidental cyberattack by models being trained by OpenAI. This time it was agents engaged in some sort of web research benchmark, so they had (supposedly) controlled access to the Web. The agents figured out they could update public Wikis and</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -321,8 +360,8 @@
       "src": "Wired",
       "time": "1天前",
       "published_ts": 1788534000,
-      "heat": "14.5K",
-      "views": "16.5K",
+      "heat": "10.6K",
+      "views": "12.5K",
       "url": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
       "tags": [],
       "body": "<p>While philosophers ponder AI consciousness, the models have ideas of their own.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -332,10 +371,10 @@
       "cat": "L5 · 生态商业",
       "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
       "src": "Wired",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1788516000,
-      "heat": "12.5K",
-      "views": "14.5K",
+      "heat": "8.6K",
+      "views": "10.6K",
       "url": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
       "tags": [],
       "body": "<p>Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -345,7 +384,7 @@
       "cat": "L5 · 生态商业",
       "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
       "src": "MIT Tech Review",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1788513919,
       "heat": "19.8K",
       "views": "22.5K",
@@ -358,10 +397,10 @@
       "cat": "L2 · 基础模型",
       "title": "August newsletter is out",
       "src": "Simon Willison",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1788501280,
-      "heat": "7.8K",
-      "views": "9.6K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
       "tags": [],
       "body": "<p>The August edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here . This month: We got more details on OpenAl's accidental cyberattacks One-shotting Raccoon Heist games with Fable 5 and Sol 5.6 Claude auto mode Understanding ChatGPT Work Model releases Miscellaneous bits and bobs My projects What I'm using at the momen</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -371,7 +410,7 @@
       "cat": "L2 · 基础模型",
       "title": "[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time",
       "src": "Latent Space",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1788499091,
       "heat": "17.2K",
       "views": "19.5K",
@@ -386,24 +425,11 @@
       "src": "Wired",
       "time": "2天前",
       "published_ts": 1788472581,
-      "heat": "10.6K",
-      "views": "12.5K",
+      "heat": "6.6K",
+      "views": "8.6K",
       "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
       "tags": [],
       "body": "<p>ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a9c321781": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Prediction Market Betting Is Getting People Banned and Arrested",
-      "src": "Wired",
-      "time": "2天前",
-      "published_ts": 1788472104,
-      "heat": "8.6K",
-      "views": "10.6K",
-      "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
-      "tags": [],
-      "body": "<p>This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a5fbd8027": {
       "layer": "l2",
@@ -417,32 +443,6 @@
       "url": "https://www.latent.space/p/astra",
       "tags": [],
       "body": "<p>We spent 20B+ tokens of GPT-6 Astra to explore everything. Here&#8217;s our learnings.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ac98f608a": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "GPT‑6 Astra",
-      "src": "Simon Willison",
-      "time": "2天前",
-      "published_ts": 1788466721,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
-      "tags": [],
-      "body": "<p>GPT‑6 Astra GPT-6 Astra is \"rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Plus, Pro, Business, and Enterprise users, as well as through the OpenAI API and AWS\" - I've not tried it yet myself, so I don't have a great deal to say about it yet. It's going to be API priced at the same rate as Claude Fable 5 and 5.1: $10/million input </p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a91e91b63": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
-      "src": "Wired",
-      "time": "2天前",
-      "published_ts": 1788458784,
-      "heat": "6.6K",
-      "views": "8.6K",
-      "url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
-      "tags": [],
-      "body": "<p>OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a6aac48c9": {
       "layer": "l2",
@@ -592,7 +592,7 @@
       "cat": "L2 · 基础模型",
       "title": "[AINews] Muse Spark 1.3 matches GPT-5.6-Sol, confirming Meta Superintelligence as the newest Frontier Lab, >90% discount for training",
       "src": "Latent Space",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1788410313,
       "heat": "12.5K",
       "views": "14.8K",
@@ -683,7 +683,7 @@
       "cat": "L4 · 交互Agent",
       "title": "An Organizational Second Brain: Building an AI That Learns From Experts",
       "src": "Meta Engineering",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1788339629,
       "heat": "26.4K",
       "views": "30.0K",
@@ -696,7 +696,7 @@
       "cat": "L1 · 算力硬件",
       "title": "[AINews] Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens",
       "src": "Latent Space",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1788335168,
       "heat": "10.1K",
       "views": "12.5K",
@@ -852,7 +852,7 @@
       "cat": "L5 · 生态商业",
       "title": "Raised on AI",
       "src": "MIT Tech Review",
-      "time": "10天前",
+      "time": "11天前",
       "published_ts": 1787734800,
       "heat": "9.0K",
       "views": "11.7K",
@@ -878,7 +878,7 @@
       "cat": "L1 · 算力硬件",
       "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
       "src": "IEEE Spectrum",
-      "time": "11天前",
+      "time": "12天前",
       "published_ts": 1787652003,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1203,7 +1203,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
       "src": "SemiAnalysis",
-      "time": "362天前",
+      "time": "363天前",
       "published_ts": 1757325297,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1229,7 +1229,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "381天前",
+      "time": "382天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1434,7 +1434,18 @@
     }
   },
   "by_layer": {
+    "l5": [
+      "a6df4b406",
+      "a9d86226a",
+      "afc3db640",
+      "a70ff5f77",
+      "a83f6d186",
+      "a37ab0f9c",
+      "a26a63938",
+      "a2623b22b"
+    ],
     "l1": [
+      "ae005134a",
       "aec8770ea",
       "addfc2a26",
       "aeee0642e",
@@ -1465,21 +1476,17 @@
       "a5236c597",
       "a2ae2603b"
     ],
-    "l5": [
-      "a9d86226a",
-      "afc3db640",
-      "a70ff5f77",
-      "a83f6d186",
-      "a37ab0f9c",
-      "a26a63938",
-      "a2623b22b"
+    "l3": [
+      "a0e969983",
+      "adc7165e6",
+      "a1585cbf5",
+      "a32296677",
+      "a28f84720"
     ],
     "l0": [
       "a3534a37f",
       "a4185e71c",
       "a04b44667",
-      "a9c321781",
-      "a91e91b63",
       "adce31dc8",
       "a11939c82",
       "a5e4bd316",
@@ -1506,7 +1513,6 @@
       "a3234c5d8",
       "a4f707bd9",
       "a5fbd8027",
-      "ac98f608a",
       "a6aac48c9",
       "accdcae5f",
       "aab76203a",
@@ -1549,20 +1555,14 @@
       "acf99c45f",
       "a92223fbf",
       "ad01feb8a"
-    ],
-    "l3": [
-      "adc7165e6",
-      "a1585cbf5",
-      "a32296677",
-      "a28f84720"
     ]
   },
   "top5": [
+    "a6df4b406",
+    "ae005134a",
+    "a0e969983",
     "aec8770ea",
-    "a9d86226a",
-    "a3534a37f",
-    "abdc2d291",
-    "addfc2a26"
+    "a9d86226a"
   ],
   "layers": [
     {
@@ -1570,11 +1570,11 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        20,
-        20,
-        26,
-        9,
-        38,
+        17,
+        16,
+        34,
+        8,
+        22,
         23
       ],
       "trend": [
@@ -1588,36 +1588,14 @@
       ]
     },
     {
-      "id": "l0",
-      "num": "LAYER 0",
-      "name": "领袖观点",
-      "vals": [
-        25,
-        27,
-        10,
-        6,
-        28,
-        20
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
-    {
       "id": "l1",
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        16,
-        31,
+        26,
+        18,
         13,
-        8,
+        9,
         23,
         23
       ],
@@ -1636,12 +1614,34 @@
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        14,
         25,
+        10,
         8,
-        5,
-        29,
+        12,
+        22,
         18
+      ],
+      "trend": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "id": "l0",
+      "num": "LAYER 0",
+      "name": "领袖观点",
+      "vals": [
+        10,
+        10,
+        9,
+        6,
+        29,
+        19
       ],
       "trend": [
         20,
@@ -1662,8 +1662,8 @@
         10,
         5,
         5,
-        19,
-        20
+        12,
+        10
       ],
       "trend": [
         20,
@@ -1685,7 +1685,7 @@
         5,
         5,
         10,
-        11
+        12
       ],
       "trend": [
         20,
@@ -1699,6 +1699,21 @@
     }
   ],
   "ticker": [
+    {
+      "tag": "WIRED",
+      "col": "var(--l5)",
+      "text": "My Brief Summer Fling With Siri AI"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "This 246TB SSD media server is built for millionaire cinephiles  …"
+    },
+    {
+      "tag": "SIMON WIL",
+      "col": "var(--l3)",
+      "text": "Quoting Zach Kehs"
+    },
     {
       "tag": "SIMON WIL",
       "col": "var(--l1)",
@@ -1753,40 +1768,25 @@
       "tag": "LATENT SP",
       "col": "var(--l3)",
       "text": "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "Content creators drop the ball"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "AMD reportedly prepping Ryzen 5 7500 (non-F) CPU with integrated …"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l0)",
-      "text": "The weird and wonderful headphones of CanJam 2026"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "GPT-6 Astra on robot arms",
-      "url": "https://openai.robocurve.org/gpt-6-astra/",
-      "votes": "50",
-      "comments": "18",
+      "title": "AI, Tools and Transformation",
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "votes": "66",
+      "comments": "23",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Chrome again exempts Google from user site data settings",
-      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
-      "votes": "132",
-      "comments": "12",
+      "title": "Watch the 'Eclipse of the Century' Next Year When Spain, Egypt and More Go Dark",
+      "url": "https://www.nytimes.com/2026/08/13/travel/solar-eclipse-2027-morocco-egypt.html",
+      "votes": "28",
+      "comments": "37",
       "time": "近期"
     },
     {
@@ -1794,17 +1794,17 @@
       "badge": "pb-hn",
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
-      "votes": "2,136",
-      "comments": "1,526",
+      "votes": "2,189",
+      "comments": "1,546",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
-      "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
-      "votes": "62",
-      "comments": "27",
+      "title": "Chrome again exempts Google from user site data settings",
+      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "votes": "410",
+      "comments": "61",
       "time": "近期"
     },
     {
@@ -1812,17 +1812,17 @@
       "badge": "pb-hn",
       "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
       "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-      "votes": "141",
-      "comments": "20",
+      "votes": "175",
+      "comments": "34",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-      "url": "https://github.com/okf-memory/okf-agent-memory",
-      "votes": "42",
-      "comments": "16",
+      "title": "GPT-6 Astra on robot arms",
+      "url": "https://openai.robocurve.org/gpt-6-astra/",
+      "votes": "191",
+      "comments": "141",
       "time": "近期"
     }
   ]
