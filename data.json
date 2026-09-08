@@ -1,15 +1,67 @@
 {
-  "updated_at": "2026-09-07T21:15:45.329844+00:00",
-  "article_count": 119,
+  "updated_at": "2026-09-08T03:39:43.217939+00:00",
+  "article_count": 118,
   "articles": {
+    "a03a21935": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Arm debuts next-gen semi-custom Neoverse CSS N4 ‘Ranger’ platform — compute subsystem packs up to 128 cores per die on TSMC N3P",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1788832800,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/pc-components/cpus/arm-debuts-next-gen-semi-custom-neoverse-css-n4-ranger-platform-compute-subsystem-packs-up-to-128-cores-per-die-on-tsmc-n3p",
+      "tags": [],
+      "body": "<p>Arm’s new Neoverse CSS N4 platform can pack up to 128 cores per die and 256 MB of L3 cache, representing a large increase in support over the previous Neoverse CSS N2 platform.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a51345bd9": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
+      "src": "The Verge",
+      "time": "1小时前",
+      "published_ts": 1788832800,
+      "heat": "24.0K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
+      "tags": [],
+      "body": "<p>China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics processor inside its custom Xring O3 chip. What's so special about that? After five years of development, Arm now has [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ac9d29f5f": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "llm 0.35",
+      "src": "Simon Willison",
+      "time": "3小时前",
+      "published_ts": 1788825294,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://simonwillison.net/2026/Sep/7/llm/",
+      "tags": [],
+      "body": "<p>Release: llm 0.35 New OpenAI model: gpt-6-astra for GPT-6 Astra . Tags: openai , llm , gpt-6-astra</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a1a56e2ba": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "Quoting Jakub Pachocki",
+      "src": "Simon Willison",
+      "time": "5小时前",
+      "published_ts": 1788819985,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
+      "tags": [],
+      "body": "<p>The strongest argument I see for continuing to train much smarter models quickly is the need to build defensive systems against the dangers posed by other AI. [...] We will need powerful, aligned AI for defense; to secure infrastructure, to protect against rogue agents in real time, and to invent entirely new protective measures. This will be a primary focus of OpenAI’s deployment efforts. At the </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a6f1f34c2": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
       "src": "The Verge",
-      "time": "1小时前",
+      "time": "7小时前",
       "published_ts": 1788811421,
-      "heat": "24.0K",
+      "heat": "21.1K",
       "views": "24.0K",
       "url": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
       "tags": [],
@@ -20,7 +72,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Opaque recurrence, and other AI terms that you should probably know",
       "src": "TechCrunch AI",
-      "time": "1小时前",
+      "time": "8小时前",
       "published_ts": 1788809040,
       "heat": "27.0K",
       "views": "27.0K",
@@ -28,14 +80,40 @@
       "tags": [],
       "body": "<p>The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
+    "a576f47e9": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Video compressor",
+      "src": "Simon Willison",
+      "time": "9小时前",
+      "published_ts": 1788805747,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://simonwillison.net/2026/Sep/7/video-compressor/",
+      "tags": [],
+      "body": "<p>Tool: Video compressor I recorded a short demo video of my Equal Earth animation on my phone and wanted to publish an optimized version of that video (using FFMPEG) on my blog, so I had Claude Fable 5.1 in Claude Code for web build me this tool using the WebAssembly build of FFMPEG. Tags: ffmpeg , video , webassembly , claude , claude-code , claude-mythos-fable</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a2252f9a6": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Mercator ↔ Equal Earth",
+      "src": "Simon Willison",
+      "time": "11小时前",
+      "published_ts": 1788798256,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://simonwillison.net/2026/Sep/7/equal-earth/",
+      "tags": [],
+      "body": "<p>Tool: Mercator ↔ Equal Earth I got curious about the Equal Earth map projection that was recently voted on at the UN so I had GPT-6 Astra (medium) in ChatGPT Work build me this animated transition between Mercator and Equal Earth using D3. Tags: geospatial , d3 , vibe-coding , gpt-6-astra</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "aafdf10a0": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "Save up to 38% on a new gaming PC before the Labor Day sales end and beat the price rises — lock down last-minute savings on new pre-built rigs from Best Buy, Newegg, and Walmart",
       "src": "Tom's Hardware",
-      "time": "5小时前",
+      "time": "11小时前",
       "published_ts": 1788796816,
-      "heat": "15.0K",
+      "heat": "13.2K",
       "views": "15.0K",
       "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/save-up-to-38-percent-on-a-new-gaming-pc-before-the-labor-day-sales-end-and-beat-the-price-rises-lock-down-last-minute-savings-on-new-pre-built-rigs-from-best-buy-newegg-and-walmart",
       "tags": [],
@@ -46,10 +124,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Six years later, Sony revisits its legendary XM4 headphones",
       "src": "The Verge",
-      "time": "5小时前",
+      "time": "11小时前",
       "published_ts": 1788796800,
-      "heat": "21.1K",
-      "views": "24.0K",
+      "heat": "18.2K",
+      "views": "21.1K",
       "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
       "tags": [],
       "body": "<p>Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best headphones lists for years, thanks to their great sound, competitive ANC, and compact size, [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -59,10 +137,10 @@
       "cat": "L2 · 基础模型",
       "title": "OpenAI’s GPT-6 Astra model autonomously completes Portal in 24 hours — feat cost just $571 in tokens",
       "src": "Tom's Hardware",
-      "time": "7小时前",
+      "time": "14小时前",
       "published_ts": 1788787556,
-      "heat": "11.4K",
-      "views": "13.2K",
+      "heat": "9.6K",
+      "views": "11.4K",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-gpt-6-astra-model-autonomously-completes-portal-in-24-hours-feat-cost-just-usd571-in-tokens",
       "tags": [],
       "body": "<p>An AI enthusiast has conducted an experiment where OpenAI's new GPT-6 Astra played through the entirety of Valve's Portal 3D puzzler game on its own.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -72,10 +150,10 @@
       "cat": "L1 · 算力硬件",
       "title": "Astonishing mod runs DLSS 5 on a second GPU to boost neural-rendered FPS up to 127% — game renders on one card, neural post-processing runs on the other, much like dedicated PhysX GPUs",
       "src": "Tom's Hardware",
-      "time": "8小时前",
+      "time": "15小时前",
       "published_ts": 1788784436,
-      "heat": "9.6K",
-      "views": "11.4K",
+      "heat": "7.8K",
+      "views": "9.6K",
       "url": "https://www.tomshardware.com/pc-components/gpus/astonishing-mod-runs-nvidia-dlss-5-on-a-second-gpu-using-a-reshade-add-on-to-reduce-performance-impact-boosts-neural-rendered-fps-up-to-127-percent-game-renders-on-one-card-neural-post-processing-runs-on-the-other-much-like-dedicated-physx-gpus",
       "tags": [],
       "body": "<p>A modder has created a ReShade add-on that runs Nvidia's DLSS 5 Neural Rendering on a second GPU, rendering the game on the first GPU to share the performance load.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -85,36 +163,23 @@
       "cat": "L0 · 领袖观点",
       "title": "The real reason your phone is getting more expensive",
       "src": "The Verge",
-      "time": "9小时前",
+      "time": "15小时前",
       "published_ts": 1788782400,
-      "heat": "15.4K",
-      "views": "18.2K",
+      "heat": "12.5K",
+      "views": "15.4K",
       "url": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
       "tags": [],
       "body": "<p>When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring memory costs have become unavoidable - with no end to the memory crunch in sight. Call it \"chipflation\" [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a99db791a": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "GTA Vice City and GTA III return to web browsers after a DMCA takedown — Open-source reverse engineering brings the classics to the web with over 100 FPS performance",
-      "src": "Tom's Hardware",
-      "time": "9小时前",
-      "published_ts": 1788780600,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://www.tomshardware.com/video-games/gta-vice-city-and-gta-iii-return-to-web-browsers-after-a-dmca-takedown-open-source-reverse-engineering-brings-the-classics-to-the-web-with-over-100-fps-performance",
-      "tags": [],
-      "body": "<p>You can play GTA: Vice City and GTA III in your browser right now across pretty much any modern device. The projects are compiled from source codes of the original games and are available on either DOS Zone, where you're required to upload or torrent a few assets, or Quenq.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a34efa864": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
       "src": "The Verge",
-      "time": "10小时前",
+      "time": "16小时前",
       "published_ts": 1788778800,
-      "heat": "12.5K",
-      "views": "15.4K",
+      "heat": "9.6K",
+      "views": "12.5K",
       "url": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
       "tags": [],
       "body": "<p>Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac's Celestiq is taking bespoke to a whole new level, and Mercedes has given the EQS the full Maybach treatment. From Volkswagen Auto Group, Bentley [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -124,7 +189,7 @@
       "cat": "L5 · 生态商业",
       "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
       "src": "Wired",
-      "time": "10小时前",
+      "time": "17小时前",
       "published_ts": 1788777000,
       "heat": "16.5K",
       "views": "16.5K",
@@ -137,7 +202,7 @@
       "cat": "L2 · 基础模型",
       "title": "Our new contrail avoidance trial in Asia-Pacific",
       "src": "Google AI Blog",
-      "time": "13小时前",
+      "time": "19小时前",
       "published_ts": 1788768000,
       "heat": "34.5K",
       "views": "34.5K",
@@ -150,7 +215,7 @@
       "cat": "L2 · 基础模型",
       "title": "Spectral-Target Physical Latent Structuring for JEPA-Style World Models",
       "src": "arXiv cs.LG",
-      "time": "17小时前",
+      "time": "23小时前",
       "published_ts": 1788753600,
       "heat": "15.0K",
       "views": "15.0K",
@@ -163,7 +228,7 @@
       "cat": "L2 · 基础模型",
       "title": "ProToMEx: Rapid, Interpretable Explanations via Structured Representations",
       "src": "arXiv cs.LG",
-      "time": "17小时前",
+      "time": "23小时前",
       "published_ts": 1788753600,
       "heat": "13.2K",
       "views": "15.0K",
@@ -176,7 +241,7 @@
       "cat": "L0 · 领袖观点",
       "title": "A Data Fusion Framework for Grounding Aerospace Surrogate Model via Experimental Wind-Tunnel Observations",
       "src": "arXiv cs.LG",
-      "time": "17小时前",
+      "time": "23小时前",
       "published_ts": 1788753600,
       "heat": "11.4K",
       "views": "13.2K",
@@ -189,7 +254,7 @@
       "cat": "L2 · 基础模型",
       "title": "Quantum-Assisted Memory-Efficient Training for Parameter-Intensive Wi-Fi-Based Human Activity Recognition",
       "src": "arXiv cs.LG",
-      "time": "17小时前",
+      "time": "23小时前",
       "published_ts": 1788753600,
       "heat": "9.6K",
       "views": "11.4K",
@@ -202,7 +267,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Evaluating Large Language Models for Forced Outage Risk Prediction: Benefits and Comparison to Machine Learning",
       "src": "arXiv cs.LG",
-      "time": "17小时前",
+      "time": "23小时前",
       "published_ts": 1788753600,
       "heat": "7.8K",
       "views": "9.6K",
@@ -215,7 +280,7 @@
       "cat": "L0 · 领袖观点",
       "title": "BER-PEF: Unified Human Mobility Predictability Evaluation via Bayes Error Rate Estimation",
       "src": "arXiv cs.LG",
-      "time": "17小时前",
+      "time": "23小时前",
       "published_ts": 1788753600,
       "heat": "6.0K",
       "views": "7.8K",
@@ -228,7 +293,7 @@
       "cat": "L2 · 基础模型",
       "title": "EXAONE Forecast for Finance",
       "src": "arXiv cs.AI",
-      "time": "17小时前",
+      "time": "23小时前",
       "published_ts": 1788753600,
       "heat": "15.0K",
       "views": "15.0K",
@@ -241,7 +306,7 @@
       "cat": "L4 · 交互Agent",
       "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
       "src": "arXiv cs.AI",
-      "time": "17小时前",
+      "time": "23小时前",
       "published_ts": 1788753600,
       "heat": "13.2K",
       "views": "15.0K",
@@ -254,7 +319,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
       "src": "arXiv cs.AI",
-      "time": "17小时前",
+      "time": "23小时前",
       "published_ts": 1788753600,
       "heat": "11.4K",
       "views": "13.2K",
@@ -267,7 +332,7 @@
       "cat": "L2 · 基础模型",
       "title": "Data-Optimized Contingency Screening: A Machine Learning Approach to Power System Security",
       "src": "arXiv cs.AI",
-      "time": "17小时前",
+      "time": "23小时前",
       "published_ts": 1788753600,
       "heat": "9.6K",
       "views": "11.4K",
@@ -280,7 +345,7 @@
       "cat": "L2 · 基础模型",
       "title": "Iris: Climbing to the Search Frontier",
       "src": "arXiv cs.AI",
-      "time": "17小时前",
+      "time": "23小时前",
       "published_ts": 1788753600,
       "heat": "7.8K",
       "views": "9.6K",
@@ -293,7 +358,7 @@
       "cat": "L2 · 基础模型",
       "title": "A Removal Based Approach to Improve LLM Faithfulness at Test-Time",
       "src": "arXiv cs.AI",
-      "time": "17小时前",
+      "time": "23小时前",
       "published_ts": 1788753600,
       "heat": "6.0K",
       "views": "7.8K",
@@ -306,7 +371,7 @@
       "cat": "L2 · 基础模型",
       "title": "Backing 16 green AI projects in Asia-Pacific",
       "src": "Google AI Blog",
-      "time": "20小时前",
+      "time": "1天前",
       "published_ts": 1788742800,
       "heat": "30.4K",
       "views": "34.5K",
@@ -319,7 +384,7 @@
       "cat": "L2 · 基础模型",
       "title": "Supporting independent journalism in Ukraine",
       "src": "OpenAI Blog",
-      "time": "21小时前",
+      "time": "1天前",
       "published_ts": 1788739200,
       "heat": "45.0K",
       "views": "45.0K",
@@ -353,19 +418,6 @@
       "tags": [],
       "body": "<p>The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "af133cabf": {
-      "layer": "l3",
-      "cat": "L3 · 推理工程",
-      "title": "The purpose of DNS is to spread scams",
-      "src": "Simon Willison",
-      "time": "1天前",
-      "published_ts": 1788705607,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
-      "tags": [],
-      "body": "<p>The purpose of DNS is to spread scams Terence Eden shares some daunting statistics in support of his take that \"the Domain Name System's purpose seems to be a vector for criminals to run scams on people at a terrifyingly high rate\". On this Interisle report ( via Andrew Campling ), Terence says: It says 85 million new registrations of gTLDs were made in 2025. Of those 8.5 million were added to blo</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a6df4b406": {
       "layer": "l5",
       "cat": "L5 · 生态商业",
@@ -378,19 +430,6 @@
       "url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
       "tags": [],
       "body": "<p>I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a3e0d7aa4": {
-      "layer": "l3",
-      "cat": "L3 · 推理工程",
-      "title": "There's No Limit to How Bad Code Can Get",
-      "src": "Simon Willison",
-      "time": "1天前",
-      "published_ts": 1788685686,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
-      "tags": [],
-      "body": "<p>My comment on There&#x27;s No Limit to How Bad Code Can Get &mdash; Lobste.rs. [In reply to a comment about burning it down to start from scratch when technical debt becomes overwhelming] In my experience it's so rare for that to work. You announce the old thing is irrecoverably drowning in tech debt. You spin up a team to rewrite it from scratch. Work begins. Meanwhile the old thing remains a mov</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "aa1614d80": {
       "layer": "l2",
@@ -405,19 +444,6 @@
       "tags": [],
       "body": "<p>Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a0e969983": {
-      "layer": "l3",
-      "cat": "L3 · 推理工程",
-      "title": "Quoting Zach Kehs",
-      "src": "Simon Willison",
-      "time": "1天前",
-      "published_ts": 1788684169,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://simonwillison.net/2026/Sep/6/zach-kehs/",
-      "tags": [],
-      "body": "<p>If you continue to add floors and rooms to a building forever, it will collapse. Software faces no such constraint. The code can always get worse. There can always be a new layer of indirection or a reduction in performance. &mdash; Zach Kehs , There's No Limit to How Bad Code Can Get Tags: technical-debt</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a1797e8e3": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
@@ -431,25 +457,12 @@
       "tags": [],
       "body": "<p>Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "aec8770ea": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Introducing GPT-6 Astra for developers",
-      "src": "Simon Willison",
-      "time": "1天前",
-      "published_ts": 1788650868,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
-      "tags": [],
-      "body": "<p>Introducing GPT-6 Astra for developers Blink and you'll miss it, but there's a familiar creature at 1m59s : Across the board, Astra has more attention to detail, better understanding of the user's prompt, and can build more sophisticated outputs. In particular, it excels at building 3D models. I've seen it make incredible renderings of gardens, shipyards, animals , cityscapes, even Dyson spheres. </p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a9d86226a": {
       "layer": "l5",
       "cat": "L5 · 生态商业",
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
       "src": "TechCrunch AI",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1788648595,
       "heat": "17.3K",
       "views": "20.5K",
@@ -483,19 +496,6 @@
       "tags": [],
       "body": "<p>OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a23c4e3df": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Using Blender with coding agents on macOS",
-      "src": "Simon Willison",
-      "time": "2天前",
-      "published_ts": 1788623469,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
-      "tags": [],
-      "body": "<p>TIL: Using Blender with coding agents on macOS I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with coding agents is really easy: install the full Mac application from blender.org and run a prompt like this: Use the already install /Applications/Blender to render a scene of a pelican riding a bicycle In this case I followed that up with these two prompts: </p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "adc7165e6": {
       "layer": "l3",
       "cat": "L3 · 推理工程",
@@ -503,7 +503,7 @@
       "src": "Latent Space",
       "time": "2天前",
       "published_ts": 1788620462,
-      "heat": "19.5K",
+      "heat": "17.2K",
       "views": "19.5K",
       "url": "https://www.latent.space/p/grok-bot",
       "tags": [],
@@ -527,7 +527,7 @@
       "cat": "L4 · 交互Agent",
       "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
       "src": "Ars Technica",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1788560256,
       "heat": "18.0K",
       "views": "18.0K",
@@ -620,8 +620,8 @@
       "src": "Latent Space",
       "time": "3天前",
       "published_ts": 1788499091,
-      "heat": "17.2K",
-      "views": "19.5K",
+      "heat": "14.8K",
+      "views": "17.2K",
       "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
       "tags": [],
       "body": "<p>new SOTA computer use and coding, 2.5x pricier per token, but WAY cheaper per task, less monitorable. overall, a very successful launch of OpenAI&#8217;s new frontier model class.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -633,8 +633,8 @@
       "src": "Latent Space",
       "time": "4天前",
       "published_ts": 1788469781,
-      "heat": "14.8K",
-      "views": "17.2K",
+      "heat": "12.5K",
+      "views": "14.8K",
       "url": "https://www.latent.space/p/astra",
       "tags": [],
       "body": "<p>We spent 20B+ tokens of GPT-6 Astra to explore everything. Here&#8217;s our learnings.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -750,8 +750,8 @@
       "src": "Latent Space",
       "time": "4天前",
       "published_ts": 1788410313,
-      "heat": "12.5K",
-      "views": "14.8K",
+      "heat": "10.1K",
+      "views": "12.5K",
       "url": "https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
       "tags": [],
       "body": "<p>an epic comeback story for Meta</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -815,8 +815,8 @@
       "src": "Latent Space",
       "time": "5天前",
       "published_ts": 1788335168,
-      "heat": "10.1K",
-      "views": "12.5K",
+      "heat": "7.8K",
+      "views": "10.1K",
       "url": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
       "tags": [],
       "body": "<p>Queue the usual rush of model launches...</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -826,26 +826,13 @@
       "cat": "L0 · 领袖观点",
       "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
       "src": "NVIDIA Blog",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1788297560,
       "heat": "24.0K",
       "views": "28.5K",
       "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
       "tags": [],
       "body": "<p>“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind, its agentic cybersecurity system developed by the CrowdStrike Cyber [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a11939c82": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors",
-      "src": "Latent Space",
-      "time": "6天前",
-      "published_ts": 1788279435,
-      "heat": "7.8K",
-      "views": "10.1K",
-      "url": "https://www.latent.space/p/pr-not-welcome",
-      "tags": [],
-      "body": "<p>Vercel&#8217;s AI SDK, Astro, Flue and tldraw are replacing drive-by community PRs with software factories, where teams of agents apply fixes and features.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a5e4bd316": {
       "layer": "l0",
@@ -891,7 +878,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Agency and Agents",
       "src": "One Useful Thing",
-      "time": "7天前",
+      "time": "8天前",
       "published_ts": 1788135875,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1151,7 +1138,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Harness Engineering for Self-Improvement",
       "src": "Lilian Weng",
-      "time": "65天前",
+      "time": "66天前",
       "published_ts": 1783123200,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1177,7 +1164,7 @@
       "cat": "L2 · 基础模型",
       "title": "Scaling Laws, Carefully",
       "src": "Lilian Weng",
-      "time": "75天前",
+      "time": "76天前",
       "published_ts": 1782259200,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1242,7 +1229,7 @@
       "cat": "L0 · 领袖观点",
       "title": "After Orthogonality: Virtue-Ethical Agency and AI Alignment",
       "src": "The Gradient",
-      "time": "200天前",
+      "time": "201天前",
       "published_ts": 1771457152,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1359,7 +1346,7 @@
       "cat": "L2 · 基础模型",
       "title": "GPT-5 Set the Stage for Ad Monetization and the SuperApp",
       "src": "SemiAnalysis",
-      "time": "390天前",
+      "time": "391天前",
       "published_ts": 1755044834,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1385,7 +1372,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Why We Think",
       "src": "Lilian Weng",
-      "time": "494天前",
+      "time": "495天前",
       "published_ts": 1746057600,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1398,7 +1385,7 @@
       "cat": "L2 · 基础模型",
       "title": "Common pitfalls when building generative AI applications",
       "src": "Chip Huyen",
-      "time": "599天前",
+      "time": "600天前",
       "published_ts": 1736985600,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1411,7 +1398,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Agents",
       "src": "Chip Huyen",
-      "time": "608天前",
+      "time": "609天前",
       "published_ts": 1736208000,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1424,7 +1411,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Reward Hacking in Reinforcement Learning",
       "src": "Lilian Weng",
-      "time": "648天前",
+      "time": "649天前",
       "published_ts": 1732752000,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1476,7 +1463,7 @@
       "cat": "L3 · 推理工程",
       "title": "Building A Generative AI Platform",
       "src": "Chip Huyen",
-      "time": "774天前",
+      "time": "775天前",
       "published_ts": 1721865600,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1489,7 +1476,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Extrinsic Hallucinations in LLMs",
       "src": "Lilian Weng",
-      "time": "792天前",
+      "time": "793天前",
       "published_ts": 1720310400,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1515,7 +1502,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Diffusion Models for Video Generation",
       "src": "Lilian Weng",
-      "time": "878天前",
+      "time": "879天前",
       "published_ts": 1712880000,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1528,7 +1515,7 @@
       "cat": "L0 · 领袖观点",
       "title": "What I learned from looking at 900 most popular open source AI tools",
       "src": "Chip Huyen",
-      "time": "907天前",
+      "time": "908天前",
       "published_ts": 1710374400,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1541,7 +1528,7 @@
       "cat": "L2 · 基础模型",
       "title": "Predictive Human Preference: From Model Ranking to Model Routing",
       "src": "Chip Huyen",
-      "time": "922天前",
+      "time": "923天前",
       "published_ts": 1709078400,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1551,34 +1538,12 @@
     }
   },
   "by_layer": {
-    "l4": [
-      "a6f1f34c2",
-      "a8e9efb10",
-      "a67cdf476",
-      "a34efa864",
-      "ae1b2d2dc",
-      "ab4a613f4",
-      "ac2e1bac4",
-      "a1797e8e3",
-      "a1bb8ec95",
-      "a23c4e3df",
-      "aa79f6d1a",
-      "a290e6aed",
-      "ab5af861e",
-      "ada897c51",
-      "a8e5f3350",
-      "a402509ad",
-      "a05837fc3",
-      "a8c4b4ede",
-      "acf99c45f",
-      "a92223fbf",
-      "ad01feb8a"
-    ],
     "l1": [
+      "a03a21935",
+      "a51345bd9",
+      "a576f47e9",
       "aafdf10a0",
       "a7a06d12c",
-      "a99db791a",
-      "aec8770ea",
       "a7397167d",
       "a72db636c",
       "a458d54e1",
@@ -1603,6 +1568,8 @@
       "a2ae2603b"
     ],
     "l2": [
+      "ac9d29f5f",
+      "a2252f9a6",
       "aedf3cd93",
       "a1b29b71c",
       "a37788435",
@@ -1639,6 +1606,35 @@
       "ab3119897",
       "af0f189d1"
     ],
+    "l3": [
+      "a1a56e2ba",
+      "adc7165e6",
+      "a1585cbf5",
+      "a32296677",
+      "a28f84720"
+    ],
+    "l4": [
+      "a6f1f34c2",
+      "a8e9efb10",
+      "a67cdf476",
+      "a34efa864",
+      "ae1b2d2dc",
+      "ab4a613f4",
+      "ac2e1bac4",
+      "a1797e8e3",
+      "a1bb8ec95",
+      "aa79f6d1a",
+      "a290e6aed",
+      "ab5af861e",
+      "ada897c51",
+      "a8e5f3350",
+      "a402509ad",
+      "a05837fc3",
+      "a8c4b4ede",
+      "acf99c45f",
+      "a92223fbf",
+      "ad01feb8a"
+    ],
     "l0": [
       "a8863b545",
       "a373feb2b",
@@ -1647,7 +1643,6 @@
       "a1dc8ac0d",
       "a04b44667",
       "adce31dc8",
-      "a11939c82",
       "a5e4bd316",
       "adb56600f",
       "ad4be959b",
@@ -1672,23 +1667,14 @@
       "a37ab0f9c",
       "a26a63938",
       "a2623b22b"
-    ],
-    "l3": [
-      "af133cabf",
-      "a3e0d7aa4",
-      "a0e969983",
-      "adc7165e6",
-      "a1585cbf5",
-      "a32296677",
-      "a28f84720"
     ]
   },
   "top5": [
-    "a6f1f34c2",
-    "a8e9efb10",
-    "aafdf10a0",
-    "a67cdf476",
-    "aedf3cd93"
+    "a03a21935",
+    "a51345bd9",
+    "ac9d29f5f",
+    "a1a56e2ba",
+    "a6f1f34c2"
   ],
   "layers": [
     {
@@ -1696,12 +1682,12 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
+        28,
+        29,
+        11,
+        10,
         33,
-        21,
-        32,
-        9,
-        42,
-        24
+        25
       ],
       "trend": [
         20,
@@ -1714,15 +1700,37 @@
       ]
     },
     {
+      "id": "l1",
+      "num": "LAYER 1",
+      "name": "算力硬件",
+      "vals": [
+        24,
+        29,
+        11,
+        7,
+        17,
+        21
+      ],
+      "trend": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
       "id": "l4",
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
         10,
-        20,
+        19,
         8,
-        24,
-        24,
+        5,
+        29,
         18
       ],
       "trend": [
@@ -1740,11 +1748,11 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        10,
-        27,
+        19,
+        12,
         9,
         6,
-        17,
+        13,
         19
       ],
       "trend": [
@@ -1758,38 +1766,16 @@
       ]
     },
     {
-      "id": "l1",
-      "num": "LAYER 1",
-      "name": "算力硬件",
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
       "vals": [
-        19,
-        12,
-        10,
-        7,
-        18,
-        20
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
-    {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
-      "vals": [
-        10,
+        11,
         10,
         5,
         5,
-        17,
-        12
+        10,
+        17
       ],
       "trend": [
         20,
@@ -1802,16 +1788,16 @@
       ]
     },
     {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
       "vals": [
         10,
         10,
         5,
         5,
-        15,
-        10
+        10,
+        12
       ],
       "trend": [
         20,
@@ -1826,6 +1812,26 @@
   ],
   "ticker": [
     {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Arm debuts next-gen semi-custom Neoverse CSS N4 ‘Ranger’ platform…"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l1)",
+      "text": "First Xiaomi, then the world: why Arm might give phone gaming a h…"
+    },
+    {
+      "tag": "SIMON WIL",
+      "col": "var(--l2)",
+      "text": "llm 0.35"
+    },
+    {
+      "tag": "SIMON WIL",
+      "col": "var(--l3)",
+      "text": "Quoting Jakub Pachocki"
+    },
+    {
       "tag": "THE VERGE",
       "col": "var(--l4)",
       "text": "Audi’s new A2 E-tron is its most affordable and efficient EV yet"
@@ -1834,6 +1840,16 @@
       "tag": "TECHCRUNC",
       "col": "var(--l4)",
       "text": "Opaque recurrence, and other AI terms that you should probably kn…"
+    },
+    {
+      "tag": "SIMON WIL",
+      "col": "var(--l1)",
+      "text": "Video compressor"
+    },
+    {
+      "tag": "SIMON WIL",
+      "col": "var(--l2)",
+      "text": "Mercator ↔ Equal Earth"
     },
     {
       "tag": "TOM'S HAR",
@@ -1861,39 +1877,9 @@
       "text": "The real reason your phone is getting more expensive"
     },
     {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "GTA Vice City and GTA III return to web browsers after a DMCA tak…"
-    },
-    {
       "tag": "THE VERGE",
       "col": "var(--l4)",
       "text": "Bentley’s Torcal EV tries to balance authenticity with fake V8 so…"
-    },
-    {
-      "tag": "WIRED",
-      "col": "var(--l5)",
-      "text": "Whispering Complaints Into Your Phone May Be the Future of Custom…"
-    },
-    {
-      "tag": "GOOGLE AI",
-      "col": "var(--l2)",
-      "text": "Our new contrail avoidance trial in Asia-Pacific"
-    },
-    {
-      "tag": "ARXIV CS.",
-      "col": "var(--l2)",
-      "text": "Spectral-Target Physical Latent Structuring for JEPA-Style World …"
-    },
-    {
-      "tag": "ARXIV CS.",
-      "col": "var(--l2)",
-      "text": "ProToMEx: Rapid, Interpretable Explanations via Structured Repres…"
-    },
-    {
-      "tag": "ARXIV CS.",
-      "col": "var(--l0)",
-      "text": "A Data Fusion Framework for Grounding Aerospace Surrogate Model v…"
     }
   ],
   "community": [
@@ -1902,17 +1888,17 @@
       "badge": "pb-hn",
       "title": "Trusting-Trust Attack against an Entire Linux Distribution",
       "url": "https://arxiv.org/abs/2607.24888",
-      "votes": "53",
-      "comments": "9",
+      "votes": "170",
+      "comments": "36",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Replaceable but Employed: Automation and the Meaning of Work",
-      "url": "https://www.nber.org/papers/w35559",
-      "votes": "26",
-      "comments": "0",
+      "title": "Show HN: Jigsaw Haiku",
+      "url": "https://jigsawhaiku.com/",
+      "votes": "65",
+      "comments": "22",
       "time": "近期"
     },
     {
@@ -1920,26 +1906,8 @@
       "badge": "pb-hn",
       "title": "Speculative Decoding in vLLM on AMD GPUs",
       "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-      "votes": "124",
-      "comments": "42",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-      "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
-      "votes": "261",
-      "comments": "141",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "De-Brainrot Vacations",
-      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
-      "votes": "451",
-      "comments": "179",
+      "votes": "135",
+      "comments": "49",
       "time": "近期"
     },
     {
@@ -1947,8 +1915,26 @@
       "badge": "pb-hn",
       "title": "Initial effects of AI technology on employment look positive",
       "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-      "votes": "55",
-      "comments": "87",
+      "votes": "71",
+      "comments": "112",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "I'm a seeing-eye dog for a computer",
+      "url": "https://claytonwramsey.com/blog/seeing-eye/",
+      "votes": "106",
+      "comments": "88",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+      "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+      "votes": "275",
+      "comments": "170",
       "time": "近期"
     }
   ]
