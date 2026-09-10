@@ -1,13 +1,221 @@
 {
-  "updated_at": "2026-09-10T03:42:45.349174+00:00",
-  "article_count": 112,
+  "updated_at": "2026-09-10T10:53:20.023460+00:00",
+  "article_count": 121,
   "articles": {
+    "a8988107a": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "Everything New You Can Do With Siri AI",
+      "src": "Wired",
+      "time": "23分钟前",
+      "published_ts": 1789036200,
+      "heat": "16.5K",
+      "views": "16.5K",
+      "url": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
+      "tags": [],
+      "body": "<p>When iOS 27 arrives, it will bring with it a fully revamped assistant for your iPhone.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a475ec063": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Self-taught tinkerer demos working room-sized Cold War-era supercomputer with vacuum tubes — takes 15 minutes to warm up and smells like burning dust, 8-bit design uses 460 recycled 1950s Soviet tubes",
+      "src": "Tom's Hardware",
+      "time": "53分钟前",
+      "published_ts": 1789034400,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/desktops/pc-building/self-taught-electronics-tinkerer-builds-cold-war-era-vacuum-tube-computer-8-bit-design-uses-460-recycled-6n3p-vacuum-tubes-manufactured-in-the-1950s",
+      "tags": [],
+      "body": "<p>A self-taught electronics tinkerer called Mike recently shared details of his retro-computing vacuum tube computer project.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a79cf6836": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "The variable aperture isn’t the cool part of the iPhone 18 Pro’s camera",
+      "src": "The Verge",
+      "time": "53分钟前",
+      "published_ts": 1789034400,
+      "heat": "24.0K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/tech/993155/variable-aperture-iphone-18-pro-photography",
+      "tags": [],
+      "body": "<p>Apple always makes a big show of the latest cameras in its phones, and the major talking point of the iPhone 18 Pro is about the new variable aperture. Both the iPhone 18 Pro and Pro Max have an adjustable mechanical iris in their main camera modules to let more or less light into the [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a359399e5": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
+      "src": "Wired",
+      "time": "53分钟前",
+      "published_ts": 1789034400,
+      "heat": "14.5K",
+      "views": "16.5K",
+      "url": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
+      "tags": [],
+      "body": "<p>InquiryIQ, a previously unreported prototype, tested a model from xAI, maker of Grok, to surface associates, social accounts, and other information about people identified through Clearview.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a6d086ee8": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
+      "src": "The Verge",
+      "time": "3小时前",
+      "published_ts": 1789023600,
+      "heat": "12.5K",
+      "views": "15.4K",
+      "url": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
+      "tags": [],
+      "body": "<p>It's been about three years since Volvo discontinued its plug-in hybrid XC40. The mild hybrid version remains on sale in the US and elsewhere, alongside the electric EX40. Today, Volvo announced it was bringing back the PHEV version and giving it a major facelift. When it arrives at dealerships early next year, the new XC40 [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a2e0a71d5": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "AhaBench: Do Agents Learn from Prior Experience? A Benchmark for Long-Horizon Continual Learning",
+      "src": "arXiv cs.LG",
+      "time": "6小时前",
+      "published_ts": 1789012800,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2609.05435",
+      "tags": [],
+      "body": "<p>arXiv:2609.05435v1 Announce Type: new Abstract: Modern language agents are expected to operate over long horizons: they ask follow-up questions, reuse worked examples, handle tool feedback, and adapt to delayed consequences. Most evaluations still reset the agent after a prompt or score only the final state of one trajectory. AhaBench asks a more operational question: when a fixed model receives u</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ad5762a63": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "When Do Options Help? Policy Necrosis and Redundant Coverage in Option-Critic",
+      "src": "arXiv cs.LG",
+      "time": "6小时前",
+      "published_ts": 1789012800,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2609.05508",
+      "tags": [],
+      "body": "<p>arXiv:2609.05508v1 Announce Type: new Abstract: Option-critic learns options: sub-policies together with a learned rule for when each one hands control back. Its headline result is that performance improves as options are added. We explain that result, with theory and experiment. First, the termination rule option-critic learns by maximising return contributes nothing. When the termination test an</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aa4a679ee": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Multi-granularity Adaptive Hypergraph Representation Learning via Granular-ball",
+      "src": "arXiv cs.LG",
+      "time": "6小时前",
+      "published_ts": 1789012800,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2609.05574",
+      "tags": [],
+      "body": "<p>arXiv:2609.05574v1 Announce Type: new Abstract: Hypergraph representation learning aims to capture high-order information in graphs by constructing hyperedges that simultaneously connect multiple nodes. These hyperedges adapt to the graph's topological features, facilitating the extraction of high-order relationships at multiple granularities. Most prior work relies on predefined definitions to ge</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ab60ef0b8": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "Capsule Lens: Locating and Tracking Concept Geometry in Model Representations",
+      "src": "arXiv cs.LG",
+      "time": "6小时前",
+      "published_ts": 1789012800,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2609.05575",
+      "tags": [],
+      "body": "<p>arXiv:2609.05575v1 Announce Type: new Abstract: Understanding how concepts are encoded in the internal representations of machine learning models is a central problem in mechanistic interpretability, essential both for the science of deep learning and for the trustworthy deployment of increasingly capable models. Existing approaches to interpret model representations mainly map representations ont</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a962ab531": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "HB-PVI: A Hierarchical Bayesian Personalization and Value-of-Information Framework for Complex Activity Recognition",
+      "src": "arXiv cs.LG",
+      "time": "6小时前",
+      "published_ts": 1789012800,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2609.05582",
+      "tags": [],
+      "body": "<p>arXiv:2609.05582v1 Announce Type: new Abstract: Personalization can improve activity-recognition performance, but participant-specific gains are heterogeneous, and every additional calibration label has an acquisition cost. This study presents HB-PVI, a hierarchical Bayesian personalization and value-of-information framework jointly modeling participant heterogeneity, the benefit and harm of four </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ab4e6e9e4": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
+      "src": "arXiv cs.AI",
+      "time": "6小时前",
+      "published_ts": 1789012800,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2609.05437",
+      "tags": [],
+      "body": "<p>arXiv:2609.05437v1 Announce Type: new Abstract: Previous AI alignment efforts have focused primarily on first-order social norms -- teaching models what is socially acceptable or unacceptable (e.g., `do not steal'). However, social intelligence depends not only on norm recognition, but also on anticipating who will enforce it and how (e.g., public shame or even imprisonment). These second-order ex</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a7abe0891": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
+      "src": "arXiv cs.AI",
+      "time": "6小时前",
+      "published_ts": 1789012800,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2609.05439",
+      "tags": [],
+      "body": "<p>arXiv:2609.05439v1 Announce Type: new Abstract: Current evaluation methods for large language models are coarse-grained and decoupled from generation, producing generic explanations that fail to provide actionable feedback for model improvement. We propose CriticGen, a fine-grained, generation-aware evaluation framework that turns evaluation into actionable control for answer improvement. CriticGe</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a0d0efb0b": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
+      "src": "arXiv cs.AI",
+      "time": "6小时前",
+      "published_ts": 1789012800,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://arxiv.org/abs/2609.05441",
+      "tags": [],
+      "body": "<p>arXiv:2609.05441v1 Announce Type: new Abstract: Long-term memory for LLM agents is evaluated today by conversational recall benchmarks (LoCoMo, LongMemEval), which measure question answering over dialogue history, not whether remembered facts change what a tool-using agent does. We present MERIT (Memory Evaluation for Realistic Instrumented Tasks), a benchmark and harness that measures the margina</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aafb0f19b": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
+      "src": "arXiv cs.AI",
+      "time": "6小时前",
+      "published_ts": 1789012800,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2609.05446",
+      "tags": [],
+      "body": "<p>arXiv:2609.05446v1 Announce Type: new Abstract: We introduce AutoFyn, an agent harness inspired by the Expert Iteration algorithm, adapting a frozen model across many rounds by updating persistent state from verified reward signals rather than model weights. Each round begins from a fresh model session, and durable information is reintroduced only through explicit interfaces such as persistent mem</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a5ec7ed1c": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
+      "src": "arXiv cs.AI",
+      "time": "6小时前",
+      "published_ts": 1789012800,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2609.05448",
+      "tags": [],
+      "body": "<p>arXiv:2609.05448v1 Announce Type: new Abstract: Structured post-training pruning of transformers requires selecting complete functional units whose suppression causes limited degradation. We formulate structured-unit selection for language and vision transformers as a damage-aware multi-armed bandit problem under a fixed candidate-evaluation budget. Attention heads and MLP channel groups are tempo</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a24eb031d": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Compiling VGDL into Causal Models",
+      "src": "arXiv cs.AI",
+      "time": "6小时前",
+      "published_ts": 1789012800,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2609.05459",
+      "tags": [],
+      "body": "<p>arXiv:2609.05459v1 Announce Type: new Abstract: Reinforcement learning and large language models often struggle to accurately capture the causal mechanics of game environments. Standard reinforcement learning agents tend to rely on spurious correlations, while large language models are prone to hallucinating game rules. Although causal reinforcement learning improves interpretability, there is cur</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "ac8aab00b": {
       "layer": "l3",
       "cat": "L3 · 推理工程",
       "title": "[AINews] not much happened today",
       "src": "Latent Space",
-      "time": "9分钟前",
+      "time": "7小时前",
       "published_ts": 1789011192,
       "heat": "19.5K",
       "views": "19.5K",
@@ -20,7 +228,7 @@
       "cat": "L3 · 推理工程",
       "title": "Quoting Calif Research",
       "src": "Simon Willison",
-      "time": "2小时前",
+      "time": "9小时前",
       "published_ts": 1789001801,
       "heat": "15.0K",
       "views": "15.0K",
@@ -33,7 +241,7 @@
       "cat": "L5 · 生态商业",
       "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
       "src": "TechCrunch AI",
-      "time": "3小时前",
+      "time": "10小时前",
       "published_ts": 1788998437,
       "heat": "27.0K",
       "views": "27.0K",
@@ -46,7 +254,7 @@
       "cat": "L1 · 算力硬件",
       "title": ".blend URL Viewer",
       "src": "Simon Willison",
-      "time": "3小时前",
+      "time": "10小时前",
       "published_ts": 1788998312,
       "heat": "13.2K",
       "views": "15.0K",
@@ -59,33 +267,20 @@
       "cat": "L4 · 交互Agent",
       "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
       "src": "The Verge",
-      "time": "4小时前",
+      "time": "11小时前",
       "published_ts": 1788994804,
-      "heat": "24.0K",
-      "views": "24.0K",
+      "heat": "9.6K",
+      "views": "12.5K",
       "url": "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event",
       "tags": [],
       "body": "<p>September Apple events are always a swirl of information and new, exciting products, and today's was no different. Apple announced its first foldable, the iPhone Duo, alongside the iPhone 18 Pro and Pro Max; active noise cancellation (ANC) is now on the cheapest AirPods model, the AirPods 5; and a Siri Recap feature comes to [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "af7ae0261": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "The black iPhone Pro returns",
-      "src": "The Verge",
-      "time": "5小时前",
-      "published_ts": 1788993471,
-      "heat": "21.1K",
-      "views": "24.0K",
-      "url": "https://www.theverge.com/tech/993048/iphone-18-pro-black-color",
-      "tags": [],
-      "body": "<p>Apple has seen reason: It has a black model in the iPhone Pro lineup again. Last year, Apple went bold with its colors for the iPhone 17 Pro, offering a flashy orange, a shiny silver, and a dark blue. Don't get me wrong, they looked nice. But there was no black (or dark gray) for [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a0d97ce9a": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "OpenAI adds a prominent AI doomer to its board of directors",
       "src": "TechCrunch AI",
-      "time": "5小时前",
+      "time": "12小时前",
       "published_ts": 1788992722,
       "heat": "23.8K",
       "views": "27.0K",
@@ -93,67 +288,28 @@
       "tags": [],
       "body": "<p>Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a5234074b": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Automattic CEO Matt Mullenweg placed on leave",
-      "src": "The Verge",
-      "time": "5小时前",
-      "published_ts": 1788992152,
-      "heat": "15.4K",
-      "views": "18.2K",
-      "url": "https://www.theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-of-absence",
-      "tags": [],
-      "body": "<p>Matt Mullenweg, the CEO of WordPress.com owner Automattic, has been placed on a paid leave of absence, as reported earlier by 404 Media. In an internal message by the outlet, Mullenweg claims Automattic chief financial officer Mark Davies \"conspired\" with board members to place him on leave. \"They voted to put me on a paid [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a49bbede8": {
       "layer": "l5",
       "cat": "L5 · 生态商业",
       "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
       "src": "Wired",
-      "time": "5小时前",
+      "time": "12小时前",
       "published_ts": 1788991915,
-      "heat": "16.5K",
-      "views": "16.5K",
+      "heat": "12.5K",
+      "views": "14.5K",
       "url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
       "tags": [],
       "body": "<p>Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a4cc4a641": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "It’s the year of smartphone price hikes",
-      "src": "The Verge",
-      "time": "5小时前",
-      "published_ts": 1788990763,
-      "heat": "12.5K",
-      "views": "15.4K",
-      "url": "https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro",
-      "tags": [],
-      "body": "<p>Paying more for a new phone seems almost unavoidable after Apple's event today. The new iPhone 18 Pro and Pro Max start at $1,199 and $1,299, respectively - a $100 price hike over their predecessors. You can't dodge the price hike by opting for an older iPhone, either, because Apple raised prices on those by [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a5e1f00f3": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Suno releases its first AI music model made with record industry help",
-      "src": "The Verge",
-      "time": "6小时前",
-      "published_ts": 1788990139,
-      "heat": "9.6K",
-      "views": "12.5K",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
-      "tags": [],
-      "body": "<p>Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.\" The data includes content licensed [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "ad2eba210": {
       "layer": "l5",
       "cat": "L5 · 生态商业",
       "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
       "src": "Wired",
-      "time": "6小时前",
+      "time": "13小时前",
       "published_ts": 1788988527,
-      "heat": "14.5K",
-      "views": "16.5K",
+      "heat": "10.6K",
+      "views": "12.5K",
       "url": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
       "tags": [],
       "body": "<p>The City Attorney’s Office has asked Meta to explain how the harmful ads repeatedly ran on Facebook and Instagram. The company claims the ads are not under the city’s jurisdiction.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -163,7 +319,7 @@
       "cat": "L1 · 算力硬件",
       "title": "4 groups caught using the same Chrome and Windows exploit kit",
       "src": "Ars Technica",
-      "time": "6小时前",
+      "time": "13小时前",
       "published_ts": 1788987302,
       "heat": "18.0K",
       "views": "18.0K",
@@ -176,7 +332,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
       "src": "TechCrunch AI",
-      "time": "7小时前",
+      "time": "14小时前",
       "published_ts": 1788985488,
       "heat": "17.3K",
       "views": "20.5K",
@@ -189,7 +345,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
       "src": "TechCrunch AI",
-      "time": "7小时前",
+      "time": "14小时前",
       "published_ts": 1788984223,
       "heat": "14.0K",
       "views": "17.3K",
@@ -202,7 +358,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Doctor Doom Thanked Seattle for All the Surveillance Cameras",
       "src": "404 Media",
-      "time": "8小时前",
+      "time": "15小时前",
       "published_ts": 1788981900,
       "heat": "13.2K",
       "views": "15.0K",
@@ -215,7 +371,7 @@
       "cat": "L4 · 交互Agent",
       "title": "The hinge for Apple’s new foldable phone was built with AI",
       "src": "TechCrunch AI",
-      "time": "8小时前",
+      "time": "15小时前",
       "published_ts": 1788981708,
       "heat": "10.8K",
       "views": "14.0K",
@@ -228,10 +384,10 @@
       "cat": "L4 · 交互Agent",
       "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
       "src": "Wired",
-      "time": "9小时前",
+      "time": "16小时前",
       "published_ts": 1788978600,
-      "heat": "12.5K",
-      "views": "14.5K",
+      "heat": "8.6K",
+      "views": "10.6K",
       "url": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
       "tags": [],
       "body": "<p>After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it also told me how to make everything a lot more secure.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -241,7 +397,7 @@
       "cat": "L2 · 基础模型",
       "title": "A new deep learning model maps global methane emissions from space.",
       "src": "Google AI Blog",
-      "time": "9小时前",
+      "time": "16小时前",
       "published_ts": 1788977700,
       "heat": "34.5K",
       "views": "34.5K",
@@ -254,10 +410,10 @@
       "cat": "L1 · 算力硬件",
       "title": "Apple A20 Pro powers iPhone Duo, 18 Pro — the company's first 2-nanometer smartphone chip",
       "src": "Tom's Hardware",
-      "time": "10小时前",
+      "time": "17小时前",
       "published_ts": 1788975201,
-      "heat": "15.0K",
-      "views": "15.0K",
+      "heat": "11.4K",
+      "views": "13.2K",
       "url": "https://www.tomshardware.com/pc-components/cpus/apple-a20-pro-powers-iphone-18-pro-the-companys-first-2-nanometer-smartphone-chip",
       "tags": [],
       "body": "<p>Apple's new A20 Pro SOC will power the iPhone 18 Pro and iPhone Duo as its first 2 nm smartphone chip.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -267,7 +423,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Smear Campaign Says Anti-Flock Movement Is Chinese Propaganda",
       "src": "404 Media",
-      "time": "10小时前",
+      "time": "17小时前",
       "published_ts": 1788974145,
       "heat": "9.6K",
       "views": "11.4K",
@@ -280,7 +436,7 @@
       "cat": "L2 · 基础模型",
       "title": "Paul Christiano joins OpenAI Foundation Board",
       "src": "OpenAI Blog",
-      "time": "10小时前",
+      "time": "17小时前",
       "published_ts": 1788973200,
       "heat": "34.2K",
       "views": "39.6K",
@@ -293,7 +449,7 @@
       "cat": "L2 · 基础模型",
       "title": "Tackle your to-do list with new features in our Google AI plans.",
       "src": "Google AI Blog",
-      "time": "10小时前",
+      "time": "17小时前",
       "published_ts": 1788973200,
       "heat": "30.4K",
       "views": "34.5K",
@@ -306,7 +462,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Podcast: DHS’ Secretive ‘Predictive Policing’ Unit Pulling People Over",
       "src": "404 Media",
-      "time": "11小时前",
+      "time": "18小时前",
       "published_ts": 1788971822,
       "heat": "7.8K",
       "views": "9.6K",
@@ -319,10 +475,10 @@
       "cat": "L1 · 算力硬件",
       "title": "Intel-backed auto-overclocking tool Hypertune optimizes individual systems, not test profiles — tool claims FPS improvement of up to 60% on Intel-based systems",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "18小时前",
       "published_ts": 1788969785,
-      "heat": "11.4K",
-      "views": "13.2K",
+      "heat": "7.8K",
+      "views": "9.6K",
       "url": "https://www.tomshardware.com/pc-components/cpus/intel-backed-auto-overclocking-tool-hypertune-optimizes-individual-systems-not-test-profiles-tool-claims-fps-improvement-of-up-to-60-percent-on-intel-based-systems",
       "tags": [],
       "body": "<p>Hypertune is an automated overclocking tool built on top of Intel's Extreme Tuning Utility (XTU) SDK and built in collaboration with engineers at Intel.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -332,7 +488,7 @@
       "cat": "L1 · 算力硬件",
       "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
       "src": "NVIDIA Blog",
-      "time": "11小时前",
+      "time": "18小时前",
       "published_ts": 1788969642,
       "heat": "37.5K",
       "views": "37.5K",
@@ -345,7 +501,7 @@
       "cat": "L2 · 基础模型",
       "title": "Get ready for the game with new football features in Search",
       "src": "Google AI Blog",
-      "time": "11小时前",
+      "time": "18小时前",
       "published_ts": 1788969600,
       "heat": "26.2K",
       "views": "30.4K",
@@ -358,7 +514,7 @@
       "cat": "L2 · 基础模型",
       "title": "4 ways Gemini makes administrative chores quick and easy",
       "src": "Google AI Blog",
-      "time": "11小时前",
+      "time": "18小时前",
       "published_ts": 1788969600,
       "heat": "22.1K",
       "views": "26.2K",
@@ -371,7 +527,7 @@
       "cat": "L4 · 交互Agent",
       "title": "First ‘Take It Down Act’ Sentencing Puts Man Behind Bars for 15 Years",
       "src": "404 Media",
-      "time": "11小时前",
+      "time": "18小时前",
       "published_ts": 1788969472,
       "heat": "6.0K",
       "views": "7.8K",
@@ -379,25 +535,12 @@
       "tags": [],
       "body": "<p>James Strahler was sentenced to 15 years in prison for “cybercrimes that included both real and AI-generated sexually explicit images and threats of violence to numerous victims.”</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a51e71c89": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "OpenAI says its next-generation processors could be made at Samsung — double-sourcing with TSMC hints at massive volume requirements",
-      "src": "Tom's Hardware",
-      "time": "13小时前",
-      "published_ts": 1788964200,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-says-its-next-generation-processors-could-be-made-at-samsung-double-sourcing-with-tsmc-hints-at-massive-volume-requirements",
-      "tags": [],
-      "body": "<p>OpenAI deepens chip cooperation with Samsung, possibly prepares to Double source AI ASICs from two foundries in a bid to get more in-house silicon to its data centers.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "ab15bf605": {
       "layer": "l5",
       "cat": "L5 · 生态商业",
       "title": "The AI policy window is open. We need to act.",
       "src": "OpenAI Blog",
-      "time": "14小时前",
+      "time": "21小时前",
       "published_ts": 1788958800,
       "heat": "45.0K",
       "views": "45.0K",
@@ -410,10 +553,10 @@
       "cat": "L1 · 算力硬件",
       "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
       "src": "Wired",
-      "time": "14小时前",
+      "time": "21小时前",
       "published_ts": 1788958800,
-      "heat": "10.6K",
-      "views": "12.5K",
+      "heat": "6.6K",
+      "views": "8.6K",
       "url": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
       "tags": [],
       "body": "<p>Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -423,7 +566,7 @@
       "cat": "L2 · 基础模型",
       "title": "AI Models Are Watermarking Text—Will You Notice?",
       "src": "IEEE Spectrum",
-      "time": "15小时前",
+      "time": "22小时前",
       "published_ts": 1788955204,
       "heat": "15.0K",
       "views": "15.0K",
@@ -436,7 +579,7 @@
       "cat": "L2 · 基础模型",
       "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
       "src": "Ahead of AI",
-      "time": "16小时前",
+      "time": "23小时前",
       "published_ts": 1788952465,
       "heat": "15.0K",
       "views": "15.0K",
@@ -449,7 +592,7 @@
       "cat": "L3 · 推理工程",
       "title": "When will average people feel AI’s impact?",
       "src": "Interconnects",
-      "time": "16小时前",
+      "time": "23小时前",
       "published_ts": 1788951683,
       "heat": "18.0K",
       "views": "18.0K",
@@ -462,7 +605,7 @@
       "cat": "L1 · 算力硬件",
       "title": "GPT-6 Astra: The next generation in intelligence for work",
       "src": "OpenAI Blog",
-      "time": "16小时前",
+      "time": "23小时前",
       "published_ts": 1788951600,
       "heat": "39.6K",
       "views": "45.0K",
@@ -475,7 +618,7 @@
       "cat": "L1 · 算力硬件",
       "title": "China’s Regulators Take Aim at “AI Boyfriends”",
       "src": "IEEE Spectrum",
-      "time": "17小时前",
+      "time": "1天前",
       "published_ts": 1788948007,
       "heat": "13.2K",
       "views": "15.0K",
@@ -488,7 +631,7 @@
       "cat": "L0 · 领袖观点",
       "title": "[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded",
       "src": "Latent Space",
-      "time": "22小时前",
+      "time": "1天前",
       "published_ts": 1788930291,
       "heat": "17.2K",
       "views": "19.5K",
@@ -548,19 +691,6 @@
       "tags": [],
       "body": "<p>Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a9952ce5d": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
-      "src": "Wired",
-      "time": "1天前",
-      "published_ts": 1788898371,
-      "heat": "8.6K",
-      "views": "10.6K",
-      "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
-      "tags": [],
-      "body": "<p>Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a46c006ca": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
@@ -573,19 +703,6 @@
       "url": "https://openai.com/index/codex-quantum-computing-experiments",
       "tags": [],
       "body": "<p>See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "af5d6f168": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
-      "src": "Wired",
-      "time": "1天前",
-      "published_ts": 1788885725,
-      "heat": "6.6K",
-      "views": "8.6K",
-      "url": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
-      "tags": [],
-      "body": "<p>A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a792541cf": {
       "layer": "l1",
@@ -657,7 +774,7 @@
       "cat": "L4 · 交互Agent",
       "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
       "src": "MIT Tech Review",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1788863640,
       "heat": "19.8K",
       "views": "22.5K",
@@ -696,7 +813,7 @@
       "cat": "L4 · 交互Agent",
       "title": "[AINews] Collusion.wiki: A second undisclosed OpenAI agent swarm incident...",
       "src": "Latent Space",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1788582720,
       "heat": "10.1K",
       "views": "12.5K",
@@ -748,7 +865,7 @@
       "cat": "L5 · 生态商业",
       "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
       "src": "MIT Tech Review",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1788513919,
       "heat": "14.4K",
       "views": "17.1K",
@@ -761,7 +878,7 @@
       "cat": "L2 · 基础模型",
       "title": "[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time",
       "src": "Latent Space",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1788499091,
       "heat": "7.8K",
       "views": "10.1K",
@@ -839,7 +956,7 @@
       "cat": "L4 · 交互Agent",
       "title": "An Organizational Second Brain: Building an AI That Learns From Experts",
       "src": "Meta Engineering",
-      "time": "7天前",
+      "time": "8天前",
       "published_ts": 1788339629,
       "heat": "26.4K",
       "views": "30.0K",
@@ -1229,7 +1346,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
       "src": "SemiAnalysis",
-      "time": "366天前",
+      "time": "367天前",
       "published_ts": 1757325297,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1255,7 +1372,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "385天前",
+      "time": "386天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1460,33 +1577,27 @@
     }
   },
   "by_layer": {
-    "l3": [
-      "ac8aab00b",
-      "a82343cf5",
-      "a6d68a0cb",
-      "a230386df",
-      "ab2b42c0b",
-      "adc7165e6",
-      "a1585cbf5",
-      "a32296677",
-      "a28f84720"
-    ],
     "l5": [
+      "a8988107a",
+      "a359399e5",
+      "ad5762a63",
+      "a962ab531",
+      "a7abe0891",
       "a8ea9acc0",
       "a49bbede8",
       "ad2eba210",
       "ab15bf605",
       "ac0b5e036",
-      "af5d6f168",
       "a26a63938"
     ],
     "l1": [
+      "a475ec063",
+      "ab4e6e9e4",
       "aecf10d4f",
       "a5853031e",
       "a7027dd51",
       "ac1c1f3d8",
       "ab159c50b",
-      "a51e71c89",
       "a84481722",
       "ad4e986a1",
       "a97379a31",
@@ -1512,11 +1623,10 @@
       "a2ae2603b"
     ],
     "l4": [
+      "a79cf6836",
+      "a24eb031d",
       "a69fe1d2e",
-      "af7ae0261",
       "a0d97ce9a",
-      "a4cc4a641",
-      "a5e1f00f3",
       "adbc1f6e6",
       "a23042010",
       "a4b887b36",
@@ -1525,7 +1635,6 @@
       "a09c35b2a",
       "a738918b1",
       "a344f150d",
-      "a9952ce5d",
       "a48cb4fb4",
       "a2abbbf74",
       "a9fe8128b",
@@ -1537,29 +1646,12 @@
       "a8c4b4ede",
       "ad01feb8a"
     ],
-    "l0": [
-      "a5234074b",
-      "a7c09e740",
-      "a92992cd5",
-      "a04b44667",
-      "adce31dc8",
-      "a5e4bd316",
-      "adb56600f",
-      "ad4be959b",
-      "ae1d2f052",
-      "a0a86adb8",
-      "aa27891e5",
-      "a57fda39f",
-      "a187a50d6",
-      "a040f39c9",
-      "a0ab4dd7d",
-      "a375099f0",
-      "a6a5b4a81",
-      "a253e0446",
-      "a9173515c",
-      "abcb7b0c4"
-    ],
     "l2": [
+      "a6d086ee8",
+      "a2e0a71d5",
+      "aa4a679ee",
+      "a0d0efb0b",
+      "aafb0f19b",
       "a4c696d9c",
       "a9c5f235a",
       "a9fef3f13",
@@ -1583,27 +1675,61 @@
       "a0b43a2bc",
       "ab3119897",
       "af0f189d1"
+    ],
+    "l3": [
+      "ab60ef0b8",
+      "ac8aab00b",
+      "a82343cf5",
+      "a6d68a0cb",
+      "a230386df",
+      "ab2b42c0b",
+      "adc7165e6",
+      "a1585cbf5",
+      "a32296677",
+      "a28f84720"
+    ],
+    "l0": [
+      "a5ec7ed1c",
+      "a7c09e740",
+      "a92992cd5",
+      "a04b44667",
+      "adce31dc8",
+      "a5e4bd316",
+      "adb56600f",
+      "ad4be959b",
+      "ae1d2f052",
+      "a0a86adb8",
+      "aa27891e5",
+      "a57fda39f",
+      "a187a50d6",
+      "a040f39c9",
+      "a0ab4dd7d",
+      "a375099f0",
+      "a6a5b4a81",
+      "a253e0446",
+      "a9173515c",
+      "abcb7b0c4"
     ]
   },
   "top5": [
-    "ac8aab00b",
-    "a82343cf5",
-    "a8ea9acc0",
-    "aecf10d4f",
-    "a69fe1d2e"
+    "a8988107a",
+    "a475ec063",
+    "a79cf6836",
+    "a359399e5",
+    "a6d086ee8"
   ],
   "layers": [
     {
-      "id": "l2",
-      "num": "LAYER 2",
-      "name": "基础模型",
+      "id": "l1",
+      "num": "LAYER 1",
+      "name": "算力硬件",
       "vals": [
-        16,
-        31,
-        28,
-        6,
-        19,
-        20
+        18,
+        32,
+        12,
+        8,
+        26,
+        22
       ],
       "trend": [
         20,
@@ -1616,16 +1742,38 @@
       ]
     },
     {
-      "id": "l1",
-      "num": "LAYER 1",
-      "name": "算力硬件",
+      "id": "l4",
+      "num": "LAYER 4",
+      "name": "交互Agent",
       "vals": [
-        33,
+        22,
         15,
-        12,
-        8,
-        27,
-        22
+        9,
+        19,
+        18,
+        19
+      ],
+      "trend": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "id": "l2",
+      "num": "LAYER 2",
+      "name": "基础模型",
+      "vals": [
+        13,
+        18,
+        7,
+        7,
+        37,
+        21
       ],
       "trend": [
         20,
@@ -1642,11 +1790,11 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        21,
-        29,
+        13,
+        19,
         8,
         5,
-        19,
+        13,
         18
       ],
       "trend": [
@@ -1660,38 +1808,16 @@
       ]
     },
     {
-      "id": "l4",
-      "num": "LAYER 4",
-      "name": "交互Agent",
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
       "vals": [
-        18,
-        19,
         10,
-        26,
-        18,
-        20
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
-    {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
-      "vals": [
-        17,
         10,
         5,
         5,
-        18,
-        14
+        15,
+        10
       ],
       "trend": [
         20,
@@ -1704,135 +1830,126 @@
       ]
     },
     {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
       "vals": [
         10,
         10,
+        6,
         5,
-        5,
-        20,
-        10
+        10,
+        14
       ],
       "trend": [
         20,
+        19,
         18,
+        17,
         16,
-        14,
-        12,
-        10,
-        8
+        15,
+        14
       ]
     }
   ],
   "ticker": [
     {
-      "tag": "LATENT SP",
-      "col": "var(--l3)",
-      "text": "[AINews] not much happened today"
-    },
-    {
-      "tag": "SIMON WIL",
-      "col": "var(--l3)",
-      "text": "Quoting Calif Research"
-    },
-    {
-      "tag": "TECHCRUNC",
+      "tag": "WIRED",
       "col": "var(--l5)",
-      "text": "AI research startup Listen Labs scrubbed a $1.5B funding round fo…"
+      "text": "Everything New You Can Do With Siri AI"
     },
     {
-      "tag": "SIMON WIL",
+      "tag": "TOM'S HAR",
       "col": "var(--l1)",
-      "text": ".blend URL Viewer"
+      "text": "Self-taught tinkerer demos working room-sized Cold War-era superc…"
     },
     {
       "tag": "THE VERGE",
       "col": "var(--l4)",
-      "text": "There aren’t AirPods with cameras yet and I hope it stays that wa…"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "The black iPhone Pro returns"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "OpenAI adds a prominent AI doomer to its board of directors"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l0)",
-      "text": "Automattic CEO Matt Mullenweg placed on leave"
+      "text": "The variable aperture isn’t the cool part of the iPhone 18 Pro’s …"
     },
     {
       "tag": "WIRED",
       "col": "var(--l5)",
-      "text": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time …"
+      "text": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Yo…"
     },
     {
       "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "It’s the year of smartphone price hikes"
+      "col": "var(--l2)",
+      "text": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemi…"
     },
     {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "Suno releases its first AI music model made with record industry …"
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "AhaBench: Do Agents Learn from Prior Experience? A Benchmark for …"
     },
     {
-      "tag": "WIRED",
+      "tag": "ARXIV CS.",
       "col": "var(--l5)",
-      "text": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads"
+      "text": "When Do Options Help? Policy Necrosis and Redundant Coverage in O…"
     },
     {
-      "tag": "ARS TECHN",
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Multi-granularity Adaptive Hypergraph Representation Learning via…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l3)",
+      "text": "Capsule Lens: Locating and Tracking Concept Geometry in Model Rep…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l5)",
+      "text": "HB-PVI: A Hierarchical Bayesian Personalization and Value-of-Info…"
+    },
+    {
+      "tag": "ARXIV CS.",
       "col": "var(--l1)",
-      "text": "4 groups caught using the same Chrome and Windows exploit kit"
+      "text": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning …"
     },
     {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "Apple Watch’s new AI features are normalizing the idea that techn…"
+      "tag": "ARXIV CS.",
+      "col": "var(--l5)",
+      "text": "CriticGen: Generation-Aware Evaluation as Actionable Feedback"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memor…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Lon…"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
+      "title": "DeepSeek v4.1 Flash",
+      "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+      "votes": "416",
+      "comments": "194",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
       "title": "Shopify acquires Tailwind",
       "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-      "votes": "925",
-      "comments": "370",
+      "votes": "1,044",
+      "comments": "402",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Show HN: Compute polynomials twice as fast",
-      "url": "https://thomasahle.com/fast-polynomials/",
-      "votes": "30",
-      "comments": "9",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "AirPods 5",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "votes": "399",
-      "comments": "320",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
-      "url": "https://hugovergnes.github.io/little-lm-3-8b/",
-      "votes": "8",
-      "comments": "1",
+      "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
+      "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
+      "votes": "23",
+      "comments": "3",
       "time": "近期"
     },
     {
@@ -1840,17 +1957,26 @@
       "badge": "pb-hn",
       "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
       "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-      "votes": "365",
-      "comments": "128",
+      "votes": "440",
+      "comments": "143",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Be Using Rootless Containers",
-      "url": "https://blog.miguelgrinberg.com/post/you-should-be-using-rootless-containers",
-      "votes": "13",
-      "comments": "4",
+      "title": "AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "votes": "459",
+      "comments": "391",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Show HN: Compute polynomials twice as fast",
+      "url": "https://thomasahle.com/fast-polynomials/",
+      "votes": "95",
+      "comments": "34",
       "time": "近期"
     }
   ]
