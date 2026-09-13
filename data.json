@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-13T03:52:29.458219+00:00",
-  "article_count": 121,
+  "updated_at": "2026-09-13T11:19:06.622276+00:00",
+  "article_count": 116,
   "articles": {
     "a323e4fc8": {
       "layer": "l2",
@@ -8,22 +8,87 @@
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "src": "OpenAI Blog",
       "time": "刚刚",
-      "published_ts": 1789271537,
+      "published_ts": 1789298338,
       "heat": "45.0K",
       "views": "45.0K",
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "tags": [],
       "body": "<p>Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
+    "a16400455": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Waymo robotaxi calls cops on riders handling loaded AR-style ghost gun — Waymo alerted San Francisco police, then juvenile riders were stopped and arrested",
+      "src": "Tom's Hardware",
+      "time": "2分钟前",
+      "published_ts": 1789298171,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/tech-industry/drones/waymo-robotaxi-calls-cops-on-riders-handling-loaded-ar-style-ghost-gun-waymo-alerted-san-francisco-police-then-juvenile-riders-were-stopped-and-arrested",
+      "tags": [],
+      "body": "<p>Following a tip-off from robotaxi firm Waymo, San Francisco police conducted a 'high-risk vehicle stop' and arrested two juveniles for illegal possession of a firearm.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a032c26b8": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Playable Tomb Raider runs on a humble 1-watt chip — $25 board with dual-core 400 MHz ESP32-P4 MCU scales OpenLara up to 1,024 x 600 playable pixels",
+      "src": "Tom's Hardware",
+      "time": "18分钟前",
+      "published_ts": 1789297200,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/software/programming/playable-tomb-raider-runs-on-a-humble-1-watt-chip-usd25-board-with-dual-core-400-mhz-esp32-p4-mcu-scales-openlara-up-to-1-024-x-600-playable-pixels",
+      "tags": [],
+      "body": "<p>A retro video gaming devotee has showcased Lara Croft adventuring in and among ancient tombs on a humble ESP32-P4 microcontroller.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a6cfa672d": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Ukraine triumphs in 'first-ever' drone-vs-drone boat battle — video shows Russian MBeK destroyed by Sargan 3000's 12.7mm automatic turret",
+      "src": "Tom's Hardware",
+      "time": "48分钟前",
+      "published_ts": 1789295400,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://www.tomshardware.com/tech-industry/drones/ukraines-sargan-3000-triumphs-in-first-ever-drone-vs-drone-boat-battle-video-shows-russian-mbek-destroyed-by-its-foes-12-7mm-automatic-turret",
+      "tags": [],
+      "body": "<p>Ukraine’s Navy has claimed that it has won 'the first-ever battle of unmanned naval boats.'</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a3940df8f": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Transparent wall-mounted CD player raises over $540,000 on Kickstarter — $109 Syitren RM1's visible disc and mechanisms channel 90s B&O nostalgia with Bluetooth and battery power",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1789293600,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://www.tomshardware.com/speakers/syitren-rm1-transparent-wall-mounted-cd-player-harkens-back-to-a-more-civilized-era-visible-disc-and-mechanisms-make-for-a-tangible-listening-experience",
+      "tags": [],
+      "body": "<p>Syitren RM1 transparent wall-mounted CD player harkens back to a more civilized era with visible disc and mechanisms.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a0c24fea1": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "AI Agents Are Thirsty for Power",
+      "src": "Wired",
+      "time": "1小时前",
+      "published_ts": 1789293600,
+      "heat": "16.5K",
+      "views": "16.5K",
+      "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+      "tags": [],
+      "body": "<p>Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a3673194f": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "Build a high-end AMD gaming PC for less — Ryzen 7 9800X3D bundle includes an X870E motherboard, 32GB DDR5, AIO cooler and a game for $1,109.99",
       "src": "Tom's Hardware",
-      "time": "3小时前",
+      "time": "10小时前",
       "published_ts": 1789260170,
-      "heat": "15.0K",
-      "views": "15.0K",
+      "heat": "7.8K",
+      "views": "9.6K",
       "url": "https://www.tomshardware.com/pc-components/build-a-high-end-amd-gaming-pc-for-less-ryzen-7-9800x3d-bundle-includes-an-x870e-motherboard-32gb-ddr5-aio-cooler-and-a-game-for-usd1-109-99",
       "tags": [],
       "body": "<p>The bundle pairs one of the best gaming CPUs available with a premium X870E motherboard and 32GB of DDR5-6000 memory, while also throwing in a 240mm AIO cooler and a free copy of Onimusha: Way of the Sword.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -33,7 +98,7 @@
       "cat": "L2 · 基础模型",
       "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
       "src": "Simon Willison",
-      "time": "3小时前",
+      "time": "11小时前",
       "published_ts": 1789257402,
       "heat": "15.0K",
       "views": "15.0K",
@@ -46,7 +111,7 @@
       "cat": "L4 · 交互Agent",
       "title": "OpenAI’s rogue AI tried to hack another company in May",
       "src": "The Verge",
-      "time": "6小时前",
+      "time": "13小时前",
       "published_ts": 1789249296,
       "heat": "24.0K",
       "views": "24.0K",
@@ -59,7 +124,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
       "src": "The Verge",
-      "time": "6小时前",
+      "time": "14小时前",
       "published_ts": 1789247788,
       "heat": "21.1K",
       "views": "24.0K",
@@ -72,7 +137,7 @@
       "cat": "L0 · 领袖观点",
       "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
       "src": "TechCrunch AI",
-      "time": "7小时前",
+      "time": "14小时前",
       "published_ts": 1789244356,
       "heat": "27.0K",
       "views": "27.0K",
@@ -85,7 +150,7 @@
       "cat": "L4 · 交互Agent",
       "title": "StarCraft returns in 2030 as an open-world shooter",
       "src": "The Verge",
-      "time": "7小时前",
+      "time": "15小时前",
       "published_ts": 1789243689,
       "heat": "18.2K",
       "views": "21.1K",
@@ -98,7 +163,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Anthropic CEO outlines plan to slow AI development",
       "src": "TechCrunch AI",
-      "time": "8小时前",
+      "time": "15小时前",
       "published_ts": 1789241684,
       "heat": "23.8K",
       "views": "27.0K",
@@ -111,7 +176,7 @@
       "cat": "L3 · 推理工程",
       "title": "Quoting Paul Ford",
       "src": "Simon Willison",
-      "time": "9小时前",
+      "time": "17小时前",
       "published_ts": 1789236021,
       "heat": "11.4K",
       "views": "13.2K",
@@ -124,7 +189,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Sylvan Esso think you should splurge on good-quality yogurt",
       "src": "The Verge",
-      "time": "11小时前",
+      "time": "18小时前",
       "published_ts": 1789230900,
       "heat": "15.4K",
       "views": "18.2K",
@@ -137,7 +202,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Anthropic CEO says it’s time to pump the brakes on AI",
       "src": "The Verge",
-      "time": "11小时前",
+      "time": "18小时前",
       "published_ts": 1789230220,
       "heat": "12.5K",
       "views": "15.4K",
@@ -150,7 +215,7 @@
       "cat": "L4 · 交互Agent",
       "title": "LG responds to TV spying allegations",
       "src": "The Verge",
-      "time": "12小时前",
+      "time": "19小时前",
       "published_ts": 1789226384,
       "heat": "9.6K",
       "views": "12.5K",
@@ -163,74 +228,22 @@
       "cat": "L2 · 基础模型",
       "title": "Iran and Houthi rebels used Anthropic's Claude AI to target US warships and build hypersonic missiles — Houthi rebels also used the bot to code ballistic missile guidance systems",
       "src": "Tom's Hardware",
-      "time": "12小时前",
+      "time": "20小时前",
       "published_ts": 1789225390,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/iran-and-houthi-rebels-used-anthropics-claude-ai-to-target-us-warships-and-build-hypersonic-missiles-houthi-rebels-also-used-the-bot-to-code-ballistic-missile-guidance-systems",
       "tags": [],
       "body": "<p>'Great Satan's' AI comes in handy.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ac8814860": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "US Customs supervisor busted for stealing Core i7 CPUs, RAM, and hard drives from Homeland Security PCs, damage estimated at $105,800 — stolen tech swapped with inferior hardware and cashed out on Newegg",
-      "src": "Tom's Hardware",
-      "time": "13小时前",
-      "published_ts": 1789222169,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg",
-      "tags": [],
-      "body": "<p>U.S. Customs and Border Protection supervisor switched hardware from Department of Homeland Security computers with slower components and traded in stolen hardware to Newegg's Trade-In program for store credit.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "acf9253c0": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "We tested unofficial DLSS Multi Frame Generation support on RTX 40-series GPUs — new mod brings RTX 50-series exclusive feature to older cards, and it really works",
-      "src": "Tom's Hardware",
-      "time": "13小时前",
-      "published_ts": 1789222099,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://www.tomshardware.com/pc-components/gpus/we-tested-dlss-multi-frame-generation-on-rtx-40-series-gpus-new-mod-brings-rtx-50-series-exclusive-feature-to-older-cards-and-it-really-works",
-      "tags": [],
-      "body": "<p>We tested DLSS Multi Frame Generation on RTX 40-series GPUs.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "acf87d479": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "IKEA releases new Skyrim mod that adds gloriously mundane Kallax shelving unit as your newest companion — free collab provides a drab flatpack answer to your loot woes",
-      "src": "Tom's Hardware",
-      "time": "14小时前",
-      "published_ts": 1789219915,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://www.tomshardware.com/video-games/pc-gaming/ikea-releases-new-skyrim-mod-that-adds-gloriously-mundane-kallax-shelving-unit-as-your-newest-companion-free-collab-provides-a-drab-flatpack-answer-to-your-loot-woes",
-      "tags": [],
-      "body": "<p>IKEA has announced the Kallax Storageborn companion creation for players of The Elder Scrolls V: Skyrim Special Edition on PC or Xbox.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aa42d6d59": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "This week on Tom's Hardware Premium: September 12, 2026 — Benchmarking Qwen 3.8, the splintered compute economy and AI breakthroughs",
-      "src": "Tom's Hardware",
-      "time": "15小时前",
-      "published_ts": 1789214400,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-september-12-2026-benchmarking-qwen-3-8-the-splintered-compute-economy-and-ai-breakthroughs",
-      "tags": [],
-      "body": "<p>This week on Tom's Hardware Premium, we benchmarked Qwen 3.8 on a slew of different hardware, ruminated on the state of modern computing after returning from IFA 2026, and broke down everything</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a5d313805": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
       "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
       "src": "Wired",
-      "time": "17小时前",
+      "time": "1天前",
       "published_ts": 1789209000,
-      "heat": "16.5K",
+      "heat": "14.5K",
       "views": "16.5K",
       "url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
       "tags": [],
@@ -241,78 +254,13 @@
       "cat": "L0 · 领袖观点",
       "title": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale",
       "src": "Latent Space",
-      "time": "21小时前",
+      "time": "1天前",
       "published_ts": 1789192565,
       "heat": "17.2K",
       "views": "19.5K",
       "url": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
       "tags": [],
       "body": "<p>We agree with Sebastian: this should have been DeepSeek v5</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a56910dd6": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
-      "src": "arXiv cs.AI",
-      "time": "23小时前",
-      "published_ts": 1789185600,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://arxiv.org/abs/2609.10629",
-      "tags": [],
-      "body": "<p>arXiv:2609.10629v1 Announce Type: new Abstract: Quadratic Unconstrained Binary Optimization (QUBO) is a central formulation for combinatorial optimization and has gained increasing attention due to its compatibility with quantum, hybrid quantum-classical, and quantum-inspired solvers. However, translating natural-language problem descriptions into correct QUBO formulations remains difficult, requi</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a1f3a2bd0": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
-      "src": "arXiv cs.AI",
-      "time": "23小时前",
-      "published_ts": 1789185600,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://arxiv.org/abs/2609.10654",
-      "tags": [],
-      "body": "<p>arXiv:2609.10654v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization, the ability to infer and apply abstract rules from limited examples. This paper presents a multi-stage rule-chaining framework that performs compositional reasoning across symbolic, structural, and conceptual levels. The framework integrates three complementary solvers: (</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ab8ed09aa": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
-      "src": "arXiv cs.AI",
-      "time": "23小时前",
-      "published_ts": 1789185600,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://arxiv.org/abs/2609.10656",
-      "tags": [],
-      "body": "<p>arXiv:2609.10656v1 Announce Type: new Abstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quality and compute cost. We present a controlled study on CIFAR-10 using a DDPM U-Net with ranks {2,4,8,16,32}, fixed optimization settings, and a reproducible local-folder pytorch-fid protocol. We report FID, trainable parameters, runtime, and GPU memory, then validate trends with ext</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a2d5e9315": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
-      "src": "arXiv cs.AI",
-      "time": "23小时前",
-      "published_ts": 1789185600,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://arxiv.org/abs/2609.10657",
-      "tags": [],
-      "body": "<p>arXiv:2609.10657v1 Announce Type: new Abstract: Neural networks trained past memorization frequently undergo a delayed transition to generalization, a phenomenon known as grokking. Despite theoretical progress on \\emph{why} this transition occurs, the quantitative structure of \\emph{when} it occurs in hyperparameter space remains uncharacterized. We map the memorization-to-generalization boundary </p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "afd865b67": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
-      "src": "arXiv cs.AI",
-      "time": "23小时前",
-      "published_ts": 1789185600,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://arxiv.org/abs/2609.10712",
-      "tags": [],
-      "body": "<p>arXiv:2609.10712v1 Announce Type: new Abstract: We study how model post-training and test-time inference design affect natural-language proof generation for hard olympiad mathematics. Starting from Nemotron 3 Ultra, we train two specialist checkpoints using supervised fine-tuning and reinforcement learning, and evaluate checkpoint choice, verification, and refinement. Based on these findings, we p</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "ae245fe21": {
       "layer": "l4",
@@ -399,8 +347,8 @@
       "src": "Wired",
       "time": "1天前",
       "published_ts": 1789153165,
-      "heat": "14.5K",
-      "views": "16.5K",
+      "heat": "12.5K",
+      "views": "14.5K",
       "url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
       "tags": [],
       "body": "<p>The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face recognition feature.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -464,8 +412,8 @@
       "src": "Wired",
       "time": "1天前",
       "published_ts": 1789138800,
-      "heat": "12.5K",
-      "views": "14.5K",
+      "heat": "10.6K",
+      "views": "12.5K",
       "url": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
       "tags": [],
       "body": "<p>Timnit Gebru argues that AI companies are stoking fears of extinction to avoid discussing actual harms, like autonomous weapons.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -514,7 +462,7 @@
       "cat": "L2 · 基础模型",
       "title": "Three Google supported projects premiere during the 83rd Venice International Film Festival.",
       "src": "Google AI Blog",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1789124400,
       "heat": "34.5K",
       "views": "34.5K",
@@ -527,7 +475,7 @@
       "cat": "L3 · 推理工程",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "src": "OpenAI Blog",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1789120800,
       "heat": "39.6K",
       "views": "45.0K",
@@ -540,10 +488,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
       "src": "Wired",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1789117200,
-      "heat": "10.6K",
-      "views": "12.5K",
+      "heat": "8.6K",
+      "views": "10.6K",
       "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
       "tags": [],
       "body": "<p>A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -555,24 +503,11 @@
       "src": "Wired",
       "time": "2天前",
       "published_ts": 1789082922,
-      "heat": "8.6K",
-      "views": "10.6K",
+      "heat": "6.6K",
+      "views": "8.6K",
       "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
       "tags": [],
       "body": "<p>AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a716dc084": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "Is AI Actually Going to Kill Us All?",
-      "src": "Wired",
-      "time": "2天前",
-      "published_ts": 1789072237,
-      "heat": "6.6K",
-      "views": "8.6K",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
-      "tags": [],
-      "body": "<p>This week on “Uncanny Valley,” we dig into a former Anthropic researcher’s AI doomsday warning, the latest upgrades from Apple’s event, and the census report that claimed Trump won the 2020 election.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a40a62ed6": {
       "layer": "l2",
@@ -722,7 +657,7 @@
       "cat": "L5 · 生态商业",
       "title": "Powering AI is an architecture problem",
       "src": "MIT Tech Review",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1789038000,
       "heat": "19.8K",
       "views": "22.5K",
@@ -735,7 +670,7 @@
       "cat": "L2 · 基础模型",
       "title": "Introducing ChatGPT for Financial Services",
       "src": "OpenAI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1789023600,
       "heat": "18.0K",
       "views": "23.4K",
@@ -813,7 +748,7 @@
       "cat": "L2 · 基础模型",
       "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
       "src": "Ahead of AI",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1788952465,
       "heat": "15.0K",
       "views": "15.0K",
@@ -826,7 +761,7 @@
       "cat": "L3 · 推理工程",
       "title": "When will average people feel AI’s impact?",
       "src": "Interconnects",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1788951683,
       "heat": "13.7K",
       "views": "15.8K",
@@ -839,7 +774,7 @@
       "cat": "L1 · 算力硬件",
       "title": "China’s Regulators Take Aim at “AI Boyfriends”",
       "src": "IEEE Spectrum",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1788948007,
       "heat": "13.2K",
       "views": "15.0K",
@@ -852,7 +787,7 @@
       "cat": "L0 · 领袖观点",
       "title": "[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded",
       "src": "Latent Space",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1788930291,
       "heat": "12.5K",
       "views": "14.8K",
@@ -930,7 +865,7 @@
       "cat": "L4 · 交互Agent",
       "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
       "src": "MIT Tech Review",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1788863640,
       "heat": "14.4K",
       "views": "17.1K",
@@ -995,7 +930,7 @@
       "cat": "L5 · 生态商业",
       "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
       "src": "MIT Tech Review",
-      "time": "8天前",
+      "time": "9天前",
       "published_ts": 1788513919,
       "heat": "9.0K",
       "views": "11.7K",
@@ -1034,7 +969,7 @@
       "cat": "L4 · 交互Agent",
       "title": "An Organizational Second Brain: Building an AI That Learns From Experts",
       "src": "Meta Engineering",
-      "time": "10天前",
+      "time": "11天前",
       "published_ts": 1788339629,
       "heat": "26.4K",
       "views": "30.0K",
@@ -1112,7 +1047,7 @@
       "cat": "L2 · 基础模型",
       "title": "How Claude Watermarks AI-Generated Text",
       "src": "Ahead of AI",
-      "time": "21天前",
+      "time": "22天前",
       "published_ts": 1787397099,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1177,7 +1112,7 @@
       "cat": "L3 · 推理工程",
       "title": "Controlling Reasoning Effort in LLMs",
       "src": "Ahead of AI",
-      "time": "56天前",
+      "time": "57天前",
       "published_ts": 1784373369,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1242,7 +1177,7 @@
       "cat": "L3 · 推理工程",
       "title": "LLM Research Papers: The 2026 List (January to May)",
       "src": "Ahead of AI",
-      "time": "98天前",
+      "time": "99天前",
       "published_ts": 1780744582,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1346,7 +1281,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
       "src": "SemiAnalysis",
-      "time": "369天前",
+      "time": "370天前",
       "published_ts": 1757325297,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1372,7 +1307,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "388天前",
+      "time": "389天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1581,13 +1516,7 @@
       "a323e4fc8",
       "adb093e7e",
       "a93085f37",
-      "aa42d6d59",
       "a5d313805",
-      "a56910dd6",
-      "a1f3a2bd0",
-      "ab8ed09aa",
-      "a2d5e9315",
-      "afd865b67",
       "a26f50527",
       "ab12ffb74",
       "ae5e2d90e",
@@ -1613,10 +1542,11 @@
       "af0f189d1"
     ],
     "l1": [
+      "a16400455",
+      "a032c26b8",
+      "a6cfa672d",
+      "a3940df8f",
       "a3673194f",
-      "ac8814860",
-      "acf9253c0",
-      "acf87d479",
       "abad77384",
       "aeb8072de",
       "a56043fbe",
@@ -1644,6 +1574,7 @@
       "a2ae2603b"
     ],
     "l4": [
+      "a0c24fea1",
       "a565fcb78",
       "abfc56571",
       "a97526db6",
@@ -1705,7 +1636,6 @@
       "afd1b3f1b",
       "acc8494e0",
       "a9fc49e30",
-      "a716dc084",
       "a0ab97549",
       "ac0b5e036",
       "a26a63938"
@@ -1713,44 +1643,44 @@
   },
   "top5": [
     "a323e4fc8",
-    "a3673194f",
-    "adb093e7e",
-    "a565fcb78",
-    "a9f23d92f"
+    "a16400455",
+    "a032c26b8",
+    "a6cfa672d",
+    "a3940df8f"
   ],
   "layers": [
-    {
-      "id": "l2",
-      "num": "LAYER 2",
-      "name": "基础模型",
-      "vals": [
-        36,
-        27,
-        19,
-        9,
-        34,
-        23
-      ],
-      "trend": [
-        20,
-        22,
-        24,
-        26,
-        28,
-        30,
-        32
-      ]
-    },
     {
       "id": "l1",
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        30,
-        15,
-        11,
-        7,
+        32,
         25,
+        12,
+        8,
+        37,
+        22
+      ],
+      "trend": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "id": "l2",
+      "num": "LAYER 2",
+      "name": "基础模型",
+      "vals": [
+        26,
+        15,
+        24,
+        7,
+        24,
         21
       ],
       "trend": [
@@ -1768,11 +1698,11 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        14,
-        12,
+        21,
+        18,
         9,
         6,
-        19,
+        14,
         19
       ],
       "trend": [
@@ -1786,37 +1716,15 @@
       ]
     },
     {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
-      "vals": [
-        14,
-        10,
-        13,
-        5,
-        18,
-        14
-      ],
-      "trend": [
-        20,
-        19,
-        18,
-        17,
-        16,
-        15,
-        14
-      ]
-    },
-    {
       "id": "l4",
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        10,
+        14,
         10,
         7,
         14,
-        23,
+        13,
         17
       ],
       "trend": [
@@ -1835,11 +1743,11 @@
       "name": "生态商业",
       "vals": [
         10,
+        11,
+        5,
+        5,
         10,
-        5,
-        5,
-        14,
-        17
+        18
       ],
       "trend": [
         20,
@@ -1850,6 +1758,28 @@
         10,
         8
       ]
+    },
+    {
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
+      "vals": [
+        10,
+        10,
+        7,
+        5,
+        10,
+        14
+      ],
+      "trend": [
+        20,
+        19,
+        18,
+        17,
+        16,
+        15,
+        14
+      ]
     }
   ],
   "ticker": [
@@ -1857,6 +1787,31 @@
       "tag": "OPENAI BL",
       "col": "var(--l2)",
       "text": "Perplexity trusts GPT-6 Astra with end-to-end systems"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Waymo robotaxi calls cops on riders handling loaded AR-style ghos…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Playable Tomb Raider runs on a humble 1-watt chip — $25 board wit…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Ukraine triumphs in 'first-ever' drone-vs-drone boat battle — vid…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Transparent wall-mounted CD player raises over $540,000 on Kickst…"
+    },
+    {
+      "tag": "WIRED",
+      "col": "var(--l4)",
+      "text": "AI Agents Are Thirsty for Power"
     },
     {
       "tag": "TOM'S HAR",
@@ -1897,68 +1852,16 @@
       "tag": "SIMON WIL",
       "col": "var(--l3)",
       "text": "Quoting Paul Ford"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l0)",
-      "text": "Sylvan Esso think you should splurge on good-quality yogurt"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l0)",
-      "text": "Anthropic CEO says it’s time to pump the brakes on AI"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "LG responds to TV spying allegations"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l2)",
-      "text": "Iran and Houthi rebels used Anthropic's Claude AI to target US wa…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "US Customs supervisor busted for stealing Core i7 CPUs, RAM, and …"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "The Interim Computer Museum",
-      "url": "https://icm.museum/",
-      "votes": "28",
-      "comments": "4",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "url": "https://withspecific.com/benchmarks/real-swe",
-      "votes": "157",
-      "comments": "79",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Nvidia is the central bank of AI",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "votes": "418",
-      "comments": "285",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Everyone should slow down AI development except for me",
-      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-      "votes": "223",
-      "comments": "111",
+      "title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
+      "url": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/",
+      "votes": "14",
+      "comments": "6",
       "time": "近期"
     },
     {
@@ -1966,17 +1869,44 @@
       "badge": "pb-hn",
       "title": "Why are AI agents lying, cheating and coordinating?",
       "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "votes": "28",
-      "comments": "24",
+      "votes": "262",
+      "comments": "330",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
-      "votes": "458",
-      "comments": "374",
+      "title": "The Interim Computer Museum",
+      "url": "https://icm.museum/",
+      "votes": "121",
+      "comments": "13",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant",
+      "url": "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77",
+      "votes": "91",
+      "comments": "45",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "votes": "495",
+      "comments": "351",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Everyone should slow down AI development except for me",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "votes": "517",
+      "comments": "312",
       "time": "近期"
     }
   ]
