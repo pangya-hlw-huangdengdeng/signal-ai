@@ -1,13 +1,65 @@
 {
-  "updated_at": "2026-09-20T04:01:23.992097+00:00",
+  "updated_at": "2026-09-20T10:53:31.857586+00:00",
   "article_count": 114,
   "articles": {
+    "a3d8e162c": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
+      "src": "Wired",
+      "time": "23分钟前",
+      "published_ts": 1789900200,
+      "heat": "16.5K",
+      "views": "16.5K",
+      "url": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
+      "tags": [],
+      "body": "<p>The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a3c8f6571": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "It’s Donald Trump Versus MAGA on Data Centers",
+      "src": "Wired",
+      "time": "23分钟前",
+      "published_ts": 1789900200,
+      "heat": "14.5K",
+      "views": "16.5K",
+      "url": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
+      "tags": [],
+      "body": "<p>The president has doubled down on data centers and AI. His base is running in the opposite direction.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a6cc858c4": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Collapse of mainstream optical drive supply kills high-end CD players — PS Audio and Naim halt production as component costs double",
+      "src": "Tom's Hardware",
+      "time": "48分钟前",
+      "published_ts": 1789898700,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/peripherals/audiophiles-in-trouble-as-manufacturers-cease-optical-drive-production-hi-fi-cd-players-require-extensive-rework-to-use-components-from-other-companies",
+      "tags": [],
+      "body": "<p>PS Audio and Naim had to cease production of two Hi-Fi models as manufacturers quit making optical drives, even as CD and vinyl have hit record sales in recent months.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a33ec4dca": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Google's simulated fruit fly brain 'mines Bitcoin' in web browser proof of concept — FutureBit says real organic neuron miner could have '10x the efficiency of the best silicon 3nm ASICs'",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1789897200,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://www.tomshardware.com/tech-industry/cryptomining/googles-simulated-fruit-fly-brain-mines-bitcoin-in-web-browser-proof-of-concept-futurebit-says-real-organic-neuron-miner-could-have-10x-the-efficiency-of-the-best-silicon-3nm-asics",
+      "tags": [],
+      "body": "<p>A project claimed to represent 'the first organic neuron Bitcoin miner based on the fly brain' has gone live.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "ac7ba22ab": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
       "src": "The Verge",
-      "time": "7小时前",
+      "time": "14小时前",
       "published_ts": 1789850680,
       "heat": "24.0K",
       "views": "24.0K",
@@ -20,7 +72,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Flock reportedly tries to shrink workforce with employee buyouts",
       "src": "TechCrunch AI",
-      "time": "7小时前",
+      "time": "14小时前",
       "published_ts": 1789850353,
       "heat": "27.0K",
       "views": "27.0K",
@@ -33,7 +85,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
       "src": "TechCrunch AI",
-      "time": "8小时前",
+      "time": "14小时前",
       "published_ts": 1789847867,
       "heat": "23.8K",
       "views": "27.0K",
@@ -46,7 +98,7 @@
       "cat": "L4 · 交互Agent",
       "title": "datasette-auth-github 1.0",
       "src": "Simon Willison",
-      "time": "8小时前",
+      "time": "15小时前",
       "published_ts": 1789847522,
       "heat": "15.0K",
       "views": "15.0K",
@@ -59,7 +111,7 @@
       "cat": "L2 · 基础模型",
       "title": "Google’s Gemini is the latest AI model to hack other companies",
       "src": "TechCrunch AI",
-      "time": "10小时前",
+      "time": "17小时前",
       "published_ts": 1789839000,
       "heat": "20.5K",
       "views": "23.8K",
@@ -72,7 +124,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Why I still haven’t bought into true RSI",
       "src": "Interconnects",
-      "time": "12小时前",
+      "time": "19小时前",
       "published_ts": 1789832540,
       "heat": "18.0K",
       "views": "18.0K",
@@ -85,7 +137,7 @@
       "cat": "L2 · 基础模型",
       "title": "Gemini went rogue, hacked three companies, and Google hid it",
       "src": "The Verge",
-      "time": "12小时前",
+      "time": "19小时前",
       "published_ts": 1789831503,
       "heat": "18.2K",
       "views": "21.1K",
@@ -98,10 +150,10 @@
       "cat": "L1 · 算力硬件",
       "title": "ChatGPT-6 Astra cracks 108-year-old unsolved WWI German code for the first time — radio message sharing enemy movement intelligence had evaded decoding, 1918 Crimean fleet warning verified against HMS Canterbury logs",
       "src": "Tom's Hardware",
-      "time": "12小时前",
+      "time": "19小时前",
       "published_ts": 1789830122,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "7.8K",
+      "views": "9.6K",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-108-year-old-unsolved-wwi-german-code-for-the-first-time-radio-message-sharing-enemy-movement-intelligence-had-evaded-decoding-1918-crimean-fleet-warning-verified-against-hms-canterbury-logs",
       "tags": [],
       "body": "<p>108 years after it was originally transmitted, an encrypted World War I German radio message has apparently been deciphered for the first time.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -111,7 +163,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
       "src": "The Verge",
-      "time": "13小时前",
+      "time": "19小时前",
       "published_ts": 1789830000,
       "heat": "15.4K",
       "views": "18.2K",
@@ -124,7 +176,7 @@
       "cat": "L1 · 算力硬件",
       "title": "The colorful, unique Hyte X50 PC case is $50 off",
       "src": "The Verge",
-      "time": "13小时前",
+      "time": "19小时前",
       "published_ts": 1789830000,
       "heat": "12.5K",
       "views": "15.4K",
@@ -137,7 +189,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
       "src": "TechCrunch AI",
-      "time": "13小时前",
+      "time": "19小时前",
       "published_ts": 1789830000,
       "heat": "17.3K",
       "views": "20.5K",
@@ -150,7 +202,7 @@
       "cat": "L4 · 交互Agent",
       "title": "AI safety conversations have gotten unbelievable",
       "src": "TechCrunch AI",
-      "time": "13小时前",
+      "time": "19小时前",
       "published_ts": 1789830000,
       "heat": "14.0K",
       "views": "17.3K",
@@ -163,7 +215,7 @@
       "cat": "L5 · 生态商业",
       "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
       "src": "The Verge",
-      "time": "14小时前",
+      "time": "20小时前",
       "published_ts": 1789826400,
       "heat": "9.6K",
       "views": "12.5K",
@@ -176,49 +228,23 @@
       "cat": "L1 · 算力硬件",
       "title": "Father loses job over 9-year-old spending $118,000 on Minecraft YouTube ads using his company's credit card — 'I’m going to be working until I’m like 94,' refuses to set up GoFundMe or put up crypto coin to help repay massive bill",
       "src": "Tom's Hardware",
-      "time": "14小时前",
+      "time": "21小时前",
       "published_ts": 1789825032,
-      "heat": "11.4K",
-      "views": "13.2K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://www.tomshardware.com/video-games/father-loses-job-over-9-year-old-spending-usd118-000-on-youtube-ads-using-his-companys-credit-card-refuses-to-set-up-gofundme-or-put-up-crypto-coin-to-help-repay-massive-bill",
       "tags": [],
       "body": "<p>Mighty Mike Play's dad is trying to figure out how to pay back the $118k his son accidentally spent on YouTube ads. He also warned against fundraisers made in their name, since they aren't making one yet.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a08d1ec8a": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Researchers create DNA computer that performs 100-bit calculations without electricity — molecular system uses self-assembling strands to perform computing",
-      "src": "Tom's Hardware",
-      "time": "15小时前",
-      "published_ts": 1789821000,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://www.tomshardware.com/tech-industry/researchers-create-dna-computer-that-performs-100-bit-calculations-without-electricity-molecular-system-uses-self-assembling-strands-to-perform-computing",
-      "tags": [],
-      "body": "<p>Maynooth University researchers built a scaffolded DNA computer that uses molecular reactions to perform arithmetic and 100-bit calculations without electrical power.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a2842523f": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "This week on Tom's Hardware Premium: September 19, 2026 — Steam Frame interview, killer AI models, and the DRAM crisis deepens",
-      "src": "Tom's Hardware",
-      "time": "16小时前",
-      "published_ts": 1789819200,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-september-19-2026-steam-frame-interview-killer-ai-models-and-the-dram-crisis-deepens",
-      "tags": [],
-      "body": "<p>This week on Tom's Hardware Premium, we offer deep-dives into the Steam Frame, explore how AI is changing the landscape of consumer electrionics, and how advanced AI accelerators are reaching Eastern shores, despite export controls.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a88028223": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
       "src": "Wired",
-      "time": "17小时前",
+      "time": "23小时前",
       "published_ts": 1789815600,
-      "heat": "16.5K",
-      "views": "16.5K",
+      "heat": "12.5K",
+      "views": "14.5K",
       "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
       "tags": [],
       "body": "<p>AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -228,7 +254,7 @@
       "cat": "L4 · 交互Agent",
       "title": "‘Supermountains’ Buried Under Antarctica Fueled Explosion of Life, Scientists Discover",
       "src": "404 Media",
-      "time": "18小时前",
+      "time": "1天前",
       "published_ts": 1789812027,
       "heat": "15.0K",
       "views": "15.0K",
@@ -241,10 +267,10 @@
       "cat": "L5 · 生态商业",
       "title": "Mathematicians Hate AI. They Can’t Quit It",
       "src": "Wired",
-      "time": "18小时前",
+      "time": "1天前",
       "published_ts": 1789812000,
-      "heat": "14.5K",
-      "views": "16.5K",
+      "heat": "10.6K",
+      "views": "12.5K",
       "url": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
       "tags": [],
       "body": "<p>Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -254,10 +280,10 @@
       "cat": "L5 · 生态商业",
       "title": "Join the WIRED World Fair in Miami on November 4",
       "src": "Wired",
-      "time": "19小时前",
+      "time": "1天前",
       "published_ts": 1789808400,
-      "heat": "12.5K",
-      "views": "14.5K",
+      "heat": "8.6K",
+      "views": "10.6K",
       "url": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
       "tags": [],
       "body": "<p>For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -267,7 +293,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] Here are 6 Clones of Jev in 2 days",
       "src": "Latent Space",
-      "time": "22小时前",
+      "time": "1天前",
       "published_ts": 1789796908,
       "heat": "19.5K",
       "views": "19.5K",
@@ -308,8 +334,8 @@
       "src": "Wired",
       "time": "1天前",
       "published_ts": 1789759269,
-      "heat": "10.6K",
-      "views": "12.5K",
+      "heat": "6.6K",
+      "views": "8.6K",
       "url": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
       "tags": [],
       "body": "<p>Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -352,32 +378,6 @@
       "url": "https://www.404media.co/404-media-x-the-intercept-live-how-ai-is-used-to-surveil-and-kill/",
       "tags": [],
       "body": "<p>404 Media and The Intercept talk about how private companies empower government surveillance, and how AI is used in warfare.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a4262c223": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
-      "src": "Wired",
-      "time": "1天前",
-      "published_ts": 1789743608,
-      "heat": "8.6K",
-      "views": "10.6K",
-      "url": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
-      "tags": [],
-      "body": "<p>The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a5f479141": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
-      "src": "Wired",
-      "time": "1天前",
-      "published_ts": 1789743600,
-      "heat": "6.6K",
-      "views": "8.6K",
-      "url": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
-      "tags": [],
-      "body": "<p>Anthropic’s CEO says that safety hinges on understanding how AI “thinks.” So far the evidence is disturbing.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "ab8fc35d4": {
       "layer": "l2",
@@ -436,7 +436,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] not much happened today",
       "src": "Latent Space",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1789712923,
       "heat": "17.2K",
       "views": "19.5K",
@@ -514,7 +514,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] Reality Checks on AI News (Yegge shuts down Gas Town, Databricks’ +60% Astra cost)",
       "src": "Latent Space",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1789630105,
       "heat": "14.8K",
       "views": "17.2K",
@@ -670,7 +670,7 @@
       "cat": "L1 · 算力硬件",
       "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
       "src": "NVIDIA Blog",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1789534842,
       "heat": "24.0K",
       "views": "28.5K",
@@ -748,7 +748,7 @@
       "cat": "L5 · 生态商业",
       "title": "What’s at stake in AI’s trillion-dollar gamble",
       "src": "MIT Tech Review",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1789466400,
       "heat": "14.4K",
       "views": "17.1K",
@@ -969,7 +969,7 @@
       "cat": "L4 · 交互Agent",
       "title": "An Organizational Second Brain: Building an AI That Learns From Experts",
       "src": "Meta Engineering",
-      "time": "17天前",
+      "time": "18天前",
       "published_ts": 1788339629,
       "heat": "26.4K",
       "views": "30.0K",
@@ -1255,7 +1255,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
       "src": "SemiAnalysis",
-      "time": "376天前",
+      "time": "377天前",
       "published_ts": 1757325297,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1281,7 +1281,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "395天前",
+      "time": "396天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1486,28 +1486,8 @@
     }
   },
   "by_layer": {
-    "l4": [
-      "ac7ba22ab",
-      "ab835ed08",
-      "a6e88f47c",
-      "af745f4a0",
-      "a9597abaa",
-      "aa1cfe222",
-      "a88028223",
-      "a320964f5",
-      "a0e86419d",
-      "a6da776f9",
-      "a6f904489",
-      "a5062654a",
-      "a79594aa6",
-      "aa62b1b3c",
-      "accbfb43b",
-      "adb3d5b47",
-      "a8e5f3350",
-      "a05837fc3",
-      "ad01feb8a"
-    ],
     "l2": [
+      "a3d8e162c",
       "a412d984b",
       "a6b82a7d7",
       "a3bebb3ea",
@@ -1531,32 +1511,28 @@
       "ab3119897",
       "af0f189d1"
     ],
-    "l0": [
-      "ae16cb28a",
-      "a2842523f",
-      "a5f479141",
-      "a1505e8fd",
-      "a0537ae8b",
-      "a8807ce40",
-      "ae1d2f052",
-      "a0a86adb8",
-      "aa27891e5",
-      "a57fda39f",
-      "a187a50d6",
-      "a040f39c9",
-      "a0ab4dd7d",
-      "a375099f0",
-      "a6a5b4a81",
-      "a253e0446",
-      "a9173515c",
-      "abcb7b0c4"
+    "l5": [
+      "a3c8f6571",
+      "a69c998de",
+      "af017c854",
+      "a85034b06",
+      "a3f62c7c5",
+      "ad8ee41b1",
+      "a19c16893",
+      "a0afd7f96",
+      "abad77384",
+      "ae345daa3",
+      "a41bc8f90",
+      "acc8494e0",
+      "ac0b5e036"
     ],
     "l1": [
+      "a6cc858c4",
+      "a33ec4dca",
       "abbda7536",
       "aee55c4a7",
       "ae01a8a49",
       "ab07eec1b",
-      "a08d1ec8a",
       "ae02733f8",
       "a173f9e35",
       "ac2d7608a",
@@ -1584,20 +1560,44 @@
       "a5236c597",
       "a2ae2603b"
     ],
-    "l5": [
-      "a69c998de",
-      "af017c854",
-      "a85034b06",
-      "a3f62c7c5",
-      "a4262c223",
-      "ad8ee41b1",
-      "a19c16893",
-      "a0afd7f96",
-      "abad77384",
-      "ae345daa3",
-      "a41bc8f90",
-      "acc8494e0",
-      "ac0b5e036"
+    "l4": [
+      "ac7ba22ab",
+      "ab835ed08",
+      "a6e88f47c",
+      "af745f4a0",
+      "a9597abaa",
+      "aa1cfe222",
+      "a88028223",
+      "a320964f5",
+      "a0e86419d",
+      "a6da776f9",
+      "a6f904489",
+      "a5062654a",
+      "a79594aa6",
+      "aa62b1b3c",
+      "accbfb43b",
+      "adb3d5b47",
+      "a8e5f3350",
+      "a05837fc3",
+      "ad01feb8a"
+    ],
+    "l0": [
+      "ae16cb28a",
+      "a1505e8fd",
+      "a0537ae8b",
+      "a8807ce40",
+      "ae1d2f052",
+      "a0a86adb8",
+      "aa27891e5",
+      "a57fda39f",
+      "a187a50d6",
+      "a040f39c9",
+      "a0ab4dd7d",
+      "a375099f0",
+      "a6a5b4a81",
+      "a253e0446",
+      "a9173515c",
+      "abcb7b0c4"
     ],
     "l3": [
       "ae6a7e54b",
@@ -1614,24 +1614,46 @@
     ]
   },
   "top5": [
-    "ac7ba22ab",
-    "ab835ed08",
-    "a6e88f47c",
-    "af745f4a0",
-    "a412d984b"
+    "a3d8e162c",
+    "a3c8f6571",
+    "a6cc858c4",
+    "a33ec4dca",
+    "ac7ba22ab"
   ],
   "layers": [
+    {
+      "id": "l2",
+      "num": "LAYER 2",
+      "name": "基础模型",
+      "vals": [
+        29,
+        32,
+        15,
+        6,
+        27,
+        20
+      ],
+      "trend": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
     {
       "id": "l1",
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        35,
-        39,
-        13,
+        36,
+        18,
+        14,
         9,
-        29,
-        23
+        28,
+        24
       ],
       "trend": [
         20,
@@ -1644,59 +1666,15 @@
       ]
     },
     {
-      "id": "l2",
-      "num": "LAYER 2",
-      "name": "基础模型",
-      "vals": [
-        20,
-        15,
-        24,
-        6,
-        30,
-        19
-      ],
-      "trend": [
-        20,
-        20,
-        20,
-        20,
-        20,
-        20,
-        20
-      ]
-    },
-    {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
-      "vals": [
-        10,
-        10,
-        18,
-        5,
-        15,
-        14
-      ],
-      "trend": [
-        20,
-        19,
-        18,
-        17,
-        16,
-        15,
-        14
-      ]
-    },
-    {
       "id": "l4",
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
         10,
-        14,
+        24,
         8,
-        9,
-        13,
+        16,
+        23,
         18
       ],
       "trend": [
@@ -1714,11 +1692,11 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        10,
-        10,
+        16,
+        23,
         7,
         5,
-        24,
+        18,
         17
       ],
       "trend": [
@@ -1736,12 +1714,34 @@
       "num": "LAYER 5",
       "name": "生态商业",
       "vals": [
-        10,
-        10,
-        5,
-        5,
+        11,
         12,
-        11
+        5,
+        5,
+        25,
+        17
+      ],
+      "trend": [
+        20,
+        19,
+        18,
+        17,
+        16,
+        15,
+        14
+      ]
+    },
+    {
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
+      "vals": [
+        10,
+        10,
+        11,
+        5,
+        10,
+        14
       ],
       "trend": [
         20,
@@ -1755,6 +1755,26 @@
     }
   ],
   "ticker": [
+    {
+      "tag": "WIRED",
+      "col": "var(--l2)",
+      "text": "Meta's Muse Is Better at Surveilling Than Helping Me"
+    },
+    {
+      "tag": "WIRED",
+      "col": "var(--l5)",
+      "text": "It’s Donald Trump Versus MAGA on Data Centers"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Collapse of mainstream optical drive supply kills high-end CD pla…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Google's simulated fruit fly brain 'mines Bitcoin' in web browser…"
+    },
     {
       "tag": "THE VERGE",
       "col": "var(--l4)",
@@ -1804,36 +1824,52 @@
       "tag": "THE VERGE",
       "col": "var(--l1)",
       "text": "The colorful, unique Hyte X50 PC case is $50 off"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "Petlibro’s new AI-powered feeder is a game changer for multi-cat …"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "AI safety conversations have gotten unbelievable"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l5)",
-      "text": "Does AI need an antitrust exemption so it doesn&#8217;t kill ever…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Father loses job over 9-year-old spending $118,000 on Minecraft Y…"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
+      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+      "votes": "146",
+      "comments": "108",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Telling a Computer to Do Things",
+      "url": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
+      "votes": "36",
+      "comments": "14",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
       "title": "AI-generated posters don’t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "votes": "1,439",
-      "comments": "794",
+      "votes": "1,602",
+      "comments": "851",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
+      "url": "https://faceanalysisai.com/",
+      "votes": "6",
+      "comments": "0",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Microsoft agentically ports Copilot runtime to Rust for $120K",
+      "url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
+      "votes": "16",
+      "comments": "9",
       "time": "近期"
     },
     {
@@ -1841,44 +1877,8 @@
       "badge": "pb-hn",
       "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
       "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
-      "votes": "93",
-      "comments": "79",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Can you tell which images are AI-generated?",
-      "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
-      "votes": "53",
-      "comments": "54",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "How to Write with an LLM",
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "votes": "641",
-      "comments": "380",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
-      "url": "https://github.com/trycua/cua",
-      "votes": "68",
-      "comments": "8",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "I think you should almost never use AI to write",
-      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "votes": "262",
-      "comments": "133",
+      "votes": "138",
+      "comments": "120",
       "time": "近期"
     }
   ]
