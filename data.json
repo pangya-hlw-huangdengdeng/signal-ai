@@ -1,13 +1,52 @@
 {
-  "updated_at": "2026-09-27T04:21:36.314345+00:00",
-  "article_count": 104,
+  "updated_at": "2026-09-27T11:39:33.275940+00:00",
+  "article_count": 105,
   "articles": {
+    "a19d003c4": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Developer says Jev decision model beat Pokémon Red in under a week",
+      "src": "Tom's Hardware",
+      "time": "9分钟前",
+      "published_ts": 1790508600,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/developer-says-jev-decision-model-beat-pokemon-red-in-under-a-week-non-llm-engine-succeeds-where-traditional-chatbots-stalled-for-months-but-claude-opus-5-coached-the-model-through-its-dead-ends",
+      "tags": [],
+      "body": "<p>TypeSafe AI's Jev beat Pokémon Red in under a week, eventually reaching the Hall of Fame.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a45f8fbba": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "U.S. and UK navies successfully launch 3,700-pound submarine-sinking torpedo from robotic drone submarine in historic first",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1790505000,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/tech-industry/u-s-and-uk-navies-successfully-launch-3-700-pound-submarine-sinking-torpedo-from-robotic-drone-submarine-in-historic-first-project-broadsword-proves-weapon-interchangeability-in-just-seven-months",
+      "tags": [],
+      "body": "<p>The U.S. Navy and Royal Navy have successfully launched a 3,700-pound Mk 48 heavyweight torpedo from Britain’s uncrewed XV Excalibur submarine, marking the first time the weapon has been fired from an autonomous underwater vehicle</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a1d45fe3a": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Taiwan's chip talisman snack faces production halt after 94% strike vote",
+      "src": "Tom's Hardware",
+      "time": "2小时前",
+      "published_ts": 1790501400,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://www.tomshardware.com/tech-industry/taiwans-chip-talisman-snack-faces-production-halt-after-94-percent-strike-vote-workers-demand-share-of-usd176-million-factory-sale-to-ase",
+      "tags": [],
+      "body": "<p>Taiwan's tech talisman snack production could be halted as the Guai Guai company faces strike action.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "aee5444f1": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
       "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
       "src": "TechCrunch AI",
-      "time": "2小时前",
+      "time": "10小时前",
       "published_ts": 1790472600,
       "heat": "27.0K",
       "views": "27.0K",
@@ -20,7 +59,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Kākāpō Party",
       "src": "Simon Willison",
-      "time": "4小时前",
+      "time": "12小时前",
       "published_ts": 1790465946,
       "heat": "15.0K",
       "views": "15.0K",
@@ -33,7 +72,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Alien Life Can Survive on This Tiny Moon—We Just Need to Go Find It",
       "src": "404 Media",
-      "time": "6小时前",
+      "time": "13小时前",
       "published_ts": 1790459979,
       "heat": "15.0K",
       "views": "15.0K",
@@ -46,7 +85,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Insurers claim AI is already increasing healthcare costs",
       "src": "TechCrunch AI",
-      "time": "7小时前",
+      "time": "14小时前",
       "published_ts": 1790456526,
       "heat": "23.8K",
       "views": "27.0K",
@@ -59,7 +98,7 @@
       "cat": "L2 · 基础模型",
       "title": "OpenAI pauses training of its ‘most capable models’",
       "src": "The Verge",
-      "time": "11小时前",
+      "time": "19小时前",
       "published_ts": 1790440499,
       "heat": "15.4K",
       "views": "18.2K",
@@ -72,33 +111,20 @@
       "cat": "L1 · 算力硬件",
       "title": "Russia bombs Ukrainian data centers in latest escalation",
       "src": "Tom's Hardware",
-      "time": "13小时前",
+      "time": "21小时前",
       "published_ts": 1790433059,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://www.tomshardware.com/tech-industry/data-centers/russia-bombs-ukrainian-data-centers-in-latest-escalation-100-000-households-lose-connectivity-as-firms-migrate-data-abroad-zelensky-says-ordinary-life-is-simply-a-target",
       "tags": [],
       "body": "<p>Russia has begun targeting data centers and internet infrastructure in its latest attacks, disrupting critical services for Ukrainian civilians. The attacks have left 100,000 households in the area without an internet connection, although a senior government official claimed that the country's internet network is highly decentralized.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a0cc84c74": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Microsoft quietly drops Copilot+ branding from new laptops",
-      "src": "Tom's Hardware",
-      "time": "14小时前",
-      "published_ts": 1790431200,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
-      "tags": [],
-      "body": "<p>Microsoft's latest Surface laptops dropped the Copilot+ PC branding despite hitting the minimum requirements. Even high-end AI devices like the Nvidia RTX Spark and Microsoft's own Project Zenith are noticeably missing the label.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a4a4fbbb5": {
       "layer": "l0",
       "cat": "L0 · 领袖观点",
       "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
       "src": "The Verge",
-      "time": "14小时前",
+      "time": "21小时前",
       "published_ts": 1790431200,
       "heat": "12.5K",
       "views": "15.4K",
@@ -111,7 +137,7 @@
       "cat": "L2 · 基础模型",
       "title": "I created an interactive digital avatar of myself — and you can talk to it",
       "src": "TechCrunch AI",
-      "time": "14小时前",
+      "time": "21小时前",
       "published_ts": 1790431200,
       "heat": "20.5K",
       "views": "23.8K",
@@ -119,25 +145,12 @@
       "tags": [],
       "body": "<p>After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a79159196": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Nvidia patents AI chatbot to streamline PC game optimization",
-      "src": "Tom's Hardware",
-      "time": "15小时前",
-      "published_ts": 1790427600,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://www.tomshardware.com/video-games/pc-gaming/an-nvidia-chatbot-could-one-day-help-developers-better-optimize-their-games-patent-filing-show-requests-can-be-made-in-plain-english",
-      "tags": [],
-      "body": "<p>An Nvidia patent suggests the company could push developers to use a new chatbot as a way to get guidance on how to optimize their new games before release.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a0f5b6ae2": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "Control Resonant is a great game — it’s even better when you read everything",
       "src": "The Verge",
-      "time": "15小时前",
+      "time": "22小时前",
       "published_ts": 1790427600,
       "heat": "9.6K",
       "views": "12.5K",
@@ -150,7 +163,7 @@
       "cat": "L5 · 生态商业",
       "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
       "src": "Wired",
-      "time": "17小时前",
+      "time": "1天前",
       "published_ts": 1790418600,
       "heat": "16.5K",
       "views": "16.5K",
@@ -280,7 +293,7 @@
       "cat": "L1 · 算力硬件",
       "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
       "src": "MIT Tech Review",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1790327785,
       "heat": "22.5K",
       "views": "22.5K",
@@ -293,7 +306,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] The Future of Latent Space",
       "src": "Latent Space",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1790314620,
       "heat": "17.2K",
       "views": "19.5K",
@@ -436,7 +449,7 @@
       "cat": "L4 · 交互Agent",
       "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
       "src": "Wired",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1790246816,
       "heat": "6.6K",
       "views": "8.6K",
@@ -449,7 +462,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] Meta Connect 2026: Muse glasses, voice, video, and Charm",
       "src": "Latent Space",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1790237579,
       "heat": "10.1K",
       "views": "12.5K",
@@ -566,7 +579,7 @@
       "cat": "L4 · 交互Agent",
       "title": "The AI Hype Index: AI loves cheating",
       "src": "MIT Tech Review",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1790154000,
       "heat": "19.8K",
       "views": "22.5K",
@@ -670,7 +683,7 @@
       "cat": "L2 · 基础模型",
       "title": "Don’t be fooled by this summer of AI hype",
       "src": "MIT Tech Review",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1790075091,
       "heat": "14.4K",
       "views": "17.1K",
@@ -722,7 +735,7 @@
       "cat": "L1 · 算力硬件",
       "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
       "src": "Ars Technica",
-      "time": "6天前",
+      "time": "7天前",
       "published_ts": 1789902420,
       "heat": "7.2K",
       "views": "9.4K",
@@ -852,7 +865,7 @@
       "cat": "L2 · 基础模型",
       "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
       "src": "Ahead of AI",
-      "time": "17天前",
+      "time": "18天前",
       "published_ts": 1788952465,
       "heat": "15.0K",
       "views": "15.0K",
@@ -865,7 +878,7 @@
       "cat": "L3 · 推理工程",
       "title": "When will average people feel AI’s impact?",
       "src": "Interconnects",
-      "time": "17天前",
+      "time": "18天前",
       "published_ts": 1788951683,
       "heat": "7.2K",
       "views": "9.4K",
@@ -878,7 +891,7 @@
       "cat": "L4 · 交互Agent",
       "title": "An Organizational Second Brain: Building an AI That Learns From Experts",
       "src": "Meta Engineering",
-      "time": "24天前",
+      "time": "25天前",
       "published_ts": 1788339629,
       "heat": "15.6K",
       "views": "19.2K",
@@ -917,7 +930,7 @@
       "cat": "L2 · 基础模型",
       "title": "How Claude Watermarks AI-Generated Text",
       "src": "Ahead of AI",
-      "time": "35天前",
+      "time": "36天前",
       "published_ts": 1787397099,
       "heat": "13.2K",
       "views": "15.0K",
@@ -956,7 +969,7 @@
       "cat": "L3 · 推理工程",
       "title": "Controlling Reasoning Effort in LLMs",
       "src": "Ahead of AI",
-      "time": "70天前",
+      "time": "71天前",
       "published_ts": 1784373369,
       "heat": "9.6K",
       "views": "11.4K",
@@ -982,7 +995,7 @@
       "cat": "L2 · 基础模型",
       "title": "Using Local Coding Agents",
       "src": "Ahead of AI",
-      "time": "91天前",
+      "time": "92天前",
       "published_ts": 1782559318,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1021,7 +1034,7 @@
       "cat": "L3 · 推理工程",
       "title": "LLM Research Papers: The 2026 List (January to May)",
       "src": "Ahead of AI",
-      "time": "112天前",
+      "time": "113天前",
       "published_ts": 1780744582,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1125,7 +1138,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
       "src": "SemiAnalysis",
-      "time": "383天前",
+      "time": "384天前",
       "published_ts": 1757325297,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1151,7 +1164,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "402天前",
+      "time": "403天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1356,6 +1369,35 @@
     }
   },
   "by_layer": {
+    "l1": [
+      "a19d003c4",
+      "a45f8fbba",
+      "a1d45fe3a",
+      "a3835f8a6",
+      "a91853eac",
+      "a6055eb4b",
+      "ae6370310",
+      "a38428415",
+      "a3ed7c479",
+      "a630436fd",
+      "ac56353b7",
+      "a8228e03b",
+      "a497726ce",
+      "acfe04c48",
+      "ac1f2db3f",
+      "a2f904028",
+      "ac4fd66e8",
+      "af3a546df",
+      "a8cf5579c",
+      "a50f8a782",
+      "ad44677e2",
+      "a6bee3694",
+      "a612b9eb6",
+      "a472cb971",
+      "a94a9a29d",
+      "a5236c597",
+      "a2ae2603b"
+    ],
     "l2": [
       "aee5444f1",
       "a3cef38d3",
@@ -1422,34 +1464,6 @@
       "a05837fc3",
       "ad01feb8a"
     ],
-    "l1": [
-      "a3835f8a6",
-      "a0cc84c74",
-      "a79159196",
-      "a91853eac",
-      "a6055eb4b",
-      "ae6370310",
-      "a38428415",
-      "a3ed7c479",
-      "a630436fd",
-      "ac56353b7",
-      "a8228e03b",
-      "a497726ce",
-      "acfe04c48",
-      "ac1f2db3f",
-      "a2f904028",
-      "ac4fd66e8",
-      "af3a546df",
-      "a8cf5579c",
-      "a50f8a782",
-      "ad44677e2",
-      "a6bee3694",
-      "a612b9eb6",
-      "a472cb971",
-      "a94a9a29d",
-      "a5236c597",
-      "a2ae2603b"
-    ],
     "l5": [
       "a6d333953",
       "ad9e55041",
@@ -1474,43 +1488,21 @@
     ]
   },
   "top5": [
+    "a19d003c4",
+    "a45f8fbba",
+    "a1d45fe3a",
     "aee5444f1",
-    "a78ee0be0",
-    "a2686ea31",
-    "a5ce15d4c",
-    "a3cef38d3"
+    "a78ee0be0"
   ],
   "layers": [
-    {
-      "id": "l1",
-      "num": "LAYER 1",
-      "name": "算力硬件",
-      "vals": [
-        29,
-        27,
-        12,
-        8,
-        26,
-        22
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
     {
       "id": "l2",
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        16,
-        16,
-        11,
+        25,
+        14,
+        21,
         7,
         29,
         21
@@ -1526,15 +1518,59 @@
       ]
     },
     {
+      "id": "l1",
+      "num": "LAYER 1",
+      "name": "算力硬件",
+      "vals": [
+        19,
+        23,
+        12,
+        8,
+        36,
+        22
+      ],
+      "trend": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "id": "l4",
+      "num": "LAYER 4",
+      "name": "交互Agent",
+      "vals": [
+        19,
+        19,
+        8,
+        17,
+        23,
+        18
+      ],
+      "trend": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ]
+    },
+    {
       "id": "l0",
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        23,
-        12,
+        14,
+        18,
         8,
         5,
-        25,
+        19,
         18
       ],
       "trend": [
@@ -1553,10 +1589,10 @@
       "name": "推理工程",
       "vals": [
         10,
-        10,
         14,
+        5,
         12,
-        18,
+        12,
         14
       ],
       "trend": [
@@ -1570,38 +1606,16 @@
       ]
     },
     {
-      "id": "l4",
-      "num": "LAYER 4",
-      "name": "交互Agent",
-      "vals": [
-        10,
-        10,
-        8,
-        10,
-        21,
-        18
-      ],
-      "trend": [
-        20,
-        20,
-        20,
-        20,
-        20,
-        20,
-        20
-      ]
-    },
-    {
       "id": "l5",
       "num": "LAYER 5",
       "name": "生态商业",
       "vals": [
         10,
-        17,
+        10,
         5,
         5,
         10,
-        17
+        10
       ],
       "trend": [
         20,
@@ -1615,6 +1629,21 @@
     }
   ],
   "ticker": [
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Developer says Jev decision model beat Pokémon Red in under a wee…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "U.S. and UK navies successfully launch 3,700-pound submarine-sink…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Taiwan's chip talisman snack faces production halt after 94% stri…"
+    },
     {
       "tag": "TECHCRUNC",
       "col": "var(--l2)",
@@ -1646,11 +1675,6 @@
       "text": "Russia bombs Ukrainian data centers in latest escalation"
     },
     {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Microsoft quietly drops Copilot+ branding from new laptops"
-    },
-    {
       "tag": "THE VERGE",
       "col": "var(--l0)",
       "text": "Can Cloudflare CEO Matthew Prince save the web from AI?"
@@ -1659,11 +1683,6 @@
       "tag": "TECHCRUNC",
       "col": "var(--l2)",
       "text": "I created an interactive digital avatar of myself — and you can t…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Nvidia patents AI chatbot to streamline PC game optimization"
     },
     {
       "tag": "THE VERGE",
@@ -1679,30 +1698,43 @@
       "tag": "TECHCRUNC",
       "col": "var(--l0)",
       "text": "Crusoe abandons $1.25B plan to use Boom turbines at AI data cente…"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "Unsecured OpenAI agents posted 53 user images on the internet wit…"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "DeepSeek Elastic Compute (DSec)",
-      "url": "https://arxiv.org/abs/2609.22978",
-      "votes": "193",
-      "comments": "58",
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "votes": "28",
+      "comments": "20",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Evolving programming languages in the AI era",
-      "url": "https://dashbit.co/blog/evolving-ai-era",
-      "votes": "53",
-      "comments": "35",
+      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "votes": "262",
+      "comments": "228",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+      "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+      "votes": "211",
+      "comments": "122",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "votes": "259",
+      "comments": "86",
       "time": "近期"
     },
     {
@@ -1710,35 +1742,17 @@
       "badge": "pb-hn",
       "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
       "url": "https://www.movingimagearchive.com/",
-      "votes": "135",
+      "votes": "178",
       "comments": "26",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-      "votes": "126",
-      "comments": "34",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "How I changed teaching after AI managed to do all my homework assignments",
-      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-      "votes": "160",
-      "comments": "152",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Generate fonts where every LLM token is the same width",
-      "url": "https://ampdot.mesh.host/token-space-fonts.html",
-      "votes": "39",
-      "comments": "10",
+      "title": "Evolving programming languages in the AI era",
+      "url": "https://dashbit.co/blog/evolving-ai-era",
+      "votes": "105",
+      "comments": "63",
       "time": "近期"
     }
   ]
