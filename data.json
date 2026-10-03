@@ -1,52 +1,104 @@
 {
-  "updated_at": "2026-10-03T11:17:24.953523+00:00",
-  "article_count": 114,
+  "updated_at": "2026-10-03T15:55:21.889744+00:00",
+  "article_count": 113,
   "articles": {
-    "a869353f1": {
+    "ac281db10": {
       "layer": "l0",
       "cat": "L0 · 领袖观点",
-      "title": "Amazon promises to spend $1 billion on communities close to its data centers, but critics push back",
-      "src": "Tom's Hardware",
-      "time": "27分钟前",
-      "published_ts": 1791024600,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-promises-to-spend-usd1-billion-on-communities-close-to-its-data-centers-but-critics-push-back-planned-spend-accounts-for-just-0-1-percent-of-its-2026-ai-infrastructure-investments",
+      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "src": "The Verge",
+      "time": "55分钟前",
+      "published_ts": 1791039600,
+      "heat": "24.0K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
       "tags": [],
-      "body": "<p>AWS CEO Matt Garman said in a company blog post that it will allocate $1 billion over five years to key issues that data center communities raised, including education, workforce pathways, energy affordability, and more. This amounts to grants of $200 million annually, even as the company allocates $220 billion on data center infrastructure for 2026.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the curious.) Before that, Kakul held executive roles [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a8e513dfe": {
+    "a8a840b47": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
-      "title": "AMD’s secret Zen 3 gaming CPU had 128MB of game-boosting L3 cache but never saw the light of day",
-      "src": "Tom's Hardware",
-      "time": "47分钟前",
-      "published_ts": 1791023400,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amds-secret-zen-3-gaming-cpu-had-128mb-of-l3-cache-but-never-saw-the-light-of-day-canceled-ryzen-9-5900x3d-breaks-free-from-the-chipmakers-vault",
-      "tags": [],
-      "body": "<p>A user from the Chinese Chiphell forums shows off AMD's unreleased Ryzen 9 5900X3D, the X3D variant of the Ryzen 9 5900X.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "acfe0117a": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "ChatGPT-6 Astra plays World of Warcraft 'blind' and clears the orc starting zone in 40 minutes with no deaths",
+      "title": "Elon Musk confirms discussions with TSMC about Terafab chipmaking collaboration",
       "src": "Tom's Hardware",
       "time": "1小时前",
-      "published_ts": 1791021600,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/gpt-6-astra-plays-world-of-warcraft-blind-and-clears-the-orc-starting-zone-in-40-minutes-with-no-deaths-ai-agent-navigates-by-server-network-traffic-with-pulled-quest-data",
+      "published_ts": 1791039050,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-confirms-discussions-with-tsmc-about-terafab-chipmaking-collaboration-intel-is-the-only-other-named-partner-terafab-to-exclusively-supply-tesla-spacex-and-xai",
       "tags": [],
-      "body": "<p>The model created its own World of Warcraft pathfinder on a private server with one prompt in OpenAI's Codex.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>Elon Musk and TSMC reportedly discuss multiple collaboration opportunities within the Terafab project.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a530dff2d": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "src": "The Verge",
+      "time": "1小时前",
+      "published_ts": 1791037916,
+      "heat": "21.1K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "tags": [],
+      "body": "<p>David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ad6778323": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "This week on Tom's Hardware Premium: October 3, 2026",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1791036000,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/this-week-on-toms-hardware-premium-october-3-2026-ai-chip-design-week-openai-interview-and-ai-agent-safety",
+      "tags": [],
+      "body": "<p>This week on Tom's Hardware Premium, we open the floodgates with a free-to-access chip design week, including expert interviews, a sit-down with OpenAI on its custom ASIC, and much more.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "af7aae28a": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "All the AI agents that can live in your text messages",
+      "src": "TechCrunch AI",
+      "time": "1小时前",
+      "published_ts": 1791036000,
+      "heat": "27.0K",
+      "views": "27.0K",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "tags": [],
+      "body": "<p>We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a33f1f779": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "AI agents use 5x more tokens than humans as cached prompts explode, headed for 10x",
+      "src": "Tom's Hardware",
+      "time": "2小时前",
+      "published_ts": 1791033000,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/futurum-ceo-says-agents-use-ai-5x-more-than-humans-number-will-eventually-hit-10x-but-agents-are-mostly-rereading-what-theyve-already-seen",
+      "tags": [],
+      "body": "<p>Daniel Newman’s number comes from OpenRouter data, where agents passed humans in February and grew 14x by August.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a018013bd": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+      "src": "Wired",
+      "time": "3小时前",
+      "published_ts": 1791028800,
+      "heat": "16.5K",
+      "views": "16.5K",
+      "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+      "tags": [],
+      "body": "<p>Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "ac8aab00b": {
       "layer": "l3",
       "cat": "L3 · 推理工程",
       "title": "[AINews] not much happened today",
       "src": "Latent Space",
-      "time": "2小时前",
+      "time": "7小时前",
       "published_ts": 1791017115,
       "heat": "19.5K",
       "views": "19.5K",
@@ -59,7 +111,7 @@
       "cat": "L2 · 基础模型",
       "title": "Reverse Item Response Theory for Sparsity-Robust Ranking in Fragmented Cancer Drug-Response Matrices",
       "src": "arXiv cs.LG",
-      "time": "7小时前",
+      "time": "11小时前",
       "published_ts": 1791000000,
       "heat": "15.0K",
       "views": "15.0K",
@@ -72,7 +124,7 @@
       "cat": "L2 · 基础模型",
       "title": "How Far is Adam from Natural Gradient Descent?",
       "src": "arXiv cs.LG",
-      "time": "7小时前",
+      "time": "11小时前",
       "published_ts": 1791000000,
       "heat": "13.2K",
       "views": "15.0K",
@@ -85,7 +137,7 @@
       "cat": "L2 · 基础模型",
       "title": "FourierQK: Filter Shape, Admissibility and the Leakage-Coverage Law",
       "src": "arXiv cs.LG",
-      "time": "7小时前",
+      "time": "11小时前",
       "published_ts": 1791000000,
       "heat": "11.4K",
       "views": "13.2K",
@@ -98,7 +150,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Integrating Fairness and Explainability in a Multiple Instance Reinforcement Learning System",
       "src": "arXiv cs.LG",
-      "time": "7小时前",
+      "time": "11小时前",
       "published_ts": 1791000000,
       "heat": "9.6K",
       "views": "11.4K",
@@ -111,7 +163,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Fast Polynomial Transcendentals for LLMs",
       "src": "arXiv cs.LG",
-      "time": "7小时前",
+      "time": "11小时前",
       "published_ts": 1791000000,
       "heat": "7.8K",
       "views": "9.6K",
@@ -124,7 +176,7 @@
       "cat": "L2 · 基础模型",
       "title": "SW-KAN: Kolmogorov-Arnold Networks with Stieltjes-Wigert q-Orthogonal Polynomials",
       "src": "arXiv cs.LG",
-      "time": "7小时前",
+      "time": "11小时前",
       "published_ts": 1791000000,
       "heat": "6.0K",
       "views": "7.8K",
@@ -137,7 +189,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
       "src": "Ars Technica",
-      "time": "12小时前",
+      "time": "16小时前",
       "published_ts": 1790982196,
       "heat": "18.0K",
       "views": "18.0K",
@@ -150,10 +202,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Sean Parker is rebuilding Stability AI around music",
       "src": "TechCrunch AI",
-      "time": "14小时前",
+      "time": "18小时前",
       "published_ts": 1790975354,
-      "heat": "23.8K",
-      "views": "27.0K",
+      "heat": "20.5K",
+      "views": "23.8K",
       "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
       "tags": [],
       "body": "<p>Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -163,10 +215,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Meta open sources code to let you make Muse AI gadgets",
       "src": "The Verge",
-      "time": "14小时前",
+      "time": "18小时前",
       "published_ts": 1790975317,
-      "heat": "24.0K",
-      "views": "24.0K",
+      "heat": "15.4K",
+      "views": "18.2K",
       "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
       "tags": [],
       "body": "<p>Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -176,7 +228,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Federal Judge Rules a Flock Search Was ‘Indiscriminate Mass Surveillance’ and Unconstitutional",
       "src": "404 Media",
-      "time": "14小时前",
+      "time": "19小时前",
       "published_ts": 1790974155,
       "heat": "13.2K",
       "views": "15.0K",
@@ -189,10 +241,10 @@
       "cat": "L5 · 生态商业",
       "title": "Netflix is pivoting away from prestige",
       "src": "The Verge",
-      "time": "14小时前",
+      "time": "19小时前",
       "published_ts": 1790973026,
-      "heat": "21.1K",
-      "views": "24.0K",
+      "heat": "12.5K",
+      "views": "15.4K",
       "url": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
       "tags": [],
       "body": "<p>Many of Netflix's biggest critically acclaimed hits have been the products of its multiyear production deals with noted directors like David Fincher and Shawn Levy. In the past few weeks, though, the streamer has brought some of those partnerships to an end in a way that feels indicative of a larger strategic shift. With rival [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -202,10 +254,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
       "src": "The Verge",
-      "time": "15小时前",
+      "time": "19小时前",
       "published_ts": 1790971720,
-      "heat": "18.2K",
-      "views": "21.1K",
+      "heat": "9.6K",
+      "views": "12.5K",
       "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
       "tags": [],
       "body": "<p>Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -215,50 +267,24 @@
       "cat": "L4 · 交互Agent",
       "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
       "src": "TechCrunch AI",
-      "time": "17小时前",
+      "time": "21小时前",
       "published_ts": 1790964687,
-      "heat": "17.3K",
-      "views": "20.5K",
+      "heat": "14.0K",
+      "views": "17.3K",
       "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
       "tags": [],
       "body": "<p>Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a7def18fa": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-      "src": "The Verge",
-      "time": "17小时前",
-      "published_ts": 1790964000,
-      "heat": "12.5K",
-      "views": "15.4K",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-      "tags": [],
-      "body": "<p>It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. OpenAI announced [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a87140b17": {
       "layer": "l0",
       "cat": "L0 · 领袖观点",
       "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
       "src": "TechCrunch AI",
-      "time": "17小时前",
+      "time": "21小时前",
       "published_ts": 1790963760,
-      "heat": "14.0K",
-      "views": "17.3K",
-      "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-      "tags": [],
-      "body": "<p>This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executive order&#160;officially rebranding AI as “super intelligence,” and meanwhile,&#160;Meta and OpenAI </p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ae0f9da78": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-      "src": "TechCrunch AI",
-      "time": "17小时前",
-      "published_ts": 1790963296,
       "heat": "10.8K",
       "views": "14.0K",
-      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
       "tags": [],
       "body": "<p>This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executive order&#160;officially rebranding AI as “super intelligence,” and meanwhile,&#160;Meta and OpenAI </p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
@@ -267,7 +293,7 @@
       "cat": "L2 · 基础模型",
       "title": "A model guide for the GPT-6 family",
       "src": "OpenAI Blog",
-      "time": "19小时前",
+      "time": "23小时前",
       "published_ts": 1790957700,
       "heat": "45.0K",
       "views": "45.0K",
@@ -280,7 +306,7 @@
       "cat": "L2 · 基础模型",
       "title": "Behind the Blog: Freaking Out",
       "src": "404 Media",
-      "time": "19小时前",
+      "time": "23小时前",
       "published_ts": 1790956950,
       "heat": "9.6K",
       "views": "11.4K",
@@ -293,9 +319,9 @@
       "cat": "L5 · 生态商业",
       "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
       "src": "Wired",
-      "time": "19小时前",
+      "time": "23小时前",
       "published_ts": 1790956800,
-      "heat": "16.5K",
+      "heat": "14.5K",
       "views": "16.5K",
       "url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
       "tags": [],
@@ -306,7 +332,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Redefining enterprise intelligence with autonomous AI",
       "src": "MIT Tech Review",
-      "time": "19小时前",
+      "time": "1天前",
       "published_ts": 1790956144,
       "heat": "22.5K",
       "views": "22.5K",
@@ -314,25 +340,12 @@
       "tags": [],
       "body": "<p>Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has&#8230;</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a031ac1dc": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Leaked Intel Nova Lake product list has three 'BFC' chips with up to 144MB of game-boosting L3 cache",
-      "src": "Tom's Hardware",
-      "time": "19小时前",
-      "published_ts": 1790955253,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://www.tomshardware.com/pc-components/cpus/rumored-intel-nova-lake-table-lists-three-bfc-chips-with-up-to-144mb-of-l3-next-gen-cpu-lineup-takes-shape-with-up-to-28-cores-in-core-ultra-9-4970k-bfc",
-      "tags": [],
-      "body": "<p>A table rumored to hold Intel's upcoming models for Nova Lake processors as surfaced, now referring to the heavily-rumored bLLC as \"BFC.\"</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a3582f62b": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
       "title": "The latest AI news we announced in September 2026",
       "src": "Google AI Blog",
-      "time": "20小时前",
+      "time": "1天前",
       "published_ts": 1790953200,
       "heat": "34.5K",
       "views": "34.5K",
@@ -345,33 +358,20 @@
       "cat": "L5 · 生态商业",
       "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
       "src": "Wired",
-      "time": "20小时前",
+      "time": "1天前",
       "published_ts": 1790953200,
-      "heat": "14.5K",
-      "views": "16.5K",
+      "heat": "12.5K",
+      "views": "14.5K",
       "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
       "tags": [],
       "body": "<p>For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ae92b8efb": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "California tech CEO arrested, faces up to 20 years in prison for smuggling $300 million in Nvidia AI servers to China",
-      "src": "Tom's Hardware",
-      "time": "20小时前",
-      "published_ts": 1790952821,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/california-tech-ceo-arrested-faces-up-to-20-years-in-prison-for-smuggling-usd300-million-in-nvidia-ai-servers-to-china-federal-prosecutors-say-chips-were-routed-through-malaysia-and-singapore-using-false-paperwork",
-      "tags": [],
-      "body": "<p>U.S. authorities have arrested a California man accused of smuggling more than $300 million worth of export-controlled Nvidia-powered servers to China through Malaysia and Singapore, allegedly using false paperwork to conceal their final destination</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a197be571": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
       "title": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
       "src": "Latent Space",
-      "time": "21小时前",
+      "time": "1天前",
       "published_ts": 1790949889,
       "heat": "17.2K",
       "views": "19.5K",
@@ -384,7 +384,7 @@
       "cat": "L1 · 算力硬件",
       "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
       "src": "NVIDIA Blog",
-      "time": "22小时前",
+      "time": "1天前",
       "published_ts": 1790946039,
       "heat": "37.5K",
       "views": "37.5K",
@@ -399,8 +399,8 @@
       "src": "Wired",
       "time": "1天前",
       "published_ts": 1790934300,
-      "heat": "12.5K",
-      "views": "14.5K",
+      "heat": "10.6K",
+      "views": "12.5K",
       "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
       "tags": [],
       "body": "<p>While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -412,8 +412,8 @@
       "src": "Wired",
       "time": "1天前",
       "published_ts": 1790933400,
-      "heat": "10.6K",
-      "views": "12.5K",
+      "heat": "8.6K",
+      "views": "10.6K",
       "url": "https://www.wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue/",
       "tags": [],
       "body": "<p>A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -477,8 +477,8 @@
       "src": "Wired",
       "time": "1天前",
       "published_ts": 1790892642,
-      "heat": "8.6K",
-      "views": "10.6K",
+      "heat": "6.6K",
+      "views": "8.6K",
       "url": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
       "tags": [],
       "body": "<p>Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -495,19 +495,6 @@
       "url": "https://blog.google/products/ads-commerce/creating-assets-youtube-ads/",
       "tags": [],
       "body": "<p>In this Ads Decoded episode, we discuss ad creative — and how it can make or break your YouTube campaigns.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a07ad24b2": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
-      "src": "Wired",
-      "time": "1天前",
-      "published_ts": 1790884711,
-      "heat": "6.6K",
-      "views": "8.6K",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
-      "tags": [],
-      "body": "<p>This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "af14a047a": {
       "layer": "l2",
@@ -566,7 +553,7 @@
       "cat": "L2 · 基础模型",
       "title": "OpenAI DevDay 2026",
       "src": "Ben's Bites",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1790861436,
       "heat": "16.5K",
       "views": "16.5K",
@@ -579,7 +566,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
       "src": "NVIDIA Blog",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1790859649,
       "heat": "24.0K",
       "views": "28.5K",
@@ -592,7 +579,7 @@
       "cat": "L2 · 基础模型",
       "title": "5 ways Search can help you perfect your at-home coffee routine",
       "src": "Google AI Blog",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1790859600,
       "heat": "13.8K",
       "views": "17.9K",
@@ -683,7 +670,7 @@
       "cat": "L1 · 算力硬件",
       "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
       "src": "NVIDIA Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1790780400,
       "heat": "15.0K",
       "views": "19.5K",
@@ -761,7 +748,7 @@
       "cat": "L0 · 领袖观点",
       "title": "OpenAI DevDay 2026 live blog",
       "src": "Simon Willison",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1790697313,
       "heat": "6.0K",
       "views": "7.8K",
@@ -774,7 +761,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Sonnet 5.5 is worth a try",
       "src": "Ben's Bites",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1790686875,
       "heat": "14.5K",
       "views": "16.5K",
@@ -787,7 +774,7 @@
       "cat": "L4 · 交互Agent",
       "title": "How to Stop AI Agents From Secretly Collaborating",
       "src": "IEEE Spectrum",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1790683202,
       "heat": "15.0K",
       "views": "15.0K",
@@ -891,7 +878,7 @@
       "cat": "L2 · 基础模型",
       "title": "Back to Claude",
       "src": "Ben's Bites",
-      "time": "8天前",
+      "time": "9天前",
       "published_ts": 1790255048,
       "heat": "10.6K",
       "views": "12.5K",
@@ -917,7 +904,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Why Read a Research Paper When You Can Turn It Into an AI Agent?",
       "src": "IEEE Spectrum",
-      "time": "10天前",
+      "time": "11天前",
       "published_ts": 1790089205,
       "heat": "7.8K",
       "views": "9.6K",
@@ -930,7 +917,7 @@
       "cat": "L3 · 推理工程",
       "title": "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
       "src": "Interconnects",
-      "time": "10天前",
+      "time": "11天前",
       "published_ts": 1790084265,
       "heat": "18.0K",
       "views": "18.0K",
@@ -943,7 +930,7 @@
       "cat": "L1 · 算力硬件",
       "title": "The Future Is Fanless: 100% Heat Capture for Liquid Cooled AI Servers",
       "src": "IEEE Spectrum",
-      "time": "10天前",
+      "time": "11天前",
       "published_ts": 1790079770,
       "heat": "6.0K",
       "views": "7.8K",
@@ -956,7 +943,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Why I still haven’t bought into true RSI",
       "src": "Interconnects",
-      "time": "13天前",
+      "time": "14天前",
       "published_ts": 1789832540,
       "heat": "13.7K",
       "views": "15.8K",
@@ -969,7 +956,7 @@
       "cat": "L5 · 生态商业",
       "title": "New home for Cowork",
       "src": "Ben's Bites",
-      "time": "15天前",
+      "time": "16天前",
       "published_ts": 1789650141,
       "heat": "6.6K",
       "views": "8.6K",
@@ -982,7 +969,7 @@
       "cat": "L3 · 推理工程",
       "title": "Open-Source AI & Open Models Reading List",
       "src": "Interconnects",
-      "time": "21天前",
+      "time": "22天前",
       "published_ts": 1789130185,
       "heat": "11.5K",
       "views": "13.7K",
@@ -995,7 +982,7 @@
       "cat": "L3 · 推理工程",
       "title": "One resignation turned the embers of AI fear into a wildfire",
       "src": "Interconnects",
-      "time": "22天前",
+      "time": "23天前",
       "published_ts": 1789054132,
       "heat": "9.4K",
       "views": "11.5K",
@@ -1086,7 +1073,7 @@
       "cat": "L2 · 基础模型",
       "title": "Building an AI Text Detector From Scratch",
       "src": "Ahead of AI",
-      "time": "48天前",
+      "time": "49天前",
       "published_ts": 1786794864,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1138,7 +1125,7 @@
       "cat": "L2 · 基础模型",
       "title": "Using Local Coding Agents",
       "src": "Ahead of AI",
-      "time": "97天前",
+      "time": "98天前",
       "published_ts": 1782559318,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1203,7 +1190,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Auto-grading decade-old Hacker News discussions with hindsight",
       "src": "Andrej Karpathy",
-      "time": "296天前",
+      "time": "297天前",
       "published_ts": 1765378800,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1307,7 +1294,7 @@
       "cat": "L0 · 领袖观点",
       "title": "AGI Is Not Multimodal",
       "src": "The Gradient",
-      "time": "485天前",
+      "time": "486天前",
       "published_ts": 1749045629,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1487,11 +1474,9 @@
   },
   "by_layer": {
     "l0": [
-      "a869353f1",
+      "ac281db10",
       "a986dfff2",
       "a87140b17",
-      "ae0f9da78",
-      "ae92b8efb",
       "a3ec6b23f",
       "a641fb867",
       "abd6cf308",
@@ -1513,10 +1498,10 @@
       "abcb7b0c4"
     ],
     "l1": [
-      "a8e513dfe",
+      "a8a840b47",
+      "ad6778323",
       "aba9784eb",
       "a879a3b5c",
-      "a031ac1dc",
       "ae512b7c1",
       "a30a3cbce",
       "abe79d0f0",
@@ -1538,7 +1523,7 @@
       "a2ae2603b"
     ],
     "l2": [
-      "acfe0117a",
+      "a530dff2d",
       "aa6b17c73",
       "abfde9f68",
       "a8e18e405",
@@ -1568,6 +1553,28 @@
       "ab3119897",
       "af0f189d1"
     ],
+    "l4": [
+      "af7aae28a",
+      "a33f1f779",
+      "a018013bd",
+      "adbcb48cc",
+      "ad764cfd9",
+      "a67b8fb68",
+      "a550c798a",
+      "a47bfcc49",
+      "a91661490",
+      "a5ab855fb",
+      "a862e2679",
+      "a3e138ec9",
+      "ad6b075fe",
+      "a074f9d35",
+      "a01c3e4b9",
+      "af0be66d1",
+      "a37179a2f",
+      "a8e5f3350",
+      "a05837fc3",
+      "ad01feb8a"
+    ],
     "l3": [
       "ac8aab00b",
       "a7e57d418",
@@ -1579,27 +1586,6 @@
       "a6d68a0cb",
       "a1585cbf5",
       "a28f84720"
-    ],
-    "l4": [
-      "adbcb48cc",
-      "ad764cfd9",
-      "a67b8fb68",
-      "a550c798a",
-      "a47bfcc49",
-      "a91661490",
-      "a7def18fa",
-      "a5ab855fb",
-      "a07ad24b2",
-      "a862e2679",
-      "a3e138ec9",
-      "ad6b075fe",
-      "a074f9d35",
-      "a01c3e4b9",
-      "af0be66d1",
-      "a37179a2f",
-      "a8e5f3350",
-      "a05837fc3",
-      "ad01feb8a"
     ],
     "l5": [
       "a787d578a",
@@ -1614,23 +1600,67 @@
     ]
   },
   "top5": [
-    "a869353f1",
-    "a8e513dfe",
-    "acfe0117a",
-    "ac8aab00b",
-    "aa6b17c73"
+    "ac281db10",
+    "a8a840b47",
+    "a530dff2d",
+    "ad6778323",
+    "af7aae28a"
   ],
   "layers": [
+    {
+      "id": "l1",
+      "num": "LAYER 1",
+      "name": "算力硬件",
+      "vals": [
+        23,
+        27,
+        10,
+        6,
+        31,
+        20
+      ],
+      "trend": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "id": "l0",
+      "num": "LAYER 0",
+      "name": "领袖观点",
+      "vals": [
+        15,
+        30,
+        9,
+        6,
+        32,
+        19
+      ],
+      "trend": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ]
+    },
     {
       "id": "l4",
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        20,
-        28,
-        8,
-        5,
+        16,
         26,
+        8,
+        8,
+        28,
         18
       ],
       "trend": [
@@ -1648,11 +1678,11 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        19,
-        21,
-        6,
+        18,
+        13,
+        17,
         8,
-        27,
+        22,
         22
       ],
       "trend": [
@@ -1666,78 +1696,12 @@
       ]
     },
     {
-      "id": "l0",
-      "num": "LAYER 0",
-      "name": "领袖观点",
-      "vals": [
-        13,
-        19,
-        10,
-        7,
-        19,
-        20
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
-    {
-      "id": "l1",
-      "num": "LAYER 1",
-      "name": "算力硬件",
-      "vals": [
-        16,
-        11,
-        10,
-        6,
-        15,
-        20
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
-    {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
-      "vals": [
-        11,
-        12,
-        5,
-        5,
-        10,
-        14
-      ],
-      "trend": [
-        20,
-        19,
-        18,
-        17,
-        16,
-        15,
-        14
-      ]
-    },
-    {
       "id": "l5",
       "num": "LAYER 5",
       "name": "生态商业",
       "vals": [
         10,
-        11,
+        17,
         5,
         5,
         10,
@@ -1752,23 +1716,65 @@
         10,
         8
       ]
+    },
+    {
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
+      "vals": [
+        10,
+        11,
+        5,
+        5,
+        10,
+        14
+      ],
+      "trend": [
+        20,
+        19,
+        18,
+        17,
+        16,
+        15,
+        14
+      ]
     }
   ],
   "ticker": [
     {
-      "tag": "TOM'S HAR",
+      "tag": "THE VERGE",
       "col": "var(--l0)",
-      "text": "Amazon promises to spend $1 billion on communities close to its d…"
+      "text": "Splice CEO Kakul Srivastava thinks AI emails are killing conversa…"
     },
     {
       "tag": "TOM'S HAR",
       "col": "var(--l1)",
-      "text": "AMD’s secret Zen 3 gaming CPU had 128MB of game-boosting L3 cache…"
+      "text": "Elon Musk confirms discussions with TSMC about Terafab chipmaking…"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l2)",
+      "text": "An OpenAI safety employee has quit and is sounding the alarm"
     },
     {
       "tag": "TOM'S HAR",
-      "col": "var(--l2)",
-      "text": "ChatGPT-6 Astra plays World of Warcraft 'blind' and clears the or…"
+      "col": "var(--l1)",
+      "text": "This week on Tom's Hardware Premium: October 3, 2026"
+    },
+    {
+      "tag": "TECHCRUNC",
+      "col": "var(--l4)",
+      "text": "All the AI agents that can live in your text messages"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l4)",
+      "text": "AI agents use 5x more tokens than humans as cached prompts explod…"
+    },
+    {
+      "tag": "WIRED",
+      "col": "var(--l4)",
+      "text": "Muse Creates Detailed Profiles of All Your Friends and Family"
     },
     {
       "tag": "LATENT SP",
@@ -1804,36 +1810,34 @@
       "tag": "ARXIV CS.",
       "col": "var(--l2)",
       "text": "SW-KAN: Kolmogorov-Arnold Networks with Stieltjes-Wigert q-Orthog…"
-    },
-    {
-      "tag": "ARS TECHN",
-      "col": "var(--l4)",
-      "text": "Apple changes full-disk access permissions to curb abuse from AI …"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "Sean Parker is rebuilding Stability AI around music"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "Meta open sources code to let you make Muse AI gadgets"
-    },
-    {
-      "tag": "404 MEDIA",
-      "col": "var(--l4)",
-      "text": "Federal Judge Rules a Flock Search Was ‘Indiscriminate Mass Surve…"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
+      "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+      "url": "https://tej.as/blog/aleph-alpha-kolibri",
+      "votes": "242",
+      "comments": "111",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Show HN: Offrun – manage every coding agent from one workspace",
+      "url": "https://offrun.dev/",
+      "votes": "42",
+      "comments": "16",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
       "title": "From the creator of Redis; run LLM locally with ds4",
       "url": "https://dwarfstar.sh/",
-      "votes": "258",
-      "comments": "68",
+      "votes": "300",
+      "comments": "89",
       "time": "近期"
     },
     {
@@ -1841,8 +1845,8 @@
       "badge": "pb-hn",
       "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
       "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "votes": "246",
-      "comments": "77",
+      "votes": "283",
+      "comments": "107",
       "time": "近期"
     },
     {
@@ -1850,35 +1854,17 @@
       "badge": "pb-hn",
       "title": "With most information hidden, the game Stratego had stumped AI until now",
       "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "votes": "223",
-      "comments": "109",
+      "votes": "254",
+      "comments": "120",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-      "url": "https://stillwet.art/",
-      "votes": "285",
-      "comments": "90",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Sites in ChatGPT",
-      "url": "https://chatgpt.com/features/sites/",
-      "votes": "283",
-      "comments": "261",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Gemini ending free use of Flash and Pro models",
-      "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/",
-      "votes": "26",
-      "comments": "9",
+      "title": "US killer's sentence quashed because of AI video of victim shown in court",
+      "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
+      "votes": "20",
+      "comments": "4",
       "time": "近期"
     }
   ]
