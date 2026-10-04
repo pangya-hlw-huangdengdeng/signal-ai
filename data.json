@@ -1,52 +1,169 @@
 {
-  "updated_at": "2026-10-04T11:57:06.567479+00:00",
-  "article_count": 105,
+  "updated_at": "2026-10-04T16:46:12.462518+00:00",
+  "article_count": 109,
   "articles": {
-    "aa3c0c056": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "US Navy uses Xbox-style controllers to fire anti-drone lasers deployed on ships",
-      "src": "Tom's Hardware",
-      "time": "41分钟前",
-      "published_ts": 1791112500,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://www.tomshardware.com/peripherals/controllers-gamepads/us-navy-uses-xbox-style-controllers-to-fire-anti-drone-lasers-deployed-on-ships-usd13-per-shot-laser-weapon-deployed-in-the-strait-of-hormuz-uses-a-familiar-interface-instead-of-a-custom-control-system",
-      "tags": [],
-      "body": "<p>This would make it easier for sailors to get used to controlling the weapon system, as they're probably already comfortable holding a controller.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a7d4a8e6b": {
+    "a90287415": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
-      "title": "Open-source tool designs LEGO builds with more than 2,000 real pieces",
-      "src": "Tom's Hardware",
+      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "src": "The Verge",
       "time": "1小时前",
-      "published_ts": 1791111000,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/open-source-tool-designs-lego-builds-with-more-than-2-000-real-pieces-their-programs-output-detailed-cad-files-but-no-models-have-been-built-yet",
+      "published_ts": 1791127319,
+      "heat": "24.0K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
       "tags": [],
-      "body": "<p>Carlos Antelo's open-source ldraw-nova lets GPT-6 Astra and Claude Opus 5.5 design LEGO models as LDraw CAD files.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off against Claude and the human-created bot Pluto, but according to Kotaku, [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a87002f66": {
+    "ae6baa849": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
-      "title": "Free browser-based AI-generated Taipei GTA clone hits 1.2 million concurrent players in three days",
+      "title": "Trump unveils his new Super Intelligence Force",
+      "src": "TechCrunch AI",
+      "time": "1小时前",
+      "published_ts": 1791126910,
+      "heat": "27.0K",
+      "views": "27.0K",
+      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "tags": [],
+      "body": "<p>This new task force is Trump's latest response to the debate over AI safety.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a9266e57f": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Modder 'fixes' melting RTX 5090 power connectors with custom distributor",
       "src": "Tom's Hardware",
       "time": "1小时前",
-      "published_ts": 1791108000,
+      "published_ts": 1791125400,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/pc-components/gpus/modder-fixes-melting-rtx-5090-power-connectors-with-custom-distributor-dual-8-pin-mod-peaks-at-just-40c-during-a-48-hour-550w-stress-test",
+      "tags": [],
+      "body": "<p>Reddit user u/DallasGrave shared a fix for his RTX 5090, one of the best graphics cards, whose 12VHPWR connector was overheating, along with an image of a module screwed onto the back of his GPU.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a3dd773bf": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "Robotics startup has real human vs. robot cage match, California responds with cease-and-desist order",
+      "src": "Tom's Hardware",
+      "time": "2小时前",
+      "published_ts": 1791124585,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/tech-industry/robotics/robotics-startup-has-real-human-vs-robot-cage-match-california-responds-with-cease-and-desist-order-regulator-threatens-misdemeanor-charges-after-youtuber-fights-three-robotic-humanoids",
+      "tags": [],
+      "body": "<p>The California State Athletic Commission intervened when it saw a human facing off with a humanoid robot inside the fighting ring.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a5613c246": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Modder brings Nvidia Pascal GPU support to Windows XP 32-bit",
+      "src": "Tom's Hardware",
+      "time": "2小时前",
+      "published_ts": 1791123900,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://www.tomshardware.com/pc-components/gpu-drivers/modder-brings-nvidia-pascal-gpu-support-to-windows-xp-32-bit-modded-drivers-unlock-better-displayport-and-hdmi-support-for-modern-monitors",
+      "tags": [],
+      "body": "<p>Retro techie retrofits Nvidia Windows XP 32-bit drivers with Pascal card support and improved DisplayPort and HDMI support for contemporary displays</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ad37078c2": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Database expert runs Doom in SQL with just 5,900 lines of code",
+      "src": "Tom's Hardware",
+      "time": "2小时前",
+      "published_ts": 1791122400,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://www.tomshardware.com/video-games/pc-gaming/database-expert-runs-doom-in-sql-with-just-5-900-lines-of-code-1-300-line-graphical-renderer-spans-89-different-tables-full-featured-sqldoom-is-the-sequel-to-embryonic-doomql",
+      "tags": [],
+      "body": "<p>Database expert runs Doom in SQL again — full-featured SQLDoom is the sequel to embryonic DoomQL</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ab9686372": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "US Army unit deploys drone assembled completely in-house, uses 3D-printed 'Dragoon Bombs' with ball bearing shrapnel",
+      "src": "Tom's Hardware",
+      "time": "3小时前",
+      "published_ts": 1791121200,
       "heat": "7.8K",
       "views": "9.6K",
-      "url": "https://www.tomshardware.com/video-games/pc-gaming/free-browser-based-ai-generated-taipei-gta-clone-hits-1-2-million-concurrent-players-in-three-days-vibe-coded-game-cost-usd10-000-in-ai-tokens-to-build-is-set-on-the-streets-of-taipei",
+      "url": "https://www.tomshardware.com/tech-industry/drones/us-army-unit-deploys-drone-assembled-completely-in-house-uses-3d-printed-dragoon-bombs-with-ball-bearing-shrapnel-device-has-a-range-of-up-to-12-miles-and-can-be-configured-for-anti-personnel-and-anti-light-armor-missions",
       "tags": [],
-      "body": "<p>Developers AICodeWith have vibe-coded and published a free browser-based game dubbed Taipei GTA. It reportedly cost $10,000 in tokens to get to this state.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>U.S. Army soldiers are training to assemble drones and 3D-print bomb casings for field use.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a3db25711": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "AI robot company decommissioned its robots ‘Terminator-style’ in a 75-ton vat of molten steel",
+      "src": "Tom's Hardware",
+      "time": "3小时前",
+      "published_ts": 1791120000,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://www.tomshardware.com/tech-industry/robotics/ai-robot-company-decommissioned-its-robots-terminator-style-in-a-75-ton-vat-of-molten-steel-arnold-schwarzenegger-suggested-melting-them-one-robot-held-up-a-thumbs-up-sign-as-it-sank-into-molten-metal",
+      "tags": [],
+      "body": "<p>AI Robotics company Figure found a creative way of decommissioning its old F.02 fleet without having to allocate resources for difficult and time-consuming disassembly.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aab477425": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "The AirPods Pro 3 are a fantastic deal at $179",
+      "src": "The Verge",
+      "time": "3小时前",
+      "published_ts": 1791118800,
+      "heat": "18.2K",
+      "views": "21.1K",
+      "url": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
+      "tags": [],
+      "body": "<p>It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening now for October Prime Day. You can snag a pair of the noise-canceling earbuds that include five ear tip sizes, live translation, and [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "af2cb5d65": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "The MacBook Air M5 is $200 off for the first time in months",
+      "src": "The Verge",
+      "time": "4小时前",
+      "published_ts": 1791117241,
+      "heat": "15.4K",
+      "views": "18.2K",
+      "url": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
+      "tags": [],
+      "body": "<p>Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of storage is on sale for $1,099 at Amazon. That’s a more palatable price for a machine that’s significantly faster than Apple’s $699 MacBook Neo. The 15-inch version, also with 512GB [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a44684a80": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "The iPad Mini is slightly cheaper again during Prime Day",
+      "src": "The Verge",
+      "time": "4小时前",
+      "published_ts": 1791117110,
+      "heat": "12.5K",
+      "views": "15.4K",
+      "url": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale",
+      "tags": [],
+      "body": "<p>Apple bumped up prices on several of its devices in June, and we haven’t seen a good discount on the iPad Mini since. Just ahead of Amazon’s October Prime Big Deals Days, however, both Wi-Fi only and cellular-connected models are $100 off. The Wi-Fi version with 128GB of storage is currently $499, the 256GB model [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ad82719c8": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "The forgotten Chromebook that started it all",
+      "src": "The Verge",
+      "time": "4小时前",
+      "published_ts": 1791115200,
+      "heat": "9.6K",
+      "views": "12.5K",
+      "url": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all",
+      "tags": [],
+      "body": "<p>Google didn't even call the first Chromebook a \"Chromebook.\" The Cr-48 had no interesting design and no bright logos - it wasn't even designed to be a product you could buy. Instead, it was a portal to a big new idea about computers. In this week's episode of Version History, The Verge's Nilay Patel and [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a68af7565": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "We're going to need default hard budget caps on pretty much everything",
       "src": "Simon Willison",
-      "time": "12小时前",
+      "time": "17小时前",
       "published_ts": 1791070442,
       "heat": "15.0K",
       "views": "15.0K",
@@ -59,7 +176,7 @@
       "cat": "L1 · 算力硬件",
       "title": "September sponsors-only newsletter",
       "src": "Simon Willison",
-      "time": "13小时前",
+      "time": "18小时前",
       "published_ts": 1791064831,
       "heat": "13.2K",
       "views": "15.0K",
@@ -72,9 +189,9 @@
       "cat": "L0 · 领袖观点",
       "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
       "src": "TechCrunch AI",
-      "time": "17小时前",
+      "time": "22小时前",
       "published_ts": 1791053037,
-      "heat": "27.0K",
+      "heat": "23.8K",
       "views": "27.0K",
       "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
       "tags": [],
@@ -85,7 +202,7 @@
       "cat": "L0 · 领袖观点",
       "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
       "src": "Wired",
-      "time": "17小时前",
+      "time": "22小时前",
       "published_ts": 1791050400,
       "heat": "14.5K",
       "views": "16.5K",
@@ -93,80 +210,28 @@
       "tags": [],
       "body": "<p>The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "aaa5a18cf": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "7-year-old Nvidia Shield TV Pro gets shocking 50% price hike driven by AI memory shortage",
-      "src": "Tom's Hardware",
-      "time": "18小时前",
-      "published_ts": 1791046791,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://www.tomshardware.com/service-providers/streaming/7-year-old-nvidia-shield-tv-pro-gets-shocking-50-percent-price-hike-driven-by-ai-memory-shortage-chipmaker-axes-entry-level-shield-tv-as-component-prices-soar",
-      "tags": [],
-      "body": "<p>The Shield TV Pro remains one of Nvidia’s longest-running consumer devices, but its $299.99 price tag now makes the streaming box considerably more expensive than when it launched.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a4b950201": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-      "src": "The Verge",
-      "time": "19小时前",
-      "published_ts": 1791046150,
-      "heat": "24.0K",
-      "views": "24.0K",
-      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-      "tags": [],
-      "body": "<p>Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the RE Engine for [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a3c56b364": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
       "src": "TechCrunch AI",
-      "time": "19小时前",
+      "time": "1天前",
       "published_ts": 1791045001,
-      "heat": "23.8K",
-      "views": "27.0K",
+      "heat": "20.5K",
+      "views": "23.8K",
       "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
       "tags": [],
       "body": "<p>By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ac281db10": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-      "src": "The Verge",
-      "time": "20小时前",
-      "published_ts": 1791039600,
-      "heat": "18.2K",
-      "views": "21.1K",
-      "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-      "tags": [],
-      "body": "<p>Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the curious.) Before that, Kakul held executive roles [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a530dff2d": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "An OpenAI safety employee has quit and is sounding the alarm",
-      "src": "The Verge",
-      "time": "21小时前",
-      "published_ts": 1791037916,
-      "heat": "15.4K",
-      "views": "18.2K",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-      "tags": [],
-      "body": "<p>David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "af7aae28a": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "All the AI agents that can live in your text messages",
       "src": "TechCrunch AI",
-      "time": "21小时前",
+      "time": "1天前",
       "published_ts": 1791036000,
-      "heat": "20.5K",
-      "views": "23.8K",
+      "heat": "17.3K",
+      "views": "20.5K",
       "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "tags": [],
       "body": "<p>We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -176,7 +241,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
       "src": "Wired",
-      "time": "23小时前",
+      "time": "1天前",
       "published_ts": 1791028800,
       "heat": "12.5K",
       "views": "14.5K",
@@ -217,24 +282,11 @@
       "src": "TechCrunch AI",
       "time": "1天前",
       "published_ts": 1790975354,
-      "heat": "14.0K",
-      "views": "17.3K",
+      "heat": "10.8K",
+      "views": "14.0K",
       "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
       "tags": [],
       "body": "<p>Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a67b8fb68": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "src": "The Verge",
-      "time": "1天前",
-      "published_ts": 1790975317,
-      "heat": "9.6K",
-      "views": "12.5K",
-      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "tags": [],
-      "body": "<p>Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a550c798a": {
       "layer": "l4",
@@ -254,7 +306,7 @@
       "cat": "L2 · 基础模型",
       "title": "A model guide for the GPT-6 family",
       "src": "OpenAI Blog",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1790957700,
       "heat": "45.0K",
       "views": "45.0K",
@@ -267,7 +319,7 @@
       "cat": "L2 · 基础模型",
       "title": "Behind the Blog: Freaking Out",
       "src": "404 Media",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1790956950,
       "heat": "9.6K",
       "views": "11.4K",
@@ -280,7 +332,7 @@
       "cat": "L5 · 生态商业",
       "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
       "src": "Wired",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1790956800,
       "heat": "10.6K",
       "views": "12.5K",
@@ -293,7 +345,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Redefining enterprise intelligence with autonomous AI",
       "src": "MIT Tech Review",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1790956144,
       "heat": "22.5K",
       "views": "22.5K",
@@ -306,7 +358,7 @@
       "cat": "L2 · 基础模型",
       "title": "The latest AI news we announced in September 2026",
       "src": "Google AI Blog",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1790953200,
       "heat": "34.5K",
       "views": "34.5K",
@@ -319,7 +371,7 @@
       "cat": "L5 · 生态商业",
       "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
       "src": "Wired",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1790953200,
       "heat": "8.6K",
       "views": "10.6K",
@@ -332,7 +384,7 @@
       "cat": "L2 · 基础模型",
       "title": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
       "src": "Latent Space",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1790949889,
       "heat": "17.2K",
       "views": "19.5K",
@@ -345,7 +397,7 @@
       "cat": "L1 · 算力硬件",
       "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
       "src": "NVIDIA Blog",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1790946039,
       "heat": "37.5K",
       "views": "37.5K",
@@ -449,7 +501,7 @@
       "cat": "L0 · 领袖观点",
       "title": "How Albertsons Companies is reimagining retail from the inside out",
       "src": "OpenAI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1790870400,
       "heat": "28.8K",
       "views": "34.2K",
@@ -462,7 +514,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Guided Vision in Gemini Live: built for accessibility",
       "src": "Google AI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1790870400,
       "heat": "22.1K",
       "views": "26.2K",
@@ -475,7 +527,7 @@
       "cat": "L2 · 基础模型",
       "title": "1,400 educators joined our Badge-a-thon: Day of AI Learning.",
       "src": "Google AI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1790870400,
       "heat": "17.9K",
       "views": "22.1K",
@@ -488,7 +540,7 @@
       "cat": "L2 · 基础模型",
       "title": "OpenAI DevDay 2026",
       "src": "Ben's Bites",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1790861436,
       "heat": "16.5K",
       "views": "16.5K",
@@ -501,7 +553,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
       "src": "NVIDIA Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1790859649,
       "heat": "24.0K",
       "views": "28.5K",
@@ -514,7 +566,7 @@
       "cat": "L2 · 基础模型",
       "title": "5 ways Search can help you perfect your at-home coffee routine",
       "src": "Google AI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1790859600,
       "heat": "13.8K",
       "views": "17.9K",
@@ -605,7 +657,7 @@
       "cat": "L1 · 算力硬件",
       "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
       "src": "NVIDIA Blog",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1790780400,
       "heat": "15.0K",
       "views": "19.5K",
@@ -657,7 +709,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Sonnet 5.5 is worth a try",
       "src": "Ben's Bites",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1790686875,
       "heat": "14.5K",
       "views": "16.5K",
@@ -670,7 +722,7 @@
       "cat": "L4 · 交互Agent",
       "title": "How to Stop AI Agents From Secretly Collaborating",
       "src": "IEEE Spectrum",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1790683202,
       "heat": "15.0K",
       "views": "15.0K",
@@ -774,7 +826,7 @@
       "cat": "L2 · 基础模型",
       "title": "Back to Claude",
       "src": "Ben's Bites",
-      "time": "9天前",
+      "time": "10天前",
       "published_ts": 1790255048,
       "heat": "10.6K",
       "views": "12.5K",
@@ -800,7 +852,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Why Read a Research Paper When You Can Turn It Into an AI Agent?",
       "src": "IEEE Spectrum",
-      "time": "11天前",
+      "time": "12天前",
       "published_ts": 1790089205,
       "heat": "7.8K",
       "views": "9.6K",
@@ -813,7 +865,7 @@
       "cat": "L3 · 推理工程",
       "title": "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
       "src": "Interconnects",
-      "time": "11天前",
+      "time": "12天前",
       "published_ts": 1790084265,
       "heat": "18.0K",
       "views": "18.0K",
@@ -826,7 +878,7 @@
       "cat": "L1 · 算力硬件",
       "title": "The Future Is Fanless: 100% Heat Capture for Liquid Cooled AI Servers",
       "src": "IEEE Spectrum",
-      "time": "11天前",
+      "time": "12天前",
       "published_ts": 1790079770,
       "heat": "6.0K",
       "views": "7.8K",
@@ -839,7 +891,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Why I still haven’t bought into true RSI",
       "src": "Interconnects",
-      "time": "14天前",
+      "time": "15天前",
       "published_ts": 1789832540,
       "heat": "13.7K",
       "views": "15.8K",
@@ -852,7 +904,7 @@
       "cat": "L5 · 生态商业",
       "title": "New home for Cowork",
       "src": "Ben's Bites",
-      "time": "16天前",
+      "time": "17天前",
       "published_ts": 1789650141,
       "heat": "6.6K",
       "views": "8.6K",
@@ -865,7 +917,7 @@
       "cat": "L3 · 推理工程",
       "title": "Open-Source AI & Open Models Reading List",
       "src": "Interconnects",
-      "time": "22天前",
+      "time": "23天前",
       "published_ts": 1789130185,
       "heat": "11.5K",
       "views": "13.7K",
@@ -878,7 +930,7 @@
       "cat": "L3 · 推理工程",
       "title": "One resignation turned the embers of AI fear into a wildfire",
       "src": "Interconnects",
-      "time": "23天前",
+      "time": "24天前",
       "published_ts": 1789054132,
       "heat": "9.4K",
       "views": "11.5K",
@@ -1086,7 +1138,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Auto-grading decade-old Hacker News discussions with hindsight",
       "src": "Andrej Karpathy",
-      "time": "297天前",
+      "time": "298天前",
       "published_ts": 1765378800,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1190,7 +1242,7 @@
       "cat": "L0 · 领袖观点",
       "title": "AGI Is Not Multimodal",
       "src": "The Gradient",
-      "time": "486天前",
+      "time": "487天前",
       "published_ts": 1749045629,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1369,35 +1421,9 @@
     }
   },
   "by_layer": {
-    "l1": [
-      "aa3c0c056",
-      "a87002f66",
-      "a2c70c4d7",
-      "aaa5a18cf",
-      "a879a3b5c",
-      "ae512b7c1",
-      "a30a3cbce",
-      "abe79d0f0",
-      "a745e79c2",
-      "a1a8e61db",
-      "ad3b1b59f",
-      "adcfd10db",
-      "a302b0db8",
-      "ab80de412",
-      "ac56353b7",
-      "af3a546df",
-      "a8cf5579c",
-      "a50f8a782",
-      "a6bee3694",
-      "a612b9eb6",
-      "a472cb971",
-      "a94a9a29d",
-      "a5236c597",
-      "a2ae2603b"
-    ],
     "l2": [
-      "a7d4a8e6b",
-      "a530dff2d",
+      "a90287415",
+      "ab9686372",
       "a83c6bcb5",
       "a7a2f62c4",
       "a3582f62b",
@@ -1423,15 +1449,54 @@
       "ab3119897",
       "af0f189d1"
     ],
+    "l1": [
+      "ae6baa849",
+      "a9266e57f",
+      "a5613c246",
+      "ad37078c2",
+      "a3db25711",
+      "af2cb5d65",
+      "a2c70c4d7",
+      "a879a3b5c",
+      "ae512b7c1",
+      "a30a3cbce",
+      "abe79d0f0",
+      "a745e79c2",
+      "a1a8e61db",
+      "ad3b1b59f",
+      "adcfd10db",
+      "a302b0db8",
+      "ab80de412",
+      "ac56353b7",
+      "af3a546df",
+      "a8cf5579c",
+      "a50f8a782",
+      "a6bee3694",
+      "a612b9eb6",
+      "a472cb971",
+      "a94a9a29d",
+      "a5236c597",
+      "a2ae2603b"
+    ],
+    "l5": [
+      "a3dd773bf",
+      "a4bc09c04",
+      "a8b3132d4",
+      "affc8d03f",
+      "ad7363f5a",
+      "a56a9e510",
+      "a0afd7f96"
+    ],
     "l4": [
+      "aab477425",
+      "a44684a80",
+      "ad82719c8",
       "a68af7565",
-      "a4b950201",
       "a3c56b364",
       "af7aae28a",
       "a018013bd",
       "adbcb48cc",
       "ad764cfd9",
-      "a67b8fb68",
       "a550c798a",
       "a5ab855fb",
       "a862e2679",
@@ -1448,7 +1513,6 @@
     "l0": [
       "a4d1a1734",
       "a849fad4d",
-      "ac281db10",
       "a3ec6b23f",
       "a641fb867",
       "a41489245",
@@ -1477,22 +1541,14 @@
       "a6d68a0cb",
       "a1585cbf5",
       "a28f84720"
-    ],
-    "l5": [
-      "a4bc09c04",
-      "a8b3132d4",
-      "affc8d03f",
-      "ad7363f5a",
-      "a56a9e510",
-      "a0afd7f96"
     ]
   },
   "top5": [
-    "aa3c0c056",
-    "a7d4a8e6b",
-    "a87002f66",
-    "a68af7565",
-    "a2c70c4d7"
+    "a90287415",
+    "ae6baa849",
+    "a9266e57f",
+    "a3dd773bf",
+    "a5613c246"
   ],
   "layers": [
     {
@@ -1500,12 +1556,12 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        33,
-        21,
+        28,
+        17,
         16,
-        8,
-        20,
-        22
+        7,
+        33,
+        21
       ],
       "trend": [
         20,
@@ -1518,37 +1574,15 @@
       ]
     },
     {
-      "id": "l0",
-      "num": "LAYER 0",
-      "name": "领袖观点",
-      "vals": [
-        23,
-        25,
-        9,
-        6,
-        28,
-        19
-      ],
-      "trend": [
-        20,
-        20,
-        20,
-        20,
-        20,
-        20,
-        20
-      ]
-    },
-    {
       "id": "l4",
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
+        19,
         18,
-        25,
         9,
-        6,
         24,
+        28,
         19
       ],
       "trend": [
@@ -1566,12 +1600,12 @@
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
+        17,
+        17,
         12,
-        10,
-        11,
-        7,
-        34,
-        21
+        8,
+        19,
+        22
       ],
       "trend": [
         20,
@@ -1584,25 +1618,25 @@
       ]
     },
     {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
+      "id": "l0",
+      "num": "LAYER 0",
+      "name": "领袖观点",
       "vals": [
+        20,
         13,
-        10,
+        8,
         5,
-        5,
-        10,
-        14
+        12,
+        18
       ],
       "trend": [
         20,
-        18,
-        16,
-        14,
-        12,
-        10,
-        8
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
       ]
     },
     {
@@ -1610,9 +1644,9 @@
       "num": "LAYER 3",
       "name": "推理工程",
       "vals": [
-        10,
-        10,
-        5,
+        13,
+        11,
+        12,
         5,
         10,
         14
@@ -1626,23 +1660,90 @@
         15,
         14
       ]
+    },
+    {
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
+      "vals": [
+        10,
+        10,
+        5,
+        5,
+        10,
+        13
+      ],
+      "trend": [
+        20,
+        18,
+        16,
+        14,
+        12,
+        10,
+        8
+      ]
     }
   ],
   "ticker": [
     {
+      "tag": "THE VERGE",
+      "col": "var(--l2)",
+      "text": "An AI couldn’t beat humans at StarCraft, so it decided to cheat"
+    },
+    {
+      "tag": "TECHCRUNC",
+      "col": "var(--l1)",
+      "text": "Trump unveils his new Super Intelligence Force"
+    },
+    {
       "tag": "TOM'S HAR",
       "col": "var(--l1)",
-      "text": "US Navy uses Xbox-style controllers to fire anti-drone lasers dep…"
+      "text": "Modder 'fixes' melting RTX 5090 power connectors with custom dist…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l5)",
+      "text": "Robotics startup has real human vs. robot cage match, California …"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Modder brings Nvidia Pascal GPU support to Windows XP 32-bit"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Database expert runs Doom in SQL with just 5,900 lines of code"
     },
     {
       "tag": "TOM'S HAR",
       "col": "var(--l2)",
-      "text": "Open-source tool designs LEGO builds with more than 2,000 real pi…"
+      "text": "US Army unit deploys drone assembled completely in-house, uses 3D…"
     },
     {
       "tag": "TOM'S HAR",
       "col": "var(--l1)",
-      "text": "Free browser-based AI-generated Taipei GTA clone hits 1.2 million…"
+      "text": "AI robot company decommissioned its robots ‘Terminator-style’ in …"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l4)",
+      "text": "The AirPods Pro 3 are a fantastic deal at $179"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l1)",
+      "text": "The MacBook Air M5 is $200 off for the first time in months"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l4)",
+      "text": "The iPad Mini is slightly cheaper again during Prime Day"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l4)",
+      "text": "The forgotten Chromebook that started it all"
     },
     {
       "tag": "SIMON WIL",
@@ -1653,70 +1754,34 @@
       "tag": "SIMON WIL",
       "col": "var(--l1)",
       "text": "September sponsors-only newsletter"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l0)",
-      "text": "Amazon responds to data center backlash, says it no longer uses N…"
-    },
-    {
-      "tag": "WIRED",
-      "col": "var(--l0)",
-      "text": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hik…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "7-year-old Nvidia Shield TV Pro gets shocking 50% price hike driv…"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "Capcom is preparing for a ‘future where we create games together …"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "OpenAI safety employee resigns, claiming the company’s ‘culture i…"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l0)",
-      "text": "Splice CEO Kakul Srivastava thinks AI emails are killing conversa…"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l2)",
-      "text": "An OpenAI safety employee has quit and is sounding the alarm"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "All the AI agents that can live in your text messages"
-    },
-    {
-      "tag": "WIRED",
-      "col": "var(--l4)",
-      "text": "Muse Creates Detailed Profiles of All Your Friends and Family"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-      "votes": "321",
-      "comments": "52",
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "url": "https://github.com/Niko1221/Strata",
+      "votes": "272",
+      "comments": "137",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "gpuvis: GPU Trace Visualizer",
-      "url": "https://github.com/mikesart/gpuvis",
-      "votes": "16",
-      "comments": "0",
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "votes": "70",
+      "comments": "38",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "votes": "396",
+      "comments": "67",
       "time": "近期"
     },
     {
@@ -1724,8 +1789,17 @@
       "badge": "pb-hn",
       "title": "Agents don't need memory, they need documentation",
       "url": "https://liao.gg/blog/agents-dont-need-memory",
-      "votes": "210",
-      "comments": "113",
+      "votes": "288",
+      "comments": "164",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "gpuvis: GPU Trace Visualizer",
+      "url": "https://github.com/mikesart/gpuvis",
+      "votes": "60",
+      "comments": "10",
       "time": "近期"
     },
     {
@@ -1733,26 +1807,8 @@
       "badge": "pb-hn",
       "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
       "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-      "votes": "170",
-      "comments": "239",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Religious scholars met with Anthropic",
-      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "votes": "88",
-      "comments": "207",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "In Ukraine, distributed renewables foil Russia's assaults",
-      "url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
-      "votes": "101",
-      "comments": "86",
+      "votes": "278",
+      "comments": "451",
       "time": "近期"
     }
   ]
