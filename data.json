@@ -1,13 +1,117 @@
 {
-  "updated_at": "2026-10-10T04:57:19.752785+00:00",
-  "article_count": 111,
+  "updated_at": "2026-10-10T12:06:23.772566+00:00",
+  "article_count": 110,
   "articles": {
+    "ac057b129": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "AI Is Getting Really Good at Messing With Cybercriminals",
+      "src": "Wired",
+      "time": "6分钟前",
+      "published_ts": 1791633600,
+      "heat": "16.5K",
+      "views": "16.5K",
+      "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+      "tags": [],
+      "body": "<p>Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a113a9441": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "AnyPS5 project reaches critical GPU milestone in race to enable running PS5 games natively on PC",
+      "src": "Tom's Hardware",
+      "time": "36分钟前",
+      "published_ts": 1791631800,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/video-games/playstation/anyps5-reaches-critical-gpu-milestone-with-100-percent-shader-instruction-coverage-ps5-games-running-natively-on-pc-still-far-off",
+      "tags": [],
+      "body": "<p>The open-source AnyPS5 project has reached 100% GPU shader instruction coverage.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a815120a7": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Crazed modder straps 360mm AIO radiator to laptop, cuts temps to below 40 degrees",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1791630000,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://www.tomshardware.com/pc-components/liquid-cooling/crazed-modder-straps-360mm-aio-radiator-to-laptop-cuts-temps-below-40-degrees-performance-gains-an-average-of-14-percent-in-games-and-benchmarks",
+      "tags": [],
+      "body": "<p>PC modder TrashBench attached a 360mm radiator and custom cooling to a laptop and gained up to 14% in performance at the cost of the definition of a laptop.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a6f3f0da5": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Scientists Detect Record-Breaking Radio Signal from the Ancient Universe",
+      "src": "404 Media",
+      "time": "1小时前",
+      "published_ts": 1791630000,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://www.404media.co/scientists-detect-record-breaking-radio-signal-from-the-ancient-universe/",
+      "tags": [],
+      "body": "<p>A fast radio burst that traveled across 10 billion light years reached Earth in 2024, doubling the distance record for these unexplained and energetic signals from space.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a5538b886": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Ukrainian drones strike largest data center in Russia, multiple parts of 1.4 million square foot campus knocked offline",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1791628200,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/second-russian-data-center-targeted-by-ukrainian-drones-in-just-two-days-as-yandex-reels-from-another-service-outage-russian-state-media-admits-that-multiple-modules-completely-taken-out",
+      "tags": [],
+      "body": "<p>Following a Ukrainian drone strike on a D.C. in Sasovo, Russia, a Yandex facility in Kaluga has suffered a similar fate with multiple modules completely out of service.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ac7312817": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "World’s first 3D-printed remote control aircraft with a jet turbine takes flight, aims for Mach 0.8 to beat world record for fastest model aircraft",
+      "src": "Tom's Hardware",
+      "time": "2小时前",
+      "published_ts": 1791626400,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://www.tomshardware.com/3d-printing/worlds-first-3d-printed-remote-control-aircraft-with-a-jet-turbine-takes-flight-aims-for-mach-0-8-to-beat-world-record-for-fastest-model-aircraft-mostly-printed-using-standard-petg-materials",
+      "tags": [],
+      "body": "<p>Team of graduates attempts to beat Guiness World Record for fastest jet-powered model aircraft using PETG and clever engineering.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a26e89975": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "My brief romance with an AI bird feeder",
+      "src": "The Verge",
+      "time": "5小时前",
+      "published_ts": 1791615600,
+      "heat": "18.2K",
+      "views": "21.1K",
+      "url": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
+      "tags": [],
+      "body": "<p>It started off promising enough. Dozens of tiny, colorful birds were drawn to my garden just a few weeks after I mounted a $350 $269 Kiwibit Bird Feeder 2 Pro. \"Looks like Great Tit!\" read the first AI-driven alert sent to my phone. \"Looks like Eurasian Blue Tit!\" read another. I chuckled, still waiting for [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ac3f5cab4": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
+      "src": "Latent Space",
+      "time": "5小时前",
+      "published_ts": 1791614757,
+      "heat": "19.5K",
+      "views": "19.5K",
+      "url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
+      "tags": [],
+      "body": "<p>Wow.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "ad84c38dd": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "Quoting The New York Times",
       "src": "Simon Willison",
-      "time": "2小时前",
+      "time": "10小时前",
       "published_ts": 1791597852,
       "heat": "15.0K",
       "views": "15.0K",
@@ -20,9 +124,9 @@
       "cat": "L3 · 推理工程",
       "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
       "src": "Latent Space",
-      "time": "4小时前",
+      "time": "11小时前",
       "published_ts": 1791592286,
-      "heat": "19.5K",
+      "heat": "17.2K",
       "views": "19.5K",
       "url": "https://www.latent.space/p/biohub-deepmind",
       "tags": [],
@@ -33,7 +137,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
       "src": "TechCrunch AI",
-      "time": "4小时前",
+      "time": "11小时前",
       "published_ts": 1791591512,
       "heat": "27.0K",
       "views": "27.0K",
@@ -46,7 +150,7 @@
       "cat": "L4 · 交互Agent",
       "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
       "src": "TechCrunch AI",
-      "time": "7小时前",
+      "time": "14小时前",
       "published_ts": 1791582089,
       "heat": "23.8K",
       "views": "27.0K",
@@ -59,7 +163,7 @@
       "cat": "L0 · 领袖观点",
       "title": "I expect rapid progress but not towards general superintelligence",
       "src": "Interconnects",
-      "time": "7小时前",
+      "time": "14小时前",
       "published_ts": 1791581627,
       "heat": "18.0K",
       "views": "18.0K",
@@ -72,10 +176,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
       "src": "The Verge",
-      "time": "7小时前",
+      "time": "14小时前",
       "published_ts": 1791580538,
-      "heat": "21.1K",
-      "views": "24.0K",
+      "heat": "12.5K",
+      "views": "15.4K",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
       "tags": [],
       "body": "<p>An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -85,7 +189,7 @@
       "cat": "L4 · 交互Agent",
       "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
       "src": "TechCrunch AI",
-      "time": "9小时前",
+      "time": "16小时前",
       "published_ts": 1791574616,
       "heat": "20.5K",
       "views": "23.8K",
@@ -98,59 +202,20 @@
       "cat": "L5 · 生态商业",
       "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
       "src": "Wired",
-      "time": "9小时前",
+      "time": "16小时前",
       "published_ts": 1791574129,
-      "heat": "16.5K",
+      "heat": "14.5K",
       "views": "16.5K",
       "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
       "tags": [],
       "body": "<p>Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a1a7a7040": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-      "src": "The Verge",
-      "time": "9小时前",
-      "published_ts": 1791572984,
-      "heat": "15.4K",
-      "views": "18.2K",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-      "tags": [],
-      "body": "<p>\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ace455d3e": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Brendan Carr says he&#8217;ll let Pete Hegseth decide whether TV networks can air the public execution",
-      "src": "The Verge",
-      "time": "10小时前",
-      "published_ts": 1791570648,
-      "heat": "12.5K",
-      "views": "15.4K",
-      "url": "https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air",
-      "tags": [],
-      "body": "<p>FCC chairman Brendan Carr said he will defer to Secretary of Defense Pete Hegseth on whether TV networks can air the planned execution of convicted Fort Hood shooter Nidal Hasan by firing squad. The Pentagon has said the execution will be livestreamed, suggesting it'll appear on an online platform beyond the FCC's jurisdiction. But it's [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ae4dfa76a": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-      "src": "The Verge",
-      "time": "10小时前",
-      "published_ts": 1791569217,
-      "heat": "9.6K",
-      "views": "12.5K",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
-      "tags": [],
-      "body": "<p>Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airway of a child with the [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "ab36ce291": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "Master AI Chip Principles With New IEEE Design Program",
       "src": "IEEE Spectrum",
-      "time": "10小时前",
+      "time": "18小时前",
       "published_ts": 1791568802,
       "heat": "15.0K",
       "views": "15.0K",
@@ -163,7 +228,7 @@
       "cat": "L5 · 生态商业",
       "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
       "src": "TechCrunch AI",
-      "time": "12小时前",
+      "time": "19小时前",
       "published_ts": 1791565002,
       "heat": "17.3K",
       "views": "20.5K",
@@ -176,7 +241,7 @@
       "cat": "L5 · 生态商业",
       "title": "Amazon drops data center NDAs, and AI agents want your credit card",
       "src": "TechCrunch AI",
-      "time": "12小时前",
+      "time": "19小时前",
       "published_ts": 1791564782,
       "heat": "14.0K",
       "views": "17.3K",
@@ -189,7 +254,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Danu Robotics’ fight to build a better recycling robot",
       "src": "TechCrunch AI",
-      "time": "12小时前",
+      "time": "19小时前",
       "published_ts": 1791564300,
       "heat": "10.8K",
       "views": "14.0K",
@@ -202,10 +267,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Behind the Blog: What Would the Pope Do?",
       "src": "404 Media",
-      "time": "13小时前",
+      "time": "20小时前",
       "published_ts": 1791560672,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "11.4K",
+      "views": "13.2K",
       "url": "https://www.404media.co/behind-the-blog-what-would-the-pope-do/",
       "tags": [],
       "body": "<p>This week, we discuss AI and spirituality.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -215,7 +280,7 @@
       "cat": "L3 · 推理工程",
       "title": "Quoting Matthew Green",
       "src": "Simon Willison",
-      "time": "13小时前",
+      "time": "21小时前",
       "published_ts": 1791558149,
       "heat": "11.4K",
       "views": "13.2K",
@@ -228,7 +293,7 @@
       "cat": "L4 · 交互Agent",
       "title": "A new feature for my blog, built using my voice",
       "src": "Simon Willison",
-      "time": "16小时前",
+      "time": "23小时前",
       "published_ts": 1791550446,
       "heat": "9.6K",
       "views": "11.4K",
@@ -236,67 +301,15 @@
       "tags": [],
       "body": "<p>I shipped a new feature for my blog today: the Newsletters page, which offers an index of all of the newsletters I've sent out, both my free weekly Substack and my monthly sponsors-only updates. I built the feature almost entirely using my voice, chatting away to my laptop while I cooked dinner. Codex voice mode I used the ChatGPT desktop app for this, in the Codex tab, using the voice conversatio</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a0ee55cf0": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "Microsoft 365 slashes storage capacity for shared accounts amid industry-wide shortages",
-      "src": "Tom's Hardware",
-      "time": "16小时前",
-      "published_ts": 1791550319,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://www.tomshardware.com/software/cloud-storage/microsoft-365-slashes-storage-capacity-for-shared-accounts-amid-industry-wide-shortages-2tb-limit-to-take-effect-after-april-2027",
-      "tags": [],
-      "body": "<p>This effectively increases the costs for large users, although it may benefit those who have family members that don't take up much cloud storage space.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a18963542": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "PC shipments tumble over 20% in 3Q26 as chip shortages bite",
-      "src": "Tom's Hardware",
-      "time": "17小时前",
-      "published_ts": 1791544205,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://www.tomshardware.com/tech-industry/pc-shipments-tumble-over-20-percent-in-3q26-as-chip-shortages-bite-top-three-pc-vendors-ship-11-6-million-fewer-units-year-over-year",
-      "tags": [],
-      "body": "<p>PC shipments for the third quarter of 2026 drop by 15.8 million units, with Lenovo, HP, and Dell being hit the hardest. Memory chip manufacturers estimate that the situation will not improve until 2028 or 2029, even as Acer believes that PC prices will decline by late 2027.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a425a1ec0": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Mistral’s new Large 4 trails some Chinese open models in independent tests",
-      "src": "Tom's Hardware",
-      "time": "17小时前",
-      "published_ts": 1791543600,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/independent-tests-rank-mistrals-new-trillion-parameter-large-4-the-best-ai-model-outside-the-u-s-and-china-but-chinese-open-weights-still-overcome-europes-best-efforts",
-      "tags": [],
-      "body": "<p>Artificial Analysis scores Mistral’s new Large 4 at 38, behind open models from Xiaomi, Z.ai, Moonshot, and DeepSeek.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a75c9e226": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Save $200 on the 2026 M5 MacBook Air right now, undoing Apple's June price hike with prices starting from $1,099",
-      "src": "Tom's Hardware",
-      "time": "18小时前",
-      "published_ts": 1791542835,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://www.tomshardware.com/laptops/macbooks/save-usd200-on-the-2026-m5-macbook-air-right-now-undoing-apples-june-price-hike-with-prices-starting-from-usd1-099-amazon-deal-nets-you-current-gen-models-with-16gb-or-24gb-ram-and-up-to-1tb-storage",
-      "tags": [],
-      "body": "<p>Grab Apple's 2026 MacBook Air with M5 chip for $1,099 right now, a $200 price drop that knocks it back to its early 2026 pricing.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a30f3d0ad": {
       "layer": "l0",
       "cat": "L0 · 领袖观点",
       "title": "Even ‘Law & Order’ Is Terrified of AI",
       "src": "Wired",
-      "time": "18小时前",
+      "time": "1天前",
       "published_ts": 1791540000,
-      "heat": "14.5K",
-      "views": "16.5K",
+      "heat": "12.5K",
+      "views": "14.5K",
       "url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
       "tags": [],
       "body": "<p>In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -306,7 +319,7 @@
       "cat": "L1 · 算力硬件",
       "title": "We’re putting too much faith in AI’s ability to say no",
       "src": "MIT Tech Review",
-      "time": "19小时前",
+      "time": "1天前",
       "published_ts": 1791536400,
       "heat": "22.5K",
       "views": "22.5K",
@@ -319,7 +332,7 @@
       "cat": "L3 · 推理工程",
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "src": "OpenAI Blog",
-      "time": "21小时前",
+      "time": "1天前",
       "published_ts": 1791529200,
       "heat": "45.0K",
       "views": "45.0K",
@@ -332,7 +345,7 @@
       "cat": "L2 · 基础模型",
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
       "src": "OpenAI Blog",
-      "time": "21小时前",
+      "time": "1天前",
       "published_ts": 1791529200,
       "heat": "39.6K",
       "views": "45.0K",
@@ -386,8 +399,8 @@
       "src": "Latent Space",
       "time": "1天前",
       "published_ts": 1791502183,
-      "heat": "17.2K",
-      "views": "19.5K",
+      "heat": "14.8K",
+      "views": "17.2K",
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
       "tags": [],
       "body": "<p>a quiet day.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -412,8 +425,8 @@
       "src": "Wired",
       "time": "1天前",
       "published_ts": 1791494052,
-      "heat": "12.5K",
-      "views": "14.5K",
+      "heat": "10.6K",
+      "views": "12.5K",
       "url": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
       "tags": [],
       "body": "<p>This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -438,8 +451,8 @@
       "src": "Wired",
       "time": "1天前",
       "published_ts": 1791487800,
-      "heat": "10.6K",
-      "views": "12.5K",
+      "heat": "8.6K",
+      "views": "10.6K",
       "url": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
       "tags": [],
       "body": "<p>Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -451,8 +464,8 @@
       "src": "404 Media",
       "time": "1天前",
       "published_ts": 1791482849,
-      "heat": "11.4K",
-      "views": "13.2K",
+      "heat": "9.6K",
+      "views": "11.4K",
       "url": "https://www.404media.co/it-is-done-hail-satan-city-immediately-regrets-new-religious-liberty-law-that-allows-prayer-at-city-council-meeting/",
       "tags": [],
       "body": "<p>Iowa city council debates proper time in meeting agenda to \"undo the curse that was just put on our city.\"</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -464,8 +477,8 @@
       "src": "404 Media",
       "time": "1天前",
       "published_ts": 1791475885,
-      "heat": "9.6K",
-      "views": "11.4K",
+      "heat": "7.8K",
+      "views": "9.6K",
       "url": "https://www.404media.co/podcast-leak-show-cops-can-break-into-locked-iphones/",
       "tags": [],
       "body": "<p>Cops are getting around a very important iPhone security feature; someone made an LLM torture chamber; and lawyers going wild with ChatGPT.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -490,8 +503,8 @@
       "src": "404 Media",
       "time": "1天前",
       "published_ts": 1791473806,
-      "heat": "7.8K",
-      "views": "9.6K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://www.404media.co/watch-an-unconstitutional-flock-search/",
       "tags": [],
       "body": "<p>We got the bodycam and in-car footage from the unconstitutional Flock search. Also now you can basically have sex with Claude Code?</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -553,7 +566,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Google Cloud introduces the Gemini agent.",
       "src": "Google AI Blog",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1791461100,
       "heat": "22.1K",
       "views": "26.2K",
@@ -566,7 +579,7 @@
       "cat": "L2 · 基础模型",
       "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
       "src": "OpenAI Blog",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1791460800,
       "heat": "28.8K",
       "views": "34.2K",
@@ -579,7 +592,7 @@
       "cat": "L2 · 基础模型",
       "title": "LegalOn halves Codex costs while maintaining development speed",
       "src": "OpenAI Blog",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1791460800,
       "heat": "23.4K",
       "views": "28.8K",
@@ -592,10 +605,10 @@
       "cat": "L0 · 领袖观点",
       "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
       "src": "Wired",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1791451800,
-      "heat": "8.6K",
-      "views": "10.6K",
+      "heat": "6.6K",
+      "views": "8.6K",
       "url": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
       "tags": [],
       "body": "<p>The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have simmered for years, sources tell WIRED.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -605,7 +618,7 @@
       "cat": "L5 · 生态商业",
       "title": "AI breakthroughs in robotics won’t change your life any time soon",
       "src": "MIT Tech Review",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1791450000,
       "heat": "17.1K",
       "views": "19.8K",
@@ -618,7 +631,7 @@
       "cat": "L2 · 基础模型",
       "title": "Building a safer path to autonomous industrial AI",
       "src": "MIT Tech Review",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1791447452,
       "heat": "14.4K",
       "views": "17.1K",
@@ -631,10 +644,10 @@
       "cat": "L2 · 基础模型",
       "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
       "src": "Latent Space",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1791444471,
-      "heat": "12.5K",
-      "views": "14.8K",
+      "heat": "10.1K",
+      "views": "12.5K",
       "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
       "tags": [],
       "body": "<p>yay small models</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -665,19 +678,6 @@
       "tags": [],
       "body": "<p>At a Microsoft event in San Francisco on Wednesday, NVIDIA founder and CEO Jensen Huang and Microsoft CEO Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. NVIDIA was founded because of Windows, Huang said. Now AI agents are coming to Windows. “If you [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "ae3921577": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
-      "src": "Wired",
-      "time": "2天前",
-      "published_ts": 1791398700,
-      "heat": "6.6K",
-      "views": "8.6K",
-      "url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
-      "tags": [],
-      "body": "<p>Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a7439e71f": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
@@ -685,8 +685,8 @@
       "src": "Latent Space",
       "time": "2天前",
       "published_ts": 1791382245,
-      "heat": "10.1K",
-      "views": "12.5K",
+      "heat": "7.8K",
+      "views": "10.1K",
       "url": "https://www.latent.space/p/stacklok",
       "tags": [],
       "body": "<p>Kubernetes co-creators Craig McLuckie and Joe Beda aim to bring agent harnesses fully into the cloud.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -703,19 +703,6 @@
       "url": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
       "tags": [],
       "body": "<p>This White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close the data gap limiting humanoid robot learning. It also shows how policies trained on the dataset transfer to a real humanoid robot. What you will learn about: Why humanoid robot learning, a central problem in embodied AI and Physical AI, needs data that internet video an</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a4d4a3e52": {
-      "layer": "l3",
-      "cat": "L3 · 推理工程",
-      "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
-      "src": "Latent Space",
-      "time": "3天前",
-      "published_ts": 1791348944,
-      "heat": "7.8K",
-      "views": "10.1K",
-      "url": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
-      "tags": [],
-      "body": "<p>Our head hurts.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a782a6d43": {
       "layer": "l1",
@@ -852,7 +839,7 @@
       "cat": "L1 · 算力硬件",
       "title": "AI Solves a Major Unsolved Math Problem. Not Everyone Is Happy",
       "src": "IEEE Spectrum",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1791201602,
       "heat": "6.0K",
       "views": "7.8K",
@@ -917,7 +904,7 @@
       "cat": "L3 · 推理工程",
       "title": "Language Models for Text Classification: From Bag-of-Words to Jev",
       "src": "Ahead of AI",
-      "time": "10天前",
+      "time": "11天前",
       "published_ts": 1790679025,
       "heat": "15.0K",
       "views": "15.0K",
@@ -995,7 +982,7 @@
       "cat": "L2 · 基础模型",
       "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
       "src": "Ahead of AI",
-      "time": "30天前",
+      "time": "31天前",
       "published_ts": 1788952465,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1008,7 +995,7 @@
       "cat": "L4 · 交互Agent",
       "title": "An Organizational Second Brain: Building an AI That Learns From Experts",
       "src": "Meta Engineering",
-      "time": "37天前",
+      "time": "38天前",
       "published_ts": 1788339629,
       "heat": "12.0K",
       "views": "15.6K",
@@ -1034,7 +1021,7 @@
       "cat": "L2 · 基础模型",
       "title": "How Claude Watermarks AI-Generated Text",
       "src": "Ahead of AI",
-      "time": "48天前",
+      "time": "49天前",
       "published_ts": 1787397099,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1047,7 +1034,7 @@
       "cat": "L2 · 基础模型",
       "title": "Building an AI Text Detector From Scratch",
       "src": "Ahead of AI",
-      "time": "55天前",
+      "time": "56天前",
       "published_ts": 1786794864,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1073,7 +1060,7 @@
       "cat": "L3 · 推理工程",
       "title": "Controlling Reasoning Effort in LLMs",
       "src": "Ahead of AI",
-      "time": "83天前",
+      "time": "84天前",
       "published_ts": 1784373369,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1099,7 +1086,7 @@
       "cat": "L2 · 基础模型",
       "title": "Using Local Coding Agents",
       "src": "Ahead of AI",
-      "time": "104天前",
+      "time": "105天前",
       "published_ts": 1782559318,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1216,7 +1203,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
       "src": "SemiAnalysis",
-      "time": "396天前",
+      "time": "397天前",
       "published_ts": 1757325297,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1447,14 +1434,51 @@
     }
   },
   "by_layer": {
+    "l5": [
+      "ac057b129",
+      "ac3f5cab4",
+      "afe5ee828",
+      "a164e255a",
+      "aeb5ee29b",
+      "a6112cecc",
+      "a2743e725",
+      "a8571e037",
+      "a2eb2a5f4",
+      "ae52a316c"
+    ],
+    "l1": [
+      "a113a9441",
+      "a815120a7",
+      "a5538b886",
+      "ac7312817",
+      "ab36ce291",
+      "a0e3f9591",
+      "acad7f3a6",
+      "ad915358f",
+      "a7fbcabca",
+      "a782a6d43",
+      "a3d7540d2",
+      "ac0bdb8e9",
+      "ac7760be4",
+      "ad9981561",
+      "ae512b7c1",
+      "a8cf5579c",
+      "a50f8a782",
+      "a6bee3694",
+      "a612b9eb6",
+      "a472cb971",
+      "a94a9a29d",
+      "a5236c597",
+      "a2ae2603b"
+    ],
     "l4": [
+      "a6f3f0da5",
+      "a26e89975",
       "ad84c38dd",
       "a65954354",
       "a1bafea25",
       "ae6eb84b7",
       "a7c3f9129",
-      "a1a7a7040",
-      "ace455d3e",
       "a3617d437",
       "a841f44b4",
       "a21a34b6e",
@@ -1479,7 +1503,6 @@
       "a7f750396",
       "a87a2c092",
       "ac8aab00b",
-      "a4d4a3e52",
       "a7d59f20b",
       "a0fb4f1be",
       "acc4e4410",
@@ -1508,44 +1531,7 @@
       "a9173515c",
       "abcb7b0c4"
     ],
-    "l5": [
-      "afe5ee828",
-      "ae4dfa76a",
-      "a164e255a",
-      "aeb5ee29b",
-      "a0ee55cf0",
-      "a6112cecc",
-      "a2743e725",
-      "a8571e037",
-      "a2eb2a5f4",
-      "ae52a316c",
-      "ae3921577"
-    ],
-    "l1": [
-      "ab36ce291",
-      "a18963542",
-      "a75c9e226",
-      "a0e3f9591",
-      "acad7f3a6",
-      "ad915358f",
-      "a7fbcabca",
-      "a782a6d43",
-      "a3d7540d2",
-      "ac0bdb8e9",
-      "ac7760be4",
-      "ad9981561",
-      "ae512b7c1",
-      "a8cf5579c",
-      "a50f8a782",
-      "a6bee3694",
-      "a612b9eb6",
-      "a472cb971",
-      "a94a9a29d",
-      "a5236c597",
-      "a2ae2603b"
-    ],
     "l2": [
-      "a425a1ec0",
       "a10e7b1ae",
       "ac95fa44d",
       "a09690769",
@@ -1572,45 +1558,23 @@
     ]
   },
   "top5": [
-    "ad84c38dd",
-    "a75cf30c2",
-    "a65954354",
-    "a1bafea25",
-    "a4b0a839a"
+    "ac057b129",
+    "a113a9441",
+    "a815120a7",
+    "a6f3f0da5",
+    "a5538b886"
   ],
   "layers": [
-    {
-      "id": "l4",
-      "num": "LAYER 4",
-      "name": "交互Agent",
-      "vals": [
-        15,
-        19,
-        10,
-        25,
-        20,
-        20
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
     {
       "id": "l2",
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        18,
-        10,
-        22,
-        7,
-        21,
+        20,
+        14,
+        25,
+        6,
+        34,
         20
       ],
       "trend": [
@@ -1624,25 +1588,25 @@
       ]
     },
     {
-      "id": "l1",
-      "num": "LAYER 1",
-      "name": "算力硬件",
+      "id": "l4",
+      "num": "LAYER 4",
+      "name": "交互Agent",
       "vals": [
+        27,
+        13,
         10,
-        26,
-        9,
-        6,
-        17,
-        19
+        10,
+        18,
+        20
       ],
       "trend": [
         20,
-        20,
-        20,
-        20,
-        20,
-        20,
-        20
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
       ]
     },
     {
@@ -1650,11 +1614,11 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        10,
-        16,
+        24,
+        18,
         9,
         6,
-        22,
+        14,
         19
       ],
       "trend": [
@@ -1668,16 +1632,38 @@
       ]
     },
     {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
+      "id": "l1",
+      "num": "LAYER 1",
+      "name": "算力硬件",
       "vals": [
+        13,
         15,
         10,
-        5,
-        5,
+        6,
+        16,
+        20
+      ],
+      "trend": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
+      "vals": [
         10,
-        10
+        20,
+        5,
+        5,
+        18,
+        14
       ],
       "trend": [
         20,
@@ -1690,13 +1676,13 @@
       ]
     },
     {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
       "vals": [
-        11,
         10,
-        6,
+        19,
+        5,
         5,
         10,
         14
@@ -1713,6 +1699,46 @@
     }
   ],
   "ticker": [
+    {
+      "tag": "WIRED",
+      "col": "var(--l5)",
+      "text": "AI Is Getting Really Good at Messing With Cybercriminals"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "AnyPS5 project reaches critical GPU milestone in race to enable r…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Crazed modder straps 360mm AIO radiator to laptop, cuts temps to …"
+    },
+    {
+      "tag": "404 MEDIA",
+      "col": "var(--l4)",
+      "text": "Scientists Detect Record-Breaking Radio Signal from the Ancient U…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Ukrainian drones strike largest data center in Russia, multiple p…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "World’s first 3D-printed remote control aircraft with a jet turbi…"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l4)",
+      "text": "My brief romance with an AI bird feeder"
+    },
+    {
+      "tag": "LATENT SP",
+      "col": "var(--l5)",
+      "text": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks afte…"
+    },
     {
       "tag": "SIMON WIL",
       "col": "var(--l4)",
@@ -1742,56 +1768,34 @@
       "tag": "THE VERGE",
       "col": "var(--l4)",
       "text": "Anthropic’s AI gave Philadelphia police a fake tip about an unsol…"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "An Anthropic AI model sent a false homicide tip to Philadelphia p…"
-    },
-    {
-      "tag": "WIRED",
-      "col": "var(--l5)",
-      "text": "Book Publishers Are Quietly Using More AI. Staff Are Revolting"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "&#8216;Pure insanity&#8217;: Mathematicians will need years to ma…"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "Brendan Carr says he&#8217;ll let Pete Hegseth decide whether TV …"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l5)",
-      "text": "Nikon microscopic video competition winner disqualified for using…"
-    },
-    {
-      "tag": "IEEE SPEC",
-      "col": "var(--l1)",
-      "text": "Master AI Chip Principles With New IEEE Design Program"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l5)",
-      "text": "Amazon and others are done keeping data center deals secret. Is i…"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l5)",
-      "text": "Amazon drops data center NDAs, and AI agents want your credit car…"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "url": "https://github.com/rociiu/talorys",
+      "votes": "32",
+      "comments": "11",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
       "title": "Can you use autoregressive diffusion to generate market data?",
       "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-      "votes": "43",
-      "comments": "19",
+      "votes": "104",
+      "comments": "35",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Computers Cannot Make Decisions",
+      "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
+      "votes": "119",
+      "comments": "99",
       "time": "近期"
     },
     {
@@ -1799,8 +1803,8 @@
       "badge": "pb-hn",
       "title": "Typesafe AI raises $870M at $7.5B",
       "url": "https://typesafe.ai/blog/series-ai",
-      "votes": "315",
-      "comments": "232",
+      "votes": "382",
+      "comments": "290",
       "time": "近期"
     },
     {
@@ -1808,26 +1812,8 @@
       "badge": "pb-hn",
       "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
       "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-      "votes": "129",
-      "comments": "68",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
-      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-      "votes": "116",
-      "comments": "93",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Rewriting Prime Agent in Rust",
-      "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
-      "votes": "38",
-      "comments": "13",
+      "votes": "152",
+      "comments": "78",
       "time": "近期"
     },
     {
@@ -1835,8 +1821,8 @@
       "badge": "pb-hn",
       "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
       "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-      "votes": "67",
-      "comments": "10",
+      "votes": "134",
+      "comments": "28",
       "time": "近期"
     }
   ]
