@@ -1,16 +1,68 @@
 {
-  "updated_at": "2026-10-18T15:33:40.627396+00:00",
-  "article_count": 104,
+  "updated_at": "2026-10-18T20:17:02.290503+00:00",
+  "article_count": 105,
   "articles": {
+    "a12b2b951": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
+      "src": "The Verge",
+      "time": "46分钟前",
+      "published_ts": 1792351800,
+      "heat": "24.0K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
+      "tags": [],
+      "body": "<p>Mister Organ doesn't reach the level of societal horror of The Act of Killing or the creepypasta-meets-true-crime gruesomeness of Beware the Slenderman, but there's something deeply unsettling about Michael Organ and his intimate campaign of terror against everyone who enters his life. Mister Organ is a documentary by David Farrier, an Auckland, New Zealand journalist. [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a54048855": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "src": "The Verge",
+      "time": "1小时前",
+      "published_ts": 1792348090,
+      "heat": "21.1K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "tags": [],
+      "body": "<p>Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a91e24908": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "src": "TechCrunch AI",
+      "time": "3小时前",
+      "published_ts": 1792341000,
+      "heat": "27.0K",
+      "views": "27.0K",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "tags": [],
+      "body": "<p>The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ad3f6f535": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Modder brings full Nvidia DLSS 5 suite to three generations of AMD gaming GPUs",
+      "src": "Tom's Hardware",
+      "time": "4小时前",
+      "published_ts": 1792339381,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/pc-components/gpus/amd-cards-now-run-all-dlss-features-thanks-to-one-developers-project-plans-to-match-native-nvidia-gpu-performance",
+      "tags": [],
+      "body": "<p>Radeon GPUs get the full DLSS experience as solo project ports all the DLSS features for RDNA2-4 GPUs.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "ab19ed192": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
       "src": "The Verge",
-      "time": "33分钟前",
+      "time": "5小时前",
       "published_ts": 1792335600,
-      "heat": "24.0K",
-      "views": "24.0K",
+      "heat": "15.4K",
+      "views": "18.2K",
       "url": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
       "tags": [],
       "body": "<p>The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz versus 800p and 90Hz in the Deck OLED), and it’s got double the RAM and storage [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -20,10 +72,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Trump says Google kisses his ass",
       "src": "The Verge",
-      "time": "2小时前",
+      "time": "6小时前",
       "published_ts": 1792329901,
-      "heat": "18.2K",
-      "views": "21.1K",
+      "heat": "9.6K",
+      "views": "12.5K",
       "url": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
       "tags": [],
       "body": "<p>During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentioned his decision to rename the Gulf of Mexico and Lake Ontario. \"This is a much more powerful term. I can do [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -33,46 +85,20 @@
       "cat": "L1 · 算力硬件",
       "title": "Nvidia RTX 5090 shipment worth $470,000 goes missing in Brazilian airport",
       "src": "Tom's Hardware",
-      "time": "2小时前",
+      "time": "6小时前",
       "published_ts": 1792329863,
-      "heat": "7.8K",
-      "views": "9.6K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-shipment-worth-usd470-000-goes-missing-in-brazilian-airport-two-pallets-disappear-distributor-seeks-explanations-but-met-with-zero-answers",
       "tags": [],
       "body": "<p>Brazilian electronics and IT distributor Oderço claims that two pallets of Zotac RTX 5090 GPUs have arrived at the airport but has since completely disappeared.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "af888c725": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Web-based chip fab engineering game goes viral in Taiwan",
-      "src": "Tom's Hardware",
-      "time": "2小时前",
-      "published_ts": 1792327833,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://www.tomshardware.com/video-games/pc-gaming/chip-fab-engineering-game-goes-viral-in-taiwan-realistic-and-stressful-simulation-is-basically-a-horror-game-say-some-players",
-      "tags": [],
-      "body": "<p>A new 3D web game where you live 'A Day in the Life of a Semiconductor Wafer Factory Worker' has gone viral in Taiwan, where it was developed.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a5e98e68d": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "Cities want to put the boot on robotaxis",
-      "src": "The Verge",
-      "time": "3小时前",
-      "published_ts": 1792324800,
-      "heat": "9.6K",
-      "views": "12.5K",
-      "url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
-      "tags": [],
-      "body": "<p>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The first state to pass a law [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "af4d28536": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
       "src": "Wired",
-      "time": "5小时前",
+      "time": "9小时前",
       "published_ts": 1792319400,
       "heat": "16.5K",
       "views": "16.5K",
@@ -85,9 +111,9 @@
       "cat": "L2 · 基础模型",
       "title": "Meta removes language that raised scraping and AI training concerns",
       "src": "TechCrunch AI",
-      "time": "18小时前",
+      "time": "22小时前",
       "published_ts": 1792272692,
-      "heat": "27.0K",
+      "heat": "23.8K",
       "views": "27.0K",
       "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
       "tags": [],
@@ -98,7 +124,7 @@
       "cat": "L1 · 算力硬件",
       "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
       "src": "NVIDIA Blog",
-      "time": "18小时前",
+      "time": "23小时前",
       "published_ts": 1792270813,
       "heat": "37.5K",
       "views": "37.5K",
@@ -111,10 +137,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
       "src": "TechCrunch AI",
-      "time": "19小时前",
+      "time": "23小时前",
       "published_ts": 1792268479,
-      "heat": "23.8K",
-      "views": "27.0K",
+      "heat": "20.5K",
+      "views": "23.8K",
       "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
       "tags": [],
       "body": "<p>The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -124,10 +150,10 @@
       "cat": "L0 · 领袖观点",
       "title": "Replit makes OpenAI its default over Anthropic, CEO says",
       "src": "TechCrunch AI",
-      "time": "20小时前",
+      "time": "1天前",
       "published_ts": 1792262888,
-      "heat": "20.5K",
-      "views": "23.8K",
+      "heat": "17.3K",
+      "views": "20.5K",
       "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "tags": [],
       "body": "<p>Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -202,7 +228,7 @@
       "cat": "L5 · 生态商业",
       "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
       "src": "Wired",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1792181108,
       "heat": "10.6K",
       "views": "12.5K",
@@ -215,7 +241,7 @@
       "cat": "L2 · 基础模型",
       "title": "How Itaú is building generative AI for its entire customer base",
       "src": "OpenAI Blog",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1792177200,
       "heat": "45.0K",
       "views": "45.0K",
@@ -228,7 +254,7 @@
       "cat": "L5 · 生态商业",
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "src": "MIT Tech Review",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1792173600,
       "heat": "22.5K",
       "views": "22.5K",
@@ -241,10 +267,10 @@
       "cat": "L4 · 交互Agent",
       "title": "India becomes the latest country to report rogue AI agent activity",
       "src": "TechCrunch AI",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1792173144,
-      "heat": "17.3K",
-      "views": "20.5K",
+      "heat": "14.0K",
+      "views": "17.3K",
       "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
       "tags": [],
       "body": "<p>The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -254,7 +280,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Simulation App Speeds Up Electric Truck Battery Design",
       "src": "IEEE Spectrum",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1792169358,
       "heat": "15.0K",
       "views": "15.0K",
@@ -267,24 +293,11 @@
       "cat": "L1 · 算力硬件",
       "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
       "src": "TechCrunch AI",
-      "time": "1天前",
-      "published_ts": 1792168200,
-      "heat": "14.0K",
-      "views": "17.3K",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "tags": [],
-      "body": "<p>Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aec0a1064": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "src": "TechCrunch AI",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1792168200,
       "heat": "10.8K",
       "views": "14.0K",
-      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
       "tags": [],
       "body": "<p>Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
@@ -293,7 +306,7 @@
       "cat": "L2 · 基础模型",
       "title": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
       "src": "Google AI Blog",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1792166400,
       "heat": "34.5K",
       "views": "34.5K",
@@ -306,7 +319,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Podcast: Cops Can Use AI to Pinpoint Your Home with Just One Photo",
       "src": "404 Media",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1792165244,
       "heat": "11.4K",
       "views": "13.2K",
@@ -384,7 +397,7 @@
       "cat": "L4 · 交互Agent",
       "title": "How Meta Built Forum With AI-Native Engineering",
       "src": "Meta Engineering",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1792090803,
       "heat": "30.0K",
       "views": "30.0K",
@@ -397,7 +410,7 @@
       "cat": "L2 · 基础模型",
       "title": "Bringing GPT-Rosalind to academic research labs",
       "src": "OpenAI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1792090800,
       "heat": "28.8K",
       "views": "34.2K",
@@ -410,7 +423,7 @@
       "cat": "L2 · 基础模型",
       "title": "Check if a text message is a scam using Circle to Search.",
       "src": "Google AI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1792085400,
       "heat": "26.2K",
       "views": "30.4K",
@@ -423,7 +436,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
       "src": "NVIDIA Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1792083623,
       "heat": "33.0K",
       "views": "37.5K",
@@ -436,7 +449,7 @@
       "cat": "L2 · 基础模型",
       "title": "Android earthquake alerts now available in more than 200 regions",
       "src": "Google AI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1792080000,
       "heat": "17.9K",
       "views": "22.1K",
@@ -449,7 +462,7 @@
       "cat": "L2 · 基础模型",
       "title": "400 publications are now partnering with us on our News AI pilot program.",
       "src": "Google AI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1792080000,
       "heat": "13.8K",
       "views": "17.9K",
@@ -644,7 +657,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Meta’s Generative Ads Model (GEM): Scaling the Central Model and Compute Engine for Frontier Ads AI",
       "src": "Meta Engineering",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1791907260,
       "heat": "19.2K",
       "views": "22.8K",
@@ -722,7 +735,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
       "src": "IEEE Spectrum",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1791828002,
       "heat": "11.4K",
       "views": "13.2K",
@@ -761,7 +774,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Master AI Chip Principles With New IEEE Design Program",
       "src": "IEEE Spectrum",
-      "time": "8天前",
+      "time": "9天前",
       "published_ts": 1791568802,
       "heat": "7.8K",
       "views": "9.6K",
@@ -904,7 +917,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Why I still haven’t bought into true RSI",
       "src": "Interconnects",
-      "time": "28天前",
+      "time": "29天前",
       "published_ts": 1789832540,
       "heat": "7.2K",
       "views": "9.4K",
@@ -969,7 +982,7 @@
       "cat": "L0 · 领袖观点",
       "title": "An opinionated guide to which AI to use to do stuff",
       "src": "One Useful Thing",
-      "time": "86天前",
+      "time": "87天前",
       "published_ts": 1784829924,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1034,7 +1047,7 @@
       "cat": "L1 · 算力硬件",
       "title": "What it feels like to work with Mythos",
       "src": "One Useful Thing",
-      "time": "130天前",
+      "time": "131天前",
       "published_ts": 1781025082,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1060,7 +1073,7 @@
       "cat": "L0 · 领袖观点",
       "title": "2025 LLM Year in Review",
       "src": "Andrej Karpathy",
-      "time": "302天前",
+      "time": "303天前",
       "published_ts": 1766167200,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1086,7 +1099,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Verifiability",
       "src": "Andrej Karpathy",
-      "time": "334天前",
+      "time": "335天前",
       "published_ts": 1763398800,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1099,7 +1112,7 @@
       "cat": "L1 · 算力硬件",
       "title": "xAI’s Colossus 2 – First Gigawatt Datacenter In The World, Unique RL Methodology, Capital Raise",
       "src": "SemiAnalysis",
-      "time": "396天前",
+      "time": "397天前",
       "published_ts": 1758044281,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1112,7 +1125,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack",
       "src": "SemiAnalysis",
-      "time": "402天前",
+      "time": "403天前",
       "published_ts": 1757534238,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1242,7 +1255,7 @@
       "cat": "L2 · 基础模型",
       "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
       "src": "The Gradient",
-      "time": "700天前",
+      "time": "701天前",
       "published_ts": 1731775575,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1255,7 +1268,7 @@
       "cat": "L2 · 基础模型",
       "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
       "src": "The Gradient",
-      "time": "768天前",
+      "time": "769天前",
       "published_ts": 1725902928,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1268,7 +1281,7 @@
       "cat": "L0 · 领袖观点",
       "title": "We Need Positive Visions for AI Grounded in Wellbeing",
       "src": "The Gradient",
-      "time": "805天前",
+      "time": "806天前",
       "published_ts": 1722704443,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1307,7 +1320,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Financial Market Applications of LLMs",
       "src": "The Gradient",
-      "time": "910天前",
+      "time": "911天前",
       "published_ts": 1713635859,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1357,6 +1370,9 @@
   },
   "by_layer": {
     "l4": [
+      "a12b2b951",
+      "a54048855",
+      "a91e24908",
       "ab19ed192",
       "ac84b700b",
       "af4d28536",
@@ -1377,13 +1393,12 @@
       "ad01feb8a"
     ],
     "l1": [
+      "ad3f6f535",
       "a11901a96",
-      "af888c725",
       "a4f1d0806",
       "a0dfd41f0",
       "a229afd93",
       "abf52bff0",
-      "aec0a1064",
       "a10d7f678",
       "afadd290f",
       "a3b3b3dd5",
@@ -1404,21 +1419,6 @@
       "a94a9a29d",
       "a5236c597",
       "a2ae2603b"
-    ],
-    "l5": [
-      "a5e98e68d",
-      "aa66e90fa",
-      "aedfc25e9",
-      "a6112cecc",
-      "a0935df88",
-      "a4ed86413",
-      "a9e7dde9b",
-      "a3d025f92",
-      "abb06cd26",
-      "a99786503",
-      "ae67c7295",
-      "a2eb2a5f4",
-      "ae52a316c"
     ],
     "l2": [
       "af2dae098",
@@ -1462,6 +1462,20 @@
       "a9173515c",
       "abcb7b0c4"
     ],
+    "l5": [
+      "aa66e90fa",
+      "aedfc25e9",
+      "a6112cecc",
+      "a0935df88",
+      "a4ed86413",
+      "a9e7dde9b",
+      "a3d025f92",
+      "abb06cd26",
+      "a99786503",
+      "ae67c7295",
+      "a2eb2a5f4",
+      "ae52a316c"
+    ],
     "l3": [
       "aad2e4ad0",
       "a08d1a2c4",
@@ -1474,24 +1488,24 @@
     ]
   },
   "top5": [
-    "ab19ed192",
-    "ac84b700b",
-    "a11901a96",
-    "af888c725",
-    "a5e98e68d"
+    "a12b2b951",
+    "a54048855",
+    "a91e24908",
+    "ad3f6f535",
+    "ab19ed192"
   ],
   "layers": [
     {
-      "id": "l2",
-      "num": "LAYER 2",
-      "name": "基础模型",
+      "id": "l1",
+      "num": "LAYER 1",
+      "name": "算力硬件",
       "vals": [
-        28,
-        22,
-        30,
-        7,
-        32,
-        21
+        29,
+        26,
+        12,
+        8,
+        33,
+        22
       ],
       "trend": [
         20,
@@ -1504,16 +1518,38 @@
       ]
     },
     {
-      "id": "l1",
-      "num": "LAYER 1",
-      "name": "算力硬件",
+      "id": "l4",
+      "num": "LAYER 4",
+      "name": "交互Agent",
       "vals": [
+        13,
         23,
-        26,
-        12,
-        8,
-        29,
-        22
+        10,
+        21,
+        33,
+        20
+      ],
+      "trend": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "id": "l2",
+      "num": "LAYER 2",
+      "name": "基础模型",
+      "vals": [
+        19,
+        15,
+        5,
+        7,
+        25,
+        20
       ],
       "trend": [
         20,
@@ -1530,11 +1566,11 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
+        14,
         10,
-        24,
         7,
         5,
-        28,
+        20,
         17
       ],
       "trend": [
@@ -1548,59 +1584,15 @@
       ]
     },
     {
-      "id": "l4",
-      "num": "LAYER 4",
-      "name": "交互Agent",
-      "vals": [
-        19,
-        10,
-        8,
-        5,
-        29,
-        18
-      ],
-      "trend": [
-        20,
-        20,
-        20,
-        20,
-        20,
-        20,
-        20
-      ]
-    },
-    {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
-      "vals": [
-        14,
-        11,
-        6,
-        5,
-        10,
-        10
-      ],
-      "trend": [
-        20,
-        19,
-        18,
-        17,
-        16,
-        15,
-        14
-      ]
-    },
-    {
       "id": "l3",
       "num": "LAYER 3",
       "name": "推理工程",
       "vals": [
         10,
         10,
-        5,
-        5,
-        21,
+        10,
+        8,
+        17,
         13
       ],
       "trend": [
@@ -1612,9 +1604,51 @@
         10,
         8
       ]
+    },
+    {
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
+      "vals": [
+        10,
+        10,
+        5,
+        5,
+        16,
+        10
+      ],
+      "trend": [
+        20,
+        19,
+        18,
+        17,
+        16,
+        15,
+        14
+      ]
     }
   ],
   "ticker": [
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l4)",
+      "text": "Mister Organ is one of the most unsettling documentaries I’ve eve…"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l4)",
+      "text": "A woman was arrested in Philly for blocking a delivery robot"
+    },
+    {
+      "tag": "TECHCRUNC",
+      "col": "var(--l4)",
+      "text": "Disney agrees to hire the majority of Character.AI’s workforce"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Modder brings full Nvidia DLSS 5 suite to three generations of AM…"
+    },
     {
       "tag": "THE VERGE",
       "col": "var(--l4)",
@@ -1629,16 +1663,6 @@
       "tag": "TOM'S HAR",
       "col": "var(--l1)",
       "text": "Nvidia RTX 5090 shipment worth $470,000 goes missing in Brazilian…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Web-based chip fab engineering game goes viral in Taiwan"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l5)",
-      "text": "Cities want to put the boot on robotaxis"
     },
     {
       "tag": "WIRED",
@@ -1674,44 +1698,34 @@
       "tag": "WIRED",
       "col": "var(--l5)",
       "text": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes"
-    },
-    {
-      "tag": "LATENT SP",
-      "col": "var(--l3)",
-      "text": "[AINews] High Taste Testers Ep. 1"
-    },
-    {
-      "tag": "SIMON WIL",
-      "col": "var(--l3)",
-      "text": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
+      "title": "The Intel 8087 chip: floating-point addition and subtraction",
+      "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+      "votes": "62",
+      "comments": "12",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
       "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
       "url": "https://api-docs.deepseek.com/guides/search/",
-      "votes": "384",
-      "comments": "192",
+      "votes": "486",
+      "comments": "234",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-      "votes": "52",
-      "comments": "40",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Websites are closing their doors to AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "votes": "26",
-      "comments": "17",
+      "title": "Namecheap just seized and disabled all my domains",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+      "votes": "173",
+      "comments": "106",
       "time": "近期"
     },
     {
@@ -1719,8 +1733,8 @@
       "badge": "pb-hn",
       "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
       "url": "https://sphinx-six-theta.vercel.app/",
-      "votes": "201",
-      "comments": "61",
+      "votes": "226",
+      "comments": "76",
       "time": "近期"
     },
     {
@@ -1728,17 +1742,17 @@
       "badge": "pb-hn",
       "title": "The Brain Sandwich",
       "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
-      "votes": "17",
-      "comments": "6",
+      "votes": "57",
+      "comments": "33",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "votes": "916",
-      "comments": "680",
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "votes": "616",
+      "comments": "139",
       "time": "近期"
     }
   ]
