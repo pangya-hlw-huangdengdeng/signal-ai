@@ -1,13 +1,39 @@
 {
-  "updated_at": "2026-10-18T03:38:52.567405+00:00",
-  "article_count": 105,
+  "updated_at": "2026-10-18T10:35:11.389051+00:00",
+  "article_count": 104,
   "articles": {
+    "a71151f7f": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "DJI’s first battery-swapping dock gets drones recharged and back in the air in under 45 seconds",
+      "src": "Tom's Hardware",
+      "time": "5分钟前",
+      "published_ts": 1792319400,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/tech-industry/drones/djis-first-battery-swapping-dock-gets-drones-recharged-and-back-in-the-air-in-under-45-seconds-but-dock-4-has-no-fcc-clearance-for-u-s-sale",
+      "tags": [],
+      "body": "<p>DJI Dock 4 swaps the Matrice 5TD drone’s battery in 25 seconds, but the system has no FCC clearance for sale in the U.S.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "af4d28536": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+      "src": "Wired",
+      "time": "5分钟前",
+      "published_ts": 1792319400,
+      "heat": "16.5K",
+      "views": "16.5K",
+      "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+      "tags": [],
+      "body": "<p>Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "af2dae098": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
       "title": "Meta removes language that raised scraping and AI training concerns",
       "src": "TechCrunch AI",
-      "time": "6小时前",
+      "time": "13小时前",
       "published_ts": 1792272692,
       "heat": "27.0K",
       "views": "27.0K",
@@ -20,7 +46,7 @@
       "cat": "L1 · 算力硬件",
       "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
       "src": "NVIDIA Blog",
-      "time": "6小时前",
+      "time": "13小时前",
       "published_ts": 1792270813,
       "heat": "37.5K",
       "views": "37.5K",
@@ -33,7 +59,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
       "src": "TechCrunch AI",
-      "time": "7小时前",
+      "time": "14小时前",
       "published_ts": 1792268479,
       "heat": "23.8K",
       "views": "27.0K",
@@ -46,7 +72,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Replit makes OpenAI its default over Anthropic, CEO says",
       "src": "TechCrunch AI",
-      "time": "8小时前",
+      "time": "15小时前",
       "published_ts": 1792262888,
       "heat": "20.5K",
       "views": "23.8K",
@@ -59,7 +85,7 @@
       "cat": "L5 · 生态商业",
       "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
       "src": "The Verge",
-      "time": "10小时前",
+      "time": "17小时前",
       "published_ts": 1792255184,
       "heat": "18.2K",
       "views": "21.1K",
@@ -72,10 +98,10 @@
       "cat": "L1 · 算力硬件",
       "title": "HyperX Cloud Alpha Air Review: Open-back and budget-friendly",
       "src": "Tom's Hardware",
-      "time": "11小时前",
+      "time": "18小时前",
       "published_ts": 1792251600,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "9.6K",
+      "views": "11.4K",
       "url": "https://www.tomshardware.com/peripherals/gaming-headsets/hyperx-cloud-alpha-air-review",
       "tags": [],
       "body": "<p>The HyperX Cloud Alpha Air is the brand's first open-back gaming headset. It's lightweight and comfortable, and it sounds very good. But microphone pickup is low, and it doesn't seem to work with the brand's peripheral software (yet).</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -85,10 +111,10 @@
       "cat": "L1 · 算力硬件",
       "title": "Quad 8-pin mod protects the $8,500 RTX 5090 you can’t replace from melting",
       "src": "Tom's Hardware",
-      "time": "12小时前",
+      "time": "19小时前",
       "published_ts": 1792250400,
-      "heat": "11.4K",
-      "views": "13.2K",
+      "heat": "7.8K",
+      "views": "9.6K",
       "url": "https://www.tomshardware.com/pc-components/gpus/quad-8-pin-mod-protects-the-usd8-500-rtx-5090-you-cant-replace-from-melting-modders-custom-power-solution-claims-to-fix-nvidia-16-pin-gpu-meltdowns",
       "tags": [],
       "body": "<p>Redditor showcases a new quad 8-pin power-conversion kit for the 16-pin power connector on Nvidia GeForce RTX graphics cards.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -98,7 +124,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Meta removes language that may have allowed it to scrape news sites",
       "src": "The Verge",
-      "time": "12小时前",
+      "time": "19小时前",
       "published_ts": 1792249476,
       "heat": "15.4K",
       "views": "18.2K",
@@ -106,25 +132,12 @@
       "tags": [],
       "body": "<p>After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "ad4dce5da": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Nvidia reportedly insists the RTX 5090 isn't dead despite severe shortages and removed listings at multiple retailers",
-      "src": "Tom's Hardware",
-      "time": "13小时前",
-      "published_ts": 1792247898,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-insists-the-rtx-5090-isnt-dead-despite-severe-shortages-and-removed-listings-at-multiple-retailers-flagship-gpu-is-missing-from-nvidias-store-and-commands-usd8-500-on-amazon",
-      "tags": [],
-      "body": "<p>Nvidia states that RTX 5090 isn't discontinued, only that supply is constrained — and yet the card is effectively gone from storefronts</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a3c30bf94": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
       "title": "web-edit 0.1a2",
       "src": "Simon Willison",
-      "time": "14小时前",
+      "time": "21小时前",
       "published_ts": 1792243009,
       "heat": "13.2K",
       "views": "15.0K",
@@ -137,10 +150,10 @@
       "cat": "L5 · 生态商业",
       "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
       "src": "Wired",
-      "time": "18小时前",
+      "time": "1天前",
       "published_ts": 1792227600,
-      "heat": "16.5K",
-      "views": "16.5K",
+      "heat": "12.5K",
+      "views": "14.5K",
       "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
       "tags": [],
       "body": "<p>The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -150,7 +163,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] High Taste Testers Ep. 1",
       "src": "Latent Space",
-      "time": "19小时前",
+      "time": "1天前",
       "published_ts": 1792223258,
       "heat": "19.5K",
       "views": "19.5K",
@@ -191,8 +204,8 @@
       "src": "Wired",
       "time": "1天前",
       "published_ts": 1792181108,
-      "heat": "14.5K",
-      "views": "16.5K",
+      "heat": "10.6K",
+      "views": "12.5K",
       "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
       "tags": [],
       "body": "<p>The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -321,8 +334,8 @@
       "src": "Wired",
       "time": "1天前",
       "published_ts": 1792148400,
-      "heat": "10.6K",
-      "views": "12.5K",
+      "heat": "6.6K",
+      "views": "8.6K",
       "url": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
       "tags": [],
       "body": "<p>A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -332,7 +345,7 @@
       "cat": "L4 · 交互Agent",
       "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
       "src": "Latent Space",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1792124205,
       "heat": "17.2K",
       "views": "19.5K",
@@ -345,7 +358,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Computers Made of Human Brain Tissue Identify Braille Letters In Breakthrough",
       "src": "404 Media",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1792123260,
       "heat": "6.0K",
       "views": "7.8K",
@@ -365,32 +378,6 @@
       "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "tags": [],
       "body": "<p>Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aa74aa3a1": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
-      "src": "Wired",
-      "time": "2天前",
-      "published_ts": 1792099095,
-      "heat": "8.6K",
-      "views": "10.6K",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
-      "tags": [],
-      "body": "<p>This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a4f42e8ba": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
-      "src": "Wired",
-      "time": "2天前",
-      "published_ts": 1792098028,
-      "heat": "6.6K",
-      "views": "8.6K",
-      "url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
-      "tags": [],
-      "body": "<p>Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "abe53cc48": {
       "layer": "l4",
@@ -540,7 +527,7 @@
       "cat": "L5 · 生态商业",
       "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
       "src": "Latent Space",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1792058888,
       "heat": "14.8K",
       "views": "17.2K",
@@ -553,7 +540,7 @@
       "cat": "L1 · 算力硬件",
       "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
       "src": "NVIDIA Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1792058412,
       "heat": "19.5K",
       "views": "24.0K",
@@ -566,7 +553,7 @@
       "cat": "L1 · 算力硬件",
       "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
       "src": "NVIDIA Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1792040412,
       "heat": "15.0K",
       "views": "19.5K",
@@ -644,7 +631,7 @@
       "cat": "L2 · 基础模型",
       "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
       "src": "Latent Space",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1791956428,
       "heat": "7.8K",
       "views": "10.1K",
@@ -696,7 +683,7 @@
       "cat": "L5 · 生态商业",
       "title": "Open models have real benefits. Do they outweigh the risks?",
       "src": "MIT Tech Review",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1791885600,
       "heat": "19.8K",
       "views": "22.5K",
@@ -709,7 +696,7 @@
       "cat": "L5 · 生态商业",
       "title": "AI labs are buying data from dead startups to train their models",
       "src": "MIT Tech Review",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1791882000,
       "heat": "17.1K",
       "views": "19.8K",
@@ -748,7 +735,7 @@
       "cat": "L3 · 推理工程",
       "title": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
       "src": "IEEE Spectrum",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1791799203,
       "heat": "9.6K",
       "views": "11.4K",
@@ -787,7 +774,7 @@
       "cat": "L1 · 算力硬件",
       "title": "We’re putting too much faith in AI’s ability to say no",
       "src": "MIT Tech Review",
-      "time": "8天前",
+      "time": "9天前",
       "published_ts": 1791536400,
       "heat": "14.4K",
       "views": "17.1K",
@@ -826,7 +813,7 @@
       "cat": "L5 · 生态商业",
       "title": "AI breakthroughs in robotics won’t change your life any time soon",
       "src": "MIT Tech Review",
-      "time": "9天前",
+      "time": "10天前",
       "published_ts": 1791450000,
       "heat": "11.7K",
       "views": "14.4K",
@@ -839,7 +826,7 @@
       "cat": "L2 · 基础模型",
       "title": "Building a safer path to autonomous industrial AI",
       "src": "MIT Tech Review",
-      "time": "9天前",
+      "time": "10天前",
       "published_ts": 1791447452,
       "heat": "9.0K",
       "views": "11.7K",
@@ -1138,7 +1125,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
       "src": "SemiAnalysis",
-      "time": "404天前",
+      "time": "405天前",
       "published_ts": 1757325297,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1164,7 +1151,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "423天前",
+      "time": "424天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1369,36 +1356,11 @@
     }
   },
   "by_layer": {
-    "l2": [
-      "af2dae098",
-      "a3c30bf94",
-      "a75e6c8e1",
-      "a26f27bc5",
-      "afbd6e9f5",
-      "ad7b0369c",
-      "ac1a78270",
-      "ad0b5d625",
-      "a7842d5b2",
-      "a517297f9",
-      "a6648951a",
-      "adff2cca3",
-      "a1e07bbd8",
-      "a7efe3e5d",
-      "a2b42ade4",
-      "ad728fbcd",
-      "a7158c832",
-      "ac9f53313",
-      "a95a70797",
-      "a0c4ebb65",
-      "a0b43a2bc",
-      "ab3119897",
-      "af0f189d1"
-    ],
     "l1": [
+      "a71151f7f",
       "a4f1d0806",
       "a591fbfc8",
       "adcd4b0e1",
-      "ad4dce5da",
       "a0dfd41f0",
       "a229afd93",
       "abf52bff0",
@@ -1425,6 +1387,7 @@
       "a2ae2603b"
     ],
     "l4": [
+      "af4d28536",
       "a206a12dc",
       "ae4145d46",
       "a30c66410",
@@ -1441,6 +1404,31 @@
       "a01c3e4b9",
       "a05837fc3",
       "ad01feb8a"
+    ],
+    "l2": [
+      "af2dae098",
+      "a3c30bf94",
+      "a75e6c8e1",
+      "a26f27bc5",
+      "afbd6e9f5",
+      "ad7b0369c",
+      "ac1a78270",
+      "ad0b5d625",
+      "a7842d5b2",
+      "a517297f9",
+      "a6648951a",
+      "adff2cca3",
+      "a1e07bbd8",
+      "a7efe3e5d",
+      "a2b42ade4",
+      "ad728fbcd",
+      "a7158c832",
+      "ac9f53313",
+      "a95a70797",
+      "a0c4ebb65",
+      "a0b43a2bc",
+      "ab3119897",
+      "af0f189d1"
     ],
     "l0": [
       "a3487b0a6",
@@ -1465,8 +1453,6 @@
       "aedfc25e9",
       "a6112cecc",
       "a0935df88",
-      "aa74aa3a1",
-      "a4f42e8ba",
       "a4ed86413",
       "a9e7dde9b",
       "a3d025f92",
@@ -1488,45 +1474,23 @@
     ]
   },
   "top5": [
+    "a71151f7f",
+    "af4d28536",
     "af2dae098",
     "a4f1d0806",
-    "a206a12dc",
-    "a3487b0a6",
-    "ad0539e86"
+    "a206a12dc"
   ],
   "layers": [
-    {
-      "id": "l2",
-      "num": "LAYER 2",
-      "name": "基础模型",
-      "vals": [
-        25,
-        33,
-        7,
-        7,
-        20,
-        20
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
     {
       "id": "l1",
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        20,
-        17,
+        27,
+        37,
         13,
         8,
-        36,
+        30,
         23
       ],
       "trend": [
@@ -1540,16 +1504,38 @@
       ]
     },
     {
+      "id": "l2",
+      "num": "LAYER 2",
+      "name": "基础模型",
+      "vals": [
+        24,
+        19,
+        11,
+        7,
+        20,
+        21
+      ],
+      "trend": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
       "id": "l4",
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        19,
-        17,
+        25,
+        16,
+        8,
         7,
-        5,
-        14,
-        17
+        13,
+        18
       ],
       "trend": [
         20,
@@ -1562,15 +1548,37 @@
       ]
     },
     {
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
+      "vals": [
+        19,
+        10,
+        6,
+        5,
+        24,
+        26
+      ],
+      "trend": [
+        20,
+        19,
+        18,
+        17,
+        16,
+        15,
+        14
+      ]
+    },
+    {
       "id": "l0",
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        17,
         10,
+        22,
         7,
         5,
-        12,
+        20,
         17
       ],
       "trend": [
@@ -1589,10 +1597,10 @@
       "name": "推理工程",
       "vals": [
         10,
-        18,
+        15,
         5,
-        6,
         13,
+        20,
         13
       ],
       "trend": [
@@ -1604,31 +1612,19 @@
         10,
         8
       ]
-    },
-    {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
-      "vals": [
-        13,
-        10,
-        7,
-        5,
-        21,
-        10
-      ],
-      "trend": [
-        20,
-        20,
-        20,
-        20,
-        20,
-        20,
-        20
-      ]
     }
   ],
   "ticker": [
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "DJI’s first battery-swapping dock gets drones recharged and back …"
+    },
+    {
+      "tag": "WIRED",
+      "col": "var(--l4)",
+      "text": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty"
+    },
     {
       "tag": "TECHCRUNC",
       "col": "var(--l2)",
@@ -1670,11 +1666,6 @@
       "text": "Meta removes language that may have allowed it to scrape news sit…"
     },
     {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Nvidia reportedly insists the RTX 5090 isn't dead despite severe …"
-    },
-    {
       "tag": "SIMON WIL",
       "col": "var(--l2)",
       "text": "web-edit 0.1a2"
@@ -1693,21 +1684,34 @@
       "tag": "SIMON WIL",
       "col": "var(--l3)",
       "text": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang"
-    },
-    {
-      "tag": "ARS TECHN",
-      "col": "var(--l1)",
-      "text": "OpenAI models hacked a crypto wallet and breached more websites"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "votes": "201",
+      "comments": "97",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "votes": "136",
+      "comments": "36",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
       "title": "DeepSeek-v4.1-Flash-1017",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "votes": "741",
-      "comments": "607",
+      "votes": "865",
+      "comments": "656",
       "time": "近期"
     },
     {
@@ -1715,8 +1719,8 @@
       "badge": "pb-hn",
       "title": "Pele – Mermaid diagrams as themeable SVG",
       "url": "https://pele.run/",
-      "votes": "294",
-      "comments": "27",
+      "votes": "442",
+      "comments": "39",
       "time": "近期"
     },
     {
@@ -1724,8 +1728,8 @@
       "badge": "pb-hn",
       "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
       "url": "https://github.com/antirez/c64-hw-simulator",
-      "votes": "155",
-      "comments": "24",
+      "votes": "191",
+      "comments": "28",
       "time": "近期"
     },
     {
@@ -1733,26 +1737,8 @@
       "badge": "pb-hn",
       "title": "You could have invented transformers from memory",
       "url": "https://alexwang.ai/posts/associative-memory/",
-      "votes": "516",
-      "comments": "120",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "url": "https://llmspeed.dev/",
-      "votes": "261",
-      "comments": "77",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Tell HN: Remember to migrate away from .name domain",
-      "url": "https://news.ycombinator.com/item?id=50089577",
-      "votes": "138",
-      "comments": "88",
+      "votes": "567",
+      "comments": "127",
       "time": "近期"
     }
   ]
