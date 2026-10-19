@@ -1,15 +1,67 @@
 {
-  "updated_at": "2026-10-18T20:17:02.290503+00:00",
+  "updated_at": "2026-10-19T03:48:51.932303+00:00",
   "article_count": 105,
   "articles": {
+    "a05047747": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "llm-tools-datasette 0.1.1",
+      "src": "Simon Willison",
+      "time": "4小时前",
+      "published_ts": 1792366989,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+      "tags": [],
+      "body": "<p>Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed. Tags: datasette , llm</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a1372328b": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "llm-echo 0.5",
+      "src": "Simon Willison",
+      "time": "4小时前",
+      "published_ts": 1792365376,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+      "tags": [],
+      "body": "<p>Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to take tool calls, system prompts, and reasoning tokens into account. Example usage: </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aaf4de516": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+      "src": "The Verge",
+      "time": "5小时前",
+      "published_ts": 1792362053,
+      "heat": "24.0K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+      "tags": [],
+      "body": "<p>Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the system violated the department's security protocols. While he [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a1dd5c11f": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "src": "TechCrunch AI",
+      "time": "7小时前",
+      "published_ts": 1792355860,
+      "heat": "27.0K",
+      "views": "27.0K",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "tags": [],
+      "body": "<p>Anthropic said that it will commit 5% of its shares to the fund.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a12b2b951": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
       "src": "The Verge",
-      "time": "46分钟前",
+      "time": "8小时前",
       "published_ts": 1792351800,
-      "heat": "24.0K",
+      "heat": "21.1K",
       "views": "24.0K",
       "url": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
       "tags": [],
@@ -20,10 +72,10 @@
       "cat": "L4 · 交互Agent",
       "title": "A woman was arrested in Philly for blocking a delivery robot",
       "src": "The Verge",
-      "time": "1小时前",
+      "time": "9小时前",
       "published_ts": 1792348090,
-      "heat": "21.1K",
-      "views": "24.0K",
+      "heat": "18.2K",
+      "views": "21.1K",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
       "tags": [],
       "body": "<p>Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -33,9 +85,9 @@
       "cat": "L4 · 交互Agent",
       "title": "Disney agrees to hire the majority of Character.AI’s workforce",
       "src": "TechCrunch AI",
-      "time": "3小时前",
+      "time": "11小时前",
       "published_ts": 1792341000,
-      "heat": "27.0K",
+      "heat": "23.8K",
       "views": "27.0K",
       "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "tags": [],
@@ -46,7 +98,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Modder brings full Nvidia DLSS 5 suite to three generations of AMD gaming GPUs",
       "src": "Tom's Hardware",
-      "time": "4小时前",
+      "time": "11小时前",
       "published_ts": 1792339381,
       "heat": "15.0K",
       "views": "15.0K",
@@ -59,33 +111,20 @@
       "cat": "L4 · 交互Agent",
       "title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
       "src": "The Verge",
-      "time": "5小时前",
+      "time": "12小时前",
       "published_ts": 1792335600,
-      "heat": "15.4K",
-      "views": "18.2K",
+      "heat": "12.5K",
+      "views": "15.4K",
       "url": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
       "tags": [],
       "body": "<p>The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz versus 800p and 90Hz in the Deck OLED), and it’s got double the RAM and storage [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ac84b700b": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Trump says Google kisses his ass",
-      "src": "The Verge",
-      "time": "6小时前",
-      "published_ts": 1792329901,
-      "heat": "9.6K",
-      "views": "12.5K",
-      "url": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
-      "tags": [],
-      "body": "<p>During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentioned his decision to rename the Gulf of Mexico and Lake Ontario. \"This is a much more powerful term. I can do [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a11901a96": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "Nvidia RTX 5090 shipment worth $470,000 goes missing in Brazilian airport",
       "src": "Tom's Hardware",
-      "time": "6小时前",
+      "time": "14小时前",
       "published_ts": 1792329863,
       "heat": "6.0K",
       "views": "7.8K",
@@ -98,7 +137,7 @@
       "cat": "L4 · 交互Agent",
       "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
       "src": "Wired",
-      "time": "9小时前",
+      "time": "17小时前",
       "published_ts": 1792319400,
       "heat": "16.5K",
       "views": "16.5K",
@@ -111,10 +150,10 @@
       "cat": "L2 · 基础模型",
       "title": "Meta removes language that raised scraping and AI training concerns",
       "src": "TechCrunch AI",
-      "time": "22小时前",
+      "time": "1天前",
       "published_ts": 1792272692,
-      "heat": "23.8K",
-      "views": "27.0K",
+      "heat": "20.5K",
+      "views": "23.8K",
       "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
       "tags": [],
       "body": "<p>A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -124,7 +163,7 @@
       "cat": "L1 · 算力硬件",
       "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
       "src": "NVIDIA Blog",
-      "time": "23小时前",
+      "time": "1天前",
       "published_ts": 1792270813,
       "heat": "37.5K",
       "views": "37.5K",
@@ -137,10 +176,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
       "src": "TechCrunch AI",
-      "time": "23小时前",
+      "time": "1天前",
       "published_ts": 1792268479,
-      "heat": "20.5K",
-      "views": "23.8K",
+      "heat": "17.3K",
+      "views": "20.5K",
       "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
       "tags": [],
       "body": "<p>The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -152,8 +191,8 @@
       "src": "TechCrunch AI",
       "time": "1天前",
       "published_ts": 1792262888,
-      "heat": "17.3K",
-      "views": "20.5K",
+      "heat": "14.0K",
+      "views": "17.3K",
       "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "tags": [],
       "body": "<p>Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -165,8 +204,8 @@
       "src": "Simon Willison",
       "time": "1天前",
       "published_ts": 1792243009,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "9.6K",
+      "views": "11.4K",
       "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
       "tags": [],
       "body": "<p>Release: web-edit 0.1a2 web-edit ( previously ) is my tiny web app for browsing and editing files in a folder. I mainly built it for editing files on different machines via Tailscale. I added a \"copy to clipboard\" option for both text and image data. I needed this because I was running pelican prompts on a laptop from my phone (here's DeepSeek 4.1 Flash 1017 ) and I wanted an easy way to copy the </p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -202,10 +241,10 @@
       "cat": "L3 · 推理工程",
       "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
       "src": "Simon Willison",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1792188397,
-      "heat": "11.4K",
-      "views": "13.2K",
+      "heat": "7.8K",
+      "views": "9.6K",
       "url": "https://simonwillison.net/2026/Oct/16/code-review/",
       "tags": [],
       "body": "<p>We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\" Asking that question also changed when review happens. Before, review was a gate at the end of the road: write the code, open a PR, wait for your colleague. Now, review runs continuously, more like spellcheck while you write. Most </p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -215,7 +254,7 @@
       "cat": "L1 · 算力硬件",
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
       "src": "Ars Technica",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1792184341,
       "heat": "18.0K",
       "views": "18.0K",
@@ -269,8 +308,8 @@
       "src": "TechCrunch AI",
       "time": "2天前",
       "published_ts": 1792173144,
-      "heat": "14.0K",
-      "views": "17.3K",
+      "heat": "10.8K",
+      "views": "14.0K",
       "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
       "tags": [],
       "body": "<p>The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -287,19 +326,6 @@
       "url": "https://spectrum.ieee.org/electric-truck-battery-design-simulation",
       "tags": [],
       "body": "<p>This article is brought to you by COMSOL . These days, no one blinks an eye at two-day, one-day, and even same-day package deliveries. Despite the plethora of localized fulfillment and distributi on centers that have cropped up to meet the demand, delivery trucks still need to make considerably long drives, often over highways. To reduce fuel and maintenance costs as well as carbon emissions, comp</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "abf52bff0": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "src": "TechCrunch AI",
-      "time": "2天前",
-      "published_ts": 1792168200,
-      "heat": "10.8K",
-      "views": "14.0K",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "tags": [],
-      "body": "<p>Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a26f27bc5": {
       "layer": "l2",
@@ -384,7 +410,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "src": "OpenAI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1792108800,
       "heat": "34.2K",
       "views": "39.6K",
@@ -483,19 +509,6 @@
       "tags": [],
       "body": "<p>NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a4ed86413": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-      "src": "Simon Willison",
-      "time": "3天前",
-      "published_ts": 1792069443,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-      "tags": [],
-      "body": "<p>Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \" people with knowledge of the matter \". Key things I learned from the article: Q1 revenue (Jan/Feb/Mar) was \"about $4.8bn\" Q2 (Apr/May/Jun) was $11.5bn Q</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a9e7dde9b": {
       "layer": "l5",
       "cat": "L5 · 生态商业",
@@ -574,25 +587,12 @@
       "tags": [],
       "body": "<p>The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent. Now, a new chapter for the region is unfolding as countries race to build one of Europe’s most consequential technology ecosystems. The many computing advancements already underway [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "aa3077d39": {
-      "layer": "l3",
-      "cat": "L3 · 推理工程",
-      "title": "LaTeX renderer",
-      "src": "Simon Willison",
-      "time": "3天前",
-      "published_ts": 1792030048,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://simonwillison.net/2026/Oct/15/latex/",
-      "tags": [],
-      "body": "<p>Tool: LaTeX renderer Inspired by Paul Ford and Aboard Foundary's new web app Tiny Little Office , which provides a suite of web app content editors (a Word Processor, Outliner, Presentation Builder, Spreadsheet, Calculator, Drawing Tool, Diagram Maker, Animator, Calendar, and Trip Planner). Tiny Little Office's signature trick is to store all of the document data in the #fragment section of the UR</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a517297f9": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
       "title": "Sullivan & Cromwell brings legal expertise into agreement review",
       "src": "OpenAI Blog",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1792022400,
       "heat": "18.0K",
       "views": "23.4K",
@@ -605,7 +605,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
       "src": "Latent Space",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1792014052,
       "heat": "12.5K",
       "views": "14.8K",
@@ -618,7 +618,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
       "src": "Latent Space",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1792010109,
       "heat": "10.1K",
       "views": "12.5K",
@@ -722,7 +722,7 @@
       "cat": "L1 · 算力硬件",
       "title": "OCP Summit 2026: Powering AI with Open Innovations in Scale-Up, Scale-Out, and Scale-Across Networks",
       "src": "Meta Engineering",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1791839958,
       "heat": "15.6K",
       "views": "19.2K",
@@ -761,7 +761,7 @@
       "cat": "L0 · 领袖观点",
       "title": "I expect rapid progress but not towards general superintelligence",
       "src": "Interconnects",
-      "time": "8天前",
+      "time": "9天前",
       "published_ts": 1791581627,
       "heat": "15.8K",
       "views": "18.0K",
@@ -943,7 +943,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Agency and Agents",
       "src": "One Useful Thing",
-      "time": "48天前",
+      "time": "49天前",
       "published_ts": 1788135875,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1008,7 +1008,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Harness Engineering for Self-Improvement",
       "src": "Lilian Weng",
-      "time": "106天前",
+      "time": "107天前",
       "published_ts": 1783123200,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1034,7 +1034,7 @@
       "cat": "L2 · 基础模型",
       "title": "Scaling Laws, Carefully",
       "src": "Lilian Weng",
-      "time": "116天前",
+      "time": "117天前",
       "published_ts": 1782259200,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1060,7 +1060,7 @@
       "cat": "L0 · 领袖观点",
       "title": "After Orthogonality: Virtue-Ethical Agency and AI Alignment",
       "src": "The Gradient",
-      "time": "241天前",
+      "time": "242天前",
       "published_ts": 1771457152,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1151,7 +1151,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Amazon’s AI Resurgence: AWS & Anthropic’s Multi-Gigawatt Trainium Expansion",
       "src": "SemiAnalysis",
-      "time": "409天前",
+      "time": "410天前",
       "published_ts": 1756932946,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1177,7 +1177,7 @@
       "cat": "L2 · 基础模型",
       "title": "GPT-5 Set the Stage for Ad Monetization and the SuperApp",
       "src": "SemiAnalysis",
-      "time": "431天前",
+      "time": "432天前",
       "published_ts": 1755044834,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1203,7 +1203,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Why We Think",
       "src": "Lilian Weng",
-      "time": "535天前",
+      "time": "536天前",
       "published_ts": 1746057600,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1216,7 +1216,7 @@
       "cat": "L2 · 基础模型",
       "title": "Common pitfalls when building generative AI applications",
       "src": "Chip Huyen",
-      "time": "640天前",
+      "time": "641天前",
       "published_ts": 1736985600,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1229,7 +1229,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Agents",
       "src": "Chip Huyen",
-      "time": "649天前",
+      "time": "650天前",
       "published_ts": 1736208000,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1242,7 +1242,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Reward Hacking in Reinforcement Learning",
       "src": "Lilian Weng",
-      "time": "689天前",
+      "time": "690天前",
       "published_ts": 1732752000,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1294,7 +1294,7 @@
       "cat": "L3 · 推理工程",
       "title": "Building A Generative AI Platform",
       "src": "Chip Huyen",
-      "time": "815天前",
+      "time": "816天前",
       "published_ts": 1721865600,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1307,7 +1307,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Extrinsic Hallucinations in LLMs",
       "src": "Lilian Weng",
-      "time": "833天前",
+      "time": "834天前",
       "published_ts": 1720310400,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1333,7 +1333,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Diffusion Models for Video Generation",
       "src": "Lilian Weng",
-      "time": "919天前",
+      "time": "920天前",
       "published_ts": 1712880000,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1346,7 +1346,7 @@
       "cat": "L0 · 领袖观点",
       "title": "What I learned from looking at 900 most popular open source AI tools",
       "src": "Chip Huyen",
-      "time": "948天前",
+      "time": "949天前",
       "published_ts": 1710374400,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1359,7 +1359,7 @@
       "cat": "L2 · 基础模型",
       "title": "Predictive Human Preference: From Model Ranking to Model Routing",
       "src": "Chip Huyen",
-      "time": "963天前",
+      "time": "964天前",
       "published_ts": 1709078400,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1370,11 +1370,14 @@
   },
   "by_layer": {
     "l4": [
+      "a05047747",
+      "a1372328b",
+      "aaf4de516",
+      "a1dd5c11f",
       "a12b2b951",
       "a54048855",
       "a91e24908",
       "ab19ed192",
-      "ac84b700b",
       "af4d28536",
       "a206a12dc",
       "a30c66410",
@@ -1398,7 +1401,6 @@
       "a4f1d0806",
       "a0dfd41f0",
       "a229afd93",
-      "abf52bff0",
       "a10d7f678",
       "afadd290f",
       "a3b3b3dd5",
@@ -1467,7 +1469,6 @@
       "aedfc25e9",
       "a6112cecc",
       "a0935df88",
-      "a4ed86413",
       "a9e7dde9b",
       "a3d025f92",
       "abb06cd26",
@@ -1479,7 +1480,6 @@
     "l3": [
       "aad2e4ad0",
       "a08d1a2c4",
-      "aa3077d39",
       "aba8e44c2",
       "a7d59f20b",
       "a0fb4f1be",
@@ -1488,11 +1488,11 @@
     ]
   },
   "top5": [
-    "a12b2b951",
-    "a54048855",
-    "a91e24908",
-    "ad3f6f535",
-    "ab19ed192"
+    "a05047747",
+    "a1372328b",
+    "aaf4de516",
+    "a1dd5c11f",
+    "a12b2b951"
   ],
   "layers": [
     {
@@ -1500,12 +1500,12 @@
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        29,
-        26,
-        12,
-        8,
-        33,
-        22
+        31,
+        15,
+        11,
+        7,
+        37,
+        21
       ],
       "trend": [
         20,
@@ -1522,12 +1522,12 @@
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        13,
+        14,
+        22,
+        11,
+        27,
         23,
-        10,
-        21,
-        33,
-        20
+        21
       ],
       "trend": [
         20,
@@ -1544,11 +1544,11 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        19,
         15,
-        5,
+        24,
         7,
-        25,
+        7,
+        34,
         20
       ],
       "trend": [
@@ -1566,11 +1566,11 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        14,
+        10,
         10,
         7,
         5,
-        20,
+        18,
         17
       ],
       "trend": [
@@ -1584,15 +1584,37 @@
       ]
     },
     {
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
+      "vals": [
+        11,
+        10,
+        5,
+        5,
+        15,
+        13
+      ],
+      "trend": [
+        20,
+        19,
+        18,
+        17,
+        16,
+        15,
+        14
+      ]
+    },
+    {
       "id": "l3",
       "num": "LAYER 3",
       "name": "推理工程",
       "vals": [
         10,
         10,
+        5,
+        5,
         10,
-        8,
-        17,
         13
       ],
       "trend": [
@@ -1604,31 +1626,29 @@
         10,
         8
       ]
-    },
-    {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
-      "vals": [
-        10,
-        10,
-        5,
-        5,
-        16,
-        10
-      ],
-      "trend": [
-        20,
-        19,
-        18,
-        17,
-        16,
-        15,
-        14
-      ]
     }
   ],
   "ticker": [
+    {
+      "tag": "SIMON WIL",
+      "col": "var(--l4)",
+      "text": "llm-tools-datasette 0.1.1"
+    },
+    {
+      "tag": "SIMON WIL",
+      "col": "var(--l4)",
+      "text": "llm-echo 0.5"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l4)",
+      "text": "A Savannah police officer gave her Flock login to her ICE agent h…"
+    },
+    {
+      "tag": "TECHCRUNC",
+      "col": "var(--l4)",
+      "text": "Anthropic says it’s committing 5% of its shares to a ‘public bene…"
+    },
     {
       "tag": "THE VERGE",
       "col": "var(--l4)",
@@ -1655,11 +1675,6 @@
       "text": "Lenovo’s fast, comfy SteamOS handheld is hundreds off"
     },
     {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "Trump says Google kisses his ass"
-    },
-    {
       "tag": "TOM'S HAR",
       "col": "var(--l1)",
       "text": "Nvidia RTX 5090 shipment worth $470,000 goes missing in Brazilian…"
@@ -1683,40 +1698,43 @@
       "tag": "TECHCRUNC",
       "col": "var(--l4)",
       "text": "Anthropic says its workforce has become less junior and is spendi…"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l0)",
-      "text": "Replit makes OpenAI its default over Anthropic, CEO says"
-    },
-    {
-      "tag": "SIMON WIL",
-      "col": "var(--l2)",
-      "text": "web-edit 0.1a2"
-    },
-    {
-      "tag": "WIRED",
-      "col": "var(--l5)",
-      "text": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "The Intel 8087 chip: floating-point addition and subtraction",
-      "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
-      "votes": "62",
-      "comments": "12",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "votes": "263",
+      "comments": "153",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-      "url": "https://api-docs.deepseek.com/guides/search/",
-      "votes": "486",
-      "comments": "234",
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "votes": "69",
+      "comments": "48",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "I built a programming language that LLMs can't use",
+      "url": "https://blog.picheta.me/post/killswitch-lang/",
+      "votes": "107",
+      "comments": "88",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "The Intel 8087 chip: floating-point addition and subtraction",
+      "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+      "votes": "93",
+      "comments": "33",
       "time": "近期"
     },
     {
@@ -1724,8 +1742,8 @@
       "badge": "pb-hn",
       "title": "Namecheap just seized and disabled all my domains",
       "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-      "votes": "173",
-      "comments": "106",
+      "votes": "484",
+      "comments": "234",
       "time": "近期"
     },
     {
@@ -1733,26 +1751,8 @@
       "badge": "pb-hn",
       "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
       "url": "https://sphinx-six-theta.vercel.app/",
-      "votes": "226",
-      "comments": "76",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "The Brain Sandwich",
-      "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
-      "votes": "57",
-      "comments": "33",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "You could have invented transformers from memory",
-      "url": "https://alexwang.ai/posts/associative-memory/",
-      "votes": "616",
-      "comments": "139",
+      "votes": "242",
+      "comments": "85",
       "time": "近期"
     }
   ]
