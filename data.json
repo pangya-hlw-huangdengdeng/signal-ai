@@ -1,15 +1,145 @@
 {
-  "updated_at": "2026-10-26T03:50:27.650821+00:00",
-  "article_count": 110,
+  "updated_at": "2026-10-26T12:28:49.901224+00:00",
+  "article_count": 107,
   "articles": {
+    "afe9fb38d": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1793012400,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent",
+      "tags": [],
+      "body": "<p>Linux kernel modules lift Nvidia’s half-rate AI tensor limit on GeForce RTX 20, 30, and 40-series GPUs.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ae9af42b4": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Bitcoin reward offered to anyone who could break into an unpatched server running PHP, hacker cracks site and claims bounty",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1793010600,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://www.tomshardware.com/tech-industry/cryptomining/hacker-offers-bitcoin-reward-to-anyone-who-can-break-into-an-unpatched-server-running-php-still-remains-unhacked-php2shell-challenge-tests-claims-that-ai-makes-exploiting-vulnerabilities-easy",
+      "tags": [],
+      "body": "<p>The “Steal My Bitcoin” challenge offers a bounty to anyone who can breach a deliberately vulnerable PHP website using the recently disclosed PHP2Shell flaws. The challenge follows previous recoveries of locked Bitcoin fortunes through software vulnerabilities and AI-assisted investigation, but no successful claim has been confirmed.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aafeea710": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "Reddit’s r/opensource bans AI-made and AI-focused projects, also bans non-English speakers",
+      "src": "Tom's Hardware",
+      "time": "2小时前",
+      "published_ts": 1793008800,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/reddits-r-opensource-bans-ai-made-and-ai-focused-projects-also-bans-non-english-speakers-sweeping-new-rules-spark-backlash-over-linux-kernel-contributions-and-solo-developers",
+      "tags": [],
+      "body": "<p>Reddit’s r/opensource has barred AI-built, AI-focused, and AI-using projects under new rules announced October 24. The crackdown also imposes strict requirements on project age and contributors, while restrictions on non-English speakers have sparked further backlash. The debate puts the subreddit’s policy at odds with Linux’s acceptance of disclosed AI-assisted code contributions.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a81d5afff": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+      "src": "Wired",
+      "time": "2小时前",
+      "published_ts": 1793007000,
+      "heat": "16.5K",
+      "views": "16.5K",
+      "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+      "tags": [],
+      "body": "<p>Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a14082e6d": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
+      "src": "Wired",
+      "time": "3小时前",
+      "published_ts": 1793005200,
+      "heat": "14.5K",
+      "views": "16.5K",
+      "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+      "tags": [],
+      "body": "<p>Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "aa2335c13": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+      "src": "arXiv cs.AI",
+      "time": "8小时前",
+      "published_ts": 1792987200,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2610.31701",
+      "tags": [],
+      "body": "<p>arXiv:2610.31701v1 Announce Type: new Abstract: Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation decisions. In B2B go-to-market (GTM) organizations, territory carving determines which accounts receive seller coverage, which seller-account relationships are preserved, and how limited field capacity is distributed. Yet t</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "abdf735a3": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
+      "src": "arXiv cs.AI",
+      "time": "8小时前",
+      "published_ts": 1792987200,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://arxiv.org/abs/2610.31789",
+      "tags": [],
+      "body": "<p>arXiv:2610.31789v1 Announce Type: new Abstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and workflow porting. However, agent effectiveness depends heavily on the surrounding harness, which typically relies on manually written skills and curated memory. This limits autonomous learning, forcing</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a06c6de52": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
+      "src": "arXiv cs.AI",
+      "time": "8小时前",
+      "published_ts": 1792987200,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://arxiv.org/abs/2610.31810",
+      "tags": [],
+      "body": "<p>arXiv:2610.31810v1 Announce Type: new Abstract: Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic pipeline that helps authors find and close such gaps in their own papers and turn each paper into a Lean-verified version. Starting from the LaTeX source, PaperFormalizer transcribes the paper into a depend</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a691c0c1a": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
+      "src": "arXiv cs.AI",
+      "time": "8小时前",
+      "published_ts": 1792987200,
+      "heat": "7.8K",
+      "views": "9.6K",
+      "url": "https://arxiv.org/abs/2610.31846",
+      "tags": [],
+      "body": "<p>arXiv:2610.31846v1 Announce Type: new Abstract: Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. Yet today's agents recover from a mistake only temporarily: in-context reflections are easily forgotten across sessions and compete for limited context, while full-parameter fine-tuning is expensive and can interfere with existing capabilities. We </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a418f8df8": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
+      "src": "arXiv cs.AI",
+      "time": "8小时前",
+      "published_ts": 1792987200,
+      "heat": "6.0K",
+      "views": "7.8K",
+      "url": "https://arxiv.org/abs/2610.31882",
+      "tags": [],
+      "body": "<p>arXiv:2610.31882v1 Announce Type: new Abstract: We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. In this framework, a large-language-model (LLM) coding agent (Claude Opus 4.8) directly drives industry-standard electronic-design-automation (EDA) tools such as Cadence Virtuoso/Spectre, Calibre, Cadence EMX, and Ansys HFSS to design RF and mmWave</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "adee0beda": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
       "src": "The Verge",
-      "time": "6小时前",
+      "time": "14小时前",
       "published_ts": 1792964427,
-      "heat": "24.0K",
+      "heat": "21.1K",
       "views": "24.0K",
       "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
       "tags": [],
@@ -20,7 +150,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
       "src": "TechCrunch AI",
-      "time": "6小时前",
+      "time": "14小时前",
       "published_ts": 1792963876,
       "heat": "27.0K",
       "views": "27.0K",
@@ -33,10 +163,10 @@
       "cat": "L4 · 交互Agent",
       "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
       "src": "The Verge",
-      "time": "7小时前",
+      "time": "16小时前",
       "published_ts": 1792959379,
-      "heat": "18.2K",
-      "views": "21.1K",
+      "heat": "15.4K",
+      "views": "18.2K",
       "url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
       "tags": [],
       "body": "<p>Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then audibly crack and break the screen. Tellingly, the cracks all seem to happen in the [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -46,10 +176,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Zen Browser is the Arc replacement I was looking for",
       "src": "The Verge",
-      "time": "8小时前",
+      "time": "17小时前",
       "published_ts": 1792956290,
-      "heat": "15.4K",
-      "views": "18.2K",
+      "heat": "12.5K",
+      "views": "15.4K",
       "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
       "tags": [],
       "body": "<p>I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its even more AI-focused browser. And [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -59,10 +189,10 @@
       "cat": "L1 · 算力硬件",
       "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
       "src": "The Verge",
-      "time": "10小时前",
+      "time": "19小时前",
       "published_ts": 1792947600,
-      "heat": "12.5K",
-      "views": "15.4K",
+      "heat": "9.6K",
+      "views": "12.5K",
       "url": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
       "tags": [],
       "body": "<p>The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The Nitro Deck 2, made for both the original Switch and the larger Switch 2, continues the tradition of [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -72,7 +202,7 @@
       "cat": "L1 · 算力硬件",
       "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
       "src": "TechCrunch AI",
-      "time": "10小时前",
+      "time": "19小时前",
       "published_ts": 1792947452,
       "heat": "23.8K",
       "views": "27.0K",
@@ -80,38 +210,25 @@
       "tags": [],
       "body": "<p>\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a3e26ccb7": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "Big Tech is cashing in on AI while the rest of corporate America sees no financial returns",
-      "src": "Tom's Hardware",
-      "time": "12小时前",
-      "published_ts": 1792941940,
+    "ae48a89b0": {
+      "layer": "l3",
+      "cat": "L3 · 推理工程",
+      "title": "Seam Cutter",
+      "src": "Simon Willison",
+      "time": "21小时前",
+      "published_ts": 1792941019,
       "heat": "15.0K",
       "views": "15.0K",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/big-tech-is-cashing-in-on-ai-while-the-rest-of-corporate-america-sees-no-financial-returns-report-outlines-how-rising-token-costs-threaten-to-squeeze-corporate-profit-margins",
+      "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
       "tags": [],
-      "body": "<p>Revenue per employee at the Magnificent Seven has outpaced the S&amp;P 493, and a new comparison highlights the growing divide in fortunes between America’s largest technology companies and the rest of the S&amp;P 500.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a242a8fca": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "IQUNIX MQ80 low profile mechanical keyboard review",
-      "src": "Tom's Hardware",
-      "time": "12小时前",
-      "published_ts": 1792940903,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://www.tomshardware.com/peripherals/mechanical-keyboards/iqunix-mq80-low-profile-mechanical-keyboard-review",
-      "tags": [],
-      "body": "<p>The IQUNIX MQ80 is well-made and super stylish, but it’s not quite the instant sell it used to be. Catch this one if you don’t like magnetic switches, but otherwise wait for a sale.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>Tool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image. I wanted this because I often use Tailor on my iPhone to stitch several screenshots together into lot long image, but sometimes I find myself wan</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "ae00c120f": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "The hottest AI wearables and gadgets you should know about",
       "src": "TechCrunch AI",
-      "time": "13小时前",
+      "time": "22小时前",
       "published_ts": 1792937400,
       "heat": "20.5K",
       "views": "23.8K",
@@ -119,54 +236,15 @@
       "tags": [],
       "body": "<p>We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a534a6210": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Ukrainian drone attacks hammer Russia's finance ministry data center, damaged facility reportedly holds tax databases",
-      "src": "Tom's Hardware",
-      "time": "13小时前",
-      "published_ts": 1792937100,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/ukrainian-drone-attacks-hammer-russias-finance-ministry-data-center-damaged-facility-reportedly-holds-tax-databases-facility-also-holds-other-important-state-registry-data",
-      "tags": [],
-      "body": "<p>Reports say that this is one of three data centers that the Russian finance ministry operated.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a99910a41": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "Nvidia discusses $2,000-per-GPU annual fee for software that 'runs agents on AI factories'",
-      "src": "Tom's Hardware",
-      "time": "14小时前",
-      "published_ts": 1792933200,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
-      "tags": [],
-      "body": "<p>Nvidia CEO Jensen Huang is reportedly weighing annual software fees of around $2,000 per GPU for enterprise AI, a model that could generate $10 billion a year if five million licenses were sold. The pricing and launch timeline remain unconfirmed, while Nvidia continues to expand its AI software and security tools for enterprise customers.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ac6aa351d": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Jailbroken PS5s can now run Steam PC games",
-      "src": "Tom's Hardware",
-      "time": "15小时前",
-      "published_ts": 1792932011,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-steam-pc-games-you-can-now-sign-in-with-your-steam-account-and-install-games-from-your-library-directly-to-the-console",
-      "tags": [],
-      "body": "<p>Playden for PS5 creates an app for each Steam game that it downloads, allowing it to appear as a separate tile on the console's home screen.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a25715bf0": {
       "layer": "l5",
       "cat": "L5 · 生态商业",
       "title": "What the US Movement Against Data Centers Can Learn From Abroad",
       "src": "Wired",
-      "time": "17小时前",
+      "time": "1天前",
       "published_ts": 1792922400,
-      "heat": "16.5K",
-      "views": "16.5K",
+      "heat": "12.5K",
+      "views": "14.5K",
       "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
       "tags": [],
       "body": "<p>Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -215,7 +293,7 @@
       "cat": "L4 · 交互Agent",
       "title": "An Ancient Virus Explains Why the Human Brain Is Special",
       "src": "404 Media",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1792844874,
       "heat": "15.0K",
       "views": "15.0K",
@@ -228,10 +306,10 @@
       "cat": "L5 · 生态商业",
       "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
       "src": "Wired",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1792843200,
-      "heat": "14.5K",
-      "views": "16.5K",
+      "heat": "10.6K",
+      "views": "12.5K",
       "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
       "tags": [],
       "body": "<p>Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -241,7 +319,7 @@
       "cat": "L3 · 推理工程",
       "title": "Building Reasoning Models from the Ground Up: A Full Video Course",
       "src": "Ahead of AI",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1792840472,
       "heat": "15.0K",
       "views": "15.0K",
@@ -254,7 +332,7 @@
       "cat": "L1 · 算力硬件",
       "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
       "src": "Latent Space",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1792826309,
       "heat": "19.5K",
       "views": "19.5K",
@@ -267,9 +345,9 @@
       "cat": "L2 · 基础模型",
       "title": "battledrones v14: Compass Rose, a four player map",
       "src": "Simon Willison",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1792814397,
-      "heat": "15.0K",
+      "heat": "13.2K",
       "views": "15.0K",
       "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
       "tags": [],
@@ -282,8 +360,8 @@
       "src": "Simon Willison",
       "time": "2天前",
       "published_ts": 1792791313,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "11.4K",
+      "views": "13.2K",
       "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
       "tags": [],
       "body": "<p>Tool: Quick Study Prompt to Claude Opus 5.5 High : Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush See also my previous experiment getting Claude Fable to simulate a watercolor illustration with P5.js. Quick Study uses Sobel edge detection , with no external libraries beyond Google Fonts. Tags</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -345,7 +423,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] Black October",
       "src": "Latent Space",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1792750169,
       "heat": "14.8K",
       "views": "17.2K",
@@ -358,7 +436,7 @@
       "cat": "L2 · 基础模型",
       "title": "Securing our frontier model training environment",
       "src": "OpenAI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1792749600,
       "heat": "39.6K",
       "views": "45.0K",
@@ -425,8 +503,8 @@
       "src": "Wired",
       "time": "3天前",
       "published_ts": 1792698992,
-      "heat": "12.5K",
-      "views": "14.5K",
+      "heat": "8.6K",
+      "views": "10.6K",
       "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
       "tags": [],
       "body": "<p>WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -438,8 +516,8 @@
       "src": "Simon Willison",
       "time": "3天前",
       "published_ts": 1792698146,
-      "heat": "9.6K",
-      "views": "11.4K",
+      "heat": "7.8K",
+      "views": "9.6K",
       "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
       "tags": [],
       "body": "<p>DE STAAT - FREEDOM (Official Music Video) OK well this is a first for me... at 00:44 in this new music video by Dutch alternative rock band De Staat : The visual effects are credited to Matties Grooten of Fake it or Leave it . Via flir on Hacker News Tags: music , ai , generative-ai , pelican-riding-a-bicycle</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -464,8 +542,8 @@
       "src": "Simon Willison",
       "time": "3天前",
       "published_ts": 1792692596,
-      "heat": "7.8K",
-      "views": "9.6K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
       "tags": [],
       "body": "<p>Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). I'm pleased to note I calle</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -482,19 +560,6 @@
       "url": "https://latent.space/p/modal-d/",
       "tags": [],
       "body": "<p>Elastic GPUs, sandbox growth, and the economics of the agent cloud</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a1d3e5d07": {
-      "layer": "l3",
-      "cat": "L3 · 推理工程",
-      "title": "Quoting Armin Ronacher",
-      "src": "Simon Willison",
-      "time": "3天前",
-      "published_ts": 1792683253,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
-      "tags": [],
-      "body": "<p>As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. &mdash; Armin Ronacher Tags: security , generative-ai , armin-ronacher , ai , ai-security-research , llms</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "abc04e000": {
       "layer": "l4",
@@ -581,8 +646,8 @@
       "src": "Wired",
       "time": "3天前",
       "published_ts": 1792674000,
-      "heat": "10.6K",
-      "views": "12.5K",
+      "heat": "6.6K",
+      "views": "8.6K",
       "url": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
       "tags": [],
       "body": "<p>Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -592,7 +657,7 @@
       "cat": "L1 · 算力硬件",
       "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
       "src": "Ars Technica",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1792668633,
       "heat": "15.8K",
       "views": "18.0K",
@@ -605,7 +670,7 @@
       "cat": "L5 · 生态商业",
       "title": "Making the case for context-aware AI",
       "src": "MIT Tech Review",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1792663200,
       "heat": "17.1K",
       "views": "19.8K",
@@ -613,25 +678,12 @@
       "tags": [],
       "body": "<p>Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead&#8230;</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a7ffa9c67": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
-      "src": "Wired",
-      "time": "3天前",
-      "published_ts": 1792663200,
-      "heat": "8.6K",
-      "views": "10.6K",
-      "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
-      "tags": [],
-      "body": "<p>The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a6db74d8f": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "AI’s hidden storage bill: What inference leaves behind",
       "src": "MIT Tech Review",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1792658478,
       "heat": "14.4K",
       "views": "17.1K",
@@ -644,7 +696,7 @@
       "cat": "L2 · 基础模型",
       "title": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
       "src": "Latent Space",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1792654964,
       "heat": "7.8K",
       "views": "10.1K",
@@ -657,7 +709,7 @@
       "cat": "L2 · 基础模型",
       "title": "What FDE means at OpenAI",
       "src": "OpenAI Blog",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1792648800,
       "heat": "23.4K",
       "views": "28.8K",
@@ -670,7 +722,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
       "src": "NVIDIA Blog",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1792645256,
       "heat": "24.0K",
       "views": "28.5K",
@@ -683,7 +735,7 @@
       "cat": "L1 · 算力硬件",
       "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
       "src": "NVIDIA Blog",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1792645227,
       "heat": "19.5K",
       "views": "24.0K",
@@ -696,26 +748,13 @@
       "cat": "L1 · 算力硬件",
       "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
       "src": "NVIDIA Blog",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1792645225,
       "heat": "15.0K",
       "views": "19.5K",
       "url": "https://blogs.nvidia.com/blog/dsx-power/",
       "tags": [],
       "body": "<p>Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack. Their adoption of the platform responds to an acute problem. Power is now the biggest bottleneck in infrastructure. More than $300 billion [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a729d4083": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
-      "src": "Wired",
-      "time": "4天前",
-      "published_ts": 1792635857,
-      "heat": "6.6K",
-      "views": "8.6K",
-      "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
-      "tags": [],
-      "body": "<p>Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "ab9a9178c": {
       "layer": "l4",
@@ -761,7 +800,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Could Treating AI as Conscious Make It More Dangerous?",
       "src": "IEEE Spectrum",
-      "time": "4天前",
+      "time": "5天前",
       "published_ts": 1792584002,
       "heat": "11.4K",
       "views": "13.2K",
@@ -826,7 +865,7 @@
       "cat": "L1 · 算力硬件",
       "title": "AI adoption by industry shows what other sectors can learn",
       "src": "MIT Tech Review",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1792497600,
       "heat": "9.0K",
       "views": "11.7K",
@@ -878,7 +917,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Edge AI for Smart Cities: From Insight to Cognitive Action",
       "src": "IEEE Spectrum",
-      "time": "6天前",
+      "time": "7天前",
       "published_ts": 1792404004,
       "heat": "9.6K",
       "views": "11.4K",
@@ -995,7 +1034,7 @@
       "cat": "L3 · 推理工程",
       "title": "Language Models for Text Classification: From Bag-of-Words to Jev",
       "src": "Ahead of AI",
-      "time": "26天前",
+      "time": "27天前",
       "published_ts": 1790679025,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1021,7 +1060,7 @@
       "cat": "L2 · 基础模型",
       "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
       "src": "Ahead of AI",
-      "time": "46天前",
+      "time": "47天前",
       "published_ts": 1788952465,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1047,7 +1086,7 @@
       "cat": "L2 · 基础模型",
       "title": "How Claude Watermarks AI-Generated Text",
       "src": "Ahead of AI",
-      "time": "64天前",
+      "time": "65天前",
       "published_ts": 1787397099,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1060,7 +1099,7 @@
       "cat": "L2 · 基础模型",
       "title": "Building an AI Text Detector From Scratch",
       "src": "Ahead of AI",
-      "time": "71天前",
+      "time": "72天前",
       "published_ts": 1786794864,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1086,7 +1125,7 @@
       "cat": "L3 · 推理工程",
       "title": "Controlling Reasoning Effort in LLMs",
       "src": "Ahead of AI",
-      "time": "99天前",
+      "time": "100天前",
       "published_ts": 1784373369,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1171,84 +1210,6 @@
       "url": "https://karpathy.bearblog.dev/verifiability/",
       "tags": [],
       "body": "<p>The impact of verifiability on the jagged frontier of LLMs</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a6bee3694": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "xAI’s Colossus 2 – First Gigawatt Datacenter In The World, Unique RL Methodology, Capital Raise",
-      "src": "SemiAnalysis",
-      "time": "404天前",
-      "published_ts": 1758044281,
-      "heat": "15.0K",
-      "views": "15.0K",
-      "url": "https://semianalysis.com/2025/09/16/xais-colossus-2-first-gigawatt-datacenter/",
-      "tags": [],
-      "body": "<p>Much has been written about xAI’s Colossus 1. The Memphis build belongs in the history books: the largest AI training cluster, erected from scratch in 122 days. With roughly 200,000 H100/H200s and ~30,000 GB200 NVL72, it remains, today, the largest fully operational, single-coherent cluster (setting apart Google, master of multi-datacenter-training). However, Colossus 1’s ~300 MW [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a612b9eb6": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack",
-      "src": "SemiAnalysis",
-      "time": "410天前",
-      "published_ts": 1757534238,
-      "heat": "13.2K",
-      "views": "15.0K",
-      "url": "https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/",
-      "tags": [],
-      "body": "<p>Nvidia announced the Rubin CPX, a solution that is specifically designed to be optimized for the prefill phase, with the single-die Rubin CPX heavily emphasizing compute FLOPS over memory bandwidth. This is a game changer for inference, and its significance is surpassed only by the March 2024 announcement of the GB200 NVL72 Oberon rack-scale form [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a472cb971": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
-      "src": "SemiAnalysis",
-      "time": "412天前",
-      "published_ts": 1757325297,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/",
-      "tags": [],
-      "body": "<p>Compute is the lifeblood of AI. He who controls the spice controls the universe the compute will control the production of tokens and reap the benefits of AI. Without compute you do not have a seat at the table. The United States technology community is all in on compute and AI as the next platform [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a94a9a29d": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Amazon’s AI Resurgence: AWS & Anthropic’s Multi-Gigawatt Trainium Expansion",
-      "src": "SemiAnalysis",
-      "time": "417天前",
-      "published_ts": 1756932946,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://semianalysis.com/2025/09/03/amazons-ai-resurgence-aws-anthropics-multi-gigawatt-trainium-expansion/",
-      "tags": [],
-      "body": "<p>Two-and-a-half years ago, we flagged a looming “cloud crisis” at AWS. Today, the evidence has mounted. AWS is the crown jewel of the Amazon empire, generating ~60% of group profits, and dominating the lucrative Cloud Computing market. But it struggles to translate this strength into the new GPU/XPU Cloud era. Microsoft Azure now leads the [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a5236c597": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
-      "src": "SemiAnalysis",
-      "time": "431天前",
-      "published_ts": 1755665795,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://semianalysis.com/2025/08/20/h100-vs-gb200-nvl72-training-benchmarks/",
-      "tags": [],
-      "body": "<p>Frontier model training has pushed GPUs and AI systems to their absolute limits, making cost, efficiency, power, performance per TCO, and reliability central to the discussion on effective training. The Hopper vs Blackwell comparisons are not as simple as Nvidia would have you believe. In this report, we will start by present the results of [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a95a70797": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "GPT-5 Set the Stage for Ad Monetization and the SuperApp",
-      "src": "SemiAnalysis",
-      "time": "439天前",
-      "published_ts": 1755044834,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://semianalysis.com/2025/08/13/gpt-5-ad-monetization-and-the-superapp/",
-      "tags": [],
-      "body": "<p>To many power users (Pro and Plus), GPT5 was a disappointing release. But with closer inspection, the real release is focused on the vast majority of ChatGPT’s users, which is the 700m+ free userbase that is growing rapidly. Power users should be disappointed; this release wasn’t for them. The real consumer opportunity for OpenAI lies [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a040f39c9": {
       "layer": "l0",
@@ -1434,7 +1395,47 @@
     }
   },
   "by_layer": {
+    "l1": [
+      "afe9fb38d",
+      "ae9af42b4",
+      "ad2876850",
+      "a74700e7f",
+      "a68ffc70b",
+      "a30bbfb90",
+      "a5b261e6b",
+      "a2314fabd",
+      "a6db74d8f",
+      "af8519f47",
+      "a517f2063",
+      "aca512b96",
+      "a9cced9d8",
+      "a55162cf2",
+      "ae0be1bf2",
+      "ac85370a7",
+      "a40fc255c",
+      "a34b9952e",
+      "a229afd93",
+      "adc1a13e3",
+      "a8cf5579c",
+      "a2ae2603b"
+    ],
+    "l5": [
+      "aafeea710",
+      "a14082e6d",
+      "a25715bf0",
+      "a713f4681",
+      "a9e88ad9c",
+      "a61088c05",
+      "a2ff9a08b",
+      "a2edf1c74",
+      "a9e7dde9b",
+      "abb06cd26",
+      "a2eb2a5f4"
+    ],
     "l4": [
+      "a81d5afff",
+      "abdf735a3",
+      "a06c6de52",
       "adee0beda",
       "a8aca6dbe",
       "a0f6bd179",
@@ -1459,52 +1460,40 @@
       "a05837fc3",
       "ad01feb8a"
     ],
-    "l1": [
-      "ad2876850",
-      "a74700e7f",
-      "a242a8fca",
-      "a534a6210",
-      "ac6aa351d",
-      "a68ffc70b",
-      "a30bbfb90",
-      "a5b261e6b",
-      "a2314fabd",
-      "a6db74d8f",
-      "af8519f47",
-      "a517f2063",
-      "aca512b96",
-      "a9cced9d8",
-      "a55162cf2",
-      "ae0be1bf2",
-      "ac85370a7",
-      "a40fc255c",
-      "a34b9952e",
-      "a229afd93",
-      "adc1a13e3",
-      "a8cf5579c",
-      "a6bee3694",
-      "a612b9eb6",
-      "a472cb971",
-      "a94a9a29d",
-      "a5236c597",
-      "a2ae2603b"
+    "l2": [
+      "aa2335c13",
+      "a691c0c1a",
+      "a418f8df8",
+      "a14c9897b",
+      "ae6bd7123",
+      "a4083acb6",
+      "ac3088dc9",
+      "a07aa04eb",
+      "a031c5081",
+      "a20b0d0b2",
+      "a43d3ee9f",
+      "a7efe3e5d",
+      "a2b42ade4",
+      "ad728fbcd",
+      "ac9f53313",
+      "a0c4ebb65",
+      "a0b43a2bc",
+      "ab3119897",
+      "af0f189d1"
     ],
-    "l5": [
-      "a3e26ccb7",
-      "a25715bf0",
-      "a713f4681",
-      "a9e88ad9c",
-      "a61088c05",
-      "a2ff9a08b",
-      "a7ffa9c67",
-      "a729d4083",
-      "a2edf1c74",
-      "a9e7dde9b",
-      "abb06cd26",
-      "a2eb2a5f4"
+    "l3": [
+      "ae48a89b0",
+      "af3704f49",
+      "a7c48c750",
+      "a293d116c",
+      "a2f029a1f",
+      "a49229334",
+      "a7d59f20b",
+      "a0fb4f1be",
+      "a1585cbf5",
+      "a28f84720"
     ],
     "l0": [
-      "a99910a41",
       "a7236432b",
       "a95cfd5b0",
       "ad2263da4",
@@ -1524,45 +1513,14 @@
       "a253e0446",
       "a9173515c",
       "abcb7b0c4"
-    ],
-    "l3": [
-      "af3704f49",
-      "a7c48c750",
-      "a293d116c",
-      "a2f029a1f",
-      "a1d3e5d07",
-      "a49229334",
-      "a7d59f20b",
-      "a0fb4f1be",
-      "a1585cbf5",
-      "a28f84720"
-    ],
-    "l2": [
-      "a14c9897b",
-      "ae6bd7123",
-      "a4083acb6",
-      "ac3088dc9",
-      "a07aa04eb",
-      "a031c5081",
-      "a20b0d0b2",
-      "a43d3ee9f",
-      "a7efe3e5d",
-      "a2b42ade4",
-      "ad728fbcd",
-      "ac9f53313",
-      "a95a70797",
-      "a0c4ebb65",
-      "a0b43a2bc",
-      "ab3119897",
-      "af0f189d1"
     ]
   },
   "top5": [
-    "adee0beda",
-    "a8aca6dbe",
-    "a0f6bd179",
-    "a928e89c7",
-    "ad2876850"
+    "afe9fb38d",
+    "ae9af42b4",
+    "aafeea710",
+    "a81d5afff",
+    "a14082e6d"
   ],
   "layers": [
     {
@@ -1570,12 +1528,12 @@
       "num": "LAYER 4",
       "name": "交互Agent",
       "vals": [
-        28,
-        17,
-        10,
-        5,
-        20,
-        20
+        19,
+        30,
+        12,
+        33,
+        37,
+        22
       ],
       "trend": [
         20,
@@ -1588,16 +1546,38 @@
       ]
     },
     {
+      "id": "l2",
+      "num": "LAYER 2",
+      "name": "基础模型",
+      "vals": [
+        22,
+        29,
+        11,
+        5,
+        15,
+        18
+      ],
+      "trend": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ]
+    },
+    {
       "id": "l1",
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        16,
-        20,
-        12,
-        8,
-        20,
-        22
+        14,
+        31,
+        10,
+        6,
+        24,
+        20
       ],
       "trend": [
         20,
@@ -1614,12 +1594,12 @@
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        19,
+        23,
         10,
-        9,
-        6,
-        16,
-        19
+        8,
+        5,
+        31,
+        18
       ],
       "trend": [
         20,
@@ -1632,38 +1612,16 @@
       ]
     },
     {
-      "id": "l2",
-      "num": "LAYER 2",
-      "name": "基础模型",
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
       "vals": [
+        12,
         10,
+        11,
+        18,
         10,
-        17,
-        5,
-        21,
-        17
-      ],
-      "trend": [
-        20,
-        20,
-        20,
-        20,
-        20,
-        20,
-        20
-      ]
-    },
-    {
-      "id": "l5",
-      "num": "LAYER 5",
-      "name": "生态商业",
-      "vals": [
-        16,
-        17,
-        5,
-        5,
-        10,
-        12
+        14
       ],
       "trend": [
         20,
@@ -1676,16 +1634,16 @@
       ]
     },
     {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
+      "id": "l5",
+      "num": "LAYER 5",
+      "name": "生态商业",
       "vals": [
-        14,
-        13,
+        19,
+        10,
         5,
         5,
-        11,
-        14
+        10,
+        10
       ],
       "trend": [
         20,
@@ -1699,6 +1657,56 @@
     }
   ],
   "ticker": [
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-spe…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Bitcoin reward offered to anyone who could break into an unpatche…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l5)",
+      "text": "Reddit’s r/opensource bans AI-made and AI-focused projects, also …"
+    },
+    {
+      "tag": "WIRED",
+      "col": "var(--l4)",
+      "text": "Meet the AI Agents Trying to Be Real-Life Journalists"
+    },
+    {
+      "tag": "WIRED",
+      "col": "var(--l5)",
+      "text": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winn…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Tradeoff-Aware Territory Design: A Multi-Objective Decision Syste…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l4)",
+      "text": "Phronix: The Capability-Centric Learning Paradigm for Agents"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l4)",
+      "text": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "Don't Forget What You Just Learned: Self-Directed Repair Turns Ag…"
+    },
+    {
+      "tag": "ARXIV CS.",
+      "col": "var(--l2)",
+      "text": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave M…"
+    },
     {
       "tag": "THE VERGE",
       "col": "var(--l4)",
@@ -1718,93 +1726,25 @@
       "tag": "THE VERGE",
       "col": "var(--l4)",
       "text": "Zen Browser is the Arc replacement I was looking for"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l1)",
-      "text": "This Switch 2 sequel accessory was a few millimeters away from be…"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l1)",
-      "text": "AI delivers ‘zero financial payoff’ to most companies, Apollo eco…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l5)",
-      "text": "Big Tech is cashing in on AI while the rest of corporate America …"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "IQUNIX MQ80 low profile mechanical keyboard review"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "The hottest AI wearables and gadgets you should know about"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Ukrainian drone attacks hammer Russia's finance ministry data cen…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l0)",
-      "text": "Nvidia discusses $2,000-per-GPU annual fee for software that 'run…"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Jailbroken PS5s can now run Steam PC games"
-    },
-    {
-      "tag": "WIRED",
-      "col": "var(--l5)",
-      "text": "What the US Movement Against Data Centers Can Learn From Abroad"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l5)",
-      "text": "The AI graveyard: a running list of projects and startups that di…"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-      "url": "https://lynchlab.net/llm-skin-cancer",
-      "votes": "482",
-      "comments": "220",
+      "title": "Birdwatching rewires the brain and slows cognitive decline",
+      "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+      "votes": "120",
+      "comments": "45",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "url": "https://minimaxir.com/2026/10/cheap-llms/",
-      "votes": "202",
-      "comments": "230",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Making the Buddha Head from Merv Whole Again",
-      "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
-      "votes": "28",
-      "comments": "0",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "If AI displaces human workers, they will lose more than just pay",
-      "url": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
-      "votes": "7",
-      "comments": "2",
+      "title": "Behind the scenes at the NeXT Computer office",
+      "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+      "votes": "156",
+      "comments": "81",
       "time": "近期"
     },
     {
@@ -1812,17 +1752,35 @@
       "badge": "pb-hn",
       "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
       "url": "https://adrs.systems",
-      "votes": "11",
-      "comments": "8",
+      "votes": "53",
+      "comments": "30",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
-      "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
-      "votes": "33",
-      "comments": "13",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "votes": "586",
+      "comments": "250",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "votes": "354",
+      "comments": "337",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Making the Buddha Head from Merv Whole Again",
+      "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+      "votes": "56",
+      "comments": "1",
       "time": "近期"
     }
   ]
