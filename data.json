@@ -1,13 +1,65 @@
 {
-  "updated_at": "2026-11-07T05:11:06.575634+00:00",
-  "article_count": 110,
+  "updated_at": "2026-11-07T12:39:23.620684+00:00",
+  "article_count": 108,
   "articles": {
+    "a56841559": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365",
+      "src": "Tom's Hardware",
+      "time": "9分钟前",
+      "published_ts": 1794054600,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://www.tomshardware.com/software/enthusiast-abandons-self-hosted-microsoft-exchange-after-27-years-moving-mailboxes-to-microsoft-365-replaces-final-on-premises-relay-with-postfix-starttls-and-lets-encrypt-certificates",
+      "tags": [],
+      "body": "<p>A homelab enthusiast is retiring a Microsoft Exchange installation that began with Exchange 5.5 on Windows NT 4 in 1999. After migrating mailboxes to Microsoft 365, he kept Exchange 2019 running to relay local hardware and software alerts. Postfix on Ubuntu Server LTS will take over, with plans to add STARTTLS, Let's Encrypt certificates, and boot encryption</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a3fcf2e19": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "src": "The Verge",
+      "time": "9分钟前",
+      "published_ts": 1794054600,
+      "heat": "24.0K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "tags": [],
+      "body": "<p>Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a2ed7ac94": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "US FAA to eliminate floppy disks from air traffic control by 2028",
+      "src": "Tom's Hardware",
+      "time": "1小时前",
+      "published_ts": 1794049200,
+      "heat": "9.6K",
+      "views": "11.4K",
+      "url": "https://www.tomshardware.com/tech-industry/us-faa-to-eliminate-floppy-disks-from-air-traffic-control-by-2028-new-system-will-centralize-flight-alerts-restricted-airspace-schedules-and-pilot-reports",
+      "tags": [],
+      "body": "<p>The US federal Aviation Administration (FAA) is finally moving to retire floppy disks from its air traffic control infrastructure, with plans to to replace four decades-old information systems across 435 facilities by the end of 2028.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a90b60445": {
+      "layer": "l5",
+      "cat": "L5 · 生态商业",
+      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+      "src": "Wired",
+      "time": "1小时前",
+      "published_ts": 1794049200,
+      "heat": "16.5K",
+      "views": "16.5K",
+      "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+      "tags": [],
+      "body": "<p>The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "a6416714e": {
       "layer": "l5",
       "cat": "L5 · 生态商业",
       "title": "[AINews] Anthropic IPO: Whither Now?",
       "src": "Latent Space",
-      "time": "2小时前",
+      "time": "9小时前",
       "published_ts": 1794020693,
       "heat": "19.5K",
       "views": "19.5K",
@@ -20,7 +72,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Crusoe sells troubled Wyoming data center project to Google",
       "src": "TechCrunch AI",
-      "time": "3小时前",
+      "time": "10小时前",
       "published_ts": 1794015628,
       "heat": "27.0K",
       "views": "27.0K",
@@ -33,9 +85,9 @@
       "cat": "L5 · 生态商业",
       "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
       "src": "The Verge",
-      "time": "5小时前",
+      "time": "12小时前",
       "published_ts": 1794008778,
-      "heat": "24.0K",
+      "heat": "21.1K",
       "views": "24.0K",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
       "tags": [],
@@ -46,10 +98,10 @@
       "cat": "L1 · 算力硬件",
       "title": "China reportedly recruited AI exec to spy on Jensen Huang",
       "src": "The Verge",
-      "time": "6小时前",
+      "time": "13小时前",
       "published_ts": 1794006044,
-      "heat": "21.1K",
-      "views": "24.0K",
+      "heat": "18.2K",
+      "views": "21.1K",
       "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
       "tags": [],
       "body": "<p>China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -59,7 +111,7 @@
       "cat": "L5 · 生态商业",
       "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
       "src": "TechCrunch AI",
-      "time": "6小时前",
+      "time": "13小时前",
       "published_ts": 1794005626,
       "heat": "23.8K",
       "views": "27.0K",
@@ -72,7 +124,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
       "src": "Ars Technica",
-      "time": "8小时前",
+      "time": "15小时前",
       "published_ts": 1793998601,
       "heat": "18.0K",
       "views": "18.0K",
@@ -85,33 +137,20 @@
       "cat": "L4 · 交互Agent",
       "title": "All the latest updates on AI data centers",
       "src": "The Verge",
-      "time": "9小时前",
+      "time": "16小时前",
       "published_ts": 1793995342,
-      "heat": "12.5K",
-      "views": "15.4K",
+      "heat": "9.6K",
+      "views": "12.5K",
       "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
       "tags": [],
       "body": "<p>Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a50615986": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
-      "src": "The Verge",
-      "time": "9小时前",
-      "published_ts": 1793994422,
-      "heat": "9.6K",
-      "views": "12.5K",
-      "url": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale",
-      "tags": [],
-      "body": "<p>While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, including Amazon, Guitar Center, and directly from Shure. That’s almost $50 lower than its usual price, and just a few dollars [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "ad69f63c2": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
       "src": "TechCrunch AI",
-      "time": "10小时前",
+      "time": "17小时前",
       "published_ts": 1793990678,
       "heat": "20.5K",
       "views": "23.8K",
@@ -124,7 +163,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
       "src": "TechCrunch AI",
-      "time": "10小时前",
+      "time": "17小时前",
       "published_ts": 1793990660,
       "heat": "17.3K",
       "views": "20.5K",
@@ -137,9 +176,9 @@
       "cat": "L2 · 基础模型",
       "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
       "src": "Wired",
-      "time": "10小时前",
+      "time": "17小时前",
       "published_ts": 1793990623,
-      "heat": "16.5K",
+      "heat": "14.5K",
       "views": "16.5K",
       "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
       "tags": [],
@@ -150,7 +189,7 @@
       "cat": "L4 · 交互Agent",
       "title": "How a Blue Wave midterm might reshape the AI industry",
       "src": "TechCrunch AI",
-      "time": "11小时前",
+      "time": "18小时前",
       "published_ts": 1793988000,
       "heat": "14.0K",
       "views": "17.3K",
@@ -163,7 +202,7 @@
       "cat": "L4 · 交互Agent",
       "title": "After the midterms, is the AI industry in for a rough two years?",
       "src": "TechCrunch AI",
-      "time": "11小时前",
+      "time": "19小时前",
       "published_ts": 1793985832,
       "heat": "10.8K",
       "views": "14.0K",
@@ -176,7 +215,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Quoting Nilay Patel",
       "src": "Simon Willison",
-      "time": "11小时前",
+      "time": "19小时前",
       "published_ts": 1793985192,
       "heat": "15.0K",
       "views": "15.0K",
@@ -189,7 +228,7 @@
       "cat": "L1 · 算力硬件",
       "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
       "src": "NVIDIA Blog",
-      "time": "13小时前",
+      "time": "20小时前",
       "published_ts": 1793980835,
       "heat": "37.5K",
       "views": "37.5K",
@@ -202,10 +241,10 @@
       "cat": "L5 · 生态商业",
       "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
       "src": "Wired",
-      "time": "13小时前",
+      "time": "20小时前",
       "published_ts": 1793980800,
-      "heat": "14.5K",
-      "views": "16.5K",
+      "heat": "12.5K",
+      "views": "14.5K",
       "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
       "tags": [],
       "body": "<p>Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -215,72 +254,20 @@
       "cat": "L1 · 算力硬件",
       "title": "GlobalFoundries VP details FDX Fusion technology, sporting 7nm-class performance without the need for EUV tools — company targets 2030 for high-volume manufacturing, with planar transistors in tow",
       "src": "Tom's Hardware",
-      "time": "15小时前",
+      "time": "22小时前",
       "published_ts": 1793973600,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-vp-details-fdx-fusion-technology-sporting-7nm-class-performance-without-the-need-for-euv-tools-company-targets-2030-for-high-volume-manufacturing-with-planar-transistors-in-tow",
       "tags": [],
       "body": "<p>GlobalFoundries reveals new details about its FDX Fusion technology, which promises 7nm-class performance and 8nm-class logic density using planar FD-SOI transistors without EUV lithography, shares what is next for FDX Fusion node, and the FDX program in general.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a73935b5f": {
-      "layer": "l5",
-      "cat": "L5 · 生态商业",
-      "title": "Protesters storm Microsoft AI data center construction site",
-      "src": "Tom's Hardware",
-      "time": "15小时前",
-      "published_ts": 1793973549,
-      "heat": "11.4K",
-      "views": "13.2K",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/protesters-storm-microsoft-ai-data-center-construction-site-amsterdam-reportedly-first-of-85-targeted-actions-across-europe",
-      "tags": [],
-      "body": "<p>The protesters stormed over the walls and took over the construction site, with the Stop Dirty Data Centers coalition saying that more actions are planned across Europe.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a7b965dae": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Nvidia tightens tracking of AI GPUs in Southeast Asia as Chinese chip smuggling draws scrutiny, report claims",
-      "src": "Tom's Hardware",
-      "time": "15小时前",
-      "published_ts": 1793972973,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-tightens-tracking-of-ai-gpus-in-southeast-asia-as-chinese-chip-smuggling-draws-scrutiny-report-claims-cloud-providers-must-join-monitoring-program-to-qualify-for-official-partner-status",
-      "tags": [],
-      "body": "<p>Nvidia is requiring Southeast Asian cloud providers seeking Nvidia Cloud Partner status to enroll in its Fleet Intelligence tracking program, giving the chipmaker greater visibility into where its AI GPUs are deployed. The move comes as Washington increases pressure over suspected chip smuggling into China, with investigations involving Megaspeed International and Super Micro highlighting the chal</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "aabab9699": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist",
-      "src": "Tom's Hardware",
-      "time": "15小时前",
-      "published_ts": 1793972116,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://www.tomshardware.com/pc-components/gpus/six-pallets-of-nvidia-gpus-worth-usd11-4-million-stolen-in-california-cargo-heist-authorities-investigate-after-truck-posing-as-a-food-transport-company-disappears",
-      "tags": [],
-      "body": "<p>The latest incident comes amid growing concerns over GPU theft, with experts warning that advanced Nvidia chips can command significantly higher prices abroad and could end up in black-market channels.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ab9161c72": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Save 26% on this 142-piece toolkit for your PC repairs and hobbyist projects, now under $28",
-      "src": "Tom's Hardware",
-      "time": "16小时前",
-      "published_ts": 1793970000,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://www.tomshardware.com/desktops/pc-building/save-26-percent-on-this-142-piece-toolkit-for-your-pc-repairs-and-hobbyist-projects-now-under-usd28-precision-screwdriver-kit-includes-120-magnetic-bits-and-20-different-repair-tools-for-your-next-project",
-      "tags": [],
-      "body": "<p>This 142-in-1 repair toolkit from Strebito has 120 bits and a number of other tools, and right now it's just $27.99, saving you 26% overall.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a1fb8422d": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
       "title": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
       "src": "Latent Space",
-      "time": "18小时前",
+      "time": "1天前",
       "published_ts": 1793961321,
       "heat": "14.8K",
       "views": "17.2K",
@@ -293,7 +280,7 @@
       "cat": "L0 · 领袖观点",
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
       "src": "MIT Tech Review",
-      "time": "19小时前",
+      "time": "1天前",
       "published_ts": 1793959200,
       "heat": "22.5K",
       "views": "22.5K",
@@ -306,7 +293,7 @@
       "cat": "L2 · 基础模型",
       "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
       "src": "OpenAI Blog",
-      "time": "21小时前",
+      "time": "1天前",
       "published_ts": 1793952000,
       "heat": "45.0K",
       "views": "45.0K",
@@ -347,8 +334,8 @@
       "src": "Wired",
       "time": "1天前",
       "published_ts": 1793914638,
-      "heat": "12.5K",
-      "views": "14.5K",
+      "heat": "10.6K",
+      "views": "12.5K",
       "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
       "tags": [],
       "body": "<p>As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -555,31 +542,18 @@
       "src": "Wired",
       "time": "1天前",
       "published_ts": 1793887200,
-      "heat": "8.6K",
-      "views": "10.6K",
+      "heat": "6.6K",
+      "views": "8.6K",
       "url": "https://www.wired.com/story/aina-smart-ring/",
       "tags": [],
       "body": "<p>The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ab63a1d83": {
-      "layer": "l2",
-      "cat": "L2 · 基础模型",
-      "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
-      "src": "Wired",
-      "time": "1天前",
-      "published_ts": 1793883600,
-      "heat": "6.6K",
-      "views": "8.6K",
-      "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
-      "tags": [],
-      "body": "<p>Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "ae94ef1ec": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
       "src": "OpenAI Blog",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1793869200,
       "heat": "23.4K",
       "views": "28.8K",
@@ -592,7 +566,7 @@
       "cat": "L2 · 基础模型",
       "title": "Merge builds product and business tools with OpenAI technology",
       "src": "OpenAI Blog",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1793865600,
       "heat": "18.0K",
       "views": "23.4K",
@@ -605,7 +579,7 @@
       "cat": "L3 · 推理工程",
       "title": "[AINews] It's Swapping Season",
       "src": "Latent Space",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1793859849,
       "heat": "12.5K",
       "views": "14.8K",
@@ -748,7 +722,7 @@
       "cat": "L4 · 交互Agent",
       "title": "How “reverse game theory” could keep AI agents in check",
       "src": "MIT Tech Review",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1793702621,
       "heat": "14.4K",
       "views": "17.1K",
@@ -761,7 +735,7 @@
       "cat": "L2 · 基础模型",
       "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
       "src": "Latent Space",
-      "time": "3天前",
+      "time": "4天前",
       "published_ts": 1793684100,
       "heat": "7.8K",
       "views": "10.1K",
@@ -969,7 +943,7 @@
       "cat": "L3 · 推理工程",
       "title": "Building Reasoning Models from the Ground Up: A Full Video Course",
       "src": "Ahead of AI",
-      "time": "13天前",
+      "time": "14天前",
       "published_ts": 1792840472,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1021,7 +995,7 @@
       "cat": "L3 · 推理工程",
       "title": "Language Models for Text Classification: From Bag-of-Words to Jev",
       "src": "Ahead of AI",
-      "time": "38天前",
+      "time": "39天前",
       "published_ts": 1790679025,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1034,7 +1008,7 @@
       "cat": "L2 · 基础模型",
       "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
       "src": "Ahead of AI",
-      "time": "58天前",
+      "time": "59天前",
       "published_ts": 1788952465,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1060,7 +1034,7 @@
       "cat": "L2 · 基础模型",
       "title": "How Claude Watermarks AI-Generated Text",
       "src": "Ahead of AI",
-      "time": "76天前",
+      "time": "77天前",
       "published_ts": 1787397099,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1073,7 +1047,7 @@
       "cat": "L2 · 基础模型",
       "title": "Building an AI Text Detector From Scratch",
       "src": "Ahead of AI",
-      "time": "83天前",
+      "time": "84天前",
       "published_ts": 1786794864,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1099,7 +1073,7 @@
       "cat": "L3 · 推理工程",
       "title": "Controlling Reasoning Effort in LLMs",
       "src": "Ahead of AI",
-      "time": "111天前",
+      "time": "112天前",
       "published_ts": 1784373369,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1203,7 +1177,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
       "src": "SemiAnalysis",
-      "time": "424天前",
+      "time": "425天前",
       "published_ts": 1757325297,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1434,50 +1408,12 @@
     }
   },
   "by_layer": {
-    "l5": [
-      "a6416714e",
-      "a90effe41",
-      "a4fbd5678",
-      "abf51a06b",
-      "a73935b5f",
-      "a74b5d341",
-      "a5af07e67",
-      "a98aaae91",
-      "a18e4643f",
-      "a2edf1c74"
-    ],
-    "l4": [
-      "aec38d371",
-      "a79f76099",
-      "af0eea359",
-      "a50615986",
-      "ad69f63c2",
-      "a7066086b",
-      "a63450cd7",
-      "a081a8791",
-      "ac20af209",
-      "a3337ca6f",
-      "ac39a58e3",
-      "ad5d78b23",
-      "a2590fdda",
-      "aed4c86b4",
-      "ae94ef1ec",
-      "ab07539c5",
-      "a3c92086e",
-      "a02714a7c",
-      "afb2deef1",
-      "a3be15acc",
-      "a4bc5a2c8",
-      "a05837fc3",
-      "ad01feb8a"
-    ],
     "l1": [
+      "a56841559",
+      "a2ed7ac94",
       "adb16dc03",
       "a586f2707",
       "a18b17ae4",
-      "a7b965dae",
-      "aabab9699",
-      "ab9161c72",
       "a36f02cb7",
       "afbb9fd60",
       "acad7f3a6",
@@ -1499,6 +1435,43 @@
       "a5236c597",
       "a2ae2603b"
     ],
+    "l4": [
+      "a3fcf2e19",
+      "aec38d371",
+      "a79f76099",
+      "af0eea359",
+      "ad69f63c2",
+      "a7066086b",
+      "a63450cd7",
+      "a081a8791",
+      "ac20af209",
+      "a3337ca6f",
+      "ac39a58e3",
+      "ad5d78b23",
+      "a2590fdda",
+      "aed4c86b4",
+      "ae94ef1ec",
+      "ab07539c5",
+      "a3c92086e",
+      "a02714a7c",
+      "afb2deef1",
+      "a3be15acc",
+      "a4bc5a2c8",
+      "a05837fc3",
+      "ad01feb8a"
+    ],
+    "l5": [
+      "a90b60445",
+      "a6416714e",
+      "a90effe41",
+      "a4fbd5678",
+      "abf51a06b",
+      "a74b5d341",
+      "a5af07e67",
+      "a98aaae91",
+      "a18e4643f",
+      "a2edf1c74"
+    ],
     "l2": [
       "ab3379dc2",
       "a1fb8422d",
@@ -1510,7 +1483,6 @@
       "a6e92c255",
       "a76df716b",
       "a7c263e6b",
-      "ab63a1d83",
       "a394437f8",
       "abb58a483",
       "aa8cdb38c",
@@ -1558,23 +1530,23 @@
     ]
   },
   "top5": [
-    "a6416714e",
-    "aec38d371",
-    "a90effe41",
-    "adb16dc03",
-    "a4fbd5678"
+    "a56841559",
+    "a3fcf2e19",
+    "a2ed7ac94",
+    "a90b60445",
+    "a6416714e"
   ],
   "layers": [
     {
-      "id": "l2",
-      "num": "LAYER 2",
-      "name": "基础模型",
+      "id": "l1",
+      "num": "LAYER 1",
+      "name": "算力硬件",
       "vals": [
-        21,
-        27,
-        21,
+        24,
+        29,
+        11,
         7,
-        18,
+        36,
         21
       ],
       "trend": [
@@ -1588,15 +1560,81 @@
       ]
     },
     {
+      "id": "l4",
+      "num": "LAYER 4",
+      "name": "交互Agent",
+      "vals": [
+        14,
+        29,
+        10,
+        21,
+        22,
+        20
+      ],
+      "trend": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "id": "l2",
+      "num": "LAYER 2",
+      "name": "基础模型",
+      "vals": [
+        22,
+        12,
+        25,
+        7,
+        21,
+        21
+      ],
+      "trend": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
+      "vals": [
+        15,
+        10,
+        5,
+        5,
+        18,
+        14
+      ],
+      "trend": [
+        20,
+        19,
+        18,
+        17,
+        16,
+        15,
+        14
+      ]
+    },
+    {
       "id": "l0",
       "num": "LAYER 0",
       "name": "领袖观点",
       "vals": [
-        22,
-        19,
+        10,
+        12,
         7,
         5,
-        27,
+        10,
         17
       ],
       "trend": [
@@ -1610,82 +1648,16 @@
       ]
     },
     {
-      "id": "l4",
-      "num": "LAYER 4",
-      "name": "交互Agent",
-      "vals": [
-        11,
-        30,
-        10,
-        5,
-        16,
-        20
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
-    {
-      "id": "l1",
-      "num": "LAYER 1",
-      "name": "算力硬件",
-      "vals": [
-        17,
-        16,
-        11,
-        7,
-        26,
-        21
-      ],
-      "trend": [
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ]
-    },
-    {
       "id": "l5",
       "num": "LAYER 5",
       "name": "生态商业",
       "vals": [
-        17,
+        10,
         10,
         5,
         5,
-        10,
-        24
-      ],
-      "trend": [
-        20,
-        19,
-        18,
-        17,
-        16,
-        15,
-        14
-      ]
-    },
-    {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
-      "vals": [
-        10,
         14,
-        5,
-        5,
-        19,
-        14
+        22
       ],
       "trend": [
         20,
@@ -1699,6 +1671,26 @@
     }
   ],
   "ticker": [
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "Enthusiast abandons self-hosted Microsoft Exchange after 27 years…"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l4)",
+      "text": "Why a new report on Anthropic automating AI development is alarmi…"
+    },
+    {
+      "tag": "TOM'S HAR",
+      "col": "var(--l1)",
+      "text": "US FAA to eliminate floppy disks from air traffic control by 2028"
+    },
+    {
+      "tag": "WIRED",
+      "col": "var(--l5)",
+      "text": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enoug…"
+    },
     {
       "tag": "LATENT SP",
       "col": "var(--l5)",
@@ -1735,11 +1727,6 @@
       "text": "All the latest updates on AI data centers"
     },
     {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "Shure’s popular podcasting and streaming mic is almost $50 off"
-    },
-    {
       "tag": "TECHCRUNC",
       "col": "var(--l4)",
       "text": "Hundreds of Artex AI hacking tools found publicly exposed to the …"
@@ -1753,58 +1740,25 @@
       "tag": "WIRED",
       "col": "var(--l2)",
       "text": "Free Chinese AI Models Are Getting Scary Good at Hacking"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "How a Blue Wave midterm might reshape the AI industry"
-    },
-    {
-      "tag": "TECHCRUNC",
-      "col": "var(--l4)",
-      "text": "After the midterms, is the AI industry in for a rough two years?"
-    },
-    {
-      "tag": "SIMON WIL",
-      "col": "var(--l4)",
-      "text": "Quoting Nilay Patel"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
+      "title": "The Components of Agent Memory",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "votes": "68",
+      "comments": "33",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
       "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
       "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-      "votes": "305",
-      "comments": "245",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "The AI sell-off compared to well-known stock market crashes",
-      "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
-      "votes": "33",
-      "comments": "16",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "AI is dramatically accelerating AI research",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "votes": "246",
-      "comments": "194",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Restaurant Delivery Payment-Skimming Campaign",
-      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-      "votes": "106",
-      "comments": "55",
+      "votes": "352",
+      "comments": "286",
       "time": "近期"
     },
     {
@@ -1812,17 +1766,35 @@
       "badge": "pb-hn",
       "title": "GitHub's new Git storage architecture",
       "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-      "votes": "98",
-      "comments": "18",
+      "votes": "161",
+      "comments": "35",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
-      "url": "https://github.com/andrewboldi/tmux-restore",
-      "votes": "22",
-      "comments": "8",
+      "title": "Gemini Omni 1.2 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "votes": "343",
+      "comments": "233",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Restaurant Delivery Payment-Skimming Campaign",
+      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+      "votes": "131",
+      "comments": "65",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "AI is dramatically accelerating AI research",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "votes": "327",
+      "comments": "288",
       "time": "近期"
     }
   ]
