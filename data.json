@@ -1,13 +1,130 @@
 {
-  "updated_at": "2026-11-08T21:49:16.192285+00:00",
+  "updated_at": "2026-11-09T05:15:46.296093+00:00",
   "article_count": 109,
   "articles": {
+    "a9497b75d": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "src": "NVIDIA Blog",
+      "time": "14分钟前",
+      "published_ts": 1794200440,
+      "heat": "37.5K",
+      "views": "37.5K",
+      "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+      "tags": [],
+      "body": "<p>Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helping bring physical AI from development into real-world production. Samsung Advanc</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a7dac7e05": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "src": "NVIDIA Blog",
+      "time": "14分钟前",
+      "published_ts": 1794200439,
+      "heat": "33.0K",
+      "views": "37.5K",
+      "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+      "tags": [],
+      "body": "<p>As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employee productivity and enterprise workflows. A key [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ab7881878": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+      "src": "NVIDIA Blog",
+      "time": "15分钟前",
+      "published_ts": 1794200404,
+      "heat": "28.5K",
+      "views": "33.0K",
+      "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+      "tags": [],
+      "body": "<p>NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore participation in the NVIDIA NVLink Fusion ecosystem, and includes [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "afe96b01c": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+      "src": "NVIDIA Blog",
+      "time": "15分钟前",
+      "published_ts": 1794200400,
+      "heat": "24.0K",
+      "views": "28.5K",
+      "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+      "tags": [],
+      "body": "<p>NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "af59ff8d2": {
+      "layer": "l1",
+      "cat": "L1 · 算力硬件",
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "src": "Simon Willison",
+      "time": "43分钟前",
+      "published_ts": 1794198753,
+      "heat": "15.0K",
+      "views": "15.0K",
+      "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
+      "tags": [],
+      "body": "<p>My comment on The Web Is More Than Enough, by Paul Ford &mdash; Hacker News. OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (77KB) I just asked Claude (Opus 5.5 Medium running in regular Claude Chat) to port that to Vanilla JS, in the same thread whe</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ae7bb20bd": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "Hide your slop PR descriptions behind <details><summary>",
+      "src": "Simon Willison",
+      "time": "50分钟前",
+      "published_ts": 1794198305,
+      "heat": "13.2K",
+      "views": "15.0K",
+      "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
+      "tags": [],
+      "body": "<p>Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished result. Today's coding agents are great at writing PR descriptions. They're too good at describing the work The problem is </p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "ad2fc5034": {
+      "layer": "l0",
+      "cat": "L0 · 领袖观点",
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "src": "The Verge",
+      "time": "6小时前",
+      "published_ts": 1794178490,
+      "heat": "24.0K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "tags": [],
+      "body": "<p>On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a122bf748": {
+      "layer": "l4",
+      "cat": "L4 · 交互Agent",
+      "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+      "src": "The Verge",
+      "time": "6小时前",
+      "published_ts": 1794177442,
+      "heat": "21.1K",
+      "views": "24.0K",
+      "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
+      "tags": [],
+      "body": "<p>Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - Diaspora Problems. [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
+    "a6215c494": {
+      "layer": "l2",
+      "cat": "L2 · 基础模型",
+      "title": "parse_number() as a SQLite extension: C vs Rust",
+      "src": "Simon Willison",
+      "time": "6小时前",
+      "published_ts": 1794176760,
+      "heat": "11.4K",
+      "views": "13.2K",
+      "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+      "tags": [],
+      "body": "<p>Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.56 or '12.5%' into numeric values that could be summed and sorted. I fired up regular Claude chat (Opus 5.5) and prompted : I'm thinking about a SQLite custom fu</p><p>点击下方「查看原文」阅读完整内容。</p>"
+    },
     "afbbc9a75": {
       "layer": "l3",
       "cat": "L3 · 推理工程",
       "title": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
       "src": "Latent Space",
-      "time": "7分钟前",
+      "time": "7小时前",
       "published_ts": 1794174104,
       "heat": "19.5K",
       "views": "19.5K",
@@ -20,20 +137,20 @@
       "cat": "L0 · 领袖观点",
       "title": "Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy",
       "src": "Tom's Hardware",
-      "time": "21分钟前",
+      "time": "7小时前",
       "published_ts": 1794173249,
       "heat": "15.0K",
       "views": "15.0K",
       "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-jensen-huang-admits-to-having-an-affair-with-suspected-chinese-spy-jensen-apologizes-in-letter-to-staff-company-board-forms-independent-committee-to-investigate",
       "tags": [],
-      "body": "<p>Nvidia's board of directors is investigating the report about Jensen Huang's alleged affair with a client, claims its confidence in Jensen and leadership team.</p><p>点击下方「查看原文」阅读完整内容。</p>"
+      "body": "<p>Nvidia's board of directors is investigating a report about Jensen Huang's alleged affair with a client, claims it is still confident in Jensen and leadership team.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a790ddde0": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
       "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
       "src": "Latent Space",
-      "time": "25分钟前",
+      "time": "7小时前",
       "published_ts": 1794173009,
       "heat": "17.2K",
       "views": "19.5K",
@@ -46,7 +163,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
       "src": "TechCrunch AI",
-      "time": "49分钟前",
+      "time": "8小时前",
       "published_ts": 1794171611,
       "heat": "27.0K",
       "views": "27.0K",
@@ -59,10 +176,10 @@
       "cat": "L4 · 交互Agent",
       "title": "Epic Games Launcher is coming to SteamOS",
       "src": "The Verge",
-      "time": "57分钟前",
+      "time": "8小时前",
       "published_ts": 1794171125,
-      "heat": "24.0K",
-      "views": "24.0K",
+      "heat": "18.2K",
+      "views": "21.1K",
       "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
       "tags": [],
       "body": "<p>In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibility, along with a handful of other distros, to GamingOnLinux. In response [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -72,10 +189,10 @@
       "cat": "L0 · 领袖观点",
       "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
       "src": "The Verge",
-      "time": "1小时前",
+      "time": "8小时前",
       "published_ts": 1794169359,
-      "heat": "21.1K",
-      "views": "24.0K",
+      "heat": "15.4K",
+      "views": "18.2K",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
       "tags": [],
       "body": "<p>Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -85,10 +202,10 @@
       "cat": "L0 · 领袖观点",
       "title": "Apple is racing to make Siri more agentic",
       "src": "The Verge",
-      "time": "2小时前",
+      "time": "9小时前",
       "published_ts": 1794165499,
-      "heat": "18.2K",
-      "views": "21.1K",
+      "heat": "12.5K",
+      "views": "15.4K",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
       "tags": [],
       "body": "<p>Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -98,33 +215,20 @@
       "cat": "L5 · 生态商业",
       "title": "Elvis and Eminem rights holders are suing Suno",
       "src": "The Verge",
-      "time": "4小时前",
+      "time": "11小时前",
       "published_ts": 1794158599,
-      "heat": "15.4K",
-      "views": "18.2K",
+      "heat": "9.6K",
+      "views": "12.5K",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
       "tags": [],
       "body": "<p>Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "ac2927ee0": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
-      "src": "The Verge",
-      "time": "5小时前",
-      "published_ts": 1794153600,
-      "heat": "12.5K",
-      "views": "15.4K",
-      "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
-      "tags": [],
-      "body": "<p>The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which features Apple’s M5 processor, 16GB of RAM, and 512GB of storage — often sold for around $950 to $1,000 shortly after [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a9114a03f": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "Diamond Foundry creates world's first 200mm single-crystal diamond wafer",
       "src": "Tom's Hardware",
-      "time": "6小时前",
+      "time": "13小时前",
       "published_ts": 1794151500,
       "heat": "13.2K",
       "views": "15.0K",
@@ -132,25 +236,12 @@
       "tags": [],
       "body": "<p>This 200mm single-crystal diamond wafer is designed to efficiently remove heat and prevent hotspots from forming on AI processors.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a3875090e": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "Chatbots might be coming to Apple’s HomeView",
-      "src": "The Verge",
-      "time": "6小时前",
-      "published_ts": 1794150030,
-      "heat": "9.6K",
-      "views": "12.5K",
-      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
-      "tags": [],
-      "body": "<p>Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could be added to [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a914dff86": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
       "title": "Logitech G502 X Lightspeed Review: No lights, same price",
       "src": "Tom's Hardware",
-      "time": "6小时前",
+      "time": "14小时前",
       "published_ts": 1794150000,
       "heat": "11.4K",
       "views": "13.2K",
@@ -163,7 +254,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Ukraine builds combat robots to hunt Russian troops in underground gas pipelines",
       "src": "Tom's Hardware",
-      "time": "7小时前",
+      "time": "14小时前",
       "published_ts": 1794148599,
       "heat": "6.0K",
       "views": "7.8K",
@@ -176,7 +267,7 @@
       "cat": "L5 · 生态商业",
       "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
       "src": "Wired",
-      "time": "9小时前",
+      "time": "17小时前",
       "published_ts": 1794139200,
       "heat": "16.5K",
       "views": "16.5K",
@@ -189,7 +280,7 @@
       "cat": "L5 · 生态商业",
       "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
       "src": "Wired",
-      "time": "11小时前",
+      "time": "19小时前",
       "published_ts": 1794132000,
       "heat": "14.5K",
       "views": "16.5K",
@@ -228,7 +319,7 @@
       "cat": "L5 · 生态商业",
       "title": "[AINews] Anthropic IPO: Whither Now?",
       "src": "Latent Space",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1794020693,
       "heat": "14.8K",
       "views": "17.2K",
@@ -241,7 +332,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Crusoe sells troubled Wyoming data center project to Google",
       "src": "TechCrunch AI",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1794015628,
       "heat": "17.3K",
       "views": "20.5K",
@@ -254,7 +345,7 @@
       "cat": "L5 · 生态商业",
       "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
       "src": "TechCrunch AI",
-      "time": "1天前",
+      "time": "2天前",
       "published_ts": 1794005626,
       "heat": "14.0K",
       "views": "17.3K",
@@ -308,8 +399,8 @@
       "src": "Simon Willison",
       "time": "2天前",
       "published_ts": 1793985192,
-      "heat": "13.2K",
-      "views": "15.0K",
+      "heat": "6.0K",
+      "views": "7.8K",
       "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
       "tags": [],
       "body": "<p>The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It's not worth it. It just isn't worth it to anyone. And agents aren't real and they might not be being used the way that anyone wants them to yet. All these companies a</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -321,8 +412,8 @@
       "src": "NVIDIA Blog",
       "time": "2天前",
       "published_ts": 1793980835,
-      "heat": "37.5K",
-      "views": "37.5K",
+      "heat": "19.5K",
+      "views": "24.0K",
       "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
       "tags": [],
       "body": "<p>A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -384,7 +475,7 @@
       "cat": "L2 · 基础模型",
       "title": "Measuring how AI agents handle everyday wet-lab science",
       "src": "OpenAI Blog",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1793923200,
       "heat": "39.6K",
       "views": "45.0K",
@@ -397,7 +488,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
       "src": "Ars Technica",
-      "time": "2天前",
+      "time": "3天前",
       "published_ts": 1793920176,
       "heat": "15.8K",
       "views": "18.0K",
@@ -438,8 +529,8 @@
       "src": "NVIDIA Blog",
       "time": "3天前",
       "published_ts": 1793908841,
-      "heat": "33.0K",
-      "views": "37.5K",
+      "heat": "15.0K",
+      "views": "19.5K",
       "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
       "tags": [],
       "body": "<p>AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task. As businesses put more agents to work, AI factories need CPUs that can execute those [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
@@ -483,19 +574,6 @@
       "tags": [],
       "body": "<p>The Crime and Policing Act, which goes into force on November 6, criminalizes possessing or publishing strangulation or suffocation porn, as well as some types of \"close familial relatives\" roleplay.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "acad7f3a6": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "src": "NVIDIA Blog",
-      "time": "3天前",
-      "published_ts": 1793898035,
-      "heat": "28.5K",
-      "views": "33.0K",
-      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-      "tags": [],
-      "body": "<p>Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through [&#8</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a2590fdda": {
       "layer": "l4",
       "cat": "L4 · 交互Agent",
@@ -535,32 +613,6 @@
       "tags": [],
       "body": "<p>Turn your sketches into functional apps using Gemini. Upload your drawings to the Canvas tool to generate and refine code instantly. Try it now.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "a76cce4bc": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
-      "src": "NVIDIA Blog",
-      "time": "3天前",
-      "published_ts": 1793894405,
-      "heat": "24.0K",
-      "views": "28.5K",
-      "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
-      "tags": [],
-      "body": "<p>Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language models (LLMs) practical for working developers. [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "acebf9831": {
-      "layer": "l1",
-      "cat": "L1 · 算力硬件",
-      "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
-      "src": "NVIDIA Blog",
-      "time": "3天前",
-      "published_ts": 1793894400,
-      "heat": "19.5K",
-      "views": "24.0K",
-      "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
-      "tags": [],
-      "body": "<p>Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term. NVIDIA works closely with memory partners to rapidly adopt the latest memory technologies. NVIDIA was first to adopt HBM3e and HBM4 technologies into an accelerated computing stack. [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a76df716b": {
       "layer": "l2",
       "cat": "L2 · 基础模型",
@@ -573,19 +625,6 @@
       "url": "https://spectrum.ieee.org/ai-watermark-openai-textgrain-europe",
       "tags": [],
       "body": "<p>The European Union now requires AI-generated text to be watermarked so that it can be identified as such. But tests on OpenAI’s new textGrain watermark, released in October and developed to comply with the new E.U. law , show that these watermarks often do not survive additional editing of the text or when it’s under 150 words. With no clear legal benchmark for how well watermarks should work, it’</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a7adb6f0f": {
-      "layer": "l0",
-      "cat": "L0 · 领袖观点",
-      "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
-      "src": "NVIDIA Blog",
-      "time": "3天前",
-      "published_ts": 1793887234,
-      "heat": "15.0K",
-      "views": "19.5K",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
-      "tags": [],
-      "body": "<p>Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment’s World of Warcraft: Forever also opens a new chapter in Azeroth, with a launch-week access reward available for GeForce NOW members. Meanwhile, Ubisoft brings fresh challenges with expansions [&#8230;]</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a7c263e6b": {
       "layer": "l2",
@@ -665,19 +704,6 @@
       "tags": [],
       "body": "<p>Our first open model economy research note for paid subscribers.</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
-    "ab07539c5": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "datasette-llm 0.1a10",
-      "src": "Simon Willison",
-      "time": "4天前",
-      "published_ts": 1793805962,
-      "heat": "9.6K",
-      "views": "11.4K",
-      "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
-      "tags": [],
-      "body": "<p>Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
     "a085f249c": {
       "layer": "l1",
       "cat": "L1 · 算力硬件",
@@ -690,32 +716,6 @@
       "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
       "tags": [],
       "body": "<p>A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s&#8230;</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a3c92086e": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "datasette-apps 0.3a0",
-      "src": "Simon Willison",
-      "time": "4天前",
-      "published_ts": 1793752176,
-      "heat": "7.8K",
-      "views": "9.6K",
-      "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
-      "tags": [],
-      "body": "<p>Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it's easier to create them using LLMs via Datasette Agent . This release improves that integration: Apps can now be tagged in Datasette Agent chat messages by typing # , which autocompletes from the apps the user has permission to view. N</p><p>点击下方「查看原文」阅读完整内容。</p>"
-    },
-    "a02714a7c": {
-      "layer": "l4",
-      "cat": "L4 · 交互Agent",
-      "title": "datasette-agent 0.5a0",
-      "src": "Simon Willison",
-      "time": "4天前",
-      "published_ts": 1793747625,
-      "heat": "6.0K",
-      "views": "7.8K",
-      "url": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
-      "tags": [],
-      "body": "<p>Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent . The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a table or query page. When combined with datasette-apps this means you can prompt a database-backed app into existence and then modify it from the chat that sits next to that app. You</p><p>点击下方「查看原文」阅读完整内容。</p>"
     },
     "a3357f1e1": {
       "layer": "l3",
@@ -761,7 +761,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
       "src": "MIT Tech Review",
-      "time": "5天前",
+      "time": "6天前",
       "published_ts": 1793679527,
       "heat": "11.7K",
       "views": "14.4K",
@@ -1034,7 +1034,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Agency and Agents",
       "src": "One Useful Thing",
-      "time": "69天前",
+      "time": "70天前",
       "published_ts": 1788135875,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1099,7 +1099,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Harness Engineering for Self-Improvement",
       "src": "Lilian Weng",
-      "time": "127天前",
+      "time": "128天前",
       "published_ts": 1783123200,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1112,7 +1112,7 @@
       "cat": "L2 · 基础模型",
       "title": "Scaling Laws, Carefully",
       "src": "Lilian Weng",
-      "time": "137天前",
+      "time": "138天前",
       "published_ts": 1782259200,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1125,7 +1125,7 @@
       "cat": "L0 · 领袖观点",
       "title": "After Orthogonality: Virtue-Ethical Agency and AI Alignment",
       "src": "The Gradient",
-      "time": "262天前",
+      "time": "263天前",
       "published_ts": 1771457152,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1216,7 +1216,7 @@
       "cat": "L1 · 算力硬件",
       "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
       "src": "SemiAnalysis",
-      "time": "445天前",
+      "time": "446天前",
       "published_ts": 1755665795,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1229,7 +1229,7 @@
       "cat": "L2 · 基础模型",
       "title": "GPT-5 Set the Stage for Ad Monetization and the SuperApp",
       "src": "SemiAnalysis",
-      "time": "452天前",
+      "time": "453天前",
       "published_ts": 1755044834,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1255,7 +1255,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Why We Think",
       "src": "Lilian Weng",
-      "time": "556天前",
+      "time": "557天前",
       "published_ts": 1746057600,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1268,7 +1268,7 @@
       "cat": "L2 · 基础模型",
       "title": "Common pitfalls when building generative AI applications",
       "src": "Chip Huyen",
-      "time": "661天前",
+      "time": "662天前",
       "published_ts": 1736985600,
       "heat": "15.0K",
       "views": "15.0K",
@@ -1281,7 +1281,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Agents",
       "src": "Chip Huyen",
-      "time": "670天前",
+      "time": "671天前",
       "published_ts": 1736208000,
       "heat": "13.2K",
       "views": "15.0K",
@@ -1294,7 +1294,7 @@
       "cat": "L4 · 交互Agent",
       "title": "Reward Hacking in Reinforcement Learning",
       "src": "Lilian Weng",
-      "time": "710天前",
+      "time": "711天前",
       "published_ts": 1732752000,
       "heat": "9.6K",
       "views": "11.4K",
@@ -1346,7 +1346,7 @@
       "cat": "L3 · 推理工程",
       "title": "Building A Generative AI Platform",
       "src": "Chip Huyen",
-      "time": "836天前",
+      "time": "837天前",
       "published_ts": 1721865600,
       "heat": "11.4K",
       "views": "13.2K",
@@ -1359,7 +1359,7 @@
       "cat": "L1 · 算力硬件",
       "title": "Extrinsic Hallucinations in LLMs",
       "src": "Lilian Weng",
-      "time": "854天前",
+      "time": "855天前",
       "published_ts": 1720310400,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1385,7 +1385,7 @@
       "cat": "L0 · 领袖观点",
       "title": "Diffusion Models for Video Generation",
       "src": "Lilian Weng",
-      "time": "940天前",
+      "time": "941天前",
       "published_ts": 1712880000,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1398,7 +1398,7 @@
       "cat": "L0 · 领袖观点",
       "title": "What I learned from looking at 900 most popular open source AI tools",
       "src": "Chip Huyen",
-      "time": "969天前",
+      "time": "970天前",
       "published_ts": 1710374400,
       "heat": "7.8K",
       "views": "9.6K",
@@ -1411,7 +1411,7 @@
       "cat": "L2 · 基础模型",
       "title": "Predictive Human Preference: From Model Ranking to Model Routing",
       "src": "Chip Huyen",
-      "time": "984天前",
+      "time": "985天前",
       "published_ts": 1709078400,
       "heat": "6.0K",
       "views": "7.8K",
@@ -1421,75 +1421,12 @@
     }
   },
   "by_layer": {
-    "l3": [
-      "afbbc9a75",
-      "af4e313f4",
-      "aae1b1fdb",
-      "a3357f1e1",
-      "ad3216521",
-      "af3704f49",
-      "a7d59f20b",
-      "a1585cbf5",
-      "a28f84720"
-    ],
-    "l0": [
-      "ae36f896e",
-      "a679cb85c",
-      "aef972e9c",
-      "a849e2bd9",
-      "a3cc40dc9",
-      "a7adb6f0f",
-      "ae9ab8f89",
-      "adccef660",
-      "ae1d2f052",
-      "a0a86adb8",
-      "aa27891e5",
-      "a57fda39f",
-      "a040f39c9",
-      "a0ab4dd7d",
-      "a375099f0",
-      "a6a5b4a81",
-      "a253e0446",
-      "a9173515c",
-      "abcb7b0c4"
-    ],
-    "l4": [
-      "a790ddde0",
-      "a22a8ebf4",
-      "ac2927ee0",
-      "a3875090e",
-      "aec38d371",
-      "a79f76099",
-      "ad69f63c2",
-      "ac20af209",
-      "a3337ca6f",
-      "ac39a58e3",
-      "ad5d78b23",
-      "a2590fdda",
-      "ae94ef1ec",
-      "ab07539c5",
-      "a3c92086e",
-      "a02714a7c",
-      "afb2deef1",
-      "a3be15acc",
-      "a4bc5a2c8",
-      "a05837fc3",
-      "ad01feb8a"
-    ],
-    "l5": [
-      "aa8f1d310",
-      "a567c187d",
-      "ab4c0dfac",
-      "a90b60445",
-      "a6416714e",
-      "a4fbd5678",
-      "abf51a06b",
-      "a5af07e67",
-      "a98aaae91",
-      "a18e4643f",
-      "a2edf1c74"
-    ],
     "l1": [
+      "a9497b75d",
+      "a7dac7e05",
+      "ab7881878",
+      "afe96b01c",
+      "af59ff8d2",
       "a9114a03f",
       "a914dff86",
       "a7ad14bfb",
@@ -1497,9 +1434,6 @@
       "a586f2707",
       "a36f02cb7",
       "afbb9fd60",
-      "acad7f3a6",
-      "a76cce4bc",
-      "acebf9831",
       "a085f249c",
       "a52915b7e",
       "a4d09d470",
@@ -1517,6 +1451,8 @@
       "a2ae2603b"
     ],
     "l2": [
+      "ae7bb20bd",
+      "a6215c494",
       "ab3379dc2",
       "a1fb8422d",
       "a255f5775",
@@ -1541,14 +1477,78 @@
       "a0b43a2bc",
       "ab3119897",
       "af0f189d1"
+    ],
+    "l0": [
+      "ad2fc5034",
+      "ae36f896e",
+      "a679cb85c",
+      "aef972e9c",
+      "a849e2bd9",
+      "a3cc40dc9",
+      "ae9ab8f89",
+      "adccef660",
+      "ae1d2f052",
+      "a0a86adb8",
+      "aa27891e5",
+      "a57fda39f",
+      "a040f39c9",
+      "a0ab4dd7d",
+      "a375099f0",
+      "a6a5b4a81",
+      "a253e0446",
+      "a9173515c",
+      "abcb7b0c4"
+    ],
+    "l4": [
+      "a122bf748",
+      "a790ddde0",
+      "a22a8ebf4",
+      "aec38d371",
+      "a79f76099",
+      "ad69f63c2",
+      "ac20af209",
+      "a3337ca6f",
+      "ac39a58e3",
+      "ad5d78b23",
+      "a2590fdda",
+      "ae94ef1ec",
+      "afb2deef1",
+      "a3be15acc",
+      "a4bc5a2c8",
+      "a05837fc3",
+      "ad01feb8a"
+    ],
+    "l3": [
+      "afbbc9a75",
+      "af4e313f4",
+      "aae1b1fdb",
+      "a3357f1e1",
+      "ad3216521",
+      "af3704f49",
+      "a7d59f20b",
+      "a1585cbf5",
+      "a28f84720"
+    ],
+    "l5": [
+      "aa8f1d310",
+      "a567c187d",
+      "ab4c0dfac",
+      "a90b60445",
+      "a6416714e",
+      "a4fbd5678",
+      "abf51a06b",
+      "a5af07e67",
+      "a98aaae91",
+      "a18e4643f",
+      "a2edf1c74"
     ]
   },
   "top5": [
-    "afbbc9a75",
-    "ae36f896e",
-    "a790ddde0",
-    "a679cb85c",
-    "a22a8ebf4"
+    "a9497b75d",
+    "a7dac7e05",
+    "ab7881878",
+    "afe96b01c",
+    "af59ff8d2"
   ],
   "layers": [
     {
@@ -1556,11 +1556,11 @@
       "num": "LAYER 2",
       "name": "基础模型",
       "vals": [
-        22,
-        13,
-        20,
+        26,
+        35,
+        5,
         7,
-        29,
+        20,
         21
       ],
       "trend": [
@@ -1578,12 +1578,12 @@
       "num": "LAYER 1",
       "name": "算力硬件",
       "vals": [
-        20,
-        23,
-        11,
-        7,
-        25,
-        21
+        26,
+        18,
+        12,
+        8,
+        28,
+        22
       ],
       "trend": [
         20,
@@ -1596,16 +1596,16 @@
       ]
     },
     {
-      "id": "l4",
-      "num": "LAYER 4",
-      "name": "交互Agent",
+      "id": "l0",
+      "num": "LAYER 0",
+      "name": "领袖观点",
       "vals": [
-        10,
-        24,
-        9,
-        6,
-        19,
-        19
+        20,
+        16,
+        8,
+        5,
+        12,
+        18
       ],
       "trend": [
         20,
@@ -1618,16 +1618,38 @@
       ]
     },
     {
-      "id": "l0",
-      "num": "LAYER 0",
-      "name": "领袖观点",
+      "id": "l3",
+      "num": "LAYER 3",
+      "name": "推理工程",
       "vals": [
+        14,
+        15,
+        6,
+        14,
         10,
+        14
+      ],
+      "trend": [
         20,
-        8,
+        19,
+        18,
+        17,
+        16,
+        15,
+        14
+      ]
+    },
+    {
+      "id": "l4",
+      "num": "LAYER 4",
+      "name": "交互Agent",
+      "vals": [
+        13,
+        10,
+        7,
         5,
-        30,
-        18
+        16,
+        17
       ],
       "trend": [
         20,
@@ -1644,34 +1666,12 @@
       "num": "LAYER 5",
       "name": "生态商业",
       "vals": [
+        11,
         10,
-        21,
         5,
         5,
-        10,
-        12
-      ],
-      "trend": [
-        20,
-        19,
-        18,
-        17,
         16,
-        15,
-        14
-      ]
-    },
-    {
-      "id": "l3",
-      "num": "LAYER 3",
-      "name": "推理工程",
-      "vals": [
-        16,
-        10,
-        9,
-        5,
-        10,
-        14
+        13
       ],
       "trend": [
         20,
@@ -1685,6 +1685,51 @@
     }
   ],
   "ticker": [
+    {
+      "tag": "NVIDIA BL",
+      "col": "var(--l1)",
+      "text": "Korea Advances Physical AI Across Industries With NVIDIA"
+    },
+    {
+      "tag": "NVIDIA BL",
+      "col": "var(--l1)",
+      "text": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA"
+    },
+    {
+      "tag": "NVIDIA BL",
+      "col": "var(--l1)",
+      "text": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collab…"
+    },
+    {
+      "tag": "NVIDIA BL",
+      "col": "var(--l1)",
+      "text": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Produc…"
+    },
+    {
+      "tag": "SIMON WIL",
+      "col": "var(--l1)",
+      "text": "The Web Is More Than Enough, by Paul Ford"
+    },
+    {
+      "tag": "SIMON WIL",
+      "col": "var(--l2)",
+      "text": "Hide your slop PR descriptions behind <details><summary>"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l0)",
+      "text": "Here’s the full text of Jensen Huang’s memo to Nvidia"
+    },
+    {
+      "tag": "THE VERGE",
+      "col": "var(--l4)",
+      "text": "Soul Glo’s Diaspora Problems is a hardcore record like no other"
+    },
+    {
+      "tag": "SIMON WIL",
+      "col": "var(--l2)",
+      "text": "parse_number() as a SQLite extension: C vs Rust"
+    },
     {
       "tag": "LATENT SP",
       "col": "var(--l3)",
@@ -1709,70 +1754,43 @@
       "tag": "THE VERGE",
       "col": "var(--l4)",
       "text": "Epic Games Launcher is coming to SteamOS"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l0)",
-      "text": "Nvidia is investigating Jensen Huang’s relationship with a Chines…"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l0)",
-      "text": "Apple is racing to make Siri more agentic"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l5)",
-      "text": "Elvis and Eminem rights holders are suing Suno"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "Apple’s M5 MacBook Air is down to its lowest price since July"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Diamond Foundry creates world's first 200mm single-crystal diamon…"
-    },
-    {
-      "tag": "THE VERGE",
-      "col": "var(--l4)",
-      "text": "Chatbots might be coming to Apple’s HomeView"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Logitech G502 X Lightspeed Review: No lights, same price"
-    },
-    {
-      "tag": "TOM'S HAR",
-      "col": "var(--l1)",
-      "text": "Ukraine builds combat robots to hunt Russian troops in undergroun…"
-    },
-    {
-      "tag": "WIRED",
-      "col": "var(--l5)",
-      "text": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Act…"
     }
   ],
   "community": [
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "votes": "429",
-      "comments": "265",
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "url": "https://ketchup3d.github.io/app/",
+      "votes": "329",
+      "comments": "91",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
-      "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
-      "votes": "163",
-      "comments": "56",
+      "title": "A Critique of GPUI",
+      "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
+      "votes": "30",
+      "comments": "6",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "Outlook.com is rejecting email from domains without DMARC",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "votes": "319",
+      "comments": "225",
+      "time": "近期"
+    },
+    {
+      "platform": "HN",
+      "badge": "pb-hn",
+      "title": "I'm not convinced the AI bubble exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "votes": "112",
+      "comments": "148",
       "time": "近期"
     },
     {
@@ -1780,35 +1798,17 @@
       "badge": "pb-hn",
       "title": "Declarative Dragging",
       "url": "https://declarative-dragging.github.io/",
-      "votes": "168",
-      "comments": "14",
+      "votes": "434",
+      "comments": "54",
       "time": "近期"
     },
     {
       "platform": "HN",
       "badge": "pb-hn",
-      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
-      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-      "votes": "117",
-      "comments": "98",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "How I Fight AI Brain Fry",
-      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-      "votes": "91",
-      "comments": "70",
-      "time": "近期"
-    },
-    {
-      "platform": "HN",
-      "badge": "pb-hn",
-      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "url": "https://github.com/synchopate/llama-modchip",
-      "votes": "313",
-      "comments": "118",
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "votes": "453",
+      "comments": "490",
       "time": "近期"
     }
   ]
